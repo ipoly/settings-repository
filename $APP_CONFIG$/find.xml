@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.coffee,*.less</mask>
+      <mask>*.coffee,*.less,*.jade</mask>
+      <mask>*.coffee,*.jade</mask>
+      <mask>*.coffee, *.jade</mask>
+      <mask>*.cade</mask>
+      <mask>*.jade</mask>
+      <mask>*.less</mask>
+      <mask>*.coffee</mask>
+    </recentFileMasks>
+  </component>
+</application>

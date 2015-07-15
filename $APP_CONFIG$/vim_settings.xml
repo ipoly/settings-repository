@@ -1768,12 +1768,12 @@
         <mark key="." line="0" column="60" />
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" timestamp="1436942841018">
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" timestamp="1436948196561">
         <mark key="'" line="41" column="10" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="[" line="5" column="23" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="43" column="14" />
+        <mark key="[" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/family/main.coffee" timestamp="1433325129574">
         <mark key="]" line="51" column="32" />
@@ -2303,11 +2303,12 @@
         <mark key="." line="40" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" timestamp="1436942960196">
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="[" line="10" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" timestamp="1436948336325">
+        <mark key="'" line="41" column="8" />
+        <mark key="]" line="63" column="23" />
+        <mark key="^" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+        <mark key="[" line="61" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/less/tabs.less" timestamp="1434512607062">
         <mark key="]" line="36" column="17" />
@@ -2574,12 +2575,12 @@
         <mark key="." line="16" column="36" />
         <mark key="[" line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.less" timestamp="1436511214247">
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.less" timestamp="1436947209310">
         <mark key="'" line="213" column="3" />
-        <mark key="]" line="108" column="25" />
+        <mark key="]" line="211" column="2" />
         <mark key="^" line="108" column="25" />
         <mark key="." line="108" column="25" />
-        <mark key="[" line="108" column="16" />
+        <mark key="[" line="203" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/sessionStorageService.coffee" timestamp="1432611494914">
         <mark key="]" line="7" column="24" />
@@ -2763,10 +2764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="12" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
-      <jump line="208" column="72" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
-      <jump line="220" column="72" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
-      <jump line="223" column="47" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
       <jump line="18" column="20" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
       <jump line="28" column="20" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
       <jump line="37" column="20" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
@@ -2863,49 +2860,53 @@
       <jump line="2" column="4" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" />
       <jump line="41" column="10" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" />
       <jump line="38" column="10" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" />
+      <jump line="28" column="26" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" />
+      <jump line="36" column="34" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" />
+      <jump line="1" column="2" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" />
+      <jump line="38" column="8" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlIHsKICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>mail</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="2" type="4">
-        <text>mail</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlIHsKICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4LWJhc2lzOiA0MHB4Owo=</text>
+        <text encoding="base64">ICBwcmUgewogICAgYm9yZGVyOiBub25lOwogICAgY29sb3I6ICMzMzM7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsKICAgIHBhZGRpbmc6IDA7CiAgICBmb250LWZhbWlseTogQGZvbnQtZmFtaWx5LXNhbnMtc2VyaWY7CiAgICBmb250LXNpemU6IEBmb250LXNpemUtYmlnOwogICAgbGluZS1oZWlnaHQ6IDEuODsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>100px</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>default</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgID4gc2VjdGlvbiB7CiAgICAgIG1hcmdpbi10b3A6IDMwcHg7CiAgICAgIHBhZGRpbmc6IDIwcHggNDBweDsKICAgICAgPiBkaXYgewogICAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgICAgPiA6Zmlyc3QtY2hpbGQgewogICAgICAgICAgd2lkdGg6IDMyMHB4OwogICAgICAgICAgc21hbGwgewogICAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGgxIHsKICAgICAgICAgIGZvbnQtc2l6ZTogQGZvbnQtc2l6ZS1oNDsKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>-grow</text>
+        <text>*</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>

@@ -1768,12 +1768,12 @@
         <mark key="." line="0" column="60" />
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" timestamp="1436934063584">
-        <mark key="'" line="38" column="10" />
-        <mark key="]" line="43" column="12" />
-        <mark key="^" line="37" column="10" />
-        <mark key="." line="43" column="12" />
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" timestamp="1436942841018">
+        <mark key="'" line="41" column="10" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="[" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/family/main.coffee" timestamp="1433325129574">
         <mark key="]" line="51" column="32" />
@@ -2302,6 +2302,12 @@
         <mark key="]" line="8" column="26" />
         <mark key="." line="40" column="0" />
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" timestamp="1436942960196">
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="[" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/less/tabs.less" timestamp="1434512607062">
         <mark key="]" line="36" column="17" />
@@ -2859,47 +2865,47 @@
       <jump line="38" column="10" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-grow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>-grow</text>
+        <text>mail</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4LWJhc2lzOiA0MHB4Owo=</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4LXNocmluazogMDsK</text>
+      <register name="2" type="4">
+        <text>mail</text>
       </register>
-      <register name="1" type="4">
-        <text>-grow</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmbGV4LWJhc2lzOiA0MHB4Owo=</text>
       </register>
-      <register name="7" type="4">
-        <text>40px</text>
+      <register name="7" type="2">
+        <text encoding="base64">IGMK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwogICAgICAgIHRleHQtb3ZlcmZsb3c6IGVsbGlwc2lzOwo=</text>
+      <register name="6" type="4">
+        <text>100px</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4LWJhc2lzOiA0MHB4Owo=</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4LXNocmluazogMDsK</text>
+      <register name="4" type="4">
+        <text>default</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>shrink</text>
+        <text>-grow</text>
       </register>
       <register name="8" type="4">
-        <text>basis</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

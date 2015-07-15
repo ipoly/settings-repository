@@ -138,6 +138,12 @@
         <mark key="." line="51" column="0" />
         <mark key="[" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/JobCategories.coffee" timestamp="1436952711184">
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="[" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/insurance/insurance-pannels/card-panel-ltc.jade" timestamp="1433857627861">
         <mark key="]" line="27" column="43" />
         <mark key="^" line="27" column="42" />
@@ -297,6 +303,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/job-categories.coffee" timestamp="1436953094158">
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="[" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" timestamp="1435110811222">
         <mark key="'" line="89" column="129" />
@@ -2407,11 +2419,11 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.coffee" timestamp="1436949591915">
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="[" line="26" column="18" />
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.coffee" timestamp="1436952854553">
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="[" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/investment/style-and-sector/main.less" timestamp="1422956219215">
         <mark key="]" line="2" column="17" />
@@ -2867,46 +2879,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Analyze my life insurace need</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>Analyze my life insurace need</text>
+        <text>g</text>
       </register>
       <register name="3" type="4">
-        <text>5.0</text>
+        <text>g</text>
       </register>
       <register name="2" type="4">
-        <text>test</text>
+        <text>e</text>
       </register>
       <register name="1" type="4">
-        <text>Analyze my life insurace need</text>
+        <text>g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmUgewogICAgYm9yZGVyOiBub25lOwogICAgY29sb3I6ICMzMzM7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsKICAgIHBhZGRpbmc6IDA7CiAgICBmb250LWZhbWlseTogQGZvbnQtZmFtaWx5LXNhbnMtc2VyaWY7CiAgICBmb250LXNpemU6IEBmb250LXNpemUtYmlnOwogICAgbGluZS1oZWlnaHQ6IDEuODsKICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>4607899</text>
+        <text>Analyze my life insurace need</text>
       </register>
       <register name="6" type="4">
-        <text>4607899</text>
+        <text>JobCategories</text>
       </register>
       <register name="5" type="4">
-        <text>Insurance; asset management; tax</text>
+        <text>categories</text>
       </register>
       <register name="4" type="4">
-        <text>Fee only; Fee and comissions; Fee only - based on asset;</text>
+        <text>jobCagetories</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>5.0</text>
       </register>
       <register name="8" type="4">
-        <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis lectus metus, at posuere neque. Sed pharetra nibh eget orci convallis at posuere leo convallis. Sed blandit augue vitae augue scelerisque bibendum. Vivamus sit amet libero turpis, non venenatis urna. In blandit, odio convallis suscipit venenatis, ante ipsum cursus augue.</text>
+        <text>test</text>
       </register>
     </registers>
     <search>

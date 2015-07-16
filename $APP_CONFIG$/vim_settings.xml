@@ -2259,11 +2259,12 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.coffee" timestamp="1437017033314">
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.coffee" timestamp="1437028864198">
         <mark key="'" line="22" column="3" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="[" line="51" column="0" />
+        <mark key="]" line="60" column="16" />
+        <mark key="^" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="[" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/card/main.jade" timestamp="1430384751169">
         <mark key="]" line="16" column="77" />

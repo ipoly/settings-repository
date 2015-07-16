@@ -1027,10 +1027,11 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437029910882">
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="[" line="96" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437035298455">
+        <mark key="]" line="10" column="53" />
+        <mark key="^" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+        <mark key="[" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
         <mark key="]" line="24" column="62" />
@@ -1460,12 +1461,12 @@
         <mark key="." line="17" column="7" />
         <mark key="[" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/advisor-jobs-list.jade" timestamp="1436430825663">
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/advisor-jobs-list.jade" timestamp="1437034844755">
         <mark key="'" line="29" column="48" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="38" />
-        <mark key="[" line="9" column="36" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="[" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/build/error-handler.coffee" timestamp="1436884272135">
         <mark key="'" line="11" column="17" />
@@ -2264,12 +2265,12 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.coffee" timestamp="1437028864198">
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.coffee" timestamp="1437034982065">
         <mark key="'" line="22" column="3" />
-        <mark key="]" line="60" column="16" />
-        <mark key="^" line="60" column="16" />
-        <mark key="." line="60" column="16" />
-        <mark key="[" line="59" column="21" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="39" column="27" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/card/main.jade" timestamp="1430384751169">
         <mark key="]" line="16" column="77" />
@@ -2888,46 +2889,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbWFsbFw+</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>date</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpLmZhLmZhLWVkaXQK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgJHNjb3BlLmpvYnNHcm91cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
+        <text encoding="base64">ICAgICRzY29wZS5EYXRlID0gKGRhdGVTdHJpbmcpLT4KICAgICAgbmV3IERhdGUgZGF0ZVN0cmluZwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgXy5tYXAgcHJvZmlsZS5hZHZpc29yX2pvYl9jYXRlZ29yaWVzLCAoaXRlbSktPgogICAgICAgIGpiLmlkMm5hbWVbaXRlbS5qb2JfY2F0ZWdvcnlfaWRdCiAgICAgIC5qb2luICcsICcK</text>
       </register>
       <register name="7" type="4">
-        <text>| date:'fullDate'</text>
+        <text>(key, jobs)</text>
       </register>
       <register name="6" type="4">
-        <text>Date</text>
+        <text>Date(key) | date:'fullDate'</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>date</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGU6IG5ldyBEYXRlIGtleQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHw=</text>
+        <text>date</text>
       </register>
-      <register name="8" type="4">
-        <text>time</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLm9yZGVyQnkgKGl0ZW0pLT4gLWl0ZW0uZGF0ZQo=</text>
       </register>
     </registers>
     <search>

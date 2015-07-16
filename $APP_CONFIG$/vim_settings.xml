@@ -1027,6 +1027,11 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437029910882">
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="[" line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
         <mark key="]" line="24" column="62" />
         <mark key="^" line="24" column="62" />
@@ -2883,7 +2888,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpLmZhLmZhLWVkaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbWFsbFw+</text>
@@ -2891,38 +2896,38 @@
       <register name="-" type="4">
         <text>.</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpLmZhLmZhLWVkaXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpLmZhLmZhLWVkaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgXy5tYXAgcHJvZmlsZS5hZHZpc29yX2pvYl9jYXRlZ29yaWVzLCAoaXRlbSktPgogICAgICAgIGpiLmlkMm5hbWVbaXRlbS5qb2JfY2F0ZWdvcnlfaWRdCiAgICAgIC5qb2luICcsICcK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHw=</text>
-      </register>
-      <register name="6" type="4">
-        <text>time</text>
-      </register>
-      <register name="5" type="4">
         <text>| date:'fullDate'</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>Date</text>
+      </register>
+      <register name="5" type="4">
+        <text>.</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHw=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGRhdGU6J2Z1bGxEYXRlJw==</text>
+        <text>time</text>
       </register>
     </registers>
     <search>

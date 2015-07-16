@@ -2278,12 +2278,12 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.coffee" timestamp="1437034982065">
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.coffee" timestamp="1437038346257">
         <mark key="'" line="22" column="3" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="39" column="27" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="30" column="0" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="[" line="35" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/card/main.jade" timestamp="1430384751169">
         <mark key="]" line="16" column="77" />
@@ -2902,46 +2902,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvYWRpbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>key</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgTmVlZCBtb3JlIG9ic2VydmUK</text>
+      <register name="3" type="4">
+        <text encoding="base64">cGFyc2Ug</text>
       </register>
       <register name="2" type="4">
-        <text>user</text>
+        <text>.</text>
       </register>
       <register name="1" type="4">
-        <text>user</text>
+        <text>key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS51c2VyID0gdXNlcgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{{user.title}}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgdG9kbyBNYXkgc2hvdWxkIHVzZSBuZXcgc2NvcGUgZm9yIGtlZXAgaXNvbGF0ZSB3aXRoIG90aGVyLCBidXQgdGhpcyB3aWxsIGNvbmZsaWN0IHdpdGggYWNjb3VudCBwYW5lbCBkaXJlY3RpdmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgTmVlZCBtb3JlIG9ic2VydmUK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDExMTEK</text>
+      <register name="5" type="4">
+        <text>user</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdG9kbyBNYXkgc2hvdWxkIHVzZSBuZXcgc2NvcGUgZm9yIGtlZXAgaXNvbGF0ZSB3aXRoIG90aGVyLCBidXQgdGhpcyB3aWxsIGNvbmZsaWN0IHdpdGggYWNjb3VudCBwYW5lbCBkaXJlY3RpdmUK</text>
+      <register name="4" type="4">
+        <text>user</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>$stateParams</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDExMTEK</text>
       </register>
     </registers>
     <search>

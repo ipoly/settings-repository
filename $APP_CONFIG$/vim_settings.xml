@@ -2464,8 +2464,8 @@
         <mark key="." line="44" column="17" />
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" timestamp="1437108580751">
-        <mark key="'" line="137" column="18" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" timestamp="1437122531782">
+        <mark key="'" line="188" column="4" />
         <mark key="]" line="152" column="22" />
         <mark key="^" line="152" column="21" />
         <mark key="." line="152" column="22" />
@@ -2803,12 +2803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="19" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
-      <jump line="16" column="25" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
-      <jump line="35" column="13" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
-      <jump line="39" column="8" filename="$USER_HOME$/Documents/web/src/application/advisor/client/portal/main.coffee" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/web/src/application/advisor/client/portal/main.coffee" />
-      <jump line="212" column="37" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
       <jump line="222" column="21" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
       <jump line="85" column="129" filename="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.jade" />
       <jump line="13" column="8" filename="$USER_HOME$/Documents/web/src/application/advisor/client/portal/main.coffee" />
@@ -2903,13 +2897,19 @@
       <jump line="86" column="12" filename="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" />
       <jump line="96" column="12" filename="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" />
       <jump line="201" column="30" filename="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" />
+      <jump line="47" column="15" filename="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" />
+      <jump line="139" column="40" filename="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" />
+      <jump line="143" column="13" filename="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" />
+      <jump line="154" column="8" filename="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" />
+      <jump line="166" column="4" filename="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" />
+      <jump line="188" column="4" filename="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWVsZFw+</text>
+        <text encoding="base64">XDx1cGRhdGVcPg==</text>
       </register>
       <register name="-" type="4">
         <text>fee_options</text>
@@ -2949,9 +2949,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWVsZFw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWVsZFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyYW5nZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2959,8 +2959,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVkX2F0X2ZyaWVuZGx5XD4=</entry>
-        <entry encoding="base64">XDxqb2JzXD4=</entry>
         <entry encoding="base64">XDxmb250XD4=</entry>
         <entry encoding="base64">XDxzY3JlZW5fbmFtZVw+</entry>
         <entry encoding="base64">XDx1bmZvbGRcPg==</entry>
@@ -2979,6 +2977,8 @@
         <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</entry>
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxmaWVsZFw+</entry>
+        <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

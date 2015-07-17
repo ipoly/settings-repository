@@ -910,12 +910,12 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437112408508">
-        <mark key="'" line="217" column="30" />
-        <mark key="]" line="120" column="51" />
-        <mark key="^" line="120" column="51" />
-        <mark key="." line="120" column="51" />
-        <mark key="[" line="120" column="42" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437114621429">
+        <mark key="'" line="222" column="30" />
+        <mark key="]" line="171" column="52" />
+        <mark key="^" line="171" column="52" />
+        <mark key="." line="171" column="52" />
+        <mark key="[" line="171" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
         <mark key="]" line="24" column="62" />
@@ -1134,12 +1134,12 @@
         <mark key="." line="8" column="45" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.coffee" timestamp="1437048882560">
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.coffee" timestamp="1437114609511">
         <mark key="'" line="69" column="47" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="75" column="12" />
-        <mark key="." line="5" column="0" />
-        <mark key="[" line="5" column="0" />
+        <mark key="]" line="80" column="40" />
+        <mark key="^" line="80" column="40" />
+        <mark key="." line="80" column="40" />
+        <mark key="[" line="80" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/registration/step1/high-allocation.coffee" timestamp="1428560920203">
         <mark key="]" line="1" column="33" />
@@ -2626,46 +2626,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>advisor</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>advisor</text>
+        <text>item</text>
       </register>
       <register name="3" type="4">
-        <text>advisor</text>
-      </register>
-      <register name="2" type="4">
-        <text>advisor</text>
-      </register>
-      <register name="1" type="4">
-        <text>advisor</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHNldC5mb3JtLWhvcml6b250YWwobmctZm9ybT0nYWR2aXNvckZvcm0nLCByYy1mb3JtLXJlc291cmNlPSdhZHZpc29yJywgbmctZGlzYWJsZWQ9J2Fkdmlzb3JGb3JtLmlzTG9hZGluZycpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>'a</text>
-      </register>
-      <register name="6" type="4">
         <text />
       </register>
+      <register name="2" type="4">
+        <text>toggliwco</text>
+      </register>
+      <register name="1" type="4">
+        <text>item</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuZy1jaGFuZ2U9J2piVG9nZ2xlKGl0ZW0sIGNoZWNrZWQpJwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text />
+      </register>
+      <register name="6" type="4">
+        <text>tiwcoggle</text>
+      </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>toggle</text>
       </register>
       <register name="4" type="4">
-        <text>v</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>text</text>
+        <text>o</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgJGF0dHJzLnZhbGlkYXRpb25UeXBlCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

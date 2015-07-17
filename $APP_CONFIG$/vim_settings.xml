@@ -910,12 +910,12 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437101998930">
-        <mark key="'" line="211" column="30" />
-        <mark key="]" line="125" column="38" />
-        <mark key="^" line="125" column="38" />
-        <mark key="." line="125" column="38" />
-        <mark key="[" line="125" column="28" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437112408508">
+        <mark key="'" line="217" column="30" />
+        <mark key="]" line="120" column="51" />
+        <mark key="^" line="120" column="51" />
+        <mark key="." line="120" column="51" />
+        <mark key="[" line="120" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
         <mark key="]" line="24" column="62" />
@@ -1514,7 +1514,7 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1437049529250">
+      <file name="/a.dummy" timestamp="1437112241725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/core-extension.coffee" timestamp="1418986966465">
@@ -1892,7 +1892,7 @@
         <mark key="." line="1" column="39" />
         <mark key="[" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-resource.coffee" timestamp="1437042525750">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-resource.coffee" timestamp="1437112018150">
         <mark key="'" line="25" column="29" />
         <mark key="]" line="25" column="21" />
         <mark key="." line="25" column="21" />
@@ -2337,6 +2337,11 @@
         <mark key="." line="3" column="5" />
         <mark key="[" line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/validation-category.coffee" timestamp="1437112301793">
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="[" line="44" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/taxAdvantages.coffee" timestamp="1429173284625">
         <mark key="]" line="16" column="36" />
         <mark key="^" line="16" column="36" />
@@ -2621,46 +2626,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>crd_number</text>
+        <text>advisor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>crd_number</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>rows='10'</text>
-      </register>
-      <register name="1" type="4">
-        <text>crd_number</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsPSdhZHZpc29yLmNyZF9udW1iZXInCg==</text>
-      </register>
-      <register name="7" type="4">
         <text>advisor</text>
       </register>
+      <register name="3" type="4">
+        <text>advisor</text>
+      </register>
+      <register name="2" type="4">
+        <text>advisor</text>
+      </register>
+      <register name="1" type="4">
+        <text>advisor</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaWVsZHNldC5mb3JtLWhvcml6b250YWwobmctZm9ybT0nYWR2aXNvckZvcm0nLCByYy1mb3JtLXJlc291cmNlPSdhZHZpc29yJywgbmctZGlzYWJsZWQ9J2Fkdmlzb3JGb3JtLmlzTG9hZGluZycpCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>'a</text>
+      </register>
       <register name="6" type="4">
-        <text>type='text', field-cols='[2,2]'</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>type='text', field-cols='[2,2]'</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
+      <register name="9" type="4">
+        <text>text</text>
       </register>
-      <register name="8" type="4">
-        <text>advisor</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgJGF0dHJzLnZhbGlkYXRpb25UeXBlCg==</text>
       </register>
     </registers>
     <search>

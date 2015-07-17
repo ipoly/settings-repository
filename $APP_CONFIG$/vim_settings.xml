@@ -245,7 +245,7 @@
         <mark key="." line="25" column="42" />
         <mark key="[" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/modal/main.coffee" timestamp="1435128056531">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/modal/main.coffee" timestamp="1437123492226">
         <mark key="]" line="38" column="38" />
         <mark key="^" line="38" column="38" />
         <mark key="." line="38" column="38" />
@@ -1029,12 +1029,12 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437120661055">
-        <mark key="'" line="223" column="30" />
-        <mark key="]" line="172" column="68" />
-        <mark key="^" line="172" column="68" />
-        <mark key="." line="172" column="68" />
-        <mark key="[" line="172" column="61" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437123815696">
+        <mark key="'" line="225" column="30" />
+        <mark key="]" line="7" column="92" />
+        <mark key="^" line="7" column="92" />
+        <mark key="." line="7" column="92" />
+        <mark key="[" line="7" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
         <mark key="]" line="24" column="62" />
@@ -2464,7 +2464,7 @@
         <mark key="." line="44" column="17" />
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" timestamp="1437122531782">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" timestamp="1437123562570">
         <mark key="'" line="188" column="4" />
         <mark key="]" line="152" column="22" />
         <mark key="^" line="152" column="21" />
@@ -2905,35 +2905,35 @@
       <jump line="188" column="4" filename="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.mb40</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>fee_options</text>
+        <text>.mb40</text>
       </register>
-      <register name="3" type="4">
-        <text>fee_options</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgJHNjb3BlCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>.mb40</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJHNjb3BlW3R5cGVdLmlzTG9hZGluZyA9IHRydWUK</text>
       </register>
       <register name="7" type="4">
-        <text>true</text>
+        <text>job_categories</text>
       </register>
       <register name="6" type="4">
         <text>job_categories</text>
       </register>
       <register name="5" type="4">
-        <text>job_categories</text>
+        <text>fee_options</text>
       </register>
       <register name="4" type="4">
         <text>fee_options</text>
@@ -2942,10 +2942,10 @@
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dCA=</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>true</text>
       </register>
     </registers>
     <search>

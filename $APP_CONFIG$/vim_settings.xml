@@ -1034,12 +1034,12 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437050595231">
-        <mark key="'" line="201" column="30" />
-        <mark key="]" line="263" column="16" />
-        <mark key="^" line="201" column="29" />
-        <mark key="." line="263" column="16" />
-        <mark key="[" line="263" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.jade" timestamp="1437101998930">
+        <mark key="'" line="211" column="30" />
+        <mark key="]" line="125" column="38" />
+        <mark key="^" line="125" column="38" />
+        <mark key="." line="125" column="38" />
+        <mark key="[" line="125" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
         <mark key="]" line="24" column="62" />
@@ -2910,37 +2910,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>advisor</text>
+        <text>crd_number</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>advisor</text>
+        <text>crd_number</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>advisor</text>
+        <text>rows='10'</text>
       </register>
       <register name="1" type="4">
-        <text>advisor</text>
+        <text>crd_number</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWR2aXNvcjoge30K</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsPSdhZHZpc29yLmNyZF9udW1iZXInCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
+      <register name="7" type="4">
+        <text>advisor</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
+      <register name="6" type="4">
+        <text>type='text', field-cols='[2,2]'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
+      <register name="4" type="4">
+        <text>type='text', field-cols='[2,2]'</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
@@ -2948,8 +2948,8 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvdwo=</text>
+      <register name="8" type="4">
+        <text>advisor</text>
       </register>
     </registers>
     <search>

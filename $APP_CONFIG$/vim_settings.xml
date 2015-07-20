@@ -33,11 +33,41 @@
         <mark key="." line="2" column="17" />
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/reset/form-reset.coffee" timestamp="1425902168620">
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="[" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/select-horizontal.jade" timestamp="1427195618609">
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="[" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/serivces/Calculate.coffee" timestamp="1420624410128">
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="[" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
+        <mark key="]" line="41" column="37" />
+        <mark key="^" line="41" column="37" />
+        <mark key="." line="41" column="37" />
+        <mark key="[" line="41" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/web/gulpfile.coffee" timestamp="1432891226897">
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="25" />
         <mark key="[" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/account/panels/bank/main.coffee" timestamp="1431340721583">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/APIs/Owned-homes.coffee" timestamp="1428058174473">
         <mark key="]" line="5" column="38" />
@@ -75,11 +105,35 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/education/main.jade" timestamp="1424861323413">
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="22" column="12" />
+        <mark key="[" line="22" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/others/projection-results/main.coffee" timestamp="1433142809314">
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+        <mark key="[" line="39" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/app.coffee" timestamp="1419993495192">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/EFC/main.coffee" timestamp="1434450650069">
         <mark key="]" line="32" column="16" />
         <mark key="^" line="18" column="38" />
         <mark key="." line="32" column="16" />
         <mark key="[" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/.bowerrc" timestamp="1426086775655">
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="[" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/Reports.coffee" timestamp="1420618440616">
         <mark key="]" line="0" column="17" />
@@ -105,11 +159,35 @@
         <mark key="." line="53" column="0" />
         <mark key="[" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/select.jade" timestamp="1425898464336">
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="1" column="7" />
+        <mark key="[" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/profile/goals/goals-panels/_card-panel-default.jade" timestamp="1423554673957">
+        <mark key="]" line="0" column="65" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="0" column="65" />
+        <mark key="[" line="0" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/insurance/disability/main.jade" timestamp="1429239905289">
         <mark key="]" line="22" column="126" />
         <mark key="^" line="22" column="126" />
         <mark key="." line="22" column="126" />
         <mark key="[" line="22" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/build/task-watch.coffee" timestamp="1429006893370">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/mail.coffee" timestamp="1419994274543">
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="[" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/APIs/adjustments.coffee" timestamp="1422343712019">
         <mark key="]" line="4" column="0" />
@@ -117,11 +195,29 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/registration/step4/main.less" timestamp="1428753724840">
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="[" line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/JobCategories.coffee" timestamp="1436952711184">
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/loan/main.jade" timestamp="1430385826194">
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="25" column="48" />
+        <mark key="." line="24" column="47" />
+        <mark key="[" line="24" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/main.coffee" timestamp="1423465856831">
+        <mark key="]" line="31" column="38" />
+        <mark key="^" line="42" column="48" />
+        <mark key="." line="31" column="38" />
+        <mark key="[" line="31" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/insurance/insurance-pannels/card-panel-ltc.jade" timestamp="1433857627861">
         <mark key="]" line="27" column="43" />
@@ -129,11 +225,35 @@
         <mark key="." line="27" column="42" />
         <mark key="[" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/yodlee/form/mfa/question.jade" timestamp="1427098940673">
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="[" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/web/build/task-version.coffee" timestamp="1432891092915">
         <mark key="]" line="12" column="46" />
         <mark key="^" line="12" column="46" />
         <mark key="." line="12" column="46" />
         <mark key="[" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/account/panels/account-panel.less" timestamp="1427269525657">
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="[" line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/rc-select-people.coffee" timestamp="1427447264859">
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="7" column="77" />
+        <mark key="[" line="7" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/services/dataHelper.coffee" timestamp="1421469509905">
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/main.jade" timestamp="1428672561089">
         <mark key="]" line="11" column="158" />
@@ -141,11 +261,29 @@
         <mark key="." line="11" column="158" />
         <mark key="[" line="11" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/main.coffee" timestamp="1428562072542">
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="[" line="20" column="11" />
+      <file name="$USER_HOME$/Documents/web/src/application/adviser/main.coffee" timestamp="1432116746691">
+        <mark key="]" line="37" column="32" />
+        <mark key="^" line="37" column="42" />
+        <mark key="." line="37" column="32" />
+        <mark key="[" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/main.coffee" timestamp="1420451825888">
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="44" />
+        <mark key="[" line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1433992050686">
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="[" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/overview/main.coffee" timestamp="1429269941460">
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="[" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/form/mfa/captcha.jade" timestamp="1427098925868">
         <mark key="]" line="2" column="43" />
@@ -153,11 +291,48 @@
         <mark key="." line="2" column="18" />
         <mark key="[" line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/main.coffee" timestamp="1428562072542">
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="[" line="20" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/advisor-jobs-list.jade" timestamp="1437034844755">
+        <mark key="'" line="29" column="48" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="[" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/reset/input-reset.coffee" timestamp="1433836256424">
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="[" line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/build/cdn_config.json" timestamp="1432896614159">
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="[" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/insurance/life-insurance/main.coffee" timestamp="1433928566412">
+        <mark key="]" line="25" column="57" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="[" line="25" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/investment/tax-efficiency/main.jade" timestamp="1420369446238">
         <mark key="]" line="1" column="4" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="1" column="4" />
         <mark key="[" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/_header.coffee" timestamp="1429014893058">
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="[" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/asset-allocation/high-allocation.coffee" timestamp="1422437146100">
         <mark key="]" line="12" column="0" />
@@ -170,6 +345,11 @@
         <mark key="^" line="32" column="45" />
         <mark key="." line="38" column="61" />
         <mark key="[" line="38" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" timestamp="1437379079079">
+        <mark key="]" line="96" column="18" />
+        <mark key="." line="96" column="18" />
+        <mark key="[" line="96" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/main.less" timestamp="1432096907972">
         <mark key="]" line="3" column="13" />
@@ -195,11 +375,41 @@
         <mark key="." line="13" column="28" />
         <mark key="[" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/web/apiary.coffee" timestamp="1435202718056">
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="49" column="0" />
+        <mark key="[" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/yodlee/form/panel.jade" timestamp="1428461390224">
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="[" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.coffee" timestamp="1435058005298">
+        <mark key="]" line="83" column="12" />
+        <mark key="^" line="83" column="12" />
+        <mark key="." line="83" column="12" />
+        <mark key="[" line="83" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/main.coffee" timestamp="1422347494830">
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/select-people.coffee" timestamp="1428480771548">
+        <mark key="]" line="23" column="60" />
+        <mark key="^" line="23" column="37" />
+        <mark key="." line="23" column="60" />
+        <mark key="[" line="23" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/less/misc.less" timestamp="1436262554019">
+        <mark key="]" line="87" column="16" />
+        <mark key="^" line="87" column="16" />
+        <mark key="." line="87" column="16" />
+        <mark key="[" line="87" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/services/navigation.coffee" timestamp="1420095950477">
         <mark key="]" line="25" column="42" />
@@ -213,11 +423,23 @@
         <mark key="." line="38" column="38" />
         <mark key="[" line="38" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/web/package.json" timestamp="1432896785138">
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="[" line="23" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/index.jade" timestamp="1420517740725">
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="[" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-pie.coffee" timestamp="1423643769580">
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/_message-body.jade" timestamp="1437126055207">
         <mark key="]" line="2" column="4" />
@@ -225,11 +447,35 @@
         <mark key="." line="2" column="4" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.less" timestamp="1437379018929">
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/range-horizontal.jade" timestamp="1427195626293">
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="23" />
+        <mark key="[" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/public/modules/_form-sign-in.jade" timestamp="1425040433989">
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
         <mark key="[" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/investment/main.coffee" timestamp="1430971900488">
+        <mark key="]" line="83" column="12" />
+        <mark key="^" line="83" column="12" />
+        <mark key="." line="83" column="12" />
+        <mark key="[" line="83" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/jobs/src/_layout.jade" timestamp="1420362095102">
+        <mark key="]" line="4" column="74" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="10" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" timestamp="1436954215670">
         <mark key="]" line="54" column="35" />
@@ -249,6 +495,12 @@
         <mark key="." line="4" column="18" />
         <mark key="[" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/ngfplanner/web/src/public/less/bootstrap.less" timestamp="1425056739324">
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="[" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/financial-aid/main.less" timestamp="1434533896858">
         <mark key="]" line="24" column="29" />
         <mark key="^" line="24" column="29" />
@@ -260,6 +512,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/insurance/disability/main.coffee" timestamp="1423218284318">
+        <mark key="]" line="50" column="91" />
+        <mark key="^" line="24" column="73" />
+        <mark key="." line="50" column="91" />
+        <mark key="[" line="50" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/tabs.less" timestamp="1428571808949">
         <mark key="]" line="33" column="39" />
@@ -273,6 +531,12 @@
         <mark key="." line="3" column="29" />
         <mark key="[" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/step4/main.jade" timestamp="1431661039366">
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="[" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/join/src/_layout.jade" timestamp="1419739335185">
         <mark key="]" line="6" column="54" />
         <mark key="^" line="6" column="54" />
@@ -285,17 +549,41 @@
         <mark key="." line="48" column="16" />
         <mark key="[" line="48" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/balance-sheet/main.jade" timestamp="1424156321089">
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="[" line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/account/account-panel.less" timestamp="1427196242476">
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="35" column="22" />
+        <mark key="." line="34" column="0" />
+        <mark key="[" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/resources/_services/people.coffee" timestamp="1419499266214">
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
         <mark key="[" line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/asset-allocation/main.jade" timestamp="1425282107625">
+        <mark key="]" line="26" column="128" />
+        <mark key="^" line="26" column="128" />
+        <mark key="." line="26" column="128" />
+        <mark key="[" line="26" column="115" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1435140560402">
         <mark key="]" line="75" column="12" />
         <mark key="^" line="75" column="12" />
         <mark key="." line="75" column="12" />
         <mark key="[" line="75" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/currency-horizontal.jade" timestamp="1425549968723">
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="[" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/accounts-goals/controllers/HealthCareFormController.coffee" timestamp="1421661225071">
         <mark key="]" line="7" column="34" />
@@ -309,11 +597,11 @@
         <mark key="." line="3" column="25" />
         <mark key="[" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/goals/main.coffee" timestamp="1433322683630">
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="[" line="11" column="3" />
+      <file name="$USER_HOME$/Documents/web/build/task-jade-p.coffee" timestamp="1435289250353">
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+        <mark key="[" line="37" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/hightcharts.coffee" timestamp="1420880573232">
         <mark key="]" line="1" column="16" />
@@ -321,17 +609,35 @@
         <mark key="." line="1" column="16" />
         <mark key="[" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/goals/main.coffee" timestamp="1433322683630">
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="[" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/ngfplanner/web/build/task-watch.coffee" timestamp="1430040611740">
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="[" line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/investment/style-and-sector/main.jade" timestamp="1435561716764">
         <mark key="]" line="16" column="96" />
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/style-and-sector/main.coffee" timestamp="1423109008215">
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-        <mark key="[" line="12" column="41" />
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-single-series-bar.coffee" timestamp="1421292622770">
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="2" column="16" />
+        <mark key="[" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/pages/sign-in.jade" timestamp="1421744099919">
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="20" column="18" />
+        <mark key="[" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/sign-in.jade" timestamp="1425039850066">
         <mark key="]" line="5" column="23" />
@@ -339,11 +645,29 @@
         <mark key="." line="5" column="22" />
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/style-and-sector/main.coffee" timestamp="1423109008215">
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="[" line="12" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/registration/step1/main.coffee" timestamp="1428570061674">
         <mark key="]" line="11" column="22" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="11" column="22" />
         <mark key="[" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/profile/goals/goals-panels/popup-college-lookup.jade" timestamp="1425900430351">
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="45" column="19" />
+        <mark key="." line="11" column="28" />
+        <mark key="[" line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/public/index.jade" timestamp="1432899089252">
+        <mark key="]" line="28" column="50" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="28" column="50" />
+        <mark key="[" line="28" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/retirement/stress-test/main.coffee" timestamp="1424166888809">
         <mark key="]" line="39" column="21" />
@@ -357,17 +681,17 @@
         <mark key="." line="142" column="25" />
         <mark key="[" line="141" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input-horizontal.jade" timestamp="1427195709935">
-        <mark key="]" line="1" column="39" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="39" />
-        <mark key="[" line="1" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/public/sign-up.jade" timestamp="1425040478925">
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
         <mark key="[" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input-horizontal.jade" timestamp="1427195709935">
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="39" />
+        <mark key="[" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/package.json" timestamp="1419047401462">
         <mark key="]" line="41" column="76" />
@@ -381,6 +705,12 @@
         <mark key="." line="89" column="45" />
         <mark key="[" line="89" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="[" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/main.coffee" timestamp="1423465547036">
         <mark key="]" line="1" column="3" />
         <mark key="^" line="9" column="30" />
@@ -393,17 +723,29 @@
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="5" column="0" />
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/web/build/task-less.coffee" timestamp="1420362573688">
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="[" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/retirement/social-security.coffee" timestamp="1423220201179">
-        <mark key="]" line="7" column="74" />
-        <mark key="^" line="7" column="74" />
-        <mark key="." line="7" column="74" />
-        <mark key="[" line="7" column="70" />
+      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/controllers/HealthCareFormController.coffee" timestamp="1421661232166">
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="[" line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/public/less/forms.less" timestamp="1425040928394">
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="[" line="201" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/account-list.less" timestamp="1436516728585">
+        <mark key="]" line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="[" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/controllers/headerCtrl.coffee" timestamp="1432724494892">
         <mark key="]" line="10" column="17" />
@@ -411,11 +753,59 @@
         <mark key="." line="10" column="17" />
         <mark key="[" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/retirement/social-security.coffee" timestamp="1423220201179">
+        <mark key="]" line="7" column="74" />
+        <mark key="^" line="7" column="74" />
+        <mark key="." line="7" column="74" />
+        <mark key="[" line="7" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/account/account-list.less" timestamp="1430902770371">
+        <mark key="]" line="71" column="33" />
+        <mark key="^" line="71" column="33" />
+        <mark key="." line="71" column="33" />
+        <mark key="[" line="71" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/mock/insurance/life-insurance/main.coffee" timestamp="1422272253482">
         <mark key="]" line="7" column="39" />
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="39" />
         <mark key="[" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/search.coffee" timestamp="1430906426584">
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="26" />
+        <mark key="[" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/buttons/add/add.less" timestamp="1421401905633">
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="[" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/highcharts/donut.coffee" timestamp="1421140838875">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/build/task-jade.coffee" timestamp="1419928505687">
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="[" line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-donut.less" timestamp="1423639246582">
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="[" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/efc/main.jade" timestamp="1434452829126">
         <mark key="]" line="25" column="21" />
@@ -423,11 +813,23 @@
         <mark key="." line="25" column="21" />
         <mark key="[" line="25" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/controllers/ClientRetirementFormController.coffee" timestamp="1421660995178">
+        <mark key="]" line="0" column="60" />
+        <mark key="^" line="0" column="60" />
+        <mark key="." line="0" column="60" />
+        <mark key="[" line="0" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/AutoCompleteResource.coffee" timestamp="1428401413195">
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
         <mark key="[" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" timestamp="1437127375873">
+        <mark key="'" line="29" column="21" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="21" column="6" />
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/income/income-panels/card-panel-annuity.jade" timestamp="1434016968405">
         <mark key="]" line="36" column="42" />
@@ -435,11 +837,29 @@
         <mark key="." line="36" column="38" />
         <mark key="[" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/family/main.coffee" timestamp="1433325129574">
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="35" column="37" />
+        <mark key="." line="51" column="32" />
+        <mark key="[" line="51" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage.coffee" timestamp="1428502167098">
         <mark key="]" line="44" column="6" />
         <mark key="^" line="26" column="18" />
         <mark key="." line="44" column="6" />
         <mark key="[" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/retirement/social-security.coffee" timestamp="1423035771600">
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="[" line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/_layout.jade" timestamp="1427033134767">
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="14" />
+        <mark key="[" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/form/form.coffee" timestamp="1431340232009">
         <mark key="]" line="25" column="26" />
@@ -453,17 +873,23 @@
         <mark key="." line="32" column="10" />
         <mark key="[" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/portal/main.coffee" timestamp="1429345695460">
+        <mark key="]" line="36" column="26" />
+        <mark key="^" line="36" column="18" />
+        <mark key="." line="36" column="19" />
+        <mark key="[" line="36" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/profile/accounts-goals/main.coffee" timestamp="1421673118587">
         <mark key="]" line="22" column="32" />
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
         <mark key="[" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/portal/main.coffee" timestamp="1429345695460">
-        <mark key="]" line="36" column="26" />
-        <mark key="^" line="36" column="18" />
-        <mark key="." line="36" column="19" />
-        <mark key="[" line="36" column="19" />
+      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/gulpfile.coffee" timestamp="1427030419816">
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="3" column="11" />
+        <mark key="[" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/directives/action-items/action-items.less" timestamp="1420538375465">
         <mark key="]" line="50" column="19" />
@@ -476,6 +902,18 @@
         <mark key="^" line="98" column="76" />
         <mark key="." line="98" column="76" />
         <mark key="[" line="98" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/less/modal.less" timestamp="1426217891120">
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="[" line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/reset/input-reset.coffee" timestamp="1427363620191">
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="[" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/buttons/main.coffee" timestamp="1421405272853">
         <mark key="]" line="1" column="0" />
@@ -507,6 +945,18 @@
         <mark key="." line="3" column="11" />
         <mark key="[" line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.jade" timestamp="1435057706838">
+        <mark key="]" line="45" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="[" line="45" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/services/APIs/People.coffee" timestamp="1428480242021">
+        <mark key="]" line="25" column="38" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="[" line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/bank/main.jade" timestamp="1430382386477">
         <mark key="]" line="25" column="77" />
         <mark key="^" line="25" column="77" />
@@ -525,11 +975,23 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/_header.jade" timestamp="1425036616286">
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="[" line="2" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/rc-position/rc-position.less" timestamp="1427373091498">
         <mark key="]" line="1" column="2" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="2" />
         <mark key="[" line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/public/less/public-nav.less" timestamp="1425039945008">
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="[" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/buttons.less" timestamp="1421492359907">
         <mark key="]" line="1" column="27" />
@@ -537,11 +999,53 @@
         <mark key="." line="1" column="27" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/main.coffee" timestamp="1432291268499">
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="26" />
+        <mark key="[" line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/Calculate.coffee" timestamp="1421915068950">
         <mark key="]" line="8" column="54" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="8" column="54" />
         <mark key="[" line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/build/config.coffee" timestamp="1421726846003">
+        <mark key="]" line="88" column="25" />
+        <mark key="^" line="88" column="25" />
+        <mark key="." line="88" column="25" />
+        <mark key="[" line="88" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/services/constants/collegeGoalNationalAverage.coffee" timestamp="1421481794753">
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="40" />
+        <mark key="[" line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/account/account-types.coffee" timestamp="1428466069837">
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="5" column="55" />
+        <mark key="[" line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/highcharts/high-donut.coffee" timestamp="1422346350576">
+        <mark key="]" line="12" column="43" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/info/main.jade" timestamp="1434019884845">
+        <mark key="]" line="22" column="93" />
+        <mark key="^" line="22" column="93" />
+        <mark key="." line="22" column="93" />
+        <mark key="[" line="22" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/others/calculator/main.less" timestamp="1433992020308">
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="0" column="1" />
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/registration/main.jade" timestamp="1428649058162">
         <mark key="]" line="3" column="33" />
@@ -549,17 +1053,23 @@
         <mark key="." line="3" column="33" />
         <mark key="[" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-donut.coffee" timestamp="1423643738775">
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="54" column="33" />
+        <mark key="." line="55" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.jade" timestamp="1429868073418">
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="[" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/goals-panels/popup-college-lookup.jade" timestamp="1421729143136">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/adviser/_layout.jade" timestamp="1429009388196">
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="[" line="28" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/range/range-set.coffee" timestamp="1425459723150">
         <mark key="]" line="1" column="19" />
@@ -567,17 +1077,41 @@
         <mark key="." line="1" column="18" />
         <mark key="[" line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/adviser/_layout.jade" timestamp="1429009388196">
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="[" line="28" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/position.jade" timestamp="1428401110319">
         <mark key="]" line="3" column="53" />
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
         <mark key="[" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/panel.jade" timestamp="1435637293456">
+        <mark key="]" line="13" column="53" />
+        <mark key="^" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="[" line="13" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.coffee" timestamp="1435307016430">
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="26" />
+        <mark key="." line="147" column="0" />
+        <mark key="[" line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/common/filters/formaters/currency.coffee" timestamp="1433759954598">
         <mark key="]" line="18" column="39" />
         <mark key="^" line="17" column="44" />
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/style-and-sector/main.coffee" timestamp="1420005095505">
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="[" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/less/buttons/btn-default.less" timestamp="1432112149541">
         <mark key="]" line="11" column="13" />
@@ -597,6 +1131,12 @@
         <mark key="." line="0" column="21" />
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/select-states.coffee" timestamp="1429090658068">
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/_core/app.coffee" timestamp="1419908687166">
         <mark key="]" line="47" column="0" />
         <mark key="^" line="47" column="5" />
@@ -609,11 +1149,29 @@
         <mark key="." line="1" column="2" />
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency.jade" timestamp="1435740921583">
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="[" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/tax-efficiency/main.coffee" timestamp="1430989353599">
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/account/bank/bank.coffee" timestamp="1427190180908">
         <mark key="]" line="7" column="13" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="13" />
         <mark key="[" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-stacked-column.coffee" timestamp="1423643812920">
+        <mark key="]" line="45" column="32" />
+        <mark key="^" line="45" column="5" />
+        <mark key="." line="45" column="0" />
+        <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/modal/manual-account/main.jade" timestamp="1430906731997">
         <mark key="]" line="57" column="30" />
@@ -627,7 +1185,24 @@
         <mark key="." line="50" column="29" />
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/controllers/UpdateAdvisor.coffee" timestamp="1437042326050" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.jade" timestamp="1431594911920">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="62" column="37" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/controllers/SpouseRetirementFormController.coffee" timestamp="1421660656908">
+        <mark key="]" line="0" column="60" />
+        <mark key="^" line="0" column="60" />
+        <mark key="." line="0" column="60" />
+        <mark key="[" line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/adviser/client/main.coffee" timestamp="1432116956961">
+        <mark key="]" line="50" column="15" />
+        <mark key="^" line="50" column="15" />
+        <mark key="." line="50" column="14" />
+        <mark key="[" line="50" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/panel.jade" timestamp="1428742703874">
         <mark key="]" line="17" column="82" />
         <mark key="^" line="17" column="96" />
@@ -640,11 +1215,35 @@
         <mark key="." line="27" column="39" />
         <mark key="[" line="27" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/investment/main.less" timestamp="1434080443645">
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="[" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/liquidity/main.coffee" timestamp="1424166819301">
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+        <mark key="[" line="41" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/form/panel.jade" timestamp="1430367671403">
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="[" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/asset-allocation.jade" timestamp="1419993175377">
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="[" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/bower.json" timestamp="1434421798195">
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="64" column="5" />
+        <mark key="." line="35" column="20" />
+        <mark key="[" line="35" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage/persentage.coffee" timestamp="1423711713686">
         <mark key="]" line="7" column="18" />
@@ -652,11 +1251,41 @@
         <mark key="." line="7" column="18" />
         <mark key="[" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/app/common/directives/form/field/field.coffee" timestamp="1428917891811">
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="35" />
+        <mark key="[" line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="[" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/rectrict.coffee" timestamp="1427363452233">
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="104" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/main.less" timestamp="1420342433454">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/rightcapital.less" timestamp="1427181752246">
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="[" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/account/main.jade" timestamp="1430993553992">
+        <mark key="]" line="23" column="39" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="39" />
+        <mark key="[" line="23" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/action-items/action-items.jade" timestamp="1420689392465">
         <mark key="]" line="0" column="9" />
@@ -676,11 +1305,47 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.less" timestamp="1436842550358">
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="[" line="38" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/_open-plan.jade" timestamp="1432537907538">
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="68" />
+        <mark key="." line="1" column="39" />
+        <mark key="[" line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/RightCapital.less" timestamp="1423825924221">
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-resource.coffee" timestamp="1437112018150">
+        <mark key="'" line="25" column="29" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="[" line="25" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.less" timestamp="1437040461128">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="88" column="15" />
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/others/calculator/main.coffee" timestamp="1433991970054">
+        <mark key="]" line="32" column="13" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="32" column="13" />
+        <mark key="[" line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/tax-efficiency/main.coffee" timestamp="1422417879829">
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="10" column="14" />
+        <mark key="[" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/directives/action-items/action-items.jade" timestamp="1420536583734">
         <mark key="]" line="2" column="0" />
@@ -693,6 +1358,12 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/investment/main.less" timestamp="1430278643598">
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="[" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/dorpdown.less" timestamp="1421738886918">
         <mark key="]" line="15" column="0" />
@@ -712,11 +1383,35 @@
         <mark key="." line="1" column="35" />
         <mark key="[" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
+        <mark key="]" line="55" column="46" />
+        <mark key="^" line="55" column="55" />
+        <mark key="." line="55" column="46" />
+        <mark key="[" line="55" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/education/main.less" timestamp="1422417577748">
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="[" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/yodlee/services/link.less" timestamp="1428744263387">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/position.jade" timestamp="1430215365375">
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="49" />
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/tools/tax-in-retirement/summary/main.jade" timestamp="1434425744563">
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="33" />
+        <mark key="[" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/http-transfomr.coffee" timestamp="1421914377933">
         <mark key="]" line="7" column="52" />
@@ -730,11 +1425,41 @@
         <mark key="." line="94" column="27" />
         <mark key="[" line="94" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/ngfplanner/web/build/cdn_config.json" timestamp="1424181761272">
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="19" column="46" />
+        <mark key="[" line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/jobs/src/app/app.coffee" timestamp="1419304681863">
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+        <mark key="[" line="27" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/_layout.jade" timestamp="1429009642869">
         <mark key="]" line="28" column="16" />
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
         <mark key="[" line="28" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client_old/_filters/financial-goals.coffee" timestamp="1421729212559">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/field.coffee" timestamp="1427790391516">
+        <mark key="]" line="66" column="37" />
+        <mark key="^" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+        <mark key="[" line="66" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/retirement/social-security/main.jade" timestamp="1423801706644">
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="10" />
+        <mark key="[" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/insurance/life-insurance/main.coffee" timestamp="1422345930298">
         <mark key="]" line="6" column="17" />
@@ -742,11 +1467,29 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="5" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number.jade" timestamp="1425545846553">
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="[" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/less/bootstrap.less" timestamp="1430038874987">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/registration/step2/main.jade" timestamp="1431658908944">
         <mark key="]" line="0" column="3" />
         <mark key="^" line="24" column="40" />
         <mark key="." line="0" column="3" />
         <mark key="[" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/concentration/main.jade" timestamp="1420369415480">
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="1" column="4" />
+        <mark key="[" line="1" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-probability.less" timestamp="1422504246349">
         <mark key="]" line="9" column="0" />
@@ -772,1034 +1515,17 @@
         <mark key="." line="1" column="7" />
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/common/directives/highcharts/highcharts.coffee" timestamp="1424178612399">
-        <mark key="]" line="119" column="42" />
-        <mark key="^" line="119" column="42" />
-        <mark key="." line="119" column="42" />
-        <mark key="[" line="119" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/concentration/main.coffee" timestamp="1422417868651">
-        <mark key="]" line="10" column="14" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="10" column="14" />
-        <mark key="[" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/_yodlee-relink.coffee" timestamp="1430384503862">
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="6" />
-        <mark key="[" line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/_filters/common.coffee" timestamp="1419507795371">
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input.jade" timestamp="1426737412364">
-        <mark key="]" line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="[" line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/States.coffee" timestamp="1437126963312">
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="8" column="10" />
-        <mark key="[" line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" timestamp="1432115191162">
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="4" column="39" />
-        <mark key="[" line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="3" column="29" />
-        <mark key="[" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-stacked-areaspline.coffee" timestamp="1423799869762">
-        <mark key="]" line="38" column="32" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="38" column="0" />
-        <mark key="[" line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/modal/main.jade" timestamp="1435114167949">
-        <mark key="]" line="9" column="45" />
-        <mark key="^" line="9" column="45" />
-        <mark key="." line="9" column="45" />
-        <mark key="[" line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/registration/main.less" timestamp="1428649240123">
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="58" column="0" />
-        <mark key="[" line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/checkable-horizontal.jade" timestamp="1427195678597">
-        <mark key="]" line="1" column="54" />
-        <mark key="^" line="1" column="54" />
-        <mark key="." line="1" column="54" />
-        <mark key="[" line="1" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
-        <mark key="]" line="24" column="62" />
-        <mark key="^" line="24" column="62" />
-        <mark key="." line="24" column="62" />
-        <mark key="[" line="24" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/card.less" timestamp="1427181226737">
-        <mark key="]" line="167" column="24" />
-        <mark key="^" line="167" column="29" />
-        <mark key="." line="167" column="24" />
-        <mark key="[" line="167" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/variables.less" timestamp="1420350010570">
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="26" />
-        <mark key="[" line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/donut.coffee" timestamp="1421139693589">
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="[" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/adviser/less/header.less" timestamp="1429013575939">
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/account/main.coffee" timestamp="1431583077988">
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-        <mark key="[" line="5" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/investment/style-and-sector/main.less" timestamp="1431417158226">
-        <mark key="]" line="1" column="27" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="1" column="26" />
-        <mark key="[" line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/client-jobs-list.jade" timestamp="1437126037747">
-        <mark key="'" line="32" column="53" />
-        <mark key="]" line="13" column="85" />
-        <mark key="^" line="13" column="85" />
-        <mark key="." line="13" column="85" />
-        <mark key="[" line="13" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1432291412668">
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="21" />
-        <mark key="[" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/common/directives/logo/logo.coffee" timestamp="1425036310452">
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="11" />
-        <mark key="[" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/step4/main.coffee" timestamp="1436842167738">
-        <mark key="]" line="25" column="43" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-        <mark key="[" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/action-items/action-items.coffee" timestamp="1422241234845">
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="[" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/registration/main.coffee" timestamp="1428649026957">
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="[" line="21" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/registration/step1/main.less" timestamp="1428561293614">
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/master/src/coffee/public.coffee" timestamp="1420343074245">
-        <mark key="]" line="193" column="21" />
-        <mark key="^" line="193" column="21" />
-        <mark key="." line="193" column="21" />
-        <mark key="[" line="193" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/marketplace/main.less" timestamp="1436177799079">
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="[" line="16" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/account/account-list.less" timestamp="1431331323404">
-        <mark key="]" line="71" column="21" />
-        <mark key="^" line="71" column="21" />
-        <mark key="." line="71" column="21" />
-        <mark key="[" line="71" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/highconfig.coffee" timestamp="1422102149004">
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="[" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/action-items/action-items.less" timestamp="1435906039547">
-        <mark key="]" line="95" column="29" />
-        <mark key="^" line="95" column="29" />
-        <mark key="." line="95" column="29" />
-        <mark key="[" line="94" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/marketplace/main.jade" timestamp="1436177589861">
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="[" line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/goals-panels/sortGoals.coffee" timestamp="1421471503226">
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/services/Resource.coffee" timestamp="1421915412862">
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-        <mark key="[" line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/yodlee/services/link.coffee" timestamp="1428746361287">
-        <mark key="]" line="231" column="40" />
-        <mark key="^" line="231" column="40" />
-        <mark key="." line="231" column="40" />
-        <mark key="[" line="231" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/yodlee/form/form.coffee" timestamp="1428673235887">
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-        <mark key="[" line="30" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/navigation-config.coffee" timestamp="1436336339275">
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="[" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/public/less/bootstrap.less" timestamp="1424917844764">
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="13" />
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/goals/controllers/HealthCareFormController.coffee" timestamp="1427078939224">
-        <mark key="]" line="8" column="49" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="[" line="8" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/build/task-copy.coffee" timestamp="1435558455258">
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="6" column="31" />
-        <mark key="[" line="6" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.jade" timestamp="1426249086557">
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/asset-allocation/main.coffee" timestamp="1435202873408">
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/account/panels/_yodlee-relink.jade" timestamp="1431340649182">
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="0" column="4" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/accounts-goals/main.coffee" timestamp="1421658605125">
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-        <mark key="[" line="8" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.coffee" timestamp="1437129827009">
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="125" column="38" />
-        <mark key="." line="76" column="0" />
-        <mark key="[" line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/registration/step1/high-allocation.coffee" timestamp="1428560920203">
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="33" />
-        <mark key="[" line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/less/variables.less" timestamp="1423551867106">
-        <mark key="]" line="54" column="18" />
-        <mark key="^" line="54" column="20" />
-        <mark key="." line="54" column="18" />
-        <mark key="[" line="54" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/component/rating/rating.coffee" timestamp="1436259311705">
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="[" line="13" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/reset/form-reset.coffee" timestamp="1425902168620">
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="[" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/select-horizontal.jade" timestamp="1427195618609">
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="[" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/serivces/Calculate.coffee" timestamp="1420624410128">
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="[" line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
-        <mark key="]" line="41" column="37" />
-        <mark key="^" line="41" column="37" />
-        <mark key="." line="41" column="37" />
-        <mark key="[" line="41" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/account/panels/bank/main.coffee" timestamp="1431340721583">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/education/main.jade" timestamp="1424861323413">
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="34" column="42" />
-        <mark key="." line="22" column="12" />
-        <mark key="[" line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/others/projection-results/main.coffee" timestamp="1433142809314">
-        <mark key="]" line="39" column="22" />
-        <mark key="^" line="39" column="22" />
-        <mark key="." line="39" column="22" />
-        <mark key="[" line="39" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/app.coffee" timestamp="1419993495192">
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/.bowerrc" timestamp="1426086775655">
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="[" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/select.jade" timestamp="1425898464336">
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="1" column="7" />
-        <mark key="[" line="1" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/profile/goals/goals-panels/_card-panel-default.jade" timestamp="1423554673957">
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="65" />
-        <mark key="." line="0" column="65" />
-        <mark key="[" line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/build/task-watch.coffee" timestamp="1429006893370">
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/mail.coffee" timestamp="1419994274543">
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="[" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/registration/step4/main.less" timestamp="1428753724840">
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="[" line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/loan/main.jade" timestamp="1430385826194">
-        <mark key="]" line="24" column="60" />
-        <mark key="^" line="25" column="48" />
-        <mark key="." line="24" column="47" />
-        <mark key="[" line="24" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/main.coffee" timestamp="1423465856831">
-        <mark key="]" line="31" column="38" />
-        <mark key="^" line="42" column="48" />
-        <mark key="." line="31" column="38" />
-        <mark key="[" line="31" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/yodlee/form/mfa/question.jade" timestamp="1427098940673">
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="[" line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/account/panels/account-panel.less" timestamp="1427269525657">
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="[" line="18" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/services/dataHelper.coffee" timestamp="1421469509905">
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/rc-select-people.coffee" timestamp="1427447264859">
-        <mark key="]" line="7" column="77" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="7" column="77" />
-        <mark key="[" line="7" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/main.coffee" timestamp="1420451825888">
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="56" />
-        <mark key="." line="11" column="44" />
-        <mark key="[" line="11" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/adviser/main.coffee" timestamp="1432116746691">
-        <mark key="]" line="37" column="32" />
-        <mark key="^" line="37" column="42" />
-        <mark key="." line="37" column="32" />
-        <mark key="[" line="37" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/overview/main.coffee" timestamp="1429269941460">
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="[" line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1433992050686">
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="[" line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/advisor-jobs-list.jade" timestamp="1437034844755">
-        <mark key="'" line="29" column="48" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="[" line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/reset/input-reset.coffee" timestamp="1433836256424">
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="[" line="4" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/insurance/life-insurance/main.coffee" timestamp="1433928566412">
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="25" column="52" />
-        <mark key="." line="25" column="52" />
-        <mark key="[" line="25" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/build/cdn_config.json" timestamp="1432896614159">
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="[" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/_header.coffee" timestamp="1429014893058">
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="[" line="6" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/apiary.coffee" timestamp="1435202718056">
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="9" column="32" />
-        <mark key="." line="49" column="0" />
-        <mark key="[" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/yodlee/form/panel.jade" timestamp="1428461390224">
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="[" line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.coffee" timestamp="1435058005298">
-        <mark key="]" line="83" column="12" />
-        <mark key="^" line="83" column="12" />
-        <mark key="." line="83" column="12" />
-        <mark key="[" line="83" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/select-people.coffee" timestamp="1428480771548">
-        <mark key="]" line="23" column="60" />
-        <mark key="^" line="23" column="37" />
-        <mark key="." line="23" column="60" />
-        <mark key="[" line="23" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/less/misc.less" timestamp="1436262554019">
-        <mark key="]" line="87" column="16" />
-        <mark key="^" line="87" column="16" />
-        <mark key="." line="87" column="16" />
-        <mark key="[" line="87" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/package.json" timestamp="1432896785138">
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="[" line="23" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-pie.coffee" timestamp="1423643769580">
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="13" column="10" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/range-horizontal.jade" timestamp="1427195626293">
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="23" />
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/investment/main.coffee" timestamp="1430971900488">
-        <mark key="]" line="83" column="12" />
-        <mark key="^" line="83" column="12" />
-        <mark key="." line="83" column="12" />
-        <mark key="[" line="83" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/jobs/src/_layout.jade" timestamp="1420362095102">
-        <mark key="]" line="4" column="74" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="6" column="10" />
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ngfplanner/web/src/public/less/bootstrap.less" timestamp="1425056739324">
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/insurance/disability/main.coffee" timestamp="1423218284318">
-        <mark key="]" line="50" column="91" />
-        <mark key="^" line="24" column="73" />
-        <mark key="." line="50" column="91" />
-        <mark key="[" line="50" column="90" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/select-people.coffee" timestamp="1437108545020" />
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/step4/main.jade" timestamp="1431661039366">
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-        <mark key="[" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/balance-sheet/main.jade" timestamp="1424156321089">
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-        <mark key="[" line="1" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/account/account-panel.less" timestamp="1427196242476">
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/asset-allocation/main.jade" timestamp="1425282107625">
-        <mark key="]" line="26" column="128" />
-        <mark key="^" line="26" column="128" />
-        <mark key="." line="26" column="128" />
-        <mark key="[" line="26" column="115" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/currency-horizontal.jade" timestamp="1425549968723">
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="[" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/build/task-jade-p.coffee" timestamp="1435289250353">
-        <mark key="]" line="41" column="4" />
-        <mark key="^" line="41" column="4" />
-        <mark key="." line="41" column="4" />
-        <mark key="[" line="37" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/ngfplanner/web/build/task-watch.coffee" timestamp="1430040611740">
-        <mark key="]" line="17" column="16" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="17" column="16" />
-        <mark key="[" line="17" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-single-series-bar.coffee" timestamp="1421292622770">
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="2" column="16" />
-        <mark key="[" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/pages/sign-in.jade" timestamp="1421744099919">
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="20" column="18" />
-        <mark key="[" line="20" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/public/index.jade" timestamp="1432899089252">
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="50" />
-        <mark key="[" line="28" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/profile/goals/goals-panels/popup-college-lookup.jade" timestamp="1425900430351">
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="45" column="19" />
-        <mark key="." line="11" column="28" />
-        <mark key="[" line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="[" line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/controllers/HealthCareFormController.coffee" timestamp="1421661232166">
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="54" />
-        <mark key="[" line="0" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/build/task-less.coffee" timestamp="1420362573688">
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="[" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/public/less/forms.less" timestamp="1425040928394">
-        <mark key="]" line="202" column="0" />
-        <mark key="^" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="[" line="201" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/account-list.less" timestamp="1436516728585">
-        <mark key="]" line="41" column="31" />
-        <mark key="^" line="41" column="31" />
-        <mark key="." line="41" column="31" />
-        <mark key="[" line="40" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/account/account-list.less" timestamp="1430902770371">
-        <mark key="]" line="71" column="33" />
-        <mark key="^" line="71" column="33" />
-        <mark key="." line="71" column="33" />
-        <mark key="[" line="71" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/search.coffee" timestamp="1430906426584">
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="26" />
-        <mark key="[" line="19" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/buttons/add/add.less" timestamp="1421401905633">
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="[" line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/build/task-jade.coffee" timestamp="1419928505687">
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="31" />
-        <mark key="[" line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/highcharts/donut.coffee" timestamp="1421140838875">
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-donut.less" timestamp="1423639246582">
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/controllers/ClientRetirementFormController.coffee" timestamp="1421660995178">
-        <mark key="]" line="0" column="60" />
-        <mark key="^" line="0" column="60" />
-        <mark key="." line="0" column="60" />
-        <mark key="[" line="0" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" timestamp="1437127375873">
-        <mark key="'" line="29" column="21" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="21" column="6" />
-        <mark key="[" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/family/main.coffee" timestamp="1433325129574">
-        <mark key="]" line="51" column="32" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="51" column="32" />
-        <mark key="[" line="51" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/_layout.jade" timestamp="1427033134767">
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="14" />
-        <mark key="[" line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/retirement/social-security.coffee" timestamp="1423035771600">
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="[" line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/gulpfile.coffee" timestamp="1427030419816">
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="3" column="11" />
-        <mark key="[" line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/reset/input-reset.coffee" timestamp="1427363620191">
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="[" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/less/modal.less" timestamp="1426217891120">
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="[" line="12" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.jade" timestamp="1435057706838">
-        <mark key="]" line="45" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="45" column="26" />
-        <mark key="[" line="45" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/services/APIs/People.coffee" timestamp="1428480242021">
-        <mark key="]" line="25" column="38" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="25" column="38" />
-        <mark key="[" line="25" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/_header.jade" timestamp="1425036616286">
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="[" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/public/less/public-nav.less" timestamp="1425039945008">
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-        <mark key="[" line="30" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/main.coffee" timestamp="1432291268499">
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="26" />
-        <mark key="[" line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/build/config.coffee" timestamp="1421726846003">
-        <mark key="]" line="88" column="25" />
-        <mark key="^" line="88" column="25" />
-        <mark key="." line="88" column="25" />
-        <mark key="[" line="88" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/services/constants/collegeGoalNationalAverage.coffee" timestamp="1421481794753">
-        <mark key="]" line="1" column="40" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="1" column="40" />
-        <mark key="[" line="1" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/highcharts/high-donut.coffee" timestamp="1422346350576">
-        <mark key="]" line="12" column="43" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/account/account-types.coffee" timestamp="1428466069837">
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="5" column="55" />
-        <mark key="[" line="2" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/info/main.jade" timestamp="1434019884845">
-        <mark key="]" line="22" column="93" />
-        <mark key="^" line="22" column="93" />
-        <mark key="." line="22" column="93" />
-        <mark key="[" line="22" column="87" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/others/calculator/main.less" timestamp="1433992020308">
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="0" column="1" />
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-donut.coffee" timestamp="1423643738775">
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="54" column="33" />
-        <mark key="." line="55" column="0" />
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.jade" timestamp="1429868073418">
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="41" />
-        <mark key="[" line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.coffee" timestamp="1435307016430">
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="147" column="26" />
-        <mark key="." line="147" column="0" />
-        <mark key="[" line="147" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/panel.jade" timestamp="1435637293456">
-        <mark key="]" line="13" column="53" />
-        <mark key="^" line="13" column="53" />
-        <mark key="." line="13" column="53" />
-        <mark key="[" line="13" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/style-and-sector/main.coffee" timestamp="1420005095505">
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="[" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/select-states.coffee" timestamp="1429090658068">
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="12" column="53" />
-        <mark key="." line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency.jade" timestamp="1435740921583">
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="[" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/tax-efficiency/main.coffee" timestamp="1430989353599">
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="[" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-stacked-column.coffee" timestamp="1423643812920">
-        <mark key="]" line="45" column="32" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="45" column="0" />
-        <mark key="[" line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.jade" timestamp="1431594911920">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="62" column="37" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/controllers/SpouseRetirementFormController.coffee" timestamp="1421660656908">
-        <mark key="]" line="0" column="60" />
-        <mark key="^" line="0" column="60" />
-        <mark key="." line="0" column="60" />
-        <mark key="[" line="0" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/adviser/client/main.coffee" timestamp="1432116956961">
-        <mark key="]" line="50" column="15" />
-        <mark key="^" line="50" column="15" />
-        <mark key="." line="50" column="14" />
-        <mark key="[" line="50" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/liquidity/main.coffee" timestamp="1424166819301">
-        <mark key="]" line="41" column="16" />
-        <mark key="^" line="41" column="16" />
-        <mark key="." line="41" column="16" />
-        <mark key="[" line="41" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/investment/main.less" timestamp="1434080443645">
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="[" line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/asset-allocation.jade" timestamp="1419993175377">
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="[" line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/bower.json" timestamp="1434421798195">
-        <mark key="]" line="35" column="20" />
-        <mark key="^" line="64" column="5" />
-        <mark key="." line="35" column="20" />
-        <mark key="[" line="35" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="[" line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/app/common/directives/form/field/field.coffee" timestamp="1428917891811">
-        <mark key="]" line="40" column="35" />
-        <mark key="^" line="40" column="37" />
-        <mark key="." line="40" column="35" />
-        <mark key="[" line="40" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/main.less" timestamp="1420342433454">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="0" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/account/main.jade" timestamp="1430993553992">
-        <mark key="]" line="23" column="39" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="23" column="39" />
-        <mark key="[" line="23" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/rightcapital.less" timestamp="1427181752246">
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="[" line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.less" timestamp="1436842550358">
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="[" line="38" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/RightCapital.less" timestamp="1423825924221">
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/client/_open-plan.jade" timestamp="1432537907538">
-        <mark key="]" line="1" column="39" />
-        <mark key="^" line="1" column="68" />
-        <mark key="." line="1" column="39" />
-        <mark key="[" line="1" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-resource.coffee" timestamp="1437112018150">
-        <mark key="'" line="25" column="29" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-        <mark key="[" line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/others/calculator/main.coffee" timestamp="1433991970054">
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="32" column="13" />
-        <mark key="[" line="32" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/tax-efficiency/main.coffee" timestamp="1422417879829">
-        <mark key="]" line="10" column="14" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="10" column="14" />
-        <mark key="[" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/investment/main.less" timestamp="1430278643598">
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="[" line="8" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
-        <mark key="]" line="55" column="46" />
-        <mark key="^" line="55" column="55" />
-        <mark key="." line="55" column="46" />
-        <mark key="[" line="55" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/education/main.less" timestamp="1422417577748">
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="[" line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/yodlee/services/link.less" timestamp="1428744263387">
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tools/tax-in-retirement/summary/main.jade" timestamp="1434425744563">
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="33" />
-        <mark key="[" line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/jobs/src/app/app.coffee" timestamp="1419304681863">
-        <mark key="]" line="27" column="27" />
-        <mark key="^" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="[" line="27" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/ngfplanner/web/build/cdn_config.json" timestamp="1424181761272">
-        <mark key="]" line="19" column="46" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="19" column="46" />
-        <mark key="[" line="19" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client_old/_filters/financial-goals.coffee" timestamp="1421729212559">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/retirement/social-security/main.jade" timestamp="1423801706644">
-        <mark key="]" line="19" column="10" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="19" column="10" />
-        <mark key="[" line="19" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/field.coffee" timestamp="1427790391516">
-        <mark key="]" line="66" column="37" />
-        <mark key="^" line="66" column="37" />
-        <mark key="." line="66" column="37" />
-        <mark key="[" line="66" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number.jade" timestamp="1425545846553">
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="[" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/less/bootstrap.less" timestamp="1430038874987">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/concentration/main.jade" timestamp="1420369415480">
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="1" column="4" />
-        <mark key="[" line="1" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.jade" timestamp="1436424745377">
         <mark key="]" line="6" column="0" />
         <mark key="^" line="4" column="31" />
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/common/directives/highcharts/highcharts.coffee" timestamp="1424178612399">
+        <mark key="]" line="119" column="42" />
+        <mark key="^" line="119" column="42" />
+        <mark key="." line="119" column="42" />
+        <mark key="[" line="119" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/assumptions/main.coffee" timestamp="1429013094767">
         <mark key="]" line="19" column="19" />
@@ -1826,11 +1552,23 @@
         <mark key="." line="35" column="33" />
         <mark key="[" line="35" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/concentration/main.coffee" timestamp="1422417868651">
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="10" column="14" />
+        <mark key="[" line="10" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/card/main.jade" timestamp="1430384751169">
         <mark key="]" line="16" column="77" />
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
         <mark key="[" line="16" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/services/CollegeList.coffee" timestamp="1421721595169">
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="[" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/insurance/disability/main.coffee" timestamp="1423219004381">
         <mark key="]" line="10" column="29" />
@@ -1838,11 +1576,11 @@
         <mark key="." line="5" column="29" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/services/CollegeList.coffee" timestamp="1421721595169">
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="[" line="6" column="14" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/_yodlee-relink.coffee" timestamp="1430384503862">
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="6" />
+        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/restrict.coffee" timestamp="1428499601147">
         <mark key="]" line="35" column="53" />
@@ -1862,11 +1600,23 @@
         <mark key="." line="4" column="41" />
         <mark key="[" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/less/tabs.less" timestamp="1437040630179">
-        <mark key="]" line="36" column="17" />
-        <mark key="^" line="36" column="16" />
-        <mark key="." line="36" column="17" />
-        <mark key="[" line="36" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/client/_filters/common.coffee" timestamp="1419507795371">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input.jade" timestamp="1426737412364">
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="[" line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/States.coffee" timestamp="1437126963312">
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="8" column="10" />
+        <mark key="[" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/forms.less" timestamp="1435920024153">
         <mark key="]" line="194" column="27" />
@@ -1874,11 +1624,17 @@
         <mark key="." line="194" column="27" />
         <mark key="[" line="194" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/account/account-list.less" timestamp="1428740537868">
-        <mark key="]" line="126" column="26" />
-        <mark key="^" line="126" column="27" />
-        <mark key="." line="126" column="26" />
-        <mark key="[" line="126" column="25" />
+      <file name="$USER_HOME$/Documents/web/src/application/less/tabs.less" timestamp="1437040630179">
+        <mark key="]" line="36" column="17" />
+        <mark key="^" line="36" column="16" />
+        <mark key="." line="36" column="17" />
+        <mark key="[" line="36" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" timestamp="1432115191162">
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="4" column="39" />
+        <mark key="[" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/buttons/btn-confirm/dialogs.less" timestamp="1421494933996">
         <mark key="]" line="43" column="18" />
@@ -1886,11 +1642,29 @@
         <mark key="." line="43" column="18" />
         <mark key="[" line="42" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/account/account-list.less" timestamp="1428740537868">
+        <mark key="]" line="126" column="26" />
+        <mark key="^" line="126" column="27" />
+        <mark key="." line="126" column="26" />
+        <mark key="[" line="126" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/PeopleCtrl.coffee" timestamp="1429621916098">
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
         <mark key="[" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="3" column="29" />
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-stacked-areaspline.coffee" timestamp="1423799869762">
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="38" column="0" />
+        <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/goals/controllers/ClientRetirementFormController.coffee" timestamp="1427078912887">
         <mark key="]" line="6" column="53" />
@@ -1910,11 +1684,23 @@
         <mark key="." line="4" column="22" />
         <mark key="[" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/modal/main.jade" timestamp="1435114167949">
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="[" line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/search.less" timestamp="1435566244197">
         <mark key="]" line="53" column="12" />
         <mark key="^" line="53" column="22" />
         <mark key="." line="53" column="12" />
         <mark key="[" line="53" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/registration/main.less" timestamp="1428649240123">
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="58" column="0" />
+        <mark key="[" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/accounts-goals/controllers/ClientRetirementFormController.coffee" timestamp="1421660988268">
         <mark key="]" line="7" column="17" />
@@ -1922,23 +1708,23 @@
         <mark key="." line="7" column="17" />
         <mark key="[" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/filters/formaters/humanize.coffee" timestamp="1428388032685">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/checkable.jade" timestamp="1425558045545">
         <mark key="]" line="5" column="4" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="5" column="4" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/investment/concentration/main.coffee" timestamp="1435203573161">
-        <mark key="]" line="53" column="19" />
-        <mark key="^" line="53" column="25" />
-        <mark key="." line="53" column="19" />
-        <mark key="[" line="53" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/client/common/filters/formaters/humanize.coffee" timestamp="1428388032685">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/checkable-horizontal.jade" timestamp="1427195678597">
+        <mark key="]" line="1" column="54" />
+        <mark key="^" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="[" line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/log-in/main.coffee" timestamp="1435288746362">
         <mark key="]" line="59" column="14" />
@@ -1946,11 +1732,41 @@
         <mark key="." line="59" column="14" />
         <mark key="[" line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/concentration/main.coffee" timestamp="1435203573161">
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="25" />
+        <mark key="." line="53" column="19" />
+        <mark key="[" line="53" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/action-items.coffee" timestamp="1429018510548">
         <mark key="]" line="8" column="0" />
         <mark key="^" line="3" column="52" />
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
+        <mark key="]" line="24" column="62" />
+        <mark key="^" line="24" column="62" />
+        <mark key="." line="24" column="62" />
+        <mark key="[" line="24" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/card.less" timestamp="1427181226737">
+        <mark key="]" line="167" column="24" />
+        <mark key="^" line="167" column="29" />
+        <mark key="." line="167" column="24" />
+        <mark key="[" line="167" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/variables.less" timestamp="1420350010570">
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="26" />
+        <mark key="[" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/investment/style-and-sector/main.less" timestamp="1422956219215">
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.coffee" timestamp="1437126939953">
         <mark key="'" line="56" column="24" />
@@ -1959,23 +1775,11 @@
         <mark key="." line="7" column="8" />
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/client/investment/style-and-sector/main.less" timestamp="1422956219215">
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/donut.coffee" timestamp="1421139693589">
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tools/main.coffee" timestamp="1434509693824">
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="4" />
-        <mark key="[" line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/less/misc.less" timestamp="1427967748804">
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="44" column="17" />
-        <mark key="." line="44" column="17" />
-        <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" timestamp="1437123562570">
         <mark key="'" line="188" column="4" />
@@ -1984,11 +1788,17 @@
         <mark key="." line="152" column="22" />
         <mark key="[" line="152" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/less/client/app.less" timestamp="1419508512869">
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/client/less/misc.less" timestamp="1427967748804">
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="[" line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/tools/main.coffee" timestamp="1434509693824">
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="4" />
+        <mark key="[" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.coffee" timestamp="1435220318228">
         <mark key="]" line="59" column="34" />
@@ -1996,11 +1806,29 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/less/client/app.less" timestamp="1419508512869">
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/adviser/less/header.less" timestamp="1429013575939">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/filters/formaters/currency.coffee" timestamp="1428497458658">
         <mark key="]" line="21" column="9" />
         <mark key="^" line="21" column="9" />
         <mark key="." line="21" column="9" />
         <mark key="[" line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/account/main.coffee" timestamp="1431583077988">
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="[" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/advisor/setting/main.coffee" timestamp="1437050619536">
         <mark key="]" line="12" column="7" />
@@ -2008,17 +1836,36 @@
         <mark key="." line="12" column="7" />
         <mark key="[" line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/style-and-sector/main.less" timestamp="1431417158226">
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="1" column="26" />
+        <mark key="[" line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/investment/style-and-sector/main.jade" timestamp="1420369443741">
         <mark key="]" line="1" column="4" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="1" column="4" />
         <mark key="[" line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/client-jobs-list.jade" timestamp="1437126037747">
+        <mark key="'" line="32" column="53" />
+        <mark key="]" line="13" column="85" />
+        <mark key="^" line="13" column="85" />
+        <mark key="." line="13" column="85" />
+        <mark key="[" line="13" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/checkbox.jade" timestamp="1425545615878">
         <mark key="]" line="3" column="8" />
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
         <mark key="[" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1432291412668">
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="21" />
+        <mark key="[" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/advisor/assumpitons/main.coffee" timestamp="1435202444897">
         <mark key="]" line="7" column="20" />
@@ -2038,11 +1885,35 @@
         <mark key="." line="63" column="20" />
         <mark key="[" line="63" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/common/directives/logo/logo.coffee" timestamp="1425036310452">
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="11" />
+        <mark key="[" line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.coffee" timestamp="1423218031588">
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="5" />
         <mark key="." line="54" column="0" />
         <mark key="[" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/step4/main.coffee" timestamp="1436842167738">
+        <mark key="]" line="25" column="43" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="[" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/action-items/action-items.coffee" timestamp="1422241234845">
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="[" line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/registration/main.coffee" timestamp="1428649026957">
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="[" line="21" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/info/main.less" timestamp="1432024422504">
         <mark key="]" line="5" column="22" />
@@ -2056,6 +1927,30 @@
         <mark key="." line="8" column="9" />
         <mark key="[" line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/registration/step1/main.less" timestamp="1428561293614">
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/master/src/coffee/public.coffee" timestamp="1420343074245">
+        <mark key="]" line="193" column="21" />
+        <mark key="^" line="193" column="21" />
+        <mark key="." line="193" column="21" />
+        <mark key="[" line="193" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/marketplace/main.less" timestamp="1436177799079">
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="[" line="16" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/account/account-list.less" timestamp="1431331323404">
+        <mark key="]" line="71" column="21" />
+        <mark key="^" line="71" column="21" />
+        <mark key="." line="71" column="21" />
+        <mark key="[" line="71" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
@@ -2068,17 +1963,46 @@
         <mark key="." line="4" column="6" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/highconfig.coffee" timestamp="1422102149004">
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="[" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/_yodlee-relink.jade" timestamp="1430384398260">
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="11" />
         <mark key="[" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/action-items/action-items.less" timestamp="1437378873860">
+        <mark key="]" line="89" column="26" />
+        <mark key="^" line="89" column="26" />
+        <mark key="." line="89" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/tax-in-retirement/main.less" timestamp="1434533407963">
         <mark key="]" line="24" column="2" />
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="20" />
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/marketplace/main.jade" timestamp="1436177589861">
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="[" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/goals-panels/sortGoals.coffee" timestamp="1421471503226">
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/services/Resource.coffee" timestamp="1421915412862">
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+        <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/view/index.jade" timestamp="1428986020754">
         <mark key="]" line="3" column="42" />
@@ -2110,11 +2034,29 @@
         <mark key="." line="107" column="0" />
         <mark key="[" line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/yodlee/services/link.coffee" timestamp="1428746361287">
+        <mark key="]" line="231" column="40" />
+        <mark key="^" line="231" column="40" />
+        <mark key="." line="231" column="40" />
+        <mark key="[" line="231" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/sessionStorageService.coffee" timestamp="1432611494914">
         <mark key="]" line="7" column="24" />
         <mark key="^" line="9" column="22" />
         <mark key="." line="7" column="24" />
         <mark key="[" line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/yodlee/form/form.coffee" timestamp="1428673235887">
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="[" line="30" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/navigation-config.coffee" timestamp="1436336339275">
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="[" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/client/portal/main.jade" timestamp="1435057417172">
         <mark key="]" line="35" column="22" />
@@ -2134,17 +2076,11 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.coffee" timestamp="1429697004165">
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/percentage.jade" timestamp="1425545868676">
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="19" />
-        <mark key="[" line="2" column="7" />
+      <file name="$USER_HOME$/Documents/web/src/public/less/bootstrap.less" timestamp="1424917844764">
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
+        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/text.jade" timestamp="1425545981428">
         <mark key="]" line="2" column="19" />
@@ -2152,11 +2088,29 @@
         <mark key="." line="2" column="19" />
         <mark key="[" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/percentage.jade" timestamp="1425545868676">
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="19" />
+        <mark key="[" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.coffee" timestamp="1429697004165">
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/text-horizontal.jade" timestamp="1425549865074">
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
         <mark key="[" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/goals/controllers/HealthCareFormController.coffee" timestamp="1427078939224">
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="[" line="8" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/investment/asset-allocation/main.jade" timestamp="1424183447735">
         <mark key="]" line="21" column="80" />
@@ -2164,17 +2118,47 @@
         <mark key="." line="21" column="80" />
         <mark key="[" line="21" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/web/build/task-copy.coffee" timestamp="1435558455258">
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="6" column="31" />
+        <mark key="[" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.jade" timestamp="1426249086557">
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/controllers/CollegeLookupFormCtrl.coffee" timestamp="1421728400880">
         <mark key="]" line="11" column="12" />
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
         <mark key="[" line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/asset-allocation/main.coffee" timestamp="1435202873408">
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/currency.jade" timestamp="1425545834035">
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="[" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/account/panels/_yodlee-relink.jade" timestamp="1431340649182">
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="0" column="4" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/accounts-goals/main.coffee" timestamp="1421658605125">
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="[" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/action-items/action-items.coffee" timestamp="1429017730452">
         <mark key="]" line="0" column="32" />
@@ -2194,6 +2178,12 @@
         <mark key="." line="21" column="83" />
         <mark key="[" line="21" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.coffee" timestamp="1437129827009">
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="125" column="38" />
+        <mark key="." line="76" column="0" />
+        <mark key="[" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/account/panels/bank/main.coffee" timestamp="1428727481164">
         <mark key="]" line="7" column="0" />
         <mark key="^" line="10" column="27" />
@@ -2205,6 +2195,12 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="36" />
         <mark key="[" line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/registration/step1/high-allocation.coffee" timestamp="1428560920203">
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/src/less/font.less" timestamp="1419308472664">
         <mark key="]" line="4" column="271" />
@@ -2235,6 +2231,18 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
         <mark key="[" line="0" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/client/less/variables.less" timestamp="1423551867106">
+        <mark key="]" line="54" column="18" />
+        <mark key="^" line="54" column="20" />
+        <mark key="." line="54" column="18" />
+        <mark key="[" line="54" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/component/rating/rating.coffee" timestamp="1436259311705">
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="[" line="13" column="43" />
       </file>
     </filemarks>
     <jumps>

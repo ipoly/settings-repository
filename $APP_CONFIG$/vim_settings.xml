@@ -369,12 +369,12 @@
         <mark key="." line="3" column="34" />
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437468837710">
-        <mark key="'" line="23" column="19" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="[" line="10" column="38" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437472850307">
+        <mark key="'" line="34" column="19" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+        <mark key="[" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/apiary.coffee" timestamp="1435202718056">
         <mark key="]" line="49" column="0" />
@@ -2350,46 +2350,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$stateProvider.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZy1vcHRpb25zPSJtLmlkIGFzIG0ubmFtZSBmb3IgbSBpbiBzdGF0ZUxpdmUiLAo=</text>
+      <register name="3" type="4">
+        <text>config.name</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>state.name, name,</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIHN0YXRlcwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>$stateProvider.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBuYW1lLCBjb25maWcudGVtcGxhdGVVcmwK</text>
       </register>
-      <register name="7" type="4">
-        <text>.font-bold</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.font-bold</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgc3RhdGUK</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>name, config.name, config.templateUrl, state.</text>
       </register>
       <register name="4" type="4">
-        <text>.font-bold</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>b</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWcgdGVtcGxhdGUK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.name</text>
       </register>
     </registers>
     <search>

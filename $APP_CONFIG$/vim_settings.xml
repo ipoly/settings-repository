@@ -369,12 +369,12 @@
         <mark key="." line="3" column="34" />
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437465468375">
-        <mark key="'" line="25" column="21" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="[" line="9" column="36" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437468837710">
+        <mark key="'" line="23" column="19" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="[" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/web/apiary.coffee" timestamp="1435202718056">
         <mark key="]" line="49" column="0" />
@@ -2247,9 +2247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="17" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" />
-      <jump line="70" column="16" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" />
-      <jump line="5" column="3" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" />
       <jump line="4" column="3" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" />
       <jump line="74" column="23" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="60" column="4" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
@@ -2347,13 +2344,16 @@
       <jump line="17" column="18" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="22" column="73" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="25" column="21" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="20" column="18" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="21" column="19" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIHN0YXRlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>$stateProvider.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvbHZlXD4=</text>
+        <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -2367,8 +2367,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nIHN0YXRlcwo=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29sbGVjdGlvbiA9IGFkdmlzb3JbImFkdmlzb3JfI3t0eXBlfSJdCg==</text>
+      <register name="0" type="4">
+        <text>$stateProvider.</text>
       </register>
       <register name="7" type="4">
         <text>.font-bold</text>
@@ -2393,9 +2393,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNvbHZlXD4=</last-search>
+      <last-search encoding="base64">XDxzdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvbHZlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyYW5nZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2403,7 +2403,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry encoding="base64">XDxoMVw+</entry>
         <entry encoding="base64">XDxjb2xvclw+</entry>
         <entry encoding="base64">XDxwb3N0XD4=</entry>
@@ -2423,6 +2422,7 @@
         <entry encoding="base64">XDxjdXJzb3JcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZUxpdmVcPg==</entry>
         <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

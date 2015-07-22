@@ -369,12 +369,11 @@
         <mark key="." line="3" column="34" />
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437550343024">
-        <mark key="'" line="34" column="19" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="18" column="76" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437552545221">
+        <mark key="'" line="35" column="19" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/apiary.coffee" timestamp="1435202718056">
         <mark key="]" line="49" column="0" />
@@ -2350,46 +2349,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAkc3RhdGVQcm92aWRlci5zdGF0ZSgnaG9tZScsIHsKICAgICAgdmlld3M6IHsKICAgICAgICAnJzogeyBjb250cm9sbGVyOiAnTGlzdENvbnRyb2xsZXInIH0sCiAgICAgICAgJ2NvbnRhY3QuaXRlbSc6IHsgY29udHJvbGxlcjogJ0l0ZW1Db250cm9sbGVyJyB9CiAgICAgIH0KICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgJz09PT09PT09PT09PT09PT09PT09PT09PT4nCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>.replace(/@.*$/,'')</text>
+        <text encoding="base64">dXJsLCA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAgICAgIGNvbnNvbGUubG9nICc+Pj4+Pj4+Jyx0ZW1wbGF0ZVVybAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">dXJsLCA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmwgPSBuYW1lLnJlcGxhY2UoL1wufF4vZywgJy8nKSArICcvbWFpbi5odG1sJwo=</text>
+        <text encoding="base64">ICAgICAgdXJsID0gJy8nICsgbmFtZS5zcGxpdCgnLicpLnBvcCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAkc3RhdGVQcm92aWRlci5zdGF0ZSgnaG9tZScsIHsKICAgICAgdmlld3M6IHsKICAgICAgICAnJzogeyBjb250cm9sbGVyOiAnTGlzdENvbnRyb2xsZXInIH0sCiAgICAgICAgJ2NvbnRhY3QuaXRlbSc6IHsgY29udHJvbGxlcjogJ0l0ZW1Db250cm9sbGVyJyB9CiAgICAgIH0KICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgJz09PT09PT09PT09PT09PT09PT09PT09PT4nCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3RhdGUgbmFtZScsIHN0YXRlLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgY29udHJvbGxlciA9IHN0YXRlLnJlcGxhY2UoLyg/Ol58LSkoXHcpL2csIChtYXRjaCwgJDEpLT4gJDEudG9VcHBlckNhc2UoKSkgKyAnQ3RybCcK</text>
       </register>
-      <register name="7" type="4">
-        <text>.*$/,'')</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyAgICAgIGNvbnNvbGUubG9nIHN0YXRlLm5hbWUsIHZpZXdzCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>).replace(/\.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBmdWxsU3RhdGUK</text>
       </register>
       <register name="5" type="4">
-        <text>.replace(/@.*$/,'')</text>
+        <text encoding="base64">dGVtcGxhdGU6IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgICBjb25maWcudGVtcGxhdGVVcmwgPz0gbmFtZS5yZXBsYWNlKC9cLnxeL2csICcvJykgKyAnL21haW4uaHRtbCcK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Jzx1aS12aWV3Lz4nLCA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>name</text>
+        <text>, {url, resolve, controller}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3RhdGVOYW1lOicsIHN0YXRlLm5hbWUKICAgICAgICBjb25zb2xlLmxvZyAndmlld05hbWU6JywgbmFtZQogICAgICAgIGNvbnNvbGUubG9nICdhdXRvTmFtZTonLCBhdXRvTmFtZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>

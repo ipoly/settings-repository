@@ -369,12 +369,12 @@
         <mark key="." line="3" column="34" />
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437475551513">
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437549684894">
         <mark key="'" line="42" column="19" />
-        <mark key="]" line="32" column="9" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="32" column="9" />
-        <mark key="[" line="32" column="9" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="18" column="63" />
+        <mark key="." line="19" column="0" />
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/apiary.coffee" timestamp="1435202718056">
         <mark key="]" line="49" column="0" />
@@ -2349,47 +2349,47 @@
       <jump line="21" column="19" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>contact.list</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3RhdGVOYW1lOicsIHN0YXRlLm5hbWUKICAgICAgICBjb25zb2xlLmxvZyAndmlld05hbWU6JywgbmFtZQogICAgICAgIGNvbnNvbGUubG9nICdhdXRvTmFtZTonLCBhdXRvTmFtZQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>contact.list</text>
+        <text>name</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBuYW1lLCBhdXRvTmFtZQo=</text>
       </register>
       <register name="2" type="4">
-        <text>:</text>
+        <text>name</text>
       </register>
-      <register name="1" type="4">
-        <text>contact.list</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3RhdGVOYW1lOicsIHN0YXRlLm5hbWUKICAgICAgICBjb25zb2xlLmxvZyAndmlld05hbWU6JywgbmFtZQogICAgICAgIGNvbnNvbGUubG9nICdhdXRvTmFtZTonLCBhdXRvTmFtZQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3RhdGUgbmFtZScsIHN0YXRlLm5hbWUK</text>
       </register>
       <register name="7" type="4">
-        <text>state</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>state.</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="5" type="4">
+        <text>:</text>
+      </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>contact.list</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBuYW1lCg==</text>
+      <register name="9" type="4">
+        <text>state.</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

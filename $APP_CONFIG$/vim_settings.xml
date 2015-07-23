@@ -2162,11 +2162,11 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.coffee" timestamp="1437563196222">
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="[" line="14" column="7" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.coffee" timestamp="1437623355718">
+        <mark key="]" line="80" column="39" />
+        <mark key="^" line="80" column="39" />
+        <mark key="." line="80" column="39" />
+        <mark key="[" line="80" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/percentage.jade" timestamp="1425545868676">
         <mark key="]" line="2" column="23" />
@@ -2375,46 +2375,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>dashboard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>dashboard</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dXJsOiA=</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">Jy9pbnZlc3RtZW50Jywg</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>,</text>
+      </register>
+      <register name="1" type="4">
+        <text>dashboard</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhYnN0cmFjdCcK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dGVtcGxhdGU6IA==</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">cmVzb2x2ZTog</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">dW5kZWZpbmVkLCA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Jzx1aS12aWV3Lz4nLCA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dXJsOiA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgcmVzdWx0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB1cmw6ICcvYXNzZXQtYWxsb2NhdGlvbicsCiAgICAgICAgdGVtcGxhdGVVcmw6ICcvaW52ZXN0bWVudC9hc3NldC1hbGxvY2F0aW9uL21haW4uaHRtbCcsCiAgICAgICAgY29udHJvbGxlcjogJ0Fzc2V0QWxsb2NhdGlvbkN0cmwnLAogICAgICAgIHJlc29sdmU6IHVuZGVmaW5lZAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dGVtcGxhdGU6IA==</text>
       </register>
     </registers>
     <search>

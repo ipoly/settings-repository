@@ -2059,12 +2059,6 @@
         <mark key="." line="5" column="37" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1434600856598">
-        <mark key="]" line="63" column="20" />
-        <mark key="^" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="[" line="63" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.coffee" timestamp="1423218031588">
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="5" />
@@ -2372,46 +2366,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.content-panel</text>
+        <text>780px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>.content-panel</text>
+        <text>780px</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAuY29udGVudC1wYW5lbAo=</text>
+      <register name="2" type="4">
+        <text>9</text>
       </register>
       <register name="1" type="4">
-        <text>.content-panel</text>
+        <text>780px</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhYnN0cmFjdCcK</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>.content-panel</text>
       </register>
       <register name="6" type="4">
-        <text>dashboard</text>
+        <text>4</text>
       </register>
       <register name="5" type="4">
-        <text>60px</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>60px</text>
+        <text>3</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dXJsOiA=</text>
+        <text>-</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Jy9pbnZlc3RtZW50Jywg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAuY29udGVudC1wYW5lbAo=</text>
       </register>
     </registers>
     <search>

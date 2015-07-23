@@ -21,11 +21,10 @@
         <mark key="." line="33" column="0" />
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/step2/main.coffee" timestamp="1437637578317">
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="[" line="22" column="6" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/step2/main.coffee" timestamp="1437638340485">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/disability/main.less" timestamp="1423646422998">
         <mark key="]" line="5" column="6" />
@@ -1895,11 +1894,11 @@
         <mark key="." line="36" column="17" />
         <mark key="[" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/forms.less" timestamp="1435920024153">
-        <mark key="]" line="194" column="27" />
-        <mark key="^" line="194" column="27" />
-        <mark key="." line="194" column="27" />
-        <mark key="[" line="194" column="24" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/forms.less" timestamp="1437639337688">
+        <mark key="]" line="205" column="4" />
+        <mark key="^" line="205" column="4" />
+        <mark key="." line="205" column="4" />
+        <mark key="[" line="205" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/account/account-list.less" timestamp="1428740537868">
         <mark key="]" line="126" column="26" />
@@ -2121,6 +2120,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="[" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/validation-category.coffee" timestamp="1437112301793">
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="[" line="44" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/taxAdvantages.coffee" timestamp="1429173284625">
         <mark key="]" line="16" column="36" />
@@ -2372,46 +2376,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>780px</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>780px</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>7</text>
+        <text>r</text>
       </register>
       <register name="2" type="4">
-        <text>9</text>
+        <text>n</text>
       </register>
       <register name="1" type="4">
-        <text>780px</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhYnN0cmFjdCcK</text>
+        <text encoding="base64">ICBjb2xvcjogQGdyYXktZGFya2VyOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.content-panel</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cgdGVzdAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>4</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>k</text>
       </register>
       <register name="4" type="4">
-        <text>3</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>780px</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuY29udGVudC1wYW5lbAo=</text>
+        <text encoding="base64">dGVzdD0xCg==</text>
       </register>
     </registers>
     <search>

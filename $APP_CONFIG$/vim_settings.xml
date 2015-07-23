@@ -33,9 +33,6 @@
         <mark key="." line="2" column="17" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/main.coffee" timestamp="1437559404727">
-        <mark key="^" line="61" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/investment/main.coffee" timestamp="1437559700482">
         <mark key="]" line="12" column="23" />
         <mark key="^" line="12" column="23" />
@@ -1585,10 +1582,10 @@
         <mark key="." line="55" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.jade" timestamp="1429868073418">
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="41" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.jade" timestamp="1437624443577">
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
         <mark key="[" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.coffee" timestamp="1435307016430">
@@ -1705,11 +1702,11 @@
         <mark key="." line="11" column="27" />
         <mark key="[" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.less" timestamp="1436842550358">
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="[" line="38" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.less" timestamp="1437624452272">
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="[" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/RightCapital.less" timestamp="1423825924221">
         <mark key="]" line="22" column="36" />
@@ -2375,46 +2372,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dashboard</text>
+        <text>.content-panel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>dashboard</text>
+        <text>.content-panel</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Jy9pbnZlc3RtZW50Jywg</text>
+        <text>-</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAuY29udGVudC1wYW5lbAo=</text>
       </register>
       <register name="1" type="4">
-        <text>dashboard</text>
+        <text>.content-panel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhYnN0cmFjdCcK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cmVzb2x2ZTog</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dW5kZWZpbmVkLCA=</text>
+        <text>dashboard</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Jzx1aS12aWV3Lz4nLCA=</text>
+        <text>60px</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dXJsOiA=</text>
+        <text>60px</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1cmw6ICcvYXNzZXQtYWxsb2NhdGlvbicsCiAgICAgICAgdGVtcGxhdGVVcmw6ICcvaW52ZXN0bWVudC9hc3NldC1hbGxvY2F0aW9uL21haW4uaHRtbCcsCiAgICAgICAgY29udHJvbGxlcjogJ0Fzc2V0QWxsb2NhdGlvbkN0cmwnLAogICAgICAgIHJlc29sdmU6IHVuZGVmaW5lZAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">dXJsOiA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dGVtcGxhdGU6IA==</text>
+        <text encoding="base64">Jy9pbnZlc3RtZW50Jywg</text>
       </register>
     </registers>
     <search>

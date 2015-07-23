@@ -1385,9 +1385,6 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1437645181671">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
@@ -2073,9 +2070,6 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
         <mark key="[" line="13" column="18" />
-      </file>
-      <file name="/a.txt" timestamp="1437561525194">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />

@@ -321,11 +321,10 @@
         <mark key="." line="3" column="25" />
         <mark key="[" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/goals/main.coffee" timestamp="1437643632416">
-        <mark key="]" line="68" column="47" />
-        <mark key="^" line="68" column="47" />
-        <mark key="." line="68" column="47" />
-        <mark key="[" line="68" column="42" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/goals/main.coffee" timestamp="1437645880847">
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="[" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/hightcharts.coffee" timestamp="1420880573232">
         <mark key="]" line="1" column="16" />
@@ -897,11 +896,10 @@
         <mark key="." line="1" column="26" />
         <mark key="[" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/asset-and-liabilities/main.coffee" timestamp="1437643410085">
-        <mark key="]" line="54" column="52" />
-        <mark key="^" line="54" column="52" />
-        <mark key="." line="54" column="52" />
-        <mark key="[" line="54" column="46" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/asset-and-liabilities/main.coffee" timestamp="1437644971145">
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="[" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1432291412668">
         <mark key="]" line="4" column="21" />
@@ -1387,6 +1385,9 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1437645181671">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
@@ -1451,10 +1452,10 @@
         <mark key="." line="18" column="42" />
         <mark key="[" line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/income/main.coffee" timestamp="1437643546044">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/income/main.coffee" timestamp="1437644998920">
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/build/task-jade.coffee" timestamp="1419928505687">
         <mark key="]" line="18" column="31" />
@@ -1516,11 +1517,10 @@
         <mark key="." line="12" column="3" />
         <mark key="[" line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/savings/main.coffee" timestamp="1437643279544">
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="[" line="51" column="53" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/savings/main.coffee" timestamp="1437645036375">
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="[" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.jade" timestamp="1435057706838">
         <mark key="]" line="45" column="26" />
@@ -1696,11 +1696,11 @@
         <mark key="." line="40" column="35" />
         <mark key="[" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/expenses/main.coffee" timestamp="1437643532532">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="55" column="50" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/expenses/main.coffee" timestamp="1437644921005">
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="48" column="50" />
+        <mark key="." line="43" column="0" />
+        <mark key="[" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/main.less" timestamp="1420342433454">
         <mark key="]" line="1" column="0" />
@@ -2074,6 +2074,9 @@
         <mark key="." line="13" column="18" />
         <mark key="[" line="13" column="18" />
       </file>
+      <file name="/a.txt" timestamp="1437561525194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
@@ -2145,11 +2148,11 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.coffee" timestamp="1437623355718">
-        <mark key="]" line="80" column="39" />
-        <mark key="^" line="80" column="39" />
-        <mark key="." line="80" column="39" />
-        <mark key="[" line="80" column="33" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.coffee" timestamp="1437645395686">
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="[" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/percentage.jade" timestamp="1425545868676">
         <mark key="]" line="2" column="23" />
@@ -2357,47 +2360,47 @@
       <jump line="4" column="6" filename="$USER_HOME$/Documents/web/tests/unit/client/common/serivces/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVzb2x2ZTog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdyZWdpc3RyYXRpb24uZ29hbHMxMTExJywgY29uZmlnCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzb2x2ZTog</text>
+        <text>.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6Jy9wcm9maWxlL2dvYWxzL21haW4uaHRtbCcKICAgICAgY29udHJvbGxlcjogJ0dvYWxzQ3RybCcKICAgICAgcmVzb2x2ZToKICAgICAgICBwZW9wbGU6IFsKICAgICAgICAgICdQZW9wbGUnCiAgICAgICAgICAoUGVvcGxlKS0+IFBlb3BsZS4kcHJvbWlzZQogICAgICAgIF0KICAgICAgICBhc3N1bXB0aW9uczogWwogICAgICAgICAgJ1Jlc291cmNlJwogICAgICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdhc3N1bXB0aW9ucycpLnF1ZXJ5KCkuJHByb21pc2UKICAgICAgICBdCiAgICAgICAgZ29hbHM6IFsKICAgICAgICAgICdHb2Fsc1Jlc291cmNlJwogICAgICAgICAgKEdvYWxzUmVzb3VyY2UpLT4gR29hbHNSZXNvdXJjZS5xdWVyeSgpLiRwcm9taXNlCiAgICAgICAgXQogICAgICAgIHBsYW5zOiBbCiAgICAgICAgICAnUGxhbnMnCiAgICAgICAgICAoUGxhbnMpLT4gUGxhbnMuJHByb21pc2UKICAgICAgICBdCiAgICAgICAgY29sbGVnZXM6IFsKICAgICAgICAgICdSZXNvdXJjZScKICAgICAgICAgIChSZXNvdXJjZSktPiBSZXNvdXJjZSgnY29sbGVnZXMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdwcm9maWxlLmdvYWxzMScsIGNvbmZpZwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ewogICAgICBwZW9wbGU6IFsKICAgICAgICAnUGVvcGxlJwogICAgICAgIChQZW9wbGUpLT4gUGVvcGxlLiRwcm9taXNlCiAgICAgIF0KICAgICAgYXNzdW1wdGlvbnM6IFsKICAgICAgICAnUmVzb3VyY2UnCiAgICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdhc3N1bXB0aW9ucycpLnF1ZXJ5KCkuJHByb21pc2UKICAgICAgXQogICAgICBnb2FsczogWwogICAgICAgICdHb2Fsc1Jlc291cmNlJwogICAgICAgIChHb2Fsc1Jlc291cmNlKS0+IEdvYWxzUmVzb3VyY2UucXVlcnkoKS4kcHJvbWlzZQogICAgICBdCiAgICAgIHBsYW5zOiBbCiAgICAgICAgJ1BsYW5zJwogICAgICAgIChQbGFucyktPiBQbGFucy4kcHJvbWlzZQogICAgICBdCiAgICAgIGNvbGxlZ2VzOiBbCiAgICAgICAgJ1Jlc291cmNlJwogICAgICAgIChSZXNvdXJjZSktPiBSZXNvdXJjZSgnY29sbGVnZXMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0KICAgIH0=</text>
+        <text>.</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cmVzb2x2ZTog</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdyZWdpc3RyYXRpb24uZ29hbHMxMTExJywgY29uZmlnCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5ndWxhci5tb2R1bGUgJ3JlZ2lzdHJhdGlvbi5zdGVwNCcsIG1vZHVsZXMKLmNvbmZpZyBbCiAgJyRzdGF0ZVByb3ZpZGVyJwogICgkc3RhdGVQcm92aWRlciktPgogICAgJHN0YXRlUHJvdmlkZXIuc3RhdGUgJ3JlZ2lzdHJhdGlvbi5zdGVwNCcsCl0K</text>
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdyZWdpc3RyYXRpb24uc3RlcDYnLCBjb25maWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdyZWdpc3RyYXRpb24uc3RlcDYnLCBjb25maWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyB0b2RvOiBzcGxpdCB0byBpbmRpdmlkdWFsIG1vZHVsZXMuCg==</text>
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdyZWdpc3RyYXRpb24uc3RlcDYnLCBjb25maWcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyB0b2RvOiBzcGxpdCB0byBpbmRpdmlkdWFsIG1vZHVsZXMuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGNvbmZpZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YW5ndWxhci5tb2R1bGUgJ3JlZ2lzdHJhdGlvbi5zdGVwNicsIG1vZHVsZXMKLmNvbmZpZyBbCiAgJyRzdGF0ZVByb3ZpZGVyJwogICgkc3RhdGVQcm92aWRlciktPgogICAgJHN0YXRlUHJvdmlkZXIuc3RhdGUgJ3JlZ2lzdHJhdGlvbi5zdGVwNicsCiAgICAgIHRlbXBsYXRlVXJsOicvcHJvZmlsZS9nb2Fscy9tYWluLmh0bWwnCiAgICAgIGNvbnRyb2xsZXI6ICdHb2Fsc0N0cmwnCiAgICAgIHJlc29sdmU6CiAgICAgICAgcGVvcGxlOiBbCiAgICAgICAgICAnUGVvcGxlJwogICAgICAgICAgKFBlb3BsZSktPiBQZW9wbGUuJHByb21pc2UKICAgICAgICBdCiAgICAgICAgYXNzdW1wdGlvbnM6IFsKICAgICAgICAgICdSZXNvdXJjZScKICAgICAgICAgIChSZXNvdXJjZSktPiBSZXNvdXJjZSgnYXNzdW1wdGlvbnMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgICAgXQogICAgICAgIGdvYWxzOiBbCiAgICAgICAgICAnR29hbHNSZXNvdXJjZScKICAgICAgICAgIChHb2Fsc1Jlc291cmNlKS0+IEdvYWxzUmVzb3VyY2UucXVlcnkoKS4kcHJvbWlzZQogICAgICAgIF0KICAgICAgICBwbGFuczogWwogICAgICAgICAgJ1BsYW5zJwogICAgICAgICAgKFBsYW5zKS0+IFBsYW5zLiRwcm9taXNlCiAgICAgICAgXQogICAgICAgIGNvbGxlZ2VzOiBbCiAgICAgICAgICAnUmVzb3VyY2UnCiAgICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ2NvbGxlZ2VzJykucXVlcnkoKS4kcHJvbWlzZQogICAgICAgIF0KXQo=</text>
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdwcm9maWxlLmdvYWxzJywgY29uZmlnCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ewogICAgICBwZW9wbGU6IFsKICAgICAgICAnUGVvcGxlJwogICAgICAgIChQZW9wbGUpLT4gUGVvcGxlLiRwcm9taXNlCiAgICAgIF0KICAgICAgZXhwZW5zZXM6IFsKICAgICAgICAnUmVzb3VyY2UnCiAgICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdleHBlbnNlcycpLnF1ZXJ5KCkuJHByb21pc2UKICAgICAgXQogICAgICB0YXhlczogWwogICAgICAgICdSZXNvdXJjZScKICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ3RheGVzJykucXVlcnkoKS4kcHJvbWlzZQogICAgICBdCiAgICAgIHBheXJvbGxzOiBbCiAgICAgICAgJ1Jlc291cmNlJwogICAgICAgIChSZXNvdXJjZSktPiBSZXNvdXJjZSgncGF5cm9sbHMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0KICAgIH0=</text>
+        <text>config</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmVzb2x2ZTog</text>
+        <text>registration.step6</text>
       </register>
     </registers>
     <search>

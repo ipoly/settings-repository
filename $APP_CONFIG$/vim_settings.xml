@@ -798,6 +798,12 @@
         <mark key="." line="8" column="6" />
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1437733623252">
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="[" line="46" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input.jade" timestamp="1426737412364">
         <mark key="]" line="2" column="48" />
         <mark key="^" line="2" column="48" />
@@ -2406,32 +2412,32 @@
       <jump line="26" column="19" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWNsczogWwogICAgICAgICdSZXNvdXJjZScKICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ2FjbHMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0K</text>
+      <register name="&quot;" type="4">
+        <text>(ng-repeat='acl in acls')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xDYWNoZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>advisors1</text>
+        <text>(ng-repeat='acl in acls')</text>
       </register>
       <register name="3" type="4">
-        <text>Households</text>
-      </register>
-      <register name="2" type="4">
         <text>advisors1</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgYWNsczogWwogICAgICAgICdSZXNvdXJjZScKICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ2FjbHMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0K</text>
+      </register>
+      <register name="1" type="4">
+        <text>(ng-repeat='acl in acls')</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaG91c2Vob2xkczogWwogICAgICAgICdIb3VzZWhvbGRzJwogICAgICAgIChIb3VzZWhvbGRzKS0+IEhvdXNlaG9sZHMuJHByb21pc2UKICAgICAgXQo=</text>
       </register>
       <register name="7" type="4">
-        <text>false</text>
+        <text>households</text>
       </register>
       <register name="6" type="4">
-        <text>households</text>
+        <text>Households</text>
       </register>
       <register name="5" type="4">
         <text>Households</text>
@@ -2443,10 +2449,10 @@
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>, -active='true'</text>
       </register>
       <register name="8" type="4">
-        <text>, -active='true'</text>
+        <text>false</text>
       </register>
     </registers>
     <search>

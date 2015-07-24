@@ -1720,6 +1720,12 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="0" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/percentage.coffee" timestamp="1437728045193">
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/main.jade" timestamp="1430993553992">
         <mark key="]" line="23" column="39" />
         <mark key="^" line="23" column="40" />
@@ -2391,7 +2397,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluLXdpZHRoOiAxNDBweDsK</text>
+        <text encoding="base64">ICAgICAgICA5LCAjIHRhYgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRDYXRlZ29yeU1peGVzXD4=</text>
@@ -2408,8 +2414,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWluLXdpZHRoOiAxNDBweDsK</text>
       </register>
-      <register name="0" type="4">
-        <text>targetCategoryMixes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA5LCAjIHRhYgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDUwMwogICAgICAgICAgICAgICAgdGhyb3cocmVqKQogICAgICAgICAgICAgICAgbG9jYXRpb24ucmVwbGFjZSgnLycpCiAgICAgICAgICAgICMgd2hlbiA0MjIKICAgICAgICAgICAgIyAgIF8uZWFjaChyZWouZGF0YSwodixrKS0+IGRlbGV0ZSByZWouZGF0YVtrXSBpZiBfLmlzTnVsbCh2KSkKICAgICAgICAgICAgIyAgIHJldHVybiByZWoK</text>

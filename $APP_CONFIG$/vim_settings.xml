@@ -111,11 +111,10 @@
         <mark key="." line="22" column="7" />
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1435144207908">
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="54" column="36" />
-        <mark key="." line="53" column="0" />
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1437720488150">
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/insurance/disability/main.jade" timestamp="1429239905289">
         <mark key="]" line="22" column="126" />
@@ -2390,47 +2389,47 @@
       <jump line="11" column="21" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>registration.step3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDUwMwogICAgICAgICAgICAgICAgdGhyb3cocmVqKQogICAgICAgICAgICAgICAgbG9jYXRpb24ucmVwbGFjZSgnLycpCiAgICAgICAgICAgICMgd2hlbiA0MjIKICAgICAgICAgICAgIyAgIF8uZWFjaChyZWouZGF0YSwodixrKS0+IGRlbGV0ZSByZWouZGF0YVtrXSBpZiBfLmlzTnVsbCh2KSkKICAgICAgICAgICAgIyAgIHJldHVybiByZWoK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0FjdGl2ZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>registration.step3</text>
+        <text>:</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>:</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDUwMwogICAgICAgICAgICAgICAgdGhyb3cocmVqKQogICAgICAgICAgICAgICAgbG9jYXRpb24ucmVwbGFjZSgnLycpCiAgICAgICAgICAgICMgd2hlbiA0MjIKICAgICAgICAgICAgIyAgIF8uZWFjaChyZWouZGF0YSwodixrKS0+IGRlbGV0ZSByZWouZGF0YVtrXSBpZiBfLmlzTnVsbCh2KSkKICAgICAgICAgICAgIyAgIHJldHVybiByZWoK</text>
       </register>
-      <register name="1" type="4">
-        <text>registration.step3</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDUwMwogICAgICAgICAgICAgICAgdGhyb3cocmVqKQogICAgICAgICAgICAgICAgbG9jYXRpb24ucmVwbGFjZSgnLycpCiAgICAgICAgICAgICMgd2hlbiA0MjIKICAgICAgICAgICAgIyAgIF8uZWFjaChyZWouZGF0YSwodixrKS0+IGRlbGV0ZSByZWouZGF0YVtrXSBpZiBfLmlzTnVsbCh2KSkKICAgICAgICAgICAgIyAgIHJldHVybiByZWoK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdyZWdpc3RyYXRpb24uc3RlcDYnLCBjb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDUwMwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdyZWdpc3RyYXRpb24uc3RlcDMnLCBjb25maWcK</text>
+        <text encoding="base64">Y29uZmlnID0KICB0ZW1wbGF0ZVVybDonL3Byb2ZpbGUvc2F2aW5ncy9tYWluLmh0bWwnCiAgY29udHJvbGxlcjogJ1NhdmluZ3NDdHJsJwogIHJlc29sdmU6CiAgICBwZW9wbGU6IFsKICAgICAgJ1Blb3BsZScKICAgICAgKFBlb3BsZSktPiBQZW9wbGUuJHByb21pc2UKICAgIF0KICAgIFNhdmluZ1JldGlyZW1lbnRzOiBbCiAgICAgICdSZXNvdXJjZScKICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdwYXlyb2xsX3NhdmluZ3MnKS5xdWVyeSgpLiRwcm9taXNlCiAgICBdCiAgICBTYXZpbmdTdHJhdGVnaWVzOiBbCiAgICAgICdSZXNvdXJjZScKICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdzYXZpbmdfc3RyYXRlZ2llcycpLnF1ZXJ5KCkuJHByb21pc2UKICAgIF0KICAgIHRheEFkdmFudGFnZXM6IFsKICAgICAgJ3RheEFkdmFudGFnZXMnCiAgICAgICh0YXhBZHZhbnRhZ2VzKS0+IHRheEFkdmFudGFnZXMuJHByb21pc2UKICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5ndWxhci5tb2R1bGUgJ3JlZ2lzdHJhdGlvbi5zdGVwMycsIG1vZHVsZXMKLmNvbmZpZyBbCiAgJyRzdGF0ZVByb3ZpZGVyJwogICgkc3RhdGVQcm92aWRlciktPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uZmlnID0KICB0ZW1wbGF0ZVVybDonL3Byb2ZpbGUvc2F2aW5ncy9tYWluLmh0bWwnCiAgY29udHJvbGxlcjogJ1NhdmluZ3NDdHJsJwogIHJlc29sdmU6CiAgICBwZW9wbGU6IFsKICAgICAgJ1Blb3BsZScKICAgICAgKFBlb3BsZSktPiBQZW9wbGUuJHByb21pc2UKICAgIF0KICAgIFNhdmluZ1JldGlyZW1lbnRzOiBbCiAgICAgICdSZXNvdXJjZScKICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdwYXlyb2xsX3NhdmluZ3MnKS5xdWVyeSgpLiRwcm9taXNlCiAgICBdCiAgICBTYXZpbmdTdHJhdGVnaWVzOiBbCiAgICAgICdSZXNvdXJjZScKICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdzYXZpbmdfc3RyYXRlZ2llcycpLnF1ZXJ5KCkuJHByb21pc2UKICAgIF0KICAgIHRheEFkdmFudGFnZXM6IFsKICAgICAgJ3RheEFkdmFudGFnZXMnCiAgICAgICh0YXhBZHZhbnRhZ2VzKS0+IHRheEFkdmFudGFnZXMuJHByb21pc2UKICAgIF0K</text>
+      <register name="4" type="4">
+        <text>registration.step3</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uZmlnID0KICB0ZW1wbGF0ZVVybDonL3Byb2ZpbGUvaW5jb21lL21haW4uaHRtbCcKICBjb250cm9sbGVyOiAnSW5jb21lQ3RybCcKICByZXNvbHZlOgogICAgcGVvcGxlOiBbCiAgICAgICdQZW9wbGUnCiAgICAgIChQZW9wbGUpLT4gUGVvcGxlLiRwcm9taXNlCiAgICBdCiAgICBpbmNvbWVzOiBbCiAgICAgICdSZXNvdXJjZScKICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCdpbmNvbWVzJykucXVlcnkoKS4kcHJvbWlzZQogICAgXQogICAgU29jaWFsU2VjdXJpdGllczogWwogICAgICAnUmVzb3VyY2UnCiAgICAgIChSZXNvdXJjZSktPiBSZXNvdXJjZSgnc29jaWFsX3NlY3VyaXRpZXMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICBdCgo=</text>
+        <text encoding="base64">YW5ndWxhci5tb2R1bGUgJ3JlZ2lzdHJhdGlvbi5zdGVwMycsIG1vZHVsZXMKLmNvbmZpZyBbCiAgJyRzdGF0ZVByb3ZpZGVyJwogICgkc3RhdGVQcm92aWRlciktPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>registration.step2</text>
+      <register name="8" type="2">
+        <text encoding="base64">XQo=</text>
       </register>
     </registers>
     <search>

@@ -234,6 +234,12 @@
         <mark key="." line="2" column="4" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" timestamp="1437969107483">
+        <mark key="]" line="59" column="6" />
+        <mark key="^" line="59" column="6" />
+        <mark key="." line="59" column="6" />
+        <mark key="[" line="57" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/public/modules/_form-sign-in.jade" timestamp="1425040433989">
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
@@ -909,13 +915,6 @@
         <mark key="." line="52" column="8" />
         <mark key="[" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/client-jobs-list.jade" timestamp="1437126037747">
-        <mark key="'" line="32" column="53" />
-        <mark key="]" line="13" column="85" />
-        <mark key="^" line="13" column="85" />
-        <mark key="." line="13" column="85" />
-        <mark key="[" line="13" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1432291412668">
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="22" />
@@ -1221,13 +1220,6 @@
         <mark key="^" line="170" column="15" />
         <mark key="." line="170" column="15" />
         <mark key="[" line="170" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/advisor-jobs-list.jade" timestamp="1437034844755">
-        <mark key="'" line="29" column="48" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="[" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/reset/input-reset.coffee" timestamp="1433836256424">
         <mark key="]" line="5" column="14" />
@@ -1886,13 +1878,6 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.coffee" timestamp="1437561405078">
-        <mark key="'" line="22" column="3" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-        <mark key="[" line="11" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/card/main.jade" timestamp="1430384751169">
         <mark key="]" line="16" column="77" />
         <mark key="^" line="16" column="77" />
@@ -2043,13 +2028,6 @@
         <mark key="." line="44" column="17" />
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.coffee" timestamp="1437123562570">
-        <mark key="'" line="188" column="4" />
-        <mark key="]" line="152" column="22" />
-        <mark key="^" line="152" column="21" />
-        <mark key="." line="152" column="22" />
-        <mark key="[" line="152" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/less/client/app.less" timestamp="1419508512869">
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
@@ -2103,6 +2081,11 @@
         <mark key="." line="5" column="37" />
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1437968569593">
+        <mark key="'" line="2" column="2" />
+        <mark key="]" line="57" column="2" />
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.coffee" timestamp="1423218031588">
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="5" />
@@ -2126,13 +2109,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="[" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1437647870091">
-        <mark key="'" line="11" column="21" />
-        <mark key="]" line="4" column="6" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="4" column="6" />
-        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/_yodlee-relink.jade" timestamp="1430384398260">
         <mark key="]" line="0" column="11" />
@@ -2168,13 +2144,6 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="36" />
         <mark key="[" line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/main.less" timestamp="1437126103267">
-        <mark key="'" line="96" column="4" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="107" column="25" />
-        <mark key="." line="107" column="0" />
-        <mark key="[" line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/sessionStorageService.coffee" timestamp="1432611494914">
         <mark key="]" line="7" column="24" />
@@ -2310,7 +2279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="45" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="181" column="47" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="201" column="13" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="166" column="11" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
@@ -2410,49 +2378,50 @@
       <jump line="11" column="8" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
       <jump line="14" column="25" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
       <jump line="26" column="19" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
+      <jump line="2" column="2" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(ng-repeat='acl in acls')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xDYWNoZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>(ng-repeat='acl in acls')</text>
+        <text>-</text>
       </register>
       <register name="3" type="4">
-        <text>advisors1</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWNsczogWwogICAgICAgICdSZXNvdXJjZScKICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ2FjbHMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0K</text>
-      </register>
-      <register name="1" type="4">
         <text>(ng-repeat='acl in acls')</text>
       </register>
+      <register name="2" type="4">
+        <text>-</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaG91c2Vob2xkczogWwogICAgICAgICdIb3VzZWhvbGRzJwogICAgICAgIChIb3VzZWhvbGRzKS0+IEhvdXNlaG9sZHMuJHByb21pc2UKICAgICAgXQo=</text>
+        <text encoding="base64">ICBbCiAgICB7CiAgICAgIG5hbWU6ICdEYXNoYm9hcmQnCiAgICAgIGRlZmF1bHQ6ICdCYWxhbmNlIFNoZWV0JwogICAgICBvZmZzZXQ6ICc0ODBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0JhbGFuY2UgU2hlZXQnfQogICAgICAgIHtuYW1lOiAnTGlxdWlkaXR5J30KICAgICAgXQogICAgfQogICAgewogICAgICBuYW1lOiAnSW52ZXN0bWVudCcKICAgICAgZGVmYXVsdDogJ0Fzc2V0IEFsbG9jYXRpb24nCiAgICAgIG9mZnNldDogJzQwMHB4JwogICAgICBjaGlsZHJlbjogWwogICAgICAgIHtuYW1lOiAnQXNzZXQgQWxsb2NhdGlvbid9CiAgICAgICAge25hbWU6ICdTZWN0b3IgYW5kIFN0eWxlJ30KICAgICAgICB7bmFtZTogJ0NvbmNlbnRyYXRpb24nfQogICAgICAgIHtuYW1lOiAnVGF4IEFsbG9jYXRpb24nfQogICAgICBdCiAgICB9CiAgICB7CiAgICAgIG5hbWU6ICdSZXRpcmVtZW50JwogICAgICBkZWZhdWx0OiAnUHJvamVjdGlvbiBSZXN1bHRzJwogICAgICBvZmZzZXQ6ICc1NTZweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ1Byb2plY3Rpb24gUmVzdWx0cyd9CiAgICAgICAge25hbWU6ICdTdHJlc3MgVGVzdCd9CiAgICAgICAge25hbWU6ICdTb2NpYWwgU2VjdXJpdHknfQogICAgICAgIHtuYW1lOiAnQ2FzaCBGbG93cyd9CiAgICAgIF0KICAgIH0KICAgIHsKICAgICAgbmFtZTogJ0luc3VyYW5jZScKICAgICAgZGVmYXVsdDogJ0xpZmUgSW5zdXJhbmNlJwogICAgICBvZmZzZXQ6ICc4MTBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0xpZmUgSW5zdXJhbmNlJ30KICAgICAgICB7bmFtZTogJ0Rpc2FiaWxpdHknfQogICAgICBdCiAgICB9CiAgICB7bmFtZTogJ0VkdWNhdGlvbid9CiAgICB7CiAgICAgIG5hbWU6ICdQcm9maWxlJwogICAgICBkZWZhdWx0OiAnQXNzZXRzIGFuZCBMaWFiaWxpdGllcycKICAgICAgb2Zmc2V0OiAnNjEwcHgnCiAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAge25hbWU6ICdBc3NldHMgYW5kIExpYWJpbGl0aWVzJ30KICAgICAgICB7bmFtZTogJ0dvYWxzJ30KICAgICAgICB7bmFtZTogJ0luY29tZSd9CiAgICAgICAge25hbWU6ICdTYXZpbmdzJ30KICAgICAgICB7bmFtZTogJ0V4cGVuc2VzJ30KICAgICAgICB7bmFtZTogJ0ZhbWlseSd9CiAgICAgIF0KICAgIH0KICBdCg==</text>
       </register>
       <register name="7" type="4">
-        <text>households</text>
+        <text>Households</text>
       </register>
       <register name="6" type="4">
         <text>Households</text>
       </register>
       <register name="5" type="4">
-        <text>Households</text>
+        <text>advisors1</text>
       </register>
-      <register name="4" type="4">
-        <text>Households</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYWNsczogWwogICAgICAgICdSZXNvdXJjZScKICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ2FjbHMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>, -active='true'</text>
+        <text>households</text>
       </register>
       <register name="8" type="4">
-        <text>false</text>
+        <text>Households</text>
       </register>
     </registers>
     <search>

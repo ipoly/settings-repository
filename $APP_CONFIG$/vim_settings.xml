@@ -200,10 +200,6 @@
         <mark key="." line="3" column="13" />
         <mark key="[" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1437649080698">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="56" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/main.coffee" timestamp="1422347494830">
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="12" />
@@ -234,11 +230,12 @@
         <mark key="." line="2" column="4" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" timestamp="1437969107483">
-        <mark key="]" line="59" column="6" />
-        <mark key="^" line="59" column="6" />
-        <mark key="." line="59" column="6" />
-        <mark key="[" line="57" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" timestamp="1437969847541">
+        <mark key="'" line="58" column="0" />
+        <mark key="]" line="62" column="48" />
+        <mark key="^" line="62" column="48" />
+        <mark key="." line="62" column="48" />
+        <mark key="[" line="62" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/modules/_form-sign-in.jade" timestamp="1425040433989">
         <mark key="]" line="4" column="36" />
@@ -2004,6 +2001,13 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.coffee" timestamp="1437561519614">
+        <mark key="'" line="56" column="24" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/investment/style-and-sector/main.less" timestamp="1422956219215">
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
@@ -2109,6 +2113,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="[" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1437970918218">
+        <mark key="'" line="11" column="21" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="4" column="6" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/_yodlee-relink.jade" timestamp="1430384398260">
         <mark key="]" line="0" column="11" />
@@ -2279,8 +2290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="47" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
-      <jump line="201" column="13" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="166" column="11" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="197" column="32" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="59" column="4" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-efficiency/main.coffee" />
@@ -2379,49 +2388,51 @@
       <jump line="14" column="25" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
       <jump line="26" column="19" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
       <jump line="2" column="2" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xDYWNoZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>:</text>
       </register>
-      <register name="3" type="4">
-        <text>(ng-repeat='acl in acls')</text>
-      </register>
-      <register name="2" type="4">
-        <text>-</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhZ2VzCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbCiAgICB7CiAgICAgIG5hbWU6ICdEYXNoYm9hcmQnCiAgICAgIGRlZmF1bHQ6ICdCYWxhbmNlIFNoZWV0JwogICAgICBvZmZzZXQ6ICc0ODBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0JhbGFuY2UgU2hlZXQnfQogICAgICAgIHtuYW1lOiAnTGlxdWlkaXR5J30KICAgICAgXQogICAgfQogICAgewogICAgICBuYW1lOiAnSW52ZXN0bWVudCcKICAgICAgZGVmYXVsdDogJ0Fzc2V0IEFsbG9jYXRpb24nCiAgICAgIG9mZnNldDogJzQwMHB4JwogICAgICBjaGlsZHJlbjogWwogICAgICAgIHtuYW1lOiAnQXNzZXQgQWxsb2NhdGlvbid9CiAgICAgICAge25hbWU6ICdTZWN0b3IgYW5kIFN0eWxlJ30KICAgICAgICB7bmFtZTogJ0NvbmNlbnRyYXRpb24nfQogICAgICAgIHtuYW1lOiAnVGF4IEFsbG9jYXRpb24nfQogICAgICBdCiAgICB9CiAgICB7CiAgICAgIG5hbWU6ICdSZXRpcmVtZW50JwogICAgICBkZWZhdWx0OiAnUHJvamVjdGlvbiBSZXN1bHRzJwogICAgICBvZmZzZXQ6ICc1NTZweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ1Byb2plY3Rpb24gUmVzdWx0cyd9CiAgICAgICAge25hbWU6ICdTdHJlc3MgVGVzdCd9CiAgICAgICAge25hbWU6ICdTb2NpYWwgU2VjdXJpdHknfQogICAgICAgIHtuYW1lOiAnQ2FzaCBGbG93cyd9CiAgICAgIF0KICAgIH0KICAgIHsKICAgICAgbmFtZTogJ0luc3VyYW5jZScKICAgICAgZGVmYXVsdDogJ0xpZmUgSW5zdXJhbmNlJwogICAgICBvZmZzZXQ6ICc4MTBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0xpZmUgSW5zdXJhbmNlJ30KICAgICAgICB7bmFtZTogJ0Rpc2FiaWxpdHknfQogICAgICBdCiAgICB9CiAgICB7bmFtZTogJ0VkdWNhdGlvbid9CiAgICB7CiAgICAgIG5hbWU6ICdQcm9maWxlJwogICAgICBkZWZhdWx0OiAnQXNzZXRzIGFuZCBMaWFiaWxpdGllcycKICAgICAgb2Zmc2V0OiAnNjEwcHgnCiAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAge25hbWU6ICdBc3NldHMgYW5kIExpYWJpbGl0aWVzJ30KICAgICAgICB7bmFtZTogJ0dvYWxzJ30KICAgICAgICB7bmFtZTogJ0luY29tZSd9CiAgICAgICAge25hbWU6ICdTYXZpbmdzJ30KICAgICAgICB7bmFtZTogJ0V4cGVuc2VzJ30KICAgICAgICB7bmFtZTogJ0ZhbWlseSd9CiAgICAgIF0KICAgIH0KICBdCg==</text>
       </register>
       <register name="7" type="4">
-        <text>Households</text>
+        <text>-</text>
       </register>
-      <register name="6" type="4">
-        <text>Households</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>advisors1</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWNsczogWwogICAgICAgICdSZXNvdXJjZScKICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ2FjbHMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>households</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYWNsczogWwogICAgICAgICdSZXNvdXJjZScKICAgICAgICAoUmVzb3VyY2UpLT4gUmVzb3VyY2UoJ2FjbHMnKS5xdWVyeSgpLiRwcm9taXNlCiAgICAgIF0K</text>
       </register>
       <register name="8" type="4">
-        <text>Households</text>
+        <text>(ng-repeat='acl in acls')</text>
       </register>
     </registers>
     <search>

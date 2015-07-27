@@ -2044,10 +2044,11 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.coffee" timestamp="1437649036599">
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="[" line="41" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.coffee" timestamp="1437990083263">
+        <mark key="]" line="81" column="23" />
+        <mark key="^" line="77" column="29" />
+        <mark key="." line="81" column="23" />
+        <mark key="[" line="81" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/filters/formaters/currency.coffee" timestamp="1428497458658">
         <mark key="]" line="21" column="9" />
@@ -2091,10 +2092,11 @@
         <mark key="." line="5" column="37" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1437968569593">
-        <mark key="'" line="2" column="2" />
-        <mark key="]" line="57" column="2" />
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1437990117334">
+        <mark key="'" line="34" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="[" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.coffee" timestamp="1423218031588">
         <mark key="]" line="54" column="0" />
@@ -2296,11 +2298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-efficiency/main.coffee" />
-      <jump line="62" column="11" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-efficiency/main.coffee" />
-      <jump line="34" column="12" filename="$USER_HOME$/Documents/web/tests/unit/mock/mockAPI.coffee" />
-      <jump line="94" column="29" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
-      <jump line="91" column="4" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="102" column="5" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="103" column="5" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="37" column="28" filename="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" />
@@ -2396,55 +2393,60 @@
       <jump line="60" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
       <jump line="108" column="11" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.less" />
       <jump line="112" column="13" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.less" />
+      <jump line="15" column="6" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNjEwcHgnCg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmRlbnRcPg==</text>
+        <text encoding="base64">XDxvZmZzZXRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>, ng-style='{textIndent: lvl1.offset}'</text>
+        <text>, $attr</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWluZGVudDogMDsK</text>
+        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNTU2cHgnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGV4Cg==</text>
+        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnODEwcHgnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNjEwcHgnCg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBbCiAgICB7CiAgICAgIG5hbWU6ICdEYXNoYm9hcmQnCiAgICAgIGRlZmF1bHQ6ICdCYWxhbmNlIFNoZWV0JwogICAgICBvZmZzZXQ6ICc0ODBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0JhbGFuY2UgU2hlZXQnfQogICAgICAgIHtuYW1lOiAnTGlxdWlkaXR5J30KICAgICAgXQogICAgfQogICAgewogICAgICBuYW1lOiAnSW52ZXN0bWVudCcKICAgICAgZGVmYXVsdDogJ0Fzc2V0IEFsbG9jYXRpb24nCiAgICAgIG9mZnNldDogJzQwMHB4JwogICAgICBjaGlsZHJlbjogWwogICAgICAgIHtuYW1lOiAnQXNzZXQgQWxsb2NhdGlvbid9CiAgICAgICAge25hbWU6ICdTZWN0b3IgYW5kIFN0eWxlJ30KICAgICAgICB7bmFtZTogJ0NvbmNlbnRyYXRpb24nfQogICAgICAgIHtuYW1lOiAnVGF4IEFsbG9jYXRpb24nfQogICAgICBdCiAgICB9CiAgICB7CiAgICAgIG5hbWU6ICdSZXRpcmVtZW50JwogICAgICBkZWZhdWx0OiAnUHJvamVjdGlvbiBSZXN1bHRzJwogICAgICBvZmZzZXQ6ICc1NTZweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ1Byb2plY3Rpb24gUmVzdWx0cyd9CiAgICAgICAge25hbWU6ICdTdHJlc3MgVGVzdCd9CiAgICAgICAge25hbWU6ICdTb2NpYWwgU2VjdXJpdHknfQogICAgICAgIHtuYW1lOiAnQ2FzaCBGbG93cyd9CiAgICAgIF0KICAgIH0KICAgIHsKICAgICAgbmFtZTogJ0luc3VyYW5jZScKICAgICAgZGVmYXVsdDogJ0xpZmUgSW5zdXJhbmNlJwogICAgICBvZmZzZXQ6ICc4MTBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0xpZmUgSW5zdXJhbmNlJ30KICAgICAgICB7bmFtZTogJ0Rpc2FiaWxpdHknfQogICAgICBdCiAgICB9CiAgICB7bmFtZTogJ0VkdWNhdGlvbid9CiAgICB7CiAgICAgIG5hbWU6ICdQcm9maWxlJwogICAgICBkZWZhdWx0OiAnQXNzZXRzIGFuZCBMaWFiaWxpdGllcycKICAgICAgb2Zmc2V0OiAnNjEwcHgnCiAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAge25hbWU6ICdBc3NldHMgYW5kIExpYWJpbGl0aWVzJ30KICAgICAgICB7bmFtZTogJ0dvYWxzJ30KICAgICAgICB7bmFtZTogJ0luY29tZSd9CiAgICAgICAge25hbWU6ICdTYXZpbmdzJ30KICAgICAgICB7bmFtZTogJ0V4cGVuc2VzJ30KICAgICAgICB7bmFtZTogJ0ZhbWlseSd9CiAgICAgIF0KICAgIH0KICBdCg==</text>
+      <register name="0" type="4">
+        <text>root.innerWidth(true) - parent.position().left - parent.innerWidth(true) / 2</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyByb290LmlubmVyV2lkdGgoKSwgcGFyZW50LnBvc2l0aW9uKCkubGVmdCwgcGFyZW50LmlubmVyV2lkdGgoKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text>, $attr</text>
       </register>
-      <register name="5" type="4">
-        <text>, ng-style='{textIndent: lvl1.offset}'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNDgwcHgnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1pbmRlbnQ6IDUzMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNDAwcHgnCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC8gMg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRpcnhtbCByb290Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmRlbnRcPg==</last-search>
+      <last-search encoding="base64">XDxvZmZzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmRlbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvZmZzZXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyYW5nZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2452,7 +2454,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY2NvdW50c1w+</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
         <entry encoding="base64">XDxmZWVfb3B0aW9uX2lkXD4=</entry>
@@ -2472,6 +2473,7 @@
         <entry encoding="base64">XDxBY2xcPg==</entry>
         <entry encoding="base64">XDxhY2xDYWNoZVw+</entry>
         <entry encoding="base64">XDxpbmRlbnRcPg==</entry>
+        <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

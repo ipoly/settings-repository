@@ -1325,10 +1325,11 @@
         <mark key="." line="0" column="13" />
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.less" timestamp="1437971611147">
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="[" line="111" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.less" timestamp="1437985891256">
+        <mark key="]" line="109" column="5" />
+        <mark key="^" line="109" column="5" />
+        <mark key="." line="109" column="5" />
+        <mark key="[" line="108" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/disability/main.coffee" timestamp="1423218284318">
         <mark key="]" line="50" column="91" />
@@ -2398,7 +2399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWluZGVudDogMDsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmRlbnRcPg==</text>
@@ -2406,29 +2407,29 @@
       <register name="-" type="4">
         <text>, ng-style='{textIndent: lvl1.offset}'</text>
       </register>
-      <register name="3" type="4">
-        <text>, ng-style='{textIndent: lvl1.offset}'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0LWluZGVudDogMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1pbmRlbnQ6IDUzMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgdGV4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWluZGVudDogMDsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbCiAgICB7CiAgICAgIG5hbWU6ICdEYXNoYm9hcmQnCiAgICAgIGRlZmF1bHQ6ICdCYWxhbmNlIFNoZWV0JwogICAgICBvZmZzZXQ6ICc0ODBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0JhbGFuY2UgU2hlZXQnfQogICAgICAgIHtuYW1lOiAnTGlxdWlkaXR5J30KICAgICAgXQogICAgfQogICAgewogICAgICBuYW1lOiAnSW52ZXN0bWVudCcKICAgICAgZGVmYXVsdDogJ0Fzc2V0IEFsbG9jYXRpb24nCiAgICAgIG9mZnNldDogJzQwMHB4JwogICAgICBjaGlsZHJlbjogWwogICAgICAgIHtuYW1lOiAnQXNzZXQgQWxsb2NhdGlvbid9CiAgICAgICAge25hbWU6ICdTZWN0b3IgYW5kIFN0eWxlJ30KICAgICAgICB7bmFtZTogJ0NvbmNlbnRyYXRpb24nfQogICAgICAgIHtuYW1lOiAnVGF4IEFsbG9jYXRpb24nfQogICAgICBdCiAgICB9CiAgICB7CiAgICAgIG5hbWU6ICdSZXRpcmVtZW50JwogICAgICBkZWZhdWx0OiAnUHJvamVjdGlvbiBSZXN1bHRzJwogICAgICBvZmZzZXQ6ICc1NTZweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ1Byb2plY3Rpb24gUmVzdWx0cyd9CiAgICAgICAge25hbWU6ICdTdHJlc3MgVGVzdCd9CiAgICAgICAge25hbWU6ICdTb2NpYWwgU2VjdXJpdHknfQogICAgICAgIHtuYW1lOiAnQ2FzaCBGbG93cyd9CiAgICAgIF0KICAgIH0KICAgIHsKICAgICAgbmFtZTogJ0luc3VyYW5jZScKICAgICAgZGVmYXVsdDogJ0xpZmUgSW5zdXJhbmNlJwogICAgICBvZmZzZXQ6ICc4MTBweCcKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7bmFtZTogJ0xpZmUgSW5zdXJhbmNlJ30KICAgICAgICB7bmFtZTogJ0Rpc2FiaWxpdHknfQogICAgICBdCiAgICB9CiAgICB7bmFtZTogJ0VkdWNhdGlvbid9CiAgICB7CiAgICAgIG5hbWU6ICdQcm9maWxlJwogICAgICBkZWZhdWx0OiAnQXNzZXRzIGFuZCBMaWFiaWxpdGllcycKICAgICAgb2Zmc2V0OiAnNjEwcHgnCiAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAge25hbWU6ICdBc3NldHMgYW5kIExpYWJpbGl0aWVzJ30KICAgICAgICB7bmFtZTogJ0dvYWxzJ30KICAgICAgICB7bmFtZTogJ0luY29tZSd9CiAgICAgICAge25hbWU6ICdTYXZpbmdzJ30KICAgICAgICB7bmFtZTogJ0V4cGVuc2VzJ30KICAgICAgICB7bmFtZTogJ0ZhbWlseSd9CiAgICAgIF0KICAgIH0KICBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHBhZ2VzCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>:</text>
+      </register>
+      <register name="5" type="4">
+        <text>, ng-style='{textIndent: lvl1.offset}'</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGV4dC1pbmRlbnQ6IDUzMHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
@@ -2437,7 +2438,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

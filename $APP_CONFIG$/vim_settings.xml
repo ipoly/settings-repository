@@ -128,6 +128,12 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/acl.coffee" timestamp="1437991709078">
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="[" line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/JobCategories.coffee" timestamp="1436952711184">
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -230,12 +236,12 @@
         <mark key="." line="2" column="4" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" timestamp="1437969847541">
-        <mark key="'" line="58" column="0" />
-        <mark key="]" line="62" column="48" />
-        <mark key="^" line="62" column="48" />
-        <mark key="." line="62" column="48" />
-        <mark key="[" line="62" column="48" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" timestamp="1437991110351">
+        <mark key="'" line="36" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="57" column="48" />
+        <mark key="." line="45" column="0" />
+        <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/modules/_form-sign-in.jade" timestamp="1425040433989">
         <mark key="]" line="4" column="36" />
@@ -2298,11 +2304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="5" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
-      <jump line="103" column="5" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
-      <jump line="37" column="28" filename="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" />
-      <jump line="44" column="28" filename="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" />
-      <jump line="38" column="32" filename="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" />
       <jump line="45" column="16" filename="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" />
       <jump line="52" column="16" filename="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" />
       <jump line="59" column="16" filename="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.jade" />
@@ -2398,49 +2399,54 @@
       <jump line="14" column="0" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
+      <jump line="17" column="8" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNjEwcHgnCg==</text>
+      <register name="&quot;" type="4">
+        <text>ClientPages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZzZXRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>, $attr</text>
+        <text>ClientPages</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNTU2cHgnCg==</text>
+      <register name="3" type="4">
+        <text>client-pages</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnODEwcHgnCg==</text>
+      <register name="2" type="4">
+        <text>ACL</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNjEwcHgnCg==</text>
+      <register name="1" type="4">
+        <text>ClientPages</text>
       </register>
       <register name="0" type="4">
         <text>root.innerWidth(true) - parent.position().left - parent.innerWidth(true) / 2</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyByb290LmlubmVyV2lkdGgoKSwgcGFyZW50LnBvc2l0aW9uKCkubGVmdCwgcGFyZW50LmlubmVyV2lkdGgoKQo=</text>
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc0MDBweCcK</text>
       </register>
-      <register name="6" type="4">
-        <text>, $attr</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc1NTZweCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNDgwcHgnCg==</text>
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc4MTBweCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb2Zmc2V0OiAnNDAwcHgnCg==</text>
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc2MTBweCcK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8gMg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc0ODBweCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRpcnhtbCByb290Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZHJlbjogWwo=</text>
       </register>
     </registers>
     <search>

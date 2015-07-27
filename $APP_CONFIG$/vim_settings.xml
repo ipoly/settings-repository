@@ -128,11 +128,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/acl.coffee" timestamp="1437991709078">
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="[" line="1" column="10" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/acl.coffee" timestamp="1437994251574">
+        <mark key="]" line="57" column="12" />
+        <mark key="^" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+        <mark key="[" line="57" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/JobCategories.coffee" timestamp="1436952711184">
         <mark key="]" line="0" column="18" />
@@ -2406,8 +2406,8 @@
       <jump line="36" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ClientPages</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgXy5tYXAgCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZzZXRcPg==</text>
@@ -2416,37 +2416,37 @@
         <text>ClientPages</text>
       </register>
       <register name="3" type="4">
-        <text>client-pages</text>
-      </register>
-      <register name="2" type="4">
         <text>ACL</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>ClientPages</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgXy5tYXAgCg==</text>
       </register>
       <register name="0" type="4">
         <text>root.innerWidth(true) - parent.position().left - parent.innerWidth(true) / 2</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc0MDBweCcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc1NTZweCcK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc4MTBweCcK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc2MTBweCcK</text>
+      </register>
+      <register name="4" type="4">
+        <text>client-pages</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc0ODBweCcK</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZHJlbjogWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZHJlbjogWwo=</text>
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6ICc0MDBweCcK</text>
       </register>
     </registers>
     <search>

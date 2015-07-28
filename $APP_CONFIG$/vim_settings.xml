@@ -134,11 +134,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/acl.coffee" timestamp="1438055527952">
-        <mark key="]" line="67" column="40" />
-        <mark key="^" line="67" column="40" />
-        <mark key="." line="67" column="40" />
-        <mark key="[" line="67" column="40" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/acl.coffee" timestamp="1438057443209">
+        <mark key="]" line="74" column="16" />
+        <mark key="^" line="74" column="16" />
+        <mark key="." line="74" column="16" />
+        <mark key="[" line="76" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/JobCategories.coffee" timestamp="1436952711184">
         <mark key="]" line="0" column="18" />
@@ -813,11 +813,11 @@
         <mark key="." line="8" column="6" />
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1437733623252">
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
-        <mark key="[" line="46" column="29" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1438057155353">
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="23" />
+        <mark key="[" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input.jade" timestamp="1426737412364">
         <mark key="]" line="2" column="48" />
@@ -1840,11 +1840,11 @@
         <mark key="." line="66" column="37" />
         <mark key="[" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.coffee" timestamp="1438054297165">
-        <mark key="]" line="42" column="70" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.coffee" timestamp="1438056644023">
+        <mark key="]" line="95" column="20" />
         <mark key="^" line="42" column="70" />
-        <mark key="." line="42" column="70" />
-        <mark key="[" line="42" column="66" />
+        <mark key="." line="95" column="20" />
+        <mark key="[" line="95" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number.jade" timestamp="1425545846553">
         <mark key="]" line="2" column="19" />
@@ -2409,46 +2409,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>read</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZzZXRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>{}</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cGFnZWNoaWxkcmVuIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBhY2wucGFnZXMK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhY2wK</text>
       </register>
       <register name="1" type="4">
-        <text>read</text>
+        <text>{}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBwYWdlLmNoaWxkcmVuCiAgICAgICAgICBjaGlsZHJlbiA9IHJlYWRQZXJtaXNzaW9uIHBhZ2UuY2hpbGRyZW4K</text>
       </register>
       <register name="7" type="4">
-        <text>PageMap</text>
+        <text>acl</text>
       </register>
-      <register name="6" type="4">
-        <text>Access</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYWNsID0K</text>
       </register>
       <register name="5" type="4">
-        <text>getPageMap</text>
+        <text>acl</text>
       </register>
       <register name="4" type="4">
-        <text>visiable</text>
+        <text>acl</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYWNsID0gUmVzb3VyY2UoJ2FjbHMnKS5xdWVyeSh7aG91c2Vob2xkX2lkfSkK</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>Resource('acls').query({household_id})</text>
       </register>
     </registers>
     <search>
@@ -2456,7 +2456,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxvZmZzZXRcPg==</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxyYW5nZVw+</last-substitute>
+      <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

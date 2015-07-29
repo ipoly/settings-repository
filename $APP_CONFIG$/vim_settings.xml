@@ -237,13 +237,6 @@
         <mark key="." line="2" column="4" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" timestamp="1437991110351">
-        <mark key="'" line="36" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="57" column="48" />
-        <mark key="." line="45" column="0" />
-        <mark key="[" line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/public/modules/_form-sign-in.jade" timestamp="1425040433989">
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
@@ -641,6 +634,7 @@
         <mark key="." line="47" column="0" />
         <mark key="[" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/sector-and-style/main.jade" timestamp="1438137068445" />
       <file name="$USER_HOME$/Documents/web/src/application/advisor/navigation-config.coffee" timestamp="1438079159708">
         <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="17" />
@@ -653,6 +647,7 @@
         <mark key="." line="7" column="13" />
         <mark key="[" line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/assumptions/main.coffee" timestamp="1437561618584" />
       <file name="$USER_HOME$/Documents/web/src/application/client/account/modal/manual-account/main.jade" timestamp="1430906731997">
         <mark key="]" line="57" column="30" />
         <mark key="^" line="57" column="28" />
@@ -772,6 +767,12 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
         <mark key="[" line="28" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/_add-btn.jade" timestamp="1438137168124">
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="[" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/insurance/life-insurance/main.coffee" timestamp="1422345930298">
         <mark key="]" line="6" column="17" />
@@ -1383,6 +1384,9 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1437558732514">
+        <mark key="[" line="15" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/balance-sheet/main.jade" timestamp="1424156321089">
         <mark key="]" line="1" column="37" />
         <mark key="^" line="1" column="37" />
@@ -1443,7 +1447,7 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1438078875575">
+      <file name="/a.dummy" timestamp="1438137094703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
@@ -1582,6 +1586,7 @@
         <mark key="." line="12" column="3" />
         <mark key="[" line="12" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.jade" timestamp="1438137087784" />
       <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.jade" timestamp="1435057706838">
         <mark key="]" line="45" column="26" />
         <mark key="^" line="12" column="26" />
@@ -1813,6 +1818,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/_btn-add.jade" timestamp="1438137411073">
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="[" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/others/calculator/main.coffee" timestamp="1433991970054">
         <mark key="]" line="32" column="13" />
@@ -2188,9 +2199,6 @@
         <mark key="." line="13" column="18" />
         <mark key="[" line="13" column="18" />
       </file>
-      <file name="/a.txt" timestamp="1437561525194">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
@@ -2483,97 +2491,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>sref</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>sref</text>
       </register>
       <register name="3" type="4">
+        <text>i</text>
+      </register>
+      <register name="2" type="4">
         <text>-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgdXNlcgo=</text>
-      </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>sref</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3RhdGljOiB0cnVlCg==</text>
       </register>
       <register name="7" type="4">
-        <text>[
-      {
-        name: 'Dashboard'
-        default: 'Balance Sheet'
-        children: [
-          {name: 'Balance Sheet'}
-          {name: 'Liquidity'}
-        ]
-      }
-      {
-        name: 'Investment'
-        default: 'Asset Allocation'
-        children: [
-          {name: 'Asset Allocation'}
-          {name: 'Sector and Style'}
-          {name: 'Concentration'}
-          {name: 'Tax Allocation'}
-        ]
-      }
-      {
-        name: 'Retirement'
-        default: 'Projection Results'
-        children: [
-          {name: 'Projection Results'}
-          {name: 'Stress Test'}
-          {name: 'Social Security'}
-          {name: 'Cash Flows'}
-        ]
-      }
-      {
-        name: 'Insurance'
-        default: 'Life Insurance'
-        children: [
-          {name: 'Life Insurance'}
-          {name: 'Disability'}
-        ]
-      }
-      {name: 'Education'}
-      {
-        name: 'Profile'
-        default: 'Assets and Liabilities'
-        static: true
-        children: [
-          {name: 'Assets and Liabilities'}
-          {name: 'Goals'}
-          {name: 'Income'}
-          {name: 'Savings'}
-          {name: 'Expenses'}
-          {name: 'Family'}
-        ]
-      }
-    ]</text>
+        <text>}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
-      <register name="5" type="4">
-        <text>-</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9hLmJ0bi1hZGQoaHJlZj0ncHJvZmlsZS9hY2NvdW50cz9hZGQnKSBBZGQgYWNjb3VudAo=</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>!</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>?</text>
+        <text>e</text>
       </register>
     </registers>
     <search>

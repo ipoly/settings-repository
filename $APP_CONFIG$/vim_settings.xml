@@ -1649,11 +1649,11 @@
         <mark key="." line="55" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.jade" timestamp="1437624443577">
-        <mark key="]" line="1" column="4" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.jade" timestamp="1438151193581">
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="[" line="0" column="28" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/panel.jade" timestamp="1435637293456">
         <mark key="]" line="13" column="53" />
@@ -1781,11 +1781,11 @@
         <mark key="." line="11" column="27" />
         <mark key="[" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.less" timestamp="1437624452272">
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.less" timestamp="1438151619317">
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="[" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/RightCapital.less" timestamp="1423825924221">
         <mark key="]" line="22" column="36" />
@@ -1980,7 +1980,7 @@
         <mark key="." line="36" column="17" />
         <mark key="[" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/forms.less" timestamp="1438143986393">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/forms.less" timestamp="1438150796072">
         <mark key="]" line="211" column="18" />
         <mark key="^" line="211" column="18" />
         <mark key="." line="211" column="18" />
@@ -2471,46 +2471,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kaXJ4bWwgJGVsbQo=</text>
+        <text encoding="base64">ICAgICAgaHIK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>$elm.find(':input')</text>
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>4</text>
       </register>
       <register name="2" type="4">
-        <text>$elm.find(':input')</text>
+        <text>0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kaXJ4bWwgJGVsbQo=</text>
+        <text encoding="base64">ICAgICAgaHIK</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LmZpbmQoJy5pbnB1dC1ncm91cCA+IC5pbnB1dC1nb3VycC1hZGRvbicp</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>red</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA6Zmlyc3QtY2hpbGQK</text>
+      <register name="6" type="4">
+        <text>@brand-primary;</text>
       </register>
       <register name="5" type="4">
-        <text>C</text>
+        <text>;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICRlbG0uZmluZCgnOmlucHV0JykuZm9jdXMoKQo=</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>@barnd-primary;</text>
       </register>
     </registers>
     <search>

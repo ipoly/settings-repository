@@ -834,12 +834,12 @@
         <mark key="." line="8" column="6" />
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1438153933535">
-        <mark key="'" line="49" column="53" />
-        <mark key="]" line="41" column="28" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="28" />
-        <mark key="[" line="41" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1438154765865">
+        <mark key="'" line="51" column="53" />
+        <mark key="]" line="44" column="33" />
+        <mark key="^" line="44" column="12" />
+        <mark key="." line="44" column="33" />
+        <mark key="[" line="44" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input.jade" timestamp="1426737412364">
         <mark key="]" line="2" column="48" />
@@ -2470,47 +2470,47 @@
       <jump line="53" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/constants/client-pages.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>form-horizontal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>form-horizontal</text>
+        <text>client action item interaction</text>
       </register>
       <register name="3" type="4">
-        <text>subPagce</text>
+        <text>b</text>
       </register>
       <register name="2" type="4">
-        <text>permission</text>
+        <text>client action item interaction</text>
       </register>
-      <register name="1" type="4">
-        <text>form-horizontal</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGZpZWxkc2V0LmZvcm0taG9yaXpvbnRhbChuZy1mb3JtPSdwYWdlc0Zvcm0nLCByYy1mb3JtLXJlc291cmNlPSdhY2wnLCBuZy1kaXNhYmxlZD0ncGFnZXNGb3JtLmlzTG9hZGluZycpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>enabled</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>.pull-right</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQodHlwZT0nY2hlY2tib3gnLCAgbmctbW9kZWw9J3N1YlBhZ2UucGVybWlzc2lvbicpCiAgICAgICAgICAgICAgbGFiZWwgQWN0aW9uIGl0ZW1zIGVuYWJsZWQK</text>
+      <register name="9" type="4">
+        <text>form-horizontal</text>
       </register>
-      <register name="8" type="4">
-        <text>p</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZpZWxkc2V0LnB1bGwtcmlnaHQobmctZm9ybT0nYWN0aW9uSXRlbXNGb3JtJywgcmMtZm9ybS1yZXNvdXJjZT0nYWNsJywgbmctZGlzYWJsZWQ9J2FjdGlvbkl0ZW1zRm9ybS5pc0xvYWRpbmcnKQogICAgICAgICAgICBmaWVsZCh0eXBlPSdjaGVja2JveCcsICBuZy1tb2RlbD0nYWNsLmFjdGlvbl9pdGVtcycpCiAgICAgICAgICAgICAgbGFiZWwgQWN0aW9uIGl0ZW1zIGVuYWJsZWQK</text>
       </register>
     </registers>
     <search>

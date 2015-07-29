@@ -1886,11 +1886,11 @@
         <mark key="." line="66" column="37" />
         <mark key="[" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.coffee" timestamp="1438072165693">
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="42" column="70" />
-        <mark key="." line="90" column="0" />
-        <mark key="[" line="90" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.coffee" timestamp="1438136351270">
+        <mark key="]" line="71" column="18" />
+        <mark key="^" line="71" column="18" />
+        <mark key="." line="71" column="18" />
+        <mark key="[" line="71" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number.jade" timestamp="1425545846553">
         <mark key="]" line="2" column="19" />
@@ -2482,31 +2482,28 @@
       <jump line="53" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/constants/client-pages.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljOiB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
-      </register>
-      <register name="2" type="4">
         <text>-</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgdXNlcgo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3RhdGljOiB0cnVlCg==</text>
       </register>
       <register name="7" type="4">
-        <text>?</text>
-      </register>
-      <register name="6" type="4">
         <text>[
       {
         name: 'Dashboard'
@@ -2560,20 +2557,23 @@
       }
     ]</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>-</text>
+      </register>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgJHNjb3BlLm5hdnMK</text>
+      <register name="9" type="4">
+        <text>!</text>
       </register>
       <register name="8" type="4">
-        <text>!</text>
+        <text>?</text>
       </register>
     </registers>
     <search>

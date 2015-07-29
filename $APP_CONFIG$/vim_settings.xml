@@ -310,11 +310,11 @@
         <mark key="." line="8" column="29" />
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1435140560402">
-        <mark key="]" line="75" column="12" />
-        <mark key="^" line="75" column="12" />
-        <mark key="." line="75" column="12" />
-        <mark key="[" line="75" column="7" />
+      <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1438155982181">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/accounts-goals/controllers/HealthCareFormController.coffee" timestamp="1421661225071">
         <mark key="]" line="7" column="34" />
@@ -834,12 +834,12 @@
         <mark key="." line="8" column="6" />
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1438154765865">
-        <mark key="'" line="51" column="53" />
-        <mark key="]" line="44" column="33" />
-        <mark key="^" line="44" column="12" />
-        <mark key="." line="44" column="33" />
-        <mark key="[" line="44" column="32" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1438156109015">
+        <mark key="'" line="46" column="53" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="4" />
+        <mark key="." line="34" column="5" />
+        <mark key="[" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input.jade" timestamp="1426737412364">
         <mark key="]" line="2" column="48" />
@@ -1449,6 +1449,9 @@
         <mark key="^" line="45" column="19" />
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
+      </file>
+      <file name="/a.dummy" timestamp="1438155843738">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
@@ -2179,6 +2182,9 @@
         <mark key="." line="13" column="18" />
         <mark key="[" line="13" column="18" />
       </file>
+      <file name="/a.txt" timestamp="1437561525194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
@@ -2470,47 +2476,47 @@
       <jump line="53" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/constants/client-pages.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>(ng-if='acls.length')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>client action item interaction</text>
+        <text>(ng-if='acls.length')</text>
       </register>
-      <register name="3" type="4">
-        <text>b</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text>client action item interaction</text>
+        <text>(ng-if='invs.length')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>(ng-if='acls.length')</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGZpZWxkc2V0LmZvcm0taG9yaXpvbnRhbChuZy1mb3JtPSdwYWdlc0Zvcm0nLCByYy1mb3JtLXJlc291cmNlPSdhY2wnLCBuZy1kaXNhYmxlZD0ncGFnZXNGb3JtLmlzTG9hZGluZycpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>enabled</text>
+      <register name="7" type="2">
+        <text encoding="base64">QGdyYXktZGFyazogI2E1YTVhNTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">QHRleHQtY29sb3I6IEBncmF5LWRhcmtlcjsK</text>
       </register>
-      <register name="5" type="4">
-        <text>.pull-right</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aCBJbnZpdGF0aW9ucyBwZW5kaW5nCg==</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>th</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>form-horizontal</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGgzIEludml0YXRpb25zIGFjY2VwdGVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpZWxkc2V0LnB1bGwtcmlnaHQobmctZm9ybT0nYWN0aW9uSXRlbXNGb3JtJywgcmMtZm9ybS1yZXNvdXJjZT0nYWNsJywgbmctZGlzYWJsZWQ9J2FjdGlvbkl0ZW1zRm9ybS5pc0xvYWRpbmcnKQogICAgICAgICAgICBmaWVsZCh0eXBlPSdjaGVja2JveCcsICBuZy1tb2RlbD0nYWNsLmFjdGlvbl9pdGVtcycpCiAgICAgICAgICAgICAgbGFiZWwgQWN0aW9uIGl0ZW1zIGVuYWJsZWQK</text>
+        <text encoding="base64">ICAgIHRoZWFkCiAgICAgIHRyCiAgICAgICAgdGgK</text>
       </register>
     </registers>
     <search>

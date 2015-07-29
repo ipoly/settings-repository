@@ -129,11 +129,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/acl.coffee" timestamp="1438078748448">
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="13" />
-        <mark key="[" line="6" column="12" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/acl.coffee" timestamp="1438158257440">
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="1" column="13" />
+        <mark key="[" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/JobCategories.coffee" timestamp="1436952711184">
         <mark key="]" line="0" column="18" />
@@ -459,6 +459,9 @@
         <mark key="^" line="36" column="38" />
         <mark key="." line="36" column="38" />
         <mark key="[" line="36" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1438157896103">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage.coffee" timestamp="1428502167098">
         <mark key="]" line="44" column="6" />
@@ -1432,6 +1435,12 @@
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/action-items/action-items.jade" timestamp="1438157554358">
+        <mark key="]" line="1" column="80" />
+        <mark key="^" line="1" column="80" />
+        <mark key="." line="1" column="80" />
+        <mark key="[" line="1" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/pages/sign-in.jade" timestamp="1421744099919">
         <mark key="]" line="20" column="18" />
         <mark key="^" line="7" column="37" />
@@ -2111,11 +2120,6 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.coffee" timestamp="1438075048280">
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="[" line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/filters/formaters/currency.coffee" timestamp="1428497458658">
         <mark key="]" line="21" column="9" />
         <mark key="^" line="21" column="9" />
@@ -2158,7 +2162,7 @@
         <mark key="." line="5" column="37" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1438079045779">
+      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1438157895134">
         <mark key="]" line="13" column="0" />
         <mark key="^" line="11" column="25" />
         <mark key="." line="13" column="0" />
@@ -2221,11 +2225,6 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="[" line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/validation-category.coffee" timestamp="1437112301793">
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="[" line="44" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/taxAdvantages.coffee" timestamp="1429173284625">
         <mark key="]" line="16" column="36" />
@@ -2477,46 +2476,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(ng-if='acls.length')</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>(ng-if='acls.length')</text>
+        <text>S</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>(ng-if='invs.length')</text>
+        <text>S</text>
       </register>
       <register name="1" type="4">
-        <text>(ng-if='acls.length')</text>
+        <text>S</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGZpZWxkc2V0LmZvcm0taG9yaXpvbnRhbChuZy1mb3JtPSdwYWdlc0Zvcm0nLCByYy1mb3JtLXJlc291cmNlPSdhY2wnLCBuZy1kaXNhYmxlZD0ncGFnZXNGb3JtLmlzTG9hZGluZycpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QGdyYXktZGFyazogI2E1YTVhNTsK</text>
+      <register name="7" type="4">
+        <text>S</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHRleHQtY29sb3I6IEBncmF5LWRhcmtlcjsK</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aCBJbnZpdGF0aW9ucyBwZW5kaW5nCg==</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>th</text>
+        <text>f</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGgzIEludml0YXRpb25zIGFjY2VwdGVkCg==</text>
+      <register name="9" type="4">
+        <text>(ng-if='invs.length')</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoZWFkCiAgICAgIHRyCiAgICAgICAgdGgK</text>
+      <register name="8" type="4">
+        <text>(ng-if='acls.length')</text>
       </register>
     </registers>
     <search>

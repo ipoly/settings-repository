@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,9 +18,9 @@
       <mask>*.coffee,*.jade</mask>
       <mask>*.coffee, *.jade</mask>
       <mask>*.cade</mask>
-      <mask>*.coffee</mask>
       <mask>*.jade</mask>
       <mask>*.less</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>

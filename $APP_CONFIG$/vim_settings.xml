@@ -1556,6 +1556,12 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438335891143">
+        <mark key="]" line="233" column="24" />
+        <mark key="^" line="233" column="24" />
+        <mark key="." line="233" column="24" />
+        <mark key="[" line="233" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/account-list.less" timestamp="1430902770371">
         <mark key="]" line="71" column="33" />
         <mark key="^" line="71" column="33" />
@@ -1878,6 +1884,12 @@
         <mark key="^" line="1" column="68" />
         <mark key="." line="1" column="39" />
         <mark key="[" line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-resource.coffee" timestamp="1438335873594">
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="[" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/investment/_btn-add.jade" timestamp="1438137411073">
         <mark key="]" line="0" column="13" />
@@ -2569,7 +2581,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcCBJbnZpdGUge3twZXJzb25OYW1lfX0gdG8gY3JlYXRlIGEgY2xpZW50IHBvcnRhbCBhY2NvdW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuYiA9IHJlc291cmNlCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xcPg==</text>
@@ -2577,38 +2589,38 @@
       <register name="-" type="4">
         <text>code</text>
       </register>
-      <register name="3" type="4">
-        <text>code</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcCBJbnZpdGUge3twZXJzb25OYW1lfX0gdG8gY3JlYXRlIGEgY2xpZW50IHBvcnRhbCBhY2NvdW50Lgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>code</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCBJbnZpdGUge3twZXJzb25OYW1lfX0gdG8gY3JlYXRlIGEgY2xpZW50IHBvcnRhbCBhY2NvdW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuYiA9IHJlc291cmNlCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuZm9ybS1ncm91cAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhyCg==</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaHIK</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>code</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>code</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LmxhYmVsLmxhYmVsLWRlZmF1bHQg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGhyCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>pending</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaHIK</text>
       </register>
     </registers>
     <search>

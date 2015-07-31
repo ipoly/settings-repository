@@ -1539,12 +1539,12 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438313597740">
-        <mark key="'" line="98" column="11" />
-        <mark key="]" line="97" column="9" />
-        <mark key="^" line="97" column="9" />
-        <mark key="." line="97" column="9" />
-        <mark key="[" line="96" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438315011258">
+        <mark key="'" line="104" column="11" />
+        <mark key="]" line="118" column="70" />
+        <mark key="^" line="115" column="70" />
+        <mark key="." line="118" column="70" />
+        <mark key="[" line="118" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/account-list.less" timestamp="1430902770371">
         <mark key="]" line="71" column="33" />
@@ -2449,7 +2449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="34" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" />
       <jump line="1" column="2" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" />
       <jump line="38" column="8" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.less" />
       <jump line="36" column="21" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" />
@@ -2549,55 +2548,56 @@
       <jump line="42" column="4" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="99" column="19" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="98" column="11" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
+      <jump line="104" column="11" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>target_category_mixes</text>
+        <text>|| 0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9taXNlc09mU29uZ1w+</text>
+        <text encoding="base64">XDxsb2Fuc2ZpbHRlclw+</text>
       </register>
       <register name="-" type="4">
-        <text>target_category_mixes</text>
+        <text>|| 0</text>
       </register>
-      <register name="3" type="4">
-        <text>else</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFBbYWNjb3VudC5pZF0gPSBhY2NvdW50IHVubGVzcyBhY2NvdW50LmJhbGFuY2VzWzBdPy5hbW91bnQ/IHx8IDAKICAgICAgICAgIGJhbGFuY2UgPSBhY2NvdW50LmJhbGFuY2VzWzBdPy5hbW91bnQgfHwgMAo=</text>
       </register>
       <register name="1" type="4">
-        <text>target_category_mixes</text>
+        <text>|| 0</text>
       </register>
       <register name="0" type="4">
         <text>getJSONFixture('target_category_mixes.json')</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJUeXBlID0gdXNlcj8udHlwZQo=</text>
+        <text encoding="base64">ICAgICAgaWYgdXNlci50eXBlIGlzICdhZHZpc29yJwo=</text>
       </register>
       <register name="6" type="4">
-        <text>advisor</text>
+        <text>else</text>
       </register>
-      <register name="5" type="4">
-        <text>?</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgdXNlci50eXBlIGlzICdhZHZpc29yJwo=</text>
+      <register name="4" type="4">
+        <text>target_category_mixes</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>$localStorage.get('user')</text>
+        <text>advisor</text>
       </register>
       <register name="8" type="4">
-        <text>userType</text>
+        <text>?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9taXNlc09mU29uZ1w+</last-search>
+      <last-search encoding="base64">XDxsb2Fuc2ZpbHRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9taXNlc09mU29uZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2Fuc2ZpbHRlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2605,7 +2605,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry encoding="base64">XDxjdXJzb3JcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZUxpdmVcPg==</entry>
@@ -2625,6 +2624,7 @@
         <entry encoding="base64">XDxwbGFuc1w+</entry>
         <entry encoding="base64">XDx1c2VyVHlwZVw+</entry>
         <entry encoding="base64">XDxQcm9taXNlc09mU29uZ1w+</entry>
+        <entry encoding="base64">XDxsb2Fuc2ZpbHRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

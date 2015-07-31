@@ -870,11 +870,11 @@
         <mark key="." line="8" column="6" />
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1438333927606">
-        <mark key="]" line="45" column="8" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="45" column="0" />
-        <mark key="[" line="45" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1438335090809">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/input.jade" timestamp="1426737412364">
         <mark key="]" line="2" column="48" />
@@ -2569,46 +2569,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaHIK</text>
+        <text encoding="base64">ICAgICAgcCBJbnZpdGUge3twZXJzb25OYW1lfX0gdG8gY3JlYXRlIGEgY2xpZW50IHBvcnRhbCBhY2NvdW50Lgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>pending</text>
+        <text>code</text>
       </register>
       <register name="3" type="4">
-        <text>pending</text>
+        <text>code</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGhyCg==</text>
+      <register name="2" type="4">
+        <text>code</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaHIK</text>
+        <text encoding="base64">ICAgICAgcCBJbnZpdGUge3twZXJzb25OYW1lfX0gdG8gY3JlYXRlIGEgY2xpZW50IHBvcnRhbCBhY2NvdW50Lgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuZm9ybS1ncm91cAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Enable client action item interaction</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGhyCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Enable client action item interaction</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaHIK</text>
       </register>
       <register name="5" type="4">
-        <text>span</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LmxhYmVsLmxhYmVsLWRlZmF1bHQg</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>checkbox</text>
+        <text encoding="base64">LmxhYmVsLmxhYmVsLWRlZmF1bHQg</text>
       </register>
       <register name="8" type="4">
-        <text>true</text>
+        <text>pending</text>
       </register>
     </registers>
     <search>

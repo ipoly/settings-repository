@@ -4,7 +4,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="*.jade" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,8 +21,8 @@
       <mask>*.coffee, *.jade</mask>
       <mask>*.cade</mask>
       <mask>*.less</mask>
-      <mask>*.coffee</mask>
       <mask>*.jade</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>

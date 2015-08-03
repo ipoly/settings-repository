@@ -1559,10 +1559,10 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438597612312">
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="[" line="64" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438598621044">
+        <mark key="]" line="69" column="56" />
+        <mark key="." line="69" column="56" />
+        <mark key="[" line="69" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/account-list.less" timestamp="1430902770371">
         <mark key="]" line="71" column="33" />
@@ -2582,8 +2582,8 @@
       <jump line="71" column="11" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAndGF4QWR2YW50YWdlcycK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGF4QWR2YW50YWdlcywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXhBZHZhbnRhZ2VzXD4=</text>
@@ -2591,38 +2591,38 @@
       <register name="-" type="4">
         <text encoding="base64">dGF4QWR2YW50YWdlcywg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHQ=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGF4QWR2YW50YWdlcywg</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAndGF4QWR2YW50YWdlcycK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAndGF4QWR2YW50YWdlcycK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">dGF4QWR2YW50YWdlcywg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY2NvdW50LmxvYW5fYWNjb3VudC5sb2Fuc1swXQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>|| 0</text>
-      </register>
-      <register name="6" type="4">
-        <text>if</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnbGluaycgdW5sZXNzIGFjY291bnQubG9hbl9hY2NvdW50LmxvYW5zWzBdCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICRzY29wZS50YXhBZHZhbnRhZ2VzID0gdGF4QWR2YW50YWdlcwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IHQ=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dGF4QWR2YW50YWdlcywg</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>true</text>
+        <text>|| 0</text>
       </register>
       <register name="8" type="4">
-        <text>false</text>
+        <text>if</text>
       </register>
     </registers>
     <search>

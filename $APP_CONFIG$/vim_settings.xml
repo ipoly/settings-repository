@@ -465,6 +465,9 @@
         <mark key="." line="7" column="39" />
         <mark key="[" line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/card/card.coffee" timestamp="1438592599484">
+        <mark key="'" line="39" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/efc/main.jade" timestamp="1434452829126">
         <mark key="]" line="25" column="21" />
         <mark key="^" line="61" column="45" />
@@ -2477,7 +2480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="40" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" />
       <jump line="7" column="47" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" />
       <jump line="10" column="49" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" />
       <jump line="11" column="21" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" />
@@ -2577,6 +2579,7 @@
       <jump line="35" column="36" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" />
       <jump line="34" column="70" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" />
       <jump line="31" column="42" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" />
+      <jump line="39" column="23" filename="$USER_HOME$/Documents/web/src/application/client/common/directives/card/card.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

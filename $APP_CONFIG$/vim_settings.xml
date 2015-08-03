@@ -486,6 +486,9 @@
         <mark key="." line="36" column="38" />
         <mark key="[" line="36" column="0" />
       </file>
+      <file name="/a.regexp" timestamp="1438248473187">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage.coffee" timestamp="1428502167098">
         <mark key="]" line="44" column="6" />
         <mark key="^" line="26" column="18" />
@@ -1517,6 +1520,9 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1438597305051">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
@@ -1553,11 +1559,10 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438596223571">
-        <mark key="'" line="71" column="11" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="[" line="107" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438597612312">
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="[" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/account-list.less" timestamp="1430902770371">
         <mark key="]" line="71" column="33" />
@@ -1737,12 +1742,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/projection-results/main.coffee" timestamp="1437722984425">
-        <mark key="'" line="36" column="6" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="[" line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/panel.jade" timestamp="1435637293456">
         <mark key="]" line="13" column="53" />
@@ -2288,6 +2287,9 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
+      <file name="/a.txt" timestamp="1438248476567">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
@@ -2581,46 +2583,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnbGluaycgdW5sZXNzIGFjY291bnQubG9hbl9hY2NvdW50LmxvYW5zWzBdCg==</text>
+        <text encoding="base64">ICAndGF4QWR2YW50YWdlcycK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXhBZHZhbnRhZ2VzXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text encoding="base64">dGF4QWR2YW50YWdlcywg</text>
       </register>
       <register name="3" type="4">
-        <text>|| 0</text>
+        <text encoding="base64">IHQ=</text>
       </register>
       <register name="2" type="4">
-        <text>if</text>
+        <text encoding="base64">dGF4QWR2YW50YWdlcywg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnbGluaycgdW5sZXNzIGFjY291bnQubG9hbl9hY2NvdW50LmxvYW5zWzBdCg==</text>
+        <text encoding="base64">ICAndGF4QWR2YW50YWdlcycK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY2NvdW50LmxvYW5fYWNjb3VudC5sb2Fuc1swXQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJlY2EK</text>
+      <register name="7" type="4">
+        <text>|| 0</text>
       </register>
       <register name="6" type="4">
-        <text>Beca</text>
+        <text>if</text>
       </register>
-      <register name="5" type="4">
-        <text>true</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnbGluaycgdW5sZXNzIGFjY291bnQubG9hbl9hY2NvdW50LmxvYW5zWzBdCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>false</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICRzY29wZS50YXhBZHZhbnRhZ2VzID0gdGF4QWR2YW50YWdlcwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">d2luZG93LmEg</text>
+        <text>true</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>false</text>
       </register>
     </registers>
     <search>

@@ -970,11 +970,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/account/main.coffee" timestamp="1431583077988">
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-        <mark key="[" line="5" column="37" />
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/account/main.coffee" timestamp="1438671939802">
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="24" />
+        <mark key="[" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/investment/style-and-sector/main.less" timestamp="1431417158226">
         <mark key="]" line="1" column="27" />
@@ -982,10 +982,11 @@
         <mark key="." line="1" column="26" />
         <mark key="[" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/mock/mockAPI.coffee" timestamp="1438163664438">
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/Documents/web/tests/unit/mock/mockAPI.coffee" timestamp="1438671966452">
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="35" column="32" />
+        <mark key="." line="35" column="32" />
+        <mark key="[" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/asset-and-liabilities/main.coffee" timestamp="1437649874162">
         <mark key="]" line="52" column="8" />
@@ -1559,12 +1560,12 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438661030968">
-        <mark key="'" line="191" column="13" />
-        <mark key="]" line="40" column="19" />
-        <mark key="^" line="40" column="19" />
-        <mark key="." line="40" column="22" />
-        <mark key="[" line="40" column="12" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" timestamp="1438671808088">
+        <mark key="'" line="196" column="4" />
+        <mark key="]" line="207" column="44" />
+        <mark key="^" line="207" column="44" />
+        <mark key="." line="207" column="44" />
+        <mark key="[" line="207" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/account-list.less" timestamp="1430902770371">
         <mark key="]" line="71" column="33" />
@@ -2253,11 +2254,11 @@
         <mark key="." line="44" column="60" />
         <mark key="[" line="44" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1438661054546">
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
-        <mark key="[" line="11" column="34" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1438671800379">
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="[" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/advisor/assumpitons/main.coffee" timestamp="1435202444897">
         <mark key="]" line="7" column="20" />
@@ -2488,7 +2489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/web/src/application/common/services/client-pages.coffee" />
       <jump line="108" column="11" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.less" />
       <jump line="112" column="13" filename="$USER_HOME$/Documents/web/src/application/common/component/header/header.less" />
       <jump line="15" column="6" filename="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" />
@@ -2588,55 +2588,56 @@
       <jump line="80" column="22" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="187" column="40" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="191" column="13" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
+      <jump line="196" column="4" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accounts</text>
+        <text>acls</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZyZXNoXD4=</text>
+        <text encoding="base64">XDxBY2NvdW50XD4=</text>
       </register>
       <register name="-" type="4">
-        <text>accounts</text>
+        <text>acls</text>
       </register>
       <register name="3" type="4">
-        <text>l.query()</text>
+        <text>.$promise</text>
       </register>
       <register name="2" type="4">
-        <text>Resource('accounts')</text>
+        <text>acls?household_id=DiJeb7IQHo8FOFkXulieyA</text>
       </register>
       <register name="1" type="4">
-        <text>accounts</text>
+        <text>acls</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2UoJ2FjY291bnRzJykucXVlcnkoKS4kcHJvbWlzZQo=</text>
+        <text encoding="base64">ICAgIFsnR0VUJywgJ2FjbHM/aG91c2Vob2xkX2lkPURpSmViN0lRSG84Rk9Ga1h1bGlleUEnLCAnYWNscy5qc29uJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnYWNjb3VudHMnCg==</text>
+        <text encoding="base64">ICAgICRzY29wZS5hY2NvdW50R3JvdXAgPSB7CiAgICAgIGJhbms6IFtdCiAgICAgIGNhcmQ6IFtdCiAgICAgIGludmVzdG1lbnQ6IFtdCiAgICAgIGxvYW46IFtdCiAgICB9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>Resource</text>
+        <text>grouped</text>
       </register>
       <register name="5" type="4">
-        <text>Resource</text>
+        <text>grouped</text>
       </register>
       <register name="4" type="4">
-        <text>Resource('accounts')</text>
+        <text>getJSONFixture('accounts.json')</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>.$promise</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYWNjb3VudEdyb3VwID0gXy5jaGFpbiBhY2NvdW50cwogICAgICAuZ3JvdXBCeSAndHlwZScKICAgICAgLnZhbHVlKCkKICAgICAgZm9yIG5hbWUsIGdyb3VwIG9mICRzY29wZS5hY2NvdW50R3JvdXAKICAgICAgICAkc2NvcGUuYWNjb3VudEdyb3VwW25hbWVdID0gYWNjb3VudEdyb3VwW25hbWVdCiAgICAgICAgJHNjb3BlLmFjY291bnRHcm91cFtuYW1lXSA/PSBbXQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>accounts.group</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZyZXNoXD4=</last-search>
+      <last-search encoding="base64">XDxBY2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZyZXNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBY2NvdW50XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2644,7 +2645,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
         <entry encoding="base64">XDxwZXJtaXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxhY2xDYWNoZVw+</entry>
@@ -2664,6 +2664,7 @@
         <entry encoding="base64">XDxnZXRCYWxhbmNlXD4=</entry>
         <entry encoding="base64">XDx0YXhBZHZhbnRhZ2VzXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
+        <entry encoding="base64">XDxBY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

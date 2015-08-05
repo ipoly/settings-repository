@@ -1186,12 +1186,12 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/modal/manual-account/main.coffee" timestamp="1438742306196">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/modal/manual-account/main.coffee" timestamp="1438748009558">
         <mark key="'" line="38" column="19" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="66" column="40" />
-        <mark key="." line="21" column="0" />
-        <mark key="[" line="21" column="0" />
+        <mark key="]" line="57" column="7" />
+        <mark key="^" line="57" column="7" />
+        <mark key="." line="57" column="7" />
+        <mark key="[" line="56" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -2584,46 +2584,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjJHNjb3BlLmFjY291bnQubmFtZSA9IGh1bWFuaXplRmlsdGVyICRzY29wZS5hY2NvdW50LnR5cGUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>load_account</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text encoding="base64">ID0gew==</text>
       </register>
       <register name="2" type="4">
-        <text>load_account</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjJHNjb3BlLmFjY291bnQubmFtZSA9IGh1bWFuaXplRmlsdGVyICRzY29wZS5hY2NvdW50LnR5cGUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLnN1YnR5cGUgPSAnY3JlZGl0Jwo=</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>investment_account</text>
       </register>
       <register name="6" type="4">
-        <text>.investment_account</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>investment_account.</text>
+        <text>load_account</text>
       </register>
-      <register name="4" type="4">
-        <text>investment_account</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjJHNjb3BlLmFjY291bnQubmFtZSA9IGh1bWFuaXplRmlsdGVyICRzY29wZS5hY2NvdW50LnR5cGUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>investment_account</text>
+        <text>.investment_account</text>
       </register>
       <register name="8" type="4">
-        <text>investment_account</text>
+        <text>investment_account.</text>
       </register>
     </registers>
     <search>

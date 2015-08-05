@@ -665,6 +665,7 @@
         <mark key="." line="47" column="0" />
         <mark key="[" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/sector-and-style/main.jade" timestamp="1438137068445" />
       <file name="$USER_HOME$/Documents/web/src/application/advisor/navigation-config.coffee" timestamp="1438249865795">
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
@@ -677,6 +678,7 @@
         <mark key="." line="7" column="13" />
         <mark key="[" line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/assumptions/main.coffee" timestamp="1437561618584" />
       <file name="$USER_HOME$/Documents/web/src/application/client/account/modal/manual-account/main.jade" timestamp="1430906731997">
         <mark key="]" line="57" column="30" />
         <mark key="^" line="57" column="28" />
@@ -862,6 +864,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="10" column="14" />
         <mark key="[" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/loan/main.coffee" timestamp="1438757765250">
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="[" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/_yodlee-relink.coffee" timestamp="1430384503862">
         <mark key="]" line="8" column="6" />
@@ -1409,6 +1417,7 @@
         <mark key="." line="2" column="23" />
         <mark key="[" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/acls.coffee" timestamp="1438158939071" />
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/investment/main.coffee" timestamp="1430971900488">
         <mark key="]" line="83" column="12" />
         <mark key="^" line="83" column="12" />
@@ -1914,6 +1923,7 @@
         <mark key="." line="32" column="13" />
         <mark key="[" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/loan/main.jade" timestamp="1438757428185" />
       <file name="$USER_HOME$/Documents/web/src/client/investment/tax-efficiency/main.coffee" timestamp="1422417879829">
         <mark key="]" line="10" column="14" />
         <mark key="^" line="4" column="29" />
@@ -2588,47 +2598,47 @@
       <jump line="5" column="25" filename="$USER_HOME$/Documents/web/src/application/common/filters/generators/get-card-name.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>subtype</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>subtype</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuYWNjb3VudFtzdWJ0eXBlTmFtZV0gPSB7fQo=</text>
+      <register name="3" type="4">
+        <text>mortgage</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>loan_account.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>subtype</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmFjY291bnQubG9hbl9hY2NvdW50LnN1YnR5cGUgPSAnaG9tZScK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjJHNjb3BlLmFjY291bnQubmFtZSA9IGh1bWFuaXplRmlsdGVyICRzY29wZS5hY2NvdW50LnR5cGUK</text>
+      <register name="7" type="4">
+        <text encoding="base64">J2xvYW4nLCA=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ID0gew==</text>
+        <text>, 'personal', 'student', 'auto'</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>account.loan_account.subtype</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUudG1wLnN1YnR5cGUgPSAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>mortgage</text>
       </register>
       <register name="8" type="4">
-        <text>load_account</text>
+        <text>'mortgage'</text>
       </register>
     </registers>
     <search>

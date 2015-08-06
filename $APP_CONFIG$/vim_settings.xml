@@ -1329,6 +1329,12 @@
         <mark key="." line="37" column="32" />
         <mark key="[" line="37" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1438852155648">
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="[" line="21" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/overview/main.coffee" timestamp="1429269941460">
         <mark key="]" line="5" column="35" />
         <mark key="^" line="5" column="35" />
@@ -1869,11 +1875,11 @@
         <mark key="." line="35" column="20" />
         <mark key="[" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438851319018">
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-        <mark key="[" line="17" column="12" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438852189663">
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="[" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
@@ -2644,8 +2650,8 @@
       <jump line="42" column="32" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$scope</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2MgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYWJlbFRleHRcPg==</text>
@@ -2654,37 +2660,37 @@
         <text>$scope</text>
       </register>
       <register name="3" type="4">
-        <text>profile</text>
+        <text>$scope</text>
       </register>
       <register name="2" type="4">
-        <text>, abstract: true</text>
+        <text encoding="base64">ICAgIApd</text>
       </register>
-      <register name="1" type="4">
-        <text>$scope</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y2MgICAgCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExMQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYWNjb3VudCcsIGdyb3VwW2luZGV4XSBpcyBhY2NvdW50LCBncm91cFtpbmRleF0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyByZXMgaXMgYWNjb3VudCwgcmVzCg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ly8KICAgQ3JlYXRlZCBieSB6ZW5nbGkgb24gMTUvOC82LgoK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>profile</text>
+      </register>
+      <register name="5" type="4">
+        <text>profile</text>
+      </register>
+      <register name="4" type="4">
+        <text>, abstract: true</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExMQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYWNjb3VudCcsIGdyb3VwW2luZGV4XSBpcyBhY2NvdW50LCBncm91cFtpbmRleF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIyMjIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyByZXMgaXMgYWNjb3VudCwgcmVzCg==</text>
       </register>
     </registers>
     <search>

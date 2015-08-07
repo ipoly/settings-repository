@@ -1877,10 +1877,11 @@
         <mark key="." line="35" column="20" />
         <mark key="[" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438935038874">
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="[" line="41" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438937674505">
+        <mark key="]" line="40" column="22" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="22" />
+        <mark key="[" line="40" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
@@ -2645,46 +2646,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>111111</text>
+        <text>9999999999</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYWJlbFRleHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>111111</text>
+        <text>9999999999</text>
       </register>
       <register name="3" type="4">
-        <text>1111</text>
+        <text>111111</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIDIyMjIK</text>
+        <text encoding="base64">ICAgICAgdXJsOiAnL3BhZ2VzJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>111111</text>
+        <text>9999999999</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nICdkYXNoYm9hcmQubGlxdWlkaXR5JywgMTExMTExCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>1111</text>
-      </register>
-      <register name="6" type="4">
-        <text>2222</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>3333</text>
+      </register>
+      <register name="5" type="4">
+        <text>1111</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIDIyMjIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAnJHN0YXRlJwo=</text>
+      <register name="9" type="4">
+        <text>1111</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUudXJsCg==</text>
+      <register name="8" type="4">
+        <text>2222</text>
       </register>
     </registers>
     <search>

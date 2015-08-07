@@ -122,11 +122,11 @@
         <mark key="." line="42" column="0" />
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.jade" timestamp="1438855578055">
-        <mark key="]" line="2" column="13" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.jade" timestamp="1438918589860">
+        <mark key="]" line="2" column="23" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="2" column="13" />
-        <mark key="[" line="2" column="13" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/insurance/disability/main.jade" timestamp="1429239905289">
         <mark key="]" line="22" column="126" />
@@ -1020,17 +1020,21 @@
         <mark key="." line="13" column="85" />
         <mark key="[" line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1432291412668">
-        <mark key="]" line="4" column="21" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1438918594964">
+        <mark key="]" line="9" column="2" />
         <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="21" />
-        <mark key="[" line="4" column="21" />
+        <mark key="." line="9" column="2" />
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/directives/logo/logo.coffee" timestamp="1425036310452">
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="11" />
         <mark key="[" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/liquidity/main.coffee" timestamp="1438918942314">
+        <mark key="]" line="22" column="6" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/registration/step4/main.coffee" timestamp="1437643403245">
         <mark key="]" line="34" column="0" />
@@ -1880,11 +1884,11 @@
         <mark key="." line="35" column="20" />
         <mark key="[" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438855765536">
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="[" line="16" column="11" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438918969239">
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="31" />
+        <mark key="." line="27" column="24" />
+        <mark key="[" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
@@ -2648,47 +2652,47 @@
       <jump line="42" column="32" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>balance-sheet/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV0X3dvcnRoOiBbCiAgICAgICAgICAgICAgJ0NhbGN1bGF0ZScKICAgICAgICAgICAgICAoQ2FsY3VsYXRlKS0+CiAgICAgICAgICAgICAgICBDYWxjdWxhdGUoJ2Jhc2ljX2FuYWx5c2lzL25ldF93b3J0aCcpLmdldCgpLiRwcm9taXNlCiAgICAgICAgICAgIF0K</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYWJlbFRleHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>balance-sheet/</text>
+        <text>BalanceSheet</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>balance-sheet</text>
       </register>
       <register name="2" type="4">
-        <text>dashboard</text>
+        <text>BalanceSheet</text>
       </register>
-      <register name="1" type="4">
-        <text>balance-sheet/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV0X3dvcnRoOiBbCiAgICAgICAgICAgICAgJ0NhbGN1bGF0ZScKICAgICAgICAgICAgICAoQ2FsY3VsYXRlKS0+CiAgICAgICAgICAgICAgICBDYWxjdWxhdGUoJ2Jhc2ljX2FuYWx5c2lzL25ldF93b3J0aCcpLmdldCgpLiRwcm9taXNlCiAgICAgICAgICAgIF0K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlbXBsYXRlVXJsOiAnL2Rhc2hib2FyZC9iYWxhbmNlLXNoZWV0L21haW4uaHRtbCcK</text>
+        <text encoding="base64">ICAgICAgbGlxdWlkQXNzZXRzOiBbCiAgICAgICAgJ0NhbGN1bGF0ZScKICAgICAgICAoQ2FsY3VsYXRlKS0+CiAgICAgICAgICBDYWxjdWxhdGUoJ2Jhc2ljX2FuYWx5c2lzL2xpcXVpZGl0eScpLmdldCgpLiRwcm9taXNlCiAgICAgIF0K</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIApd</text>
+        <text>balance-sheet/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2MgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcvcHJpbnQvbWFpbi5odG1sJwogICAgICBjb250cm9sbGVyOiAnUHJpbnRDdHJsJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>balance_sheet</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcvcHJpbnQvbWFpbi5odG1sJwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>, abstract: true</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>$scope</text>
+        <text>dashboard</text>
       </register>
     </registers>
     <search>

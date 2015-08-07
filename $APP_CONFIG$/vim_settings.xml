@@ -122,7 +122,7 @@
         <mark key="." line="42" column="0" />
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.jade" timestamp="1438918589860">
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.jade" timestamp="1438942420002">
         <mark key="]" line="2" column="23" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="2" column="13" />
@@ -223,12 +223,12 @@
         <mark key="." line="3" column="13" />
         <mark key="[" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1438939209946">
-        <mark key="'" line="51" column="52" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="[" line="18" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1438943315230">
+        <mark key="'" line="40" column="8" />
+        <mark key="]" line="42" column="56" />
+        <mark key="^" line="42" column="55" />
+        <mark key="." line="42" column="56" />
+        <mark key="[" line="42" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/main.coffee" timestamp="1422347494830">
         <mark key="]" line="3" column="12" />
@@ -1329,11 +1329,11 @@
         <mark key="." line="37" column="32" />
         <mark key="[" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1438852155648">
-        <mark key="]" line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="[" line="21" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1438942173725">
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="46" column="52" />
+        <mark key="." line="41" column="0" />
+        <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/overview/main.coffee" timestamp="1429269941460">
         <mark key="]" line="5" column="35" />
@@ -1876,11 +1876,11 @@
         <mark key="." line="35" column="20" />
         <mark key="[" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438940254640">
-        <mark key="]" line="29" column="55" />
-        <mark key="^" line="29" column="55" />
-        <mark key="." line="29" column="55" />
-        <mark key="[" line="29" column="55" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438943154205">
+        <mark key="]" line="14" column="52" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="35" />
+        <mark key="[" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
@@ -2542,13 +2542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="40" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="194" column="13" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="204" column="8" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="220" column="36" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="221" column="15" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="223" column="31" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="219" column="32" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="132" column="8" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="134" column="15" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="189" column="48" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
@@ -2642,55 +2635,62 @@
       <jump line="42" column="32" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
       <jump line="47" column="17" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="51" column="52" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="42" column="21" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="14" column="25" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="36" column="28" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="41" column="19" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="40" column="8" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZW1wbGF0ZVVybFw+</text>
+        <text encoding="base64">XDxmdWxsU3RhdGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>add</text>
+        <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAncHJpbnQnCg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="1" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>originalStateName</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text encoding="base64">bmFtZSwg</text>
       </register>
       <register name="6" type="4">
-        <text>printProvider.s</text>
+        <text>stateName</text>
       </register>
       <register name="5" type="4">
-        <text>state</text>
+        <text>fullState</text>
       </register>
       <register name="4" type="4">
-        <text>add</text>
+        <text>fullState</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>{}</text>
+        <text>view</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>:</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZW1wbGF0ZVVybFw+</last-search>
+      <last-search encoding="base64">XDxmdWxsU3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZW1wbGF0ZVVybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmdWxsU3RhdGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2698,8 +2698,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY2NvdW50XD4=</entry>
-        <entry encoding="base64">XDxhY2NvdW50c1w+</entry>
         <entry encoding="base64">XDxtYW51YWxBY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxsYXN0QWNjb3VudFw+</entry>
@@ -2718,6 +2716,8 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxsYWJlbFRleHRcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVVybFw+</entry>
+        <entry encoding="base64">XDxzdGF0ZU5hbWVcPg==</entry>
+        <entry encoding="base64">XDxmdWxsU3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

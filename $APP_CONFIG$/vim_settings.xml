@@ -223,11 +223,12 @@
         <mark key="." line="3" column="34" />
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1438932600660">
-        <mark key="'" line="26" column="28" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1438935063627">
+        <mark key="'" line="27" column="28" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="[" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/main.coffee" timestamp="1422347494830">
         <mark key="]" line="3" column="12" />
@@ -1028,9 +1029,11 @@
         <mark key="." line="5" column="11" />
         <mark key="[" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/liquidity/main.coffee" timestamp="1438918942314">
-        <mark key="]" line="22" column="6" />
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/liquidity/main.coffee" timestamp="1438935083758">
+        <mark key="]" line="24" column="44" />
+        <mark key="^" line="24" column="44" />
+        <mark key="." line="24" column="44" />
+        <mark key="[" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/registration/step4/main.coffee" timestamp="1437643403245">
         <mark key="]" line="34" column="0" />
@@ -1874,11 +1877,10 @@
         <mark key="." line="35" column="20" />
         <mark key="[" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438932597235">
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="40" column="0" />
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438935038874">
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
@@ -2642,47 +2644,47 @@
       <jump line="42" column="32" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUudXJsCg==</text>
+      <register name="&quot;" type="4">
+        <text>111111</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYWJlbFRleHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>, $state</text>
-      </register>
-      <register name="3" type="4">
-        <text>, $state</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAnJHN0YXRlJwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUudXJsCg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdwcmludCcsIHsK</text>
-      </register>
-      <register name="7" type="4">
         <text>111111</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAnL2NsaWVudC9wcmludC9wYWdlcycK</text>
+      <register name="3" type="4">
+        <text>1111</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vcGFnZXMv</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIDIyMjIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgICAkc3RhdGUudHJhbnNpdGlvblRvICdwcmludC5wYWdlcycK</text>
+      <register name="1" type="4">
+        <text>111111</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nICdkYXNoYm9hcmQubGlxdWlkaXR5JywgMTExMTExCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>1111</text>
+      </register>
+      <register name="6" type="4">
+        <text>2222</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>3333</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>/print</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAnJHN0YXRlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbGxlcjogJ1ByaW50Q3RybCcK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUudXJsCg==</text>
       </register>
     </registers>
     <search>

@@ -223,12 +223,12 @@
         <mark key="." line="3" column="13" />
         <mark key="[" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1438943315230">
-        <mark key="'" line="40" column="8" />
-        <mark key="]" line="42" column="56" />
-        <mark key="^" line="42" column="55" />
-        <mark key="." line="42" column="56" />
-        <mark key="[" line="42" column="56" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1438944836662">
+        <mark key="'" line="18" column="6" />
+        <mark key="]" line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="[" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/main.coffee" timestamp="1422347494830">
         <mark key="]" line="3" column="12" />
@@ -2542,10 +2542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="8" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="134" column="15" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="189" column="48" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
-      <jump line="197" column="18" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="198" column="24" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="215" column="14" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
       <jump line="216" column="29" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.coffee" />
@@ -2636,61 +2632,65 @@
       <jump line="47" column="17" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="51" column="52" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="42" column="21" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="13" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="14" column="25" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="19" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="36" column="28" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="41" column="19" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="40" column="8" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="36" column="28" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="39" column="28" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="22" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="14" column="25" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="17" column="15" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="18" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZnVsbFN0YXRlLnNwbGl0KCcuJykucG9wKCkucmVwbGFjZSgvKD86XnwtKShcdykvZywgKG1hdGNoLCAkMSktPiAkMS50b1VwcGVyQ2FzZSgpKSArICdDdHJsJw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdWxsU3RhdGVcPg==</text>
+        <text encoding="base64">XDxzdGF0ZU5hbWVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZnVsbFN0YXRlLnNwbGl0KCcuJykucG9wKCkucmVwbGFjZSgvKD86XnwtKShcdykvZywgKG1hdGNoLCAkMSktPiAkMS50b1VwcGVyQ2FzZSgpKSArICdDdHJsJw==</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text encoding="base64">c3RhdGVOYW1lLnJlcGxhY2UoLyg/Ol58LSkoXHcpL2csIChtYXRjaCwgJDEpLT4gJDEudG9VcHBlckNhc2UoKSkgKyAnQ3RybCc=</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGVOYW1lID0gc3RhdGUubmFtZS5zcGxpdCgnLicpLnBvcCgpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZnVsbFN0YXRlLnNwbGl0KCcuJykucG9wKCkucmVwbGFjZSgvKD86XnwtKShcdykvZywgKG1hdGNoLCAkMSktPiAkMS50b1VwcGVyQ2FzZSgpKSArICdDdHJsJw==</text>
       </register>
-      <register name="0" type="4">
-        <text>originalStateName</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0ZS5jb250cm9sbGVyID89IHN0YXRlTmFtZS5yZXBsYWNlKC8oPzpefC0pKFx3KS9nLCAobWF0Y2gsICQxKS0+ICQxLnRvVXBwZXJDYXNlKCkpICsgJ0N0cmwnCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bmFtZSwg</text>
+        <text encoding="base64">Pz0g</text>
       </register>
       <register name="6" type="4">
-        <text>stateName</text>
+        <text encoding="base64">c3RhdGVOYW1lLnJlcGxhY2UoLyg/Ol58LSkoXHcpL2csIA==</text>
       </register>
       <register name="5" type="4">
-        <text>fullState</text>
+        <text encoding="base64">IHN0YXRl</text>
       </register>
       <register name="4" type="4">
-        <text>fullState</text>
+        <text>Name</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>view</text>
+        <text>name.</text>
       </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text encoding="base64">c3RhdGUuY29udHJvbGxlciA=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdWxsU3RhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxzdGF0ZU5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdWxsU3RhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0ZU5hbWVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2716,8 +2716,8 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxsYWJlbFRleHRcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVVybFw+</entry>
-        <entry encoding="base64">XDxzdGF0ZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxmdWxsU3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxzdGF0ZU5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

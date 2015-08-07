@@ -1020,11 +1020,11 @@
         <mark key="." line="13" column="85" />
         <mark key="[" line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1438918594964">
-        <mark key="]" line="9" column="2" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1438927818288">
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="4" column="22" />
-        <mark key="." line="9" column="2" />
-        <mark key="[" line="9" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/directives/logo/logo.coffee" timestamp="1425036310452">
         <mark key="]" line="5" column="11" />
@@ -1884,11 +1884,11 @@
         <mark key="." line="35" column="20" />
         <mark key="[" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438918969239">
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="27" column="24" />
-        <mark key="[" line="27" column="23" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1438927873367">
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="[" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
@@ -2653,7 +2653,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0X3dvcnRoOiBbCiAgICAgICAgICAgICAgJ0NhbGN1bGF0ZScKICAgICAgICAgICAgICAoQ2FsY3VsYXRlKS0+CiAgICAgICAgICAgICAgICBDYWxjdWxhdGUoJ2Jhc2ljX2FuYWx5c2lzL25ldF93b3J0aCcpLmdldCgpLiRwcm9taXNlCiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcnCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYWJlbFRleHRcPg==</text>
@@ -2661,38 +2661,38 @@
       <register name="-" type="4">
         <text>BalanceSheet</text>
       </register>
-      <register name="3" type="4">
-        <text>balance-sheet</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkaXYodWktdmlldz0nYmFsYW5jZV9zaGVldCcpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>BalanceSheet</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkaXYodWktdmlldz0nbGlxdWlkaXR5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0X3dvcnRoOiBbCiAgICAgICAgICAgICAgJ0NhbGN1bGF0ZScKICAgICAgICAgICAgICAoQ2FsY3VsYXRlKS0+CiAgICAgICAgICAgICAgICBDYWxjdWxhdGUoJ2Jhc2ljX2FuYWx5c2lzL25ldF93b3J0aCcpLmdldCgpLiRwcm9taXNlCiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcnCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGlxdWlkQXNzZXRzOiBbCiAgICAgICAgJ0NhbGN1bGF0ZScKICAgICAgICAoQ2FsY3VsYXRlKS0+CiAgICAgICAgICBDYWxjdWxhdGUoJ2Jhc2ljX2FuYWx5c2lzL2xpcXVpZGl0eScpLmdldCgpLiRwcm9taXNlCiAgICAgIF0K</text>
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlICdwcmludCcsIHsK</text>
       </register>
       <register name="7" type="4">
-        <text>balance-sheet/</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcvcHJpbnQvbWFpbi5odG1sJwogICAgICBjb250cm9sbGVyOiAnUHJpbnRDdHJsJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcvcHJpbnQvbWFpbi5odG1sJwo=</text>
-      </register>
-      <register name="4" type="4">
         <text>1</text>
+      </register>
+      <register name="6" type="4">
+        <text>balance-sheet</text>
+      </register>
+      <register name="5" type="4">
+        <text>BalanceSheet</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV0X3dvcnRoOiBbCiAgICAgICAgICAgICAgJ0NhbGN1bGF0ZScKICAgICAgICAgICAgICAoQ2FsY3VsYXRlKS0+CiAgICAgICAgICAgICAgICBDYWxjdWxhdGUoJ2Jhc2ljX2FuYWx5c2lzL25ldF93b3J0aCcpLmdldCgpLiRwcm9taXNlCiAgICAgICAgICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcvcHJpbnQvbWFpbi5odG1sJwogICAgICBjb250cm9sbGVyOiAnUHJpbnRDdHJsJwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>dashboard</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGVtcGxhdGVVcmw6ICcvcHJpbnQvbWFpbi5odG1sJwo=</text>
       </register>
     </registers>
     <search>

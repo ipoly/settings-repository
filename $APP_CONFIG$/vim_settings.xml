@@ -1876,8 +1876,11 @@
         <mark key="." line="35" column="20" />
         <mark key="[" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1439172287746">
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/print/main.coffee" timestamp="1439174431159">
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="13" column="59" />
+        <mark key="." line="15" column="35" />
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
@@ -2641,23 +2644,23 @@
       <jump line="46" column="21" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBjb25maWcudGVtcGxhdGVVcmwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Xy5jbG9uZURlZXAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdWxsU3RhdGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>fullState</text>
+        <text encoding="base64">Xy5jbG9uZURlZXAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYWFhYWFhYScsIHZpZXdzCg==</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyB2aWV3cwo=</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBjb25maWcudGVtcGxhdGVVcmwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Xy5jbG9uZURlZXAg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0ZS5jb250cm9sbGVyID89IHN0YXRlTmFtZS5yZXBsYWNlKC8oPzpefC0pKFx3KS9nLCAobWF0Y2gsICQxKS0+ICQxLnRvVXBwZXJDYXNlKCkpICsgJ0N0cmwnCg==</text>
@@ -2665,14 +2668,14 @@
       <register name="7" type="4">
         <text>fullState</text>
       </register>
-      <register name="6" type="4">
-        <text>fullState</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYWFhYWFhYScsIHZpZXdzCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>fullState</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyB2aWV3cwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>fullState</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBjb25maWcudGVtcGxhdGVVcmwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

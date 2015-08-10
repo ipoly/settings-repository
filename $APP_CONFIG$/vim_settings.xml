@@ -45,11 +45,11 @@
         <mark key="." line="3" column="3" />
         <mark key="[" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/investment/main.coffee" timestamp="1439180777042">
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="21" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/main.coffee" timestamp="1439202664009">
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="37" />
+        <mark key="[" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/info/main.coffee" timestamp="1438054249307">
         <mark key="]" line="0" column="80" />
@@ -950,12 +950,6 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" timestamp="1439200486718">
-        <mark key="]" line="56" column="6" />
-        <mark key="^" line="30" column="23" />
-        <mark key="." line="56" column="6" />
-        <mark key="[" line="56" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" timestamp="1438331806385">
         <mark key="'" line="15" column="30" />
         <mark key="]" line="16" column="35" />
@@ -1830,11 +1824,11 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.jade" timestamp="1439200628395">
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="1" column="2" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.jade" timestamp="1439202049426">
+        <mark key="]" line="1" column="56" />
+        <mark key="^" line="1" column="77" />
+        <mark key="." line="1" column="56" />
+        <mark key="[" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-stacked-column.coffee" timestamp="1423643812920">
         <mark key="]" line="45" column="32" />
@@ -2403,6 +2397,12 @@
         <mark key="." line="3" column="5" />
         <mark key="[" line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/check-positions.coffee" timestamp="1439202979831">
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="6" column="12" />
+        <mark key="[" line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/taxAdvantages.coffee" timestamp="1429173284625">
         <mark key="]" line="16" column="36" />
         <mark key="^" line="16" column="36" />
@@ -2653,46 +2653,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>always</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQbGFuc1w+</text>
       </register>
       <register name="-" type="4">
-        <text>always</text>
+        <text>:</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZ2UtYnJlYWstYWZ0ZXI6IGFsd2F5czsK</text>
+      <register name="3" type="4">
+        <text>checkPositions</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>always</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZ2UtYnJlYWstYWZ0ZXI6IGFsd2F5czsK</text>
+        <text encoding="base64">ICAgICAgICBoYXZlUG9zaXRpb25zOiBjaGVja1Bvc2l0aW9ucwo=</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>o</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAnY2hlY2tQb3NpdGlvbnMnCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>, checkPositions</text>
       </register>
       <register name="4" type="4">
-        <text>auto</text>
+        <text>checkPositions</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aDEgcmVwb3J0Cg==</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
     </registers>
     <search>

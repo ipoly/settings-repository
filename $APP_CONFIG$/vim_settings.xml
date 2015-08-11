@@ -499,6 +499,12 @@
         <mark key="." line="44" column="6" />
         <mark key="[" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1439263436509">
+        <mark key="]" line="40" column="42" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="40" column="29" />
+        <mark key="[" line="40" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/form/form.coffee" timestamp="1431340232009">
         <mark key="]" line="25" column="26" />
         <mark key="^" line="25" column="26" />
@@ -2660,8 +2666,8 @@
       <jump line="50" column="19" filename="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmZvckVhY2ggKGl0ZW0pLT4gaXRlbS5wcmludCA9IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWVkaWE9J2FsbCcsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJtaXNzaW9uXD4=</text>
@@ -2678,8 +2684,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLmZvckVhY2ggKGl0ZW0pLT4gaXRlbS5wcmludCA9IHRydWUK</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZ2Uuc3RhdGljID0gdHJ1ZQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">bWVkaWE9J2FsbCcsIA==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAnJHEnCg==</text>

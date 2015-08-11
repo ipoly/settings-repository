@@ -950,12 +950,12 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" timestamp="1439261133088">
+      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" timestamp="1439262064218">
         <mark key="'" line="50" column="19" />
-        <mark key="]" line="45" column="45" />
+        <mark key="]" line="61" column="0" />
         <mark key="^" line="45" column="45" />
-        <mark key="." line="45" column="45" />
-        <mark key="[" line="45" column="41" />
+        <mark key="." line="61" column="0" />
+        <mark key="[" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" timestamp="1439260944097">
         <mark key="'" line="15" column="30" />
@@ -2334,11 +2334,11 @@
         <mark key="." line="5" column="37" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1438252593114">
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="[" line="9" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1439262038382">
+        <mark key="]" line="14" column="80" />
+        <mark key="^" line="14" column="80" />
+        <mark key="." line="14" column="80" />
+        <mark key="[" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/select.jade" timestamp="1438771308366">
         <mark key="]" line="2" column="35" />
@@ -2660,35 +2660,35 @@
       <jump line="50" column="19" filename="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>permission</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmZvckVhY2ggKGl0ZW0pLT4gaXRlbS5wcmludCA9IHRydWUK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJtaXNzaW9uXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>permission</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>permission</text>
+        <text>true</text>
       </register>
-      <register name="2" type="4">
-        <text>permission</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLnByaW50ID0gdHJ1ZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>permission</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLmZvckVhY2ggKGl0ZW0pLT4gaXRlbS5wcmludCA9IHRydWUK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUudG9nZ2xlQ2hpbGRyZW4gPSAoY2hpbGRyZW4sIHBlcm1pc3Npb24pLT4KICAgICAgICAgIGFuZ3VsYXIuZm9yRWFjaCBjaGlsZHJlbiwgKGNoaWxkKS0+CiAgICAgICAgICAgIGNoaWxkLnBlcm1pc3Npb24gPSBwZXJtaXNzaW9uCgogICAgICAgICRzY29wZS50b2dnbGVQYXJlbnQgPSAocGFyZW50KS0+CiAgICAgICAgICBwYXJlbnQucGVybWlzc2lvbiA9ICEhXy53aGVyZShwYXJlbnQuY2hpbGRyZW4sIHBlcm1pc3Npb246IHRydWUpLmxlbmd0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZ2Uuc3RhdGljID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLnRvZ2dsZUNoaWxkcmVuID0gKGNoaWxkcmVuLCBwZXJtaXNzaW9uKS0+CiAgICAgICAgYW5ndWxhci5mb3JFYWNoIGNoaWxkcmVuLCAoY2hpbGQpLT4KICAgICAgICAgIGNoaWxkLnBlcm1pc3Npb24gPSBwZXJtaXNzaW9uCgogICAgICAkc2NvcGUudG9nZ2xlUGFyZW50ID0gKHBhcmVudCktPgogICAgICAgIHBhcmVudC5wZXJtaXNzaW9uID0gISFfLndoZXJlKHBhcmVudC5jaGlsZHJlbiwgcGVybWlzc2lvbjogdHJ1ZSkubGVuZ3RoCg==</text>
+        <text encoding="base64">ICAnJHEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBSZW1vdmUgJ3Byb2ZpbGUnCg==</text>
+        <text encoding="base64">ICAnQ2xpZW50UGFnZXMnCg==</text>
       </register>
       <register name="5" type="4">
-        <text>permission</text>
+        <text>static</text>
       </register>
       <register name="4" type="4">
         <text>permission</text>
@@ -2697,10 +2697,10 @@
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>, $q</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgamoK</text>
+      <register name="8" type="4">
+        <text>, ClientPages</text>
       </register>
     </registers>
     <search>

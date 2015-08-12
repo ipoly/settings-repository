@@ -2470,11 +2470,11 @@
         <mark key="." line="44" column="60" />
         <mark key="[" line="44" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1439354003670">
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1439361739263">
+        <mark key="]" line="80" column="35" />
+        <mark key="^" line="80" column="35" />
+        <mark key="." line="80" column="35" />
+        <mark key="[" line="80" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/advisor/assumpitons/main.coffee" timestamp="1435202444897">
         <mark key="]" line="7" column="20" />
@@ -2828,23 +2828,23 @@
       <jump line="145" column="8" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ3RheEFkdmFudGFnZXMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>$scope.</text>
+        <text>config</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS4kd2F0Y2ggJ2FjY291bnQubmFtZScsIChuYW1lKS0+CiAgICAgICAgICAgICRzY29wZS5hY2NvdW50W3N1YnR5cGVOYW1lXS5sb2Fuc1swXS5uYW1lID0gbmFtZQo=</text>
+      <register name="3" type="4">
+        <text>data</text>
       </register>
       <register name="2" type="4">
-        <text>$scope.</text>
+        <text>data</text>
       </register>
       <register name="1" type="4">
-        <text>$scope.</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3RheEFkdmFudGFnZXMnCg==</text>
@@ -2853,19 +2853,19 @@
         <text>$scope.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgQ2hlY2sgaWYgaGF2ZSBiZW5lZmljaWFyeQogICAgICAgICAgIyBTYW1lIGNvZGUgaW4gcGFuZWxzL2ludmVzdG1lbnQvbWFpbi5jb2ZmZWUKICAgICAgICAgICRzY29wZS5oYXZlQmVuZWZpY2lhcnkgPSAoYWNjb3VudCktPgogICAgICAgICAgICBfLmluY2x1ZGVzIFsnNTI5JywgJ3V0bWEnLCAnY292ZXJkZWxsJ10sIGFjY291bnRbc3VidHlwZU5hbWVdLnRheF90cmVhdG1lbnQKICAgICAgICAgICRzY29wZS4kd2F0Y2ggImFjY291bnQuI3tzdWJ0eXBlTmFtZX0udGF4X3RyZWF0bWVudCIsIC0+CiAgICAgICAgICAgIHVubGVzcyAkc2NvcGUuaGF2ZUJlbmVmaWNpYXJ5KCRzY29wZS5hY2NvdW50KQogICAgICAgICAgICAgICRzY29wZS5hY2NvdW50W3N1YnR5cGVOYW1lXS5iZW5lZmljaWFyeV9wZXJzb25faWQgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>$scope.</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>$scope.</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>$scope.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS4kd2F0Y2ggJ2FjY291bnQubmFtZScsIChuYW1lKS0+CiAgICAgICAgICAgICRzY29wZS5hY2NvdW50W3N1YnR5cGVOYW1lXS5sb2Fuc1swXS5uYW1lID0gbmFtZQo=</text>
       </register>
       <register name="8" type="4">
         <text>$scope.</text>

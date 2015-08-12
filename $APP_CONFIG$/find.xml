@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,8 +16,8 @@
       <mask>*.coffee, *.jade</mask>
       <mask>*.cade</mask>
       <mask>*.less</mask>
-      <mask>*.jade</mask>
       <mask>*.coffee</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>

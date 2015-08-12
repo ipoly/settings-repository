@@ -532,7 +532,7 @@
         <mark key="." line="44" column="6" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1439286649057">
+      <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1439371793092">
         <mark key="]" line="37" column="42" />
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="29" />
@@ -1518,7 +1518,7 @@
         <mark key="." line="87" column="16" />
         <mark key="[" line="87" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/web/package.json" timestamp="1432896785138">
+      <file name="$USER_HOME$/Documents/web/package.json" timestamp="1439372751995">
         <mark key="]" line="23" column="15" />
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
@@ -1656,11 +1656,11 @@
         <mark key="." line="3" column="7" />
         <mark key="[" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/public/index.jade" timestamp="1432899089252">
-        <mark key="]" line="28" column="50" />
+      <file name="$USER_HOME$/Documents/web/src/public/index.jade" timestamp="1439372154599">
+        <mark key="]" line="61" column="37" />
         <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="50" />
-        <mark key="[" line="28" column="47" />
+        <mark key="." line="61" column="37" />
+        <mark key="[" line="61" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/goals/goals-panels/popup-college-lookup.jade" timestamp="1425900430351">
         <mark key="]" line="11" column="28" />
@@ -1668,7 +1668,7 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1439366234294">
+      <file name="/a.dummy" timestamp="1439372613366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
@@ -2384,6 +2384,7 @@
         <mark key="." line="44" column="17" />
         <mark key="[" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/public/index/main.jade" timestamp="1439371816091" />
       <file name="$USER_HOME$/Documents/web/src/less/client/app.less" timestamp="1419508512869">
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
@@ -2773,46 +2774,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50VHlwZXNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
         <text>l</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>i</text>
+      </register>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc2NvcGUuc3RhdHVzWyRzY29wZS5nZXRBY3RpdmVUeXBlKGxhc3RBY2NvdW50KV0gPSB0cnVlCg==</text>
       </register>
       <register name="7" type="4">
-        <text>6</text>
-      </register>
-      <register name="6" type="4">
         <text>8</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>nonce</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>152px;</text>
       </register>
       <register name="8" type="4">
-        <text>152px;</text>
+        <text>6</text>
       </register>
     </registers>
     <search>

@@ -2147,12 +2147,12 @@
         <mark key="." line="0" column="33" />
         <mark key="[" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.jade" timestamp="1439350846006">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.jade" timestamp="1439351419034">
         <mark key="'" line="145" column="8" />
-        <mark key="]" line="9" column="47" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="9" column="47" />
-        <mark key="[" line="9" column="47" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="[" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/src/app/app.coffee" timestamp="1419304681863">
         <mark key="]" line="27" column="27" />
@@ -2805,46 +2805,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>modalConfig.</text>
+        <text>addAccount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>modalConfig.</text>
+        <text>addAccount</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC5tcjMwLmJ0bi1ncm91cChkcm9wZG93bikKICAgICAgYnV0dG9uLmJ0bi1hZGQuYnRuLWxnLmRyb3Bkb3duLXRvZ2dsZShkcm9wZG93bi10b2dnbGUpIEFkZCBBY2NvdW50CiAgICAgIHVsLmRyb3Bkb3duLW1lbnUuZHJvcGRvd24tbWVudS1maXhlZC5hZGQKICAgICAgICAvL3JlYWwgZXN0YXRlCiAgICAgICAgbGkKICAgICAgICAgIGEobmctY2xpY2s9ImFkZEhvbWUoZGVmYXVsdEludmVzdG1lbnRIb21lKSIpIEludmVzdG1lbnQgUHJvcGVydHkKICAgICAgICBsaQogICAgICAgICAgYShuZy1jbGljaz0iYWRkSG9tZShkZWZhdWx0VmFjYXRpb25Ib21lKSIpIFZhY2F0aW9uIEhvbWUKICAgICAgICAvL0luc3VyYW5jZQogICAgICAgIGxpKG5nLXJlcGVhdD0naXRlbSBpbiBpbnN1cmFuY2VUeXBlcycpCiAgICAgICAgICBhKG5nLWNsaWNrPSJhZGRJbnN1cmFuY2UoaXRlbSkiKSB7e2l0ZW0ubmFtZX19Cgo=</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.mr30</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>modalConfig.</text>
+      </register>
+      <register name="1" type="4">
+        <text>addAccount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsaShuZy1yZXBlYXQ9Jyh0eXBlTmFtZSwgc3VidHlwZSkgaW4gbW9kYWxDb25maWcuYWNjb3VudFR5cGVzJykKICAgICAgICAgIGEobmctY2xpY2s9J2FkZEFjY291bnQodHlwZU5hbWUpJykge3t0eXBlTmFtZX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5wdWxsLXJpZ2h0LmJ0bi1ncm91cChkcm9wZG93bikKICAgICAgYnV0dG9uLmJ0bi1hZGQuYnRuLWxnLmRyb3Bkb3duLXRvZ2dsZShkcm9wZG93bi10b2dnbGUpIEFkZCBJbnN1cmFuY2UKICAgICAgdWwuZHJvcGRvd24tbWVudS5kcm9wZG93bi1tZW51LWZpeGVkLmFkZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.mr30</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.pull-right</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5tcjMwLmJ0bi1ncm91cChkcm9wZG93bikKICAgICAgYnV0dG9uLmJ0bi1hZGQuYnRuLWxnLmRyb3Bkb3duLXRvZ2dsZShkcm9wZG93bi10b2dnbGUpIEFkZCBBY2NvdW50CiAgICAgIHVsLmRyb3Bkb3duLW1lbnUuZHJvcGRvd24tbWVudS1maXhlZC5hZGQKICAgICAgICAvL3JlYWwgZXN0YXRlCiAgICAgICAgbGkKICAgICAgICAgIGEobmctY2xpY2s9ImFkZEhvbWUoZGVmYXVsdEludmVzdG1lbnRIb21lKSIpIEludmVzdG1lbnQgUHJvcGVydHkKICAgICAgICBsaQogICAgICAgICAgYShuZy1jbGljaz0iYWRkSG9tZShkZWZhdWx0VmFjYXRpb25Ib21lKSIpIFZhY2F0aW9uIEhvbWUKICAgICAgICAvL0luc3VyYW5jZQogICAgICAgIGxpKG5nLXJlcGVhdD0naXRlbSBpbiBpbnN1cmFuY2VUeXBlcycpCiAgICAgICAgICBhKG5nLWNsaWNrPSJhZGRJbnN1cmFuY2UoaXRlbSkiKSB7e2l0ZW0ubmFtZX19Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vcmVhbCBlc3RhdGUK</text>
+        <text encoding="base64">ICAgIC8vSW5zdXJhbmNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vSW5zdXJhbmNlCg==</text>
+        <text encoding="base64">ICAgIC5wdWxsLXJpZ2h0LmJ0bi1ncm91cChkcm9wZG93bikKICAgICAgYnV0dG9uLmJ0bi1hZGQuYnRuLWxnLmRyb3Bkb3duLXRvZ2dsZShkcm9wZG93bi10b2dnbGUpIEFkZCBJbnN1cmFuY2UKICAgICAgdWwuZHJvcGRvd24tbWVudS5kcm9wZG93bi1tZW51LWZpeGVkLmFkZAo=</text>
       </register>
     </registers>
     <search>

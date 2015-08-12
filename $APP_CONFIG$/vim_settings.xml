@@ -940,6 +940,12 @@
         <mark key="." line="10" column="14" />
         <mark key="[" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/loan/main.coffee" timestamp="1438830480146">
+        <mark key="'" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/_yodlee-relink.coffee" timestamp="1430384503862">
         <mark key="]" line="8" column="6" />
         <mark key="^" line="8" column="20" />
@@ -1314,12 +1320,12 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/modal/manual-account/main.coffee" timestamp="1438830900679">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/modal/manual-account/main.coffee" timestamp="1439352919745">
         <mark key="'" line="39" column="19" />
-        <mark key="]" line="45" column="33" />
+        <mark key="]" line="61" column="8" />
         <mark key="^" line="45" column="33" />
         <mark key="." line="45" column="33" />
-        <mark key="[" line="45" column="23" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -1779,6 +1785,12 @@
         <mark key="." line="0" column="60" />
         <mark key="[" line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.jade" timestamp="1437127375873">
+        <mark key="'" line="29" column="21" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="21" column="6" />
+        <mark key="[" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/family/main.coffee" timestamp="1433325129574">
         <mark key="]" line="51" column="32" />
         <mark key="^" line="35" column="37" />
@@ -1991,6 +2003,12 @@
         <mark key="^" line="0" column="60" />
         <mark key="." line="0" column="60" />
         <mark key="[" line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/modal/main.coffee" timestamp="1439352831566">
+        <mark key="'" line="12" column="10" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/client/main.coffee" timestamp="1432116956961">
         <mark key="]" line="50" column="15" />
@@ -2452,6 +2470,12 @@
         <mark key="." line="44" column="60" />
         <mark key="[" line="44" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1439353274243">
+        <mark key="]" line="57" column="10" />
+        <mark key="^" line="47" column="12" />
+        <mark key="." line="57" column="10" />
+        <mark key="[" line="57" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/advisor/assumpitons/main.coffee" timestamp="1435202444897">
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
@@ -2805,46 +2829,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addAccount</text>
+        <text>$scope.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>addAccount</text>
+        <text>$scope.</text>
       </register>
       <register name="3" type="4">
-        <text>.mr30</text>
+        <text>$scope.</text>
       </register>
-      <register name="2" type="4">
-        <text>modalConfig.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgQ2hlY2sgaWYgaGF2ZSBiZW5lZmljaWFyeQogICAgICAgICAgIyBTYW1lIGNvZGUgaW4gcGFuZWxzL2ludmVzdG1lbnQvbWFpbi5jb2ZmZWUKICAgICAgICAgICRzY29wZS5oYXZlQmVuZWZpY2lhcnkgPSAoYWNjb3VudCktPgogICAgICAgICAgICBfLmluY2x1ZGVzIFsnNTI5JywgJ3V0bWEnLCAnY292ZXJkZWxsJ10sIGFjY291bnRbc3VidHlwZU5hbWVdLnRheF90cmVhdG1lbnQKICAgICAgICAgICRzY29wZS4kd2F0Y2ggImFjY291bnQuI3tzdWJ0eXBlTmFtZX0udGF4X3RyZWF0bWVudCIsIC0+CiAgICAgICAgICAgIHVubGVzcyAkc2NvcGUuaGF2ZUJlbmVmaWNpYXJ5KCRzY29wZS5hY2NvdW50KQogICAgICAgICAgICAgICRzY29wZS5hY2NvdW50W3N1YnR5cGVOYW1lXS5iZW5lZmljaWFyeV9wZXJzb25faWQgPSBudWxsCg==</text>
       </register>
       <register name="1" type="4">
-        <text>addAccount</text>
+        <text>$scope.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaShuZy1yZXBlYXQ9Jyh0eXBlTmFtZSwgc3VidHlwZSkgaW4gbW9kYWxDb25maWcuYWNjb3VudFR5cGVzJykKICAgICAgICAgIGEobmctY2xpY2s9J2FkZEFjY291bnQodHlwZU5hbWUpJykge3t0eXBlTmFtZX19Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggJHNjb3BlLmFjY291bnQudHlwZQogICAgICAgICAgd2hlbiAnYmFuaycKICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLnN1YnR5cGUgPSAnY2hlY2tpbmcnCiAgICAgICAgICB3aGVuICdjYXJkJwogICAgICAgICAgICAkc2NvcGUuYWNjb3VudC5yYXRlID0gMTAKICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLnN1YnR5cGUgPSAnY3JlZGl0JwogICAgICAgICAgd2hlbiAnaW52ZXN0bWVudCcKICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLnRheF90cmVhdG1lbnQgPSAndGF4YWJsZScKICAgICAgICAgICAgIyBDaGVjayBpZiBoYXZlIGJlbmVmaWNpYXJ5CiAgICAgICAgICAgICMgU2FtZSBjb2RlIGluIHBhbmVscy9pbnZlc3RtZW50L21haW4uY29mZmVlCiAgICAgICAgICAgICRzY29wZS5oYXZlQmVuZWZpY2lhcnkgPSAoYWNjb3VudCktPgogICAgICAgICAgICAgIF8uaW5jbHVkZXMgWyc1MjknLCAndXRtYScsICdjb3ZlcmRlbGwnXSwgYWNjb3VudFtzdWJ0eXBlTmFtZV0udGF4X3RyZWF0bWVudAogICAgICAgICAgICAkc2NvcGUuJHdhdGNoICJhY2NvdW50LiN7c3VidHlwZU5hbWV9LnRheF90cmVhdG1lbnQiLCAtPgogICAgICAgICAgICAgIHVubGVzcyAkc2NvcGUuaGF2ZUJlbmVmaWNpYXJ5KCRzY29wZS5hY2NvdW50KQogICAgICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLmJlbmVmaWNpYXJ5X3BlcnNvbl9pZCA9IG51bGwKICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLnN1YnR5cGUgPSAnYnJva2VyYWdlJwogICAgICAgICAgd2hlbiAnbG9hbicKICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdID0gewogICAgICAgICAgICAgIGxvYW5zOiBbewogICAgICAgICAgICAgICAgYmFsYW5jZTogMAogICAgICAgICAgICAgICAgbmFtZTogIiIKICAgICAgICAgICAgICAgIHR5cGU6ICJjcmVkaXRfY2FyZCIKICAgICAgICAgICAgICAgIGJhbGFuY2U6IDAKICAgICAgICAgICAgICAgIHJhdGU6IDAKICAgICAgICAgICAgICAgIG1vbnRobHlfcGF5bWVudDogMAogICAgICAgICAgICAgICAgbHVtcF9zdW06IG51bGwKICAgICAgICAgICAgICAgIGFkZGl0aW9uYWw6IG51bGwKICAgICAgICAgICAgICAgIHlvZGxlZV9yZWZlcmVuY2U6IG51bGwKICAgICAgICAgICAgICB9XQogICAgICAgICAgICB9CiAgICAgICAgICAgICRzY29wZS4kd2F0Y2ggJ2FjY291bnQubmFtZScsIChuYW1lKS0+CiAgICAgICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLmxvYW5zWzBdLm5hbWUgPSBuYW1lCgogICAgICAgICRzY29wZS5hY2NvdW50W3N1YnR5cGVOYW1lXS5iZW5lZmljaWFyeV9wZXJzb25faWQgPSBudWxsCgogICAgICAgIHRheEFkdmFudGFnZXMuJHByb21pc2UudGhlbigoZGF0YSktPgogICAgICAgICAgJHNjb3BlLmFjY291bnRbc3VidHlwZU5hbWVdLnRheF9hZHZhbnRhZ2VfaWQgPSBkYXRhLmdldElkQnlOYW1lICdUYXhhYmxlJwogICAgICAgICkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>$scope.</text>
       </register>
       <register name="6" type="4">
-        <text>.mr30</text>
+        <text>$scope.</text>
       </register>
       <register name="5" type="4">
-        <text>.pull-right</text>
+        <text>$scope.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5tcjMwLmJ0bi1ncm91cChkcm9wZG93bikKICAgICAgYnV0dG9uLmJ0bi1hZGQuYnRuLWxnLmRyb3Bkb3duLXRvZ2dsZShkcm9wZG93bi10b2dnbGUpIEFkZCBBY2NvdW50CiAgICAgIHVsLmRyb3Bkb3duLW1lbnUuZHJvcGRvd24tbWVudS1maXhlZC5hZGQKICAgICAgICAvL3JlYWwgZXN0YXRlCiAgICAgICAgbGkKICAgICAgICAgIGEobmctY2xpY2s9ImFkZEhvbWUoZGVmYXVsdEludmVzdG1lbnRIb21lKSIpIEludmVzdG1lbnQgUHJvcGVydHkKICAgICAgICBsaQogICAgICAgICAgYShuZy1jbGljaz0iYWRkSG9tZShkZWZhdWx0VmFjYXRpb25Ib21lKSIpIFZhY2F0aW9uIEhvbWUKICAgICAgICAvL0luc3VyYW5jZQogICAgICAgIGxpKG5nLXJlcGVhdD0naXRlbSBpbiBpbnN1cmFuY2VUeXBlcycpCiAgICAgICAgICBhKG5nLWNsaWNrPSJhZGRJbnN1cmFuY2UoaXRlbSkiKSB7e2l0ZW0ubmFtZX19Cgo=</text>
+      <register name="4" type="4">
+        <text>$scope.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vSW5zdXJhbmNlCg==</text>
+      <register name="9" type="4">
+        <text>account.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC5wdWxsLXJpZ2h0LmJ0bi1ncm91cChkcm9wZG93bikKICAgICAgYnV0dG9uLmJ0bi1hZGQuYnRuLWxnLmRyb3Bkb3duLXRvZ2dsZShkcm9wZG93bi10b2dnbGUpIEFkZCBJbnN1cmFuY2UKICAgICAgdWwuZHJvcGRvd24tbWVudS5kcm9wZG93bi1tZW51LWZpeGVkLmFkZAo=</text>
+      <register name="8" type="4">
+        <text>config</text>
       </register>
     </registers>
     <search>

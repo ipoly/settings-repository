@@ -523,9 +523,6 @@
         <mark key="." line="36" column="38" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1438248473187">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage.coffee" timestamp="1428502167098">
         <mark key="]" line="44" column="6" />
         <mark key="^" line="26" column="18" />
@@ -1668,9 +1665,6 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1439372613366">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
@@ -2384,7 +2378,11 @@
         <mark key="." line="44" column="17" />
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/public/index/main.jade" timestamp="1439371816091" />
+      <file name="$USER_HOME$/Documents/web/src/public/index/main.jade" timestamp="1439373426940">
+        <mark key="]" line="74" column="37" />
+        <mark key="." line="74" column="37" />
+        <mark key="[" line="74" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/less/client/app.less" timestamp="1419508512869">
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
@@ -2475,9 +2473,6 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
-      </file>
-      <file name="/a.txt" timestamp="1438248476567">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
@@ -2628,11 +2623,11 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/page-loading-progress/main.less" timestamp="1431685126558">
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-        <mark key="[" line="16" column="22" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/page-loading-progress/main.less" timestamp="1439375595350">
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="21" column="29" />
+        <mark key="[" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/src/less/font.less" timestamp="1419308472664">
         <mark key="]" line="4" column="271" />
@@ -2774,46 +2769,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50VHlwZXNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text>g</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>2</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuc3RhdHVzWyRzY29wZS5nZXRBY3RpdmVUeXBlKGxhc3RBY2NvdW50KV0gPSB0cnVlCg==</text>
+        <text encoding="base64">ICA4MCUgewogICAgLnRyYW5zbGF0ZSgtMjAlLCAwKTsKICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>8</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>nonce</text>
+        <text>%</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>152px;</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>6</text>
+        <text>1</text>
       </register>
     </registers>
     <search>

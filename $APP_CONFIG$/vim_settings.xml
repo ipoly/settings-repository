@@ -932,7 +932,7 @@
         <mark key="." line="10" column="14" />
         <mark key="[" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/loan/main.coffee" timestamp="1439436928751">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/loan/main.coffee" timestamp="1439438706535">
         <mark key="'" line="28" column="23" />
         <mark key="]" line="24" column="31" />
         <mark key="^" line="24" column="31" />
@@ -2409,12 +2409,12 @@
         <mark key="." line="44" column="60" />
         <mark key="[" line="44" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1439368040987">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1439438708919">
         <mark key="'" line="111" column="74" />
-        <mark key="]" line="55" column="29" />
-        <mark key="^" line="55" column="38" />
-        <mark key="." line="55" column="29" />
-        <mark key="[" line="55" column="29" />
+        <mark key="]" line="73" column="28" />
+        <mark key="^" line="73" column="28" />
+        <mark key="." line="73" column="28" />
+        <mark key="[" line="73" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/advisor/assumpitons/main.coffee" timestamp="1435202444897">
         <mark key="]" line="7" column="20" />
@@ -2753,46 +2753,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>credit_card</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xzXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>credit_card</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>name</text>
       </register>
       <register name="2" type="4">
         <text>name</text>
       </register>
       <register name="1" type="4">
-        <text>name</text>
+        <text>credit_card</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAnbW9ydGdhZ2UnLCAnaG9tZScsICdjcmVkaXRfY2FyZCcsICdjYXInLCAnc3R1ZGVudCcsICdvdGhlcic=</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
-      </register>
-      <register name="6" type="4">
         <text>)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>'checking', 'saving', 'CD', 'money_market', 'cash', 'other'</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gJyBsb2FuJwo=</text>
+      <register name="9" type="4">
+        <text>if</text>
       </register>
       <register name="8" type="4">
-        <text>if</text>
+        <text>(</text>
       </register>
     </registers>
     <search>

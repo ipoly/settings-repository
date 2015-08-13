@@ -1215,11 +1215,11 @@
         <mark key="." line="6" column="31" />
         <mark key="[" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/account-list.less" timestamp="1439370315473">
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="10" />
-        <mark key="[" line="4" column="10" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/account-list.less" timestamp="1439433354643">
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="[" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/asset-allocation/main.coffee" timestamp="1438258698196">
         <mark key="]" line="12" column="39" />
@@ -2769,46 +2769,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50VHlwZXNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>p</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>o</text>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text>u</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>p</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA4MCUgewogICAgLnRyYW5zbGF0ZSgtMjAlLCAwKTsKICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>%</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>b</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
     </registers>
     <search>

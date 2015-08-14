@@ -2638,9 +2638,9 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/page-loading-progress/main.less" timestamp="1439537894670">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/page-loading-progress/main.less" timestamp="1439539278749">
         <mark key="]" line="35" column="17" />
-        <mark key="^" line="35" column="16" />
+        <mark key="^" line="35" column="17" />
         <mark key="." line="35" column="17" />
         <mark key="[" line="35" column="16" />
       </file>
@@ -2784,46 +2784,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
-      </register>
-      <register name="2" type="4">
         <text>1</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>0</text>
+      </register>
+      <register name="1" type="4">
+        <text>5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmlzaWJpbGl0eTogdmlzaWJsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA5OCUgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIC50cmFuc2xhdGUoLTE1JSwgMCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>1</text>
+      </register>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50cmFuc2xhdGUoLTIwJSwgMCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICA5OCUgewo=</text>
       </register>
     </registers>
     <search>

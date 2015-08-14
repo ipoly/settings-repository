@@ -223,11 +223,12 @@
         <mark key="." line="38" column="61" />
         <mark key="[" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1439543014139">
-        <mark key="]" line="45" column="71" />
-        <mark key="^" line="45" column="70" />
-        <mark key="." line="45" column="71" />
-        <mark key="[" line="45" column="71" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1439544404330">
+        <mark key="'" line="117" column="15" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number-horizontal.jade" timestamp="1425549987391">
         <mark key="]" line="3" column="34" />
@@ -2682,7 +2683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/loan/main.coffee" />
       <jump line="18" column="6" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
       <jump line="42" column="32" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
       <jump line="47" column="17" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
@@ -2782,49 +2782,50 @@
       <jump line="102" column="145" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.jade" />
       <jump line="128" column="21" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.jade" />
       <jump line="129" column="155" filename="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/main.jade" />
+      <jump line="117" column="15" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>projection-results</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>projection-results</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyCiAgICAgICAgICAgICAgICAgIHRoIEluY29tZSBzdHJhdGVneQogICAgICAgICAgICAgICAgICB0aCBDb21pbmcgc29vbgoK</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>projection-results</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGQge3thZGp1c3RtZW50cy5jbGllbnQucmV0aXJlbWVudF9hZ2Uub3JpZ2luYWxfdmFsdWUnfX0K</text>
+      <register name="0" type="4">
+        <text>adjustments.joint.retirement_target_category_mix.value</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaDQgRmluYW5jaWFsIGdvYWxzCg==</text>
+      <register name="7" type="4">
+        <text>h4</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>Strategies</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>Strategies</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text encoding="base64">e3t9fSAg</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jb2wteHMtNAo=</text>
+      <register name="9" type="4">
+        <text>adjustments.client.retirement_saving_401k.value</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aDQg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaDQgU3RyYXRlZ2llcwo=</text>
       </register>
     </registers>
     <search>

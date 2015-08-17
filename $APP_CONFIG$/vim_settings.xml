@@ -223,12 +223,12 @@
         <mark key="." line="38" column="61" />
         <mark key="[" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1439549949479">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1439782891644">
         <mark key="'" line="103" column="18" />
-        <mark key="]" line="46" column="23" />
+        <mark key="]" line="92" column="83" />
         <mark key="^" line="46" column="23" />
-        <mark key="." line="108" column="23" />
-        <mark key="[" line="108" column="20" />
+        <mark key="." line="92" column="83" />
+        <mark key="[" line="92" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number-horizontal.jade" timestamp="1425549987391">
         <mark key="]" line="3" column="34" />
@@ -2797,37 +2797,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, loading='page.loading'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aFw+</text>
       </register>
       <register name="-" type="4">
-        <text>, loading='page.loading'</text>
+        <text>e</text>
       </register>
-      <register name="3" type="4">
-        <text>Proposed</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBfLm1lcmdlIHJlc3VsdHMuYmFzZWxpbmUsIGRhdGEuYmFzZWxpbmUK</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>, loading='page.loading'</text>
+      </register>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXByb3ZlLmV4cGVjdGVkQXNzZXRDb25maWcuc2VyaWVzWzBdLmRhdGEgPSBbaW1wcm92ZS5leHBlY3RlZF9leGNlc3NfYXNzZXRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbXByb3ZlLmV4cGVjdGVkQXNzZXRDb25maWcuc2VyaWVzWzBdLmRhdGEgPSBbaW1wcm92ZS5leHBlY3RlZF9leGNlc3NfYXNzZXRdCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGltcHJvdmUuZXhwZWN0ZWRBc3NldENvbmZpZyA9IHsKICAgICAgY29sb3JzOiBbJyM1Mjg2RjQnXQogICAgICBzZXJpZXM6IFsKICAgICAgICB7CiAgICAgICAgICBkYXRhOiBbaW1wcm92ZS5leHBlY3RlZF9leGNlc3NfYXNzZXRdCiAgICAgICAgICBkYXRhTGFiZWxzOgogICAgICAgICAgICBpbnNpZGU6IHRydWUKICAgICAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgICAgICBzdHlsZToKICAgICAgICAgICAgICBmb250U2l6ZTogJzE0cHgnCiAgICAgICAgICAgICAgY29sb3I6ICcjZmZmJwogICAgICAgICAgICAgIHRleHRTaGFkb3c6ICdyZ2IoMCwgMCwgMCkgMHB4IDBweCA2cHgsIHJnYigwLCAwLCAwKSAwcHggMHB4IDNweCcKICAgICAgICB9CiAgICAgIF0KCiAgICAgIHRvb2x0aXA6CiAgICAgICAgZW5hYmxlZDogZmFsc2UKCiAgICAgIHBsb3RPcHRpb25zOgogICAgICAgIGNvbHVtbjoKICAgICAgICAgIHBvaW50UGFkZGluZzogMC4yCiAgICAgICAgICBib3JkZXJXaWR0aDogMAogICAgICAgICAgcG9pbnRXaWR0aDogMTIwCiAgICB9Cgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjaW1wcm92ZS5leHBlY3RlZEFzc2V0Q29uZmlnLnNlcmllc1swXS5kYXRhID0gW2ltcHJvdmUuZXhwZWN0ZWRfZXhjZXNzX2Fzc2V0XQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>Proposed</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
@@ -2835,8 +2835,8 @@
       <register name="9" type="4">
         <text>improve</text>
       </register>
-      <register name="8" type="4">
-        <text>improve</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

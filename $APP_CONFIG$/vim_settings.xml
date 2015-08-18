@@ -223,12 +223,12 @@
         <mark key="." line="38" column="61" />
         <mark key="[" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1439883731479">
-        <mark key="'" line="106" column="29" />
-        <mark key="]" line="13" column="63" />
-        <mark key="^" line="13" column="63" />
-        <mark key="." line="13" column="63" />
-        <mark key="[" line="13" column="56" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1439887393926">
+        <mark key="'" line="109" column="29" />
+        <mark key="]" line="20" column="108" />
+        <mark key="^" line="20" column="63" />
+        <mark key="." line="20" column="108" />
+        <mark key="[" line="20" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number-horizontal.jade" timestamp="1425549987391">
         <mark key="]" line="3" column="34" />
@@ -1191,12 +1191,12 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1439886162355">
-        <mark key="'" line="85" column="20" />
-        <mark key="]" line="106" column="6" />
-        <mark key="^" line="106" column="6" />
-        <mark key="." line="106" column="6" />
-        <mark key="[" line="84" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1439887440597">
+        <mark key="'" line="88" column="20" />
+        <mark key="]" line="83" column="24" />
+        <mark key="^" line="83" column="22" />
+        <mark key="." line="83" column="24" />
+        <mark key="[" line="83" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -2805,47 +2805,47 @@
       <jump line="85" column="20" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRpcmVtZW50X2luY29tZV9jaGFydFw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMjIwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">d2lkdGg6MzIwcHg7IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>2</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dmFsaWRhdGlvbi10eXBlPSdyZXRpcmVtZW50X2FnZV9zbGlkZXInLCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbC14cy02Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMjIwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBoaWdoLXNpbmdsZS1zZXJpZXMtY29sdW1uKGNvbmZpZz0ncmVzdWx0cy5pbXByb3ZlLmV4cGVjdGVkQXNzZXRDb25maWcnLCBzdHlsZT0naGVpZ2h0OjI1MHB4OyB3aWR0aDozMjBweDsgbWFyZ2luOmF1dG8nLCBsb2FkaW5nPSdwYWdlLmxvYWRpbmcnKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMjIwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">d2lkdGg6MzIwcHg7IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBrawo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHdpZHRoOjMyMHB4OyBtYXJnaW46YXU=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMjIwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">d2lkdGg6MzIwcHg7IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">c3RlcD0xLCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, loading='page.loading'</text>
       </register>
     </registers>
     <search>

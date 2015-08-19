@@ -489,11 +489,11 @@
         <mark key="." line="1" column="3" />
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.less" timestamp="1439966963078">
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
-        <mark key="[" line="37" column="20" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.less" timestamp="1439968264952">
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="30" column="31" />
+        <mark key="." line="32" column="0" />
+        <mark key="[" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/EFC/main.jade" timestamp="1434449568283">
         <mark key="]" line="0" column="18" />
@@ -2867,13 +2867,13 @@
         <text encoding="base64">XDx0YXJnZXRDYXRlZ29yeU1peGVzXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>block</text>
       </register>
       <register name="3" type="4">
-        <text>cover.</text>
+        <text>block</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgIHRvcDogNTAlOwogICAgICAgICAgbGVmdDogMDsKICAgICAgICAgIHdpZHRoOiAxMDAlOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2881,26 +2881,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgSW4gcmVwb3J0IHBhZ2UsIHdlJ2xsIGluc3RhbnQgY29udHJvbGxlciB3aGVuIHN3aXRjaCBjaGVja2JveAogICAgIyBTbyB3ZSBuZWVkIGtlZXAgdGhlIGRhdGEgc291cmNlIGF3YXkgZnJvbSBiZSBjaGFuZ2VkLgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9vdGVyIHsKICAgICAgICAKICAgICAgfSAK</text>
+      <register name="6" type="4">
+        <text>cover.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgdG9wOiA1MCU7CiAgICAgICAgbGVmdDogMDsKICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICBsaW5lLWhlaWdodDogMTgwJTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>cashFlow</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZm9vdGVyIHsKICAgICAgICAKICAgICAgfSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAubWFpbi1jb250YWluZXIucGFnZS50ZXh0LXJpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgdG9wOiA1MCU7CiAgICAgICAgbGVmdDogMDsKICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICBsaW5lLWhlaWdodDogMTgwJTsK</text>
       </register>
     </registers>
     <search>

@@ -1184,11 +1184,8 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1439979067771">
-        <mark key="]" line="79" column="29" />
-        <mark key="^" line="79" column="29" />
-        <mark key="." line="79" column="29" />
-        <mark key="[" line="79" column="26" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1439979901361">
+        <mark key="[" line="77" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -2485,6 +2482,9 @@
         <mark key="." line="44" column="60" />
         <mark key="[" line="44" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-position/rc-position.coffee" timestamp="1439519231853">
+        <mark key="[" line="47" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/accounts.coffee" timestamp="1439456199732">
         <mark key="'" line="118" column="74" />
         <mark key="]" line="85" column="22" />
@@ -2845,8 +2845,8 @@
       <jump line="9" column="18" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB5QXhpczoKICAgICAgICAgIHJldmVyc2VkU3RhY2tzOiB0cnVlCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0U2NlbmFyaW9cPg==</text>
@@ -2858,16 +2858,16 @@
         <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
-      </register>
-      <register name="1" type="4">
         <text>false</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB5QXhpczoKICAgICAgICAgIHJldmVyc2VkU3RhY2tzOiB0cnVlCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGxlZ2VuZDoKICAgICAgICAgICAgcmV2ZXJzZWQ6IHRydWUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYihoZWFkaW5nPSdTY2VuYXJpbycsIHNlbGVjdD0nYWN0aXZlPTMnKQogICAgICBkaXYobmctaWY9J2FjdGl2ZT09MycpCiAgICAgICAgaDIudGV4dC1jZW50ZXIgU2NlbmFyaW8gQW5hbHlzaXMKICAgICAgICAuZm9ybS1ob3Jpem9udGFsLnJvdwogICAgICAgICAgLmNvbC14cy01LmNvbC14cy1vZmZzZXQtNwogICAgICAgICAgICBmaWVsZCgKICAgICAgICAgICAgZmllbGQtY29scz0nWzMsOV0nCiAgICAgICAgICAgIHR5cGU9J3NlbGVjdCcKICAgICAgICAgICAgbmctbW9kZWw9J3NjZW5hcmlvJwogICAgICAgICAgICBuZy1vcHRpb25zPSdrZXkgZm9yIChrZXksIHZhbHVlKSBpbiBzY2VuYXJpb3MnCiAgICAgICAgICAgICkKICAgICAgICAgICAgICBsYWJlbCBTY2VuYXJpbzoKICAgICAgICBoaWdoLXN0YWNrZWQtYXJlYShjb25maWc9J3NjZW5hcmlvJywgc3R5bGU9J2hlaWdodDogNDAwcHg7JywgdGljay1pbnRlcnZhbD0nNScsIGxvYWRpbmc9J3BhZ2UubG9hZGluZycpCgo=</text>
+      <register name="7" type="4">
+        <text>false</text>
       </register>
       <register name="6" type="4">
         <text>true</text>
@@ -2881,11 +2881,11 @@
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>true</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsbE9wYWNpdHk6IDEK</text>
+      <register name="8" type="4">
+        <text>true</text>
       </register>
     </registers>
     <search>

@@ -2405,11 +2405,8 @@
         <mark key="." line="48" column="21" />
         <mark key="[" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.coffee" timestamp="1439863830404">
-        <mark key="'" line="75" column="8" />
-        <mark key="]" line="54" column="30" />
-        <mark key="^" line="54" column="30" />
-        <mark key="." line="54" column="30" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.coffee" timestamp="1439953881379">
+        <mark key="'" line="81" column="8" />
         <mark key="[" line="53" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.coffee" timestamp="1437561519614">
@@ -2866,47 +2863,47 @@
       <jump line="94" column="19" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgcmVkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>cashFlow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxZGU5NmJcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5hdiw=</text>
+        <text>cashFlow</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC5uYXZpZ2F0aW9uLAo=</text>
+      <register name="3" type="4">
+        <text>cashFlow</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>cashFlow</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgcmVkOwo=</text>
+      <register name="1" type="4">
+        <text>cashFlow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBsYW5zLiRwcm9taXNlLnRoZW4oCiAgICAgICAgICAgIChkYXRhKS0+CiAgICAgICAgICAgICAgJHNjb3BlLmNsaWVudE5hbWUgPSBkYXRhWzBdLm5hbWUKICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIGNhc2hGbG93ID0gYW5ndWxhci5jb3B5IGNhc2hGbG93Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC5uYXZpZ2F0aW9uLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgcmVkOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IG5hdiw=</text>
+        <text>cashFlow</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>{</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogbm9uZTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IG5hdiw=</text>
       </register>
     </registers>
     <search>

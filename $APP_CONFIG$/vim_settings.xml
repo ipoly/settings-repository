@@ -1212,11 +1212,11 @@
         <mark key="." line="135" column="0" />
         <mark key="[" line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/asset-allocation/main.coffee" timestamp="1440056298882">
-        <mark key="]" line="12" column="39" />
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/asset-allocation/main.coffee" timestamp="1440057334968">
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="[" line="12" column="38" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/bank/main.coffee" timestamp="1439434633338">
         <mark key="]" line="19" column="40" />
@@ -1429,6 +1429,7 @@
         <mark key="." line="5" column="35" />
         <mark key="[" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/retirement/stress-test.coffee" timestamp="1440057656743" />
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/reset/input-reset.coffee" timestamp="1433836256424">
         <mark key="]" line="5" column="14" />
         <mark key="^" line="5" column="14" />
@@ -1646,7 +1647,7 @@
         <mark key="." line="20" column="18" />
         <mark key="[" line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/social-security/main.coffee" timestamp="1439180253857">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/social-security/main.coffee" timestamp="1440057477047">
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
@@ -1788,7 +1789,7 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.coffee" timestamp="1439180277097">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.coffee" timestamp="1440057727318">
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
@@ -1913,7 +1914,6 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/mock/target_category_mixes.json" timestamp="1440056387296" />
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/panel.jade" timestamp="1435637293456">
         <mark key="]" line="13" column="53" />
         <mark key="^" line="13" column="53" />
@@ -2776,47 +2776,47 @@
       <jump line="116" column="4" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>item.category_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChzY29wZS5hbGxvY2F0aW9uLmFjdGlvbl9pdGVtcy5sZW5ndGgpLnRvQmVHcmVhdGVyVGhhbigwKQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtYXR0ZXJcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Zm9yIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhYihoZWFkaW5nPSdTY2VuYXJpbycsIHNlbGVjdD0nYWN0aXZlPTMnKQogICAgICBkaXYobmctaWY9J2FjdGl2ZT09MycpCiAgICAgICAgaDIudGV4dC1jZW50ZXIgU2NlbmFyaW8gQW5hbHlzaXMKICAgICAgICAuZm9ybS1ob3Jpem9udGFsLnJvdwogICAgICAgICAgLmNvbC14cy01LmNvbC14cy1vZmZzZXQtNwogICAgICAgICAgICBmaWVsZCgKICAgICAgICAgICAgZmllbGQtY29scz0nWzMsOV0nCiAgICAgICAgICAgIHR5cGU9J3NlbGVjdCcKICAgICAgICAgICAgbmctbW9kZWw9J3NjZW5hcmlvTmFtZScKICAgICAgICAgICAgbmctb3B0aW9ucz0nbmFtZSBmb3IgbmFtZSBpbiBzY2VuYXJpb09yZGVycycKICAgICAgICAgICAgKQogICAgICAgICAgICAgIGxhYmVsIFNjZW5hcmlvOgogICAgICAgIGhpZ2gtYXJlYShjb25maWc9J3NjZW5hcmlvc1tzY2VuYXJpb05hbWVdJywgc3R5bGU9J2hlaWdodDogNDAwcHg7JywgdGljay1pbnRlcnZhbD0nNScsIGxvYWRpbmc9J3BhZ2UubG9hZGluZycpCgo=</text>
+        <text encoding="base64">ICAgICMgdG9kbzogd2FpdGluZyBmb3IgbmV3IEFQSQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc28K</text>
+        <text encoding="base64">ICAgIGV4cGVjdChzY29wZS5hbGxvY2F0aW9uLmFjdGlvbl9pdGVtcy5sZW5ndGgpLnRvQmVHcmVhdGVyVGhhbigwKQo=</text>
       </register>
       <register name="0" type="4">
         <text>item.category_id</text>
       </register>
       <register name="7" type="4">
-        <text>default</text>
+        <text encoding="base64">Zm9yIA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGVmYXVsdE5hbWUg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRhYihoZWFkaW5nPSdTY2VuYXJpbycsIHNlbGVjdD0nYWN0aXZlPTMnKQogICAgICBkaXYobmctaWY9J2FjdGl2ZT09MycpCiAgICAgICAgaDIudGV4dC1jZW50ZXIgU2NlbmFyaW8gQW5hbHlzaXMKICAgICAgICAuZm9ybS1ob3Jpem9udGFsLnJvdwogICAgICAgICAgLmNvbC14cy01LmNvbC14cy1vZmZzZXQtNwogICAgICAgICAgICBmaWVsZCgKICAgICAgICAgICAgZmllbGQtY29scz0nWzMsOV0nCiAgICAgICAgICAgIHR5cGU9J3NlbGVjdCcKICAgICAgICAgICAgbmctbW9kZWw9J3NjZW5hcmlvTmFtZScKICAgICAgICAgICAgbmctb3B0aW9ucz0nbmFtZSBmb3IgbmFtZSBpbiBzY2VuYXJpb09yZGVycycKICAgICAgICAgICAgKQogICAgICAgICAgICAgIGxhYmVsIFNjZW5hcmlvOgogICAgICAgIGhpZ2gtYXJlYShjb25maWc9J3NjZW5hcmlvc1tzY2VuYXJpb05hbWVdJywgc3R5bGU9J2hlaWdodDogNDAwcHg7JywgdGljay1pbnRlcnZhbD0nNScsIGxvYWRpbmc9J3BhZ2UubG9hZGluZycpCgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc28K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>scenarios[default]</text>
+        <text>=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5zY2VuYXJpb05hbWUgPSAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bmFtZSA=</text>
       </register>
     </registers>
     <search>

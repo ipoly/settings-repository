@@ -547,8 +547,11 @@
         <mark key="." line="44" column="6" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/restrict.coffee" timestamp="1439463973649">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/restrict.coffee" timestamp="1440146867610">
         <mark key="'" line="55" column="15" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1439371793092">
         <mark key="]" line="37" column="42" />
@@ -2325,8 +2328,12 @@
         <mark key="." line="6" column="16" />
         <mark key="[" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" timestamp="1440144820364">
-        <mark key="'" line="3" column="6" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" timestamp="1440148500257">
+        <mark key="'" line="16" column="8" />
+        <mark key="]" line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="[" line="43" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/restrict.coffee" timestamp="1428499601147">
         <mark key="]" line="35" column="53" />
@@ -2782,8 +2789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/a.dummy" />
-      <jump line="63" column="16" filename="$USER_HOME$/Documents/web/src/common/directives/buttons/btn-confirm/btn-confirm.coffee" />
       <jump line="29" column="18" filename="$USER_HOME$/Documents/web/src/common/directives/buttons/btn-confirm/btn-confirm.coffee" />
       <jump line="39" column="22" filename="$USER_HOME$/Documents/web/src/common/directives/buttons/btn-confirm/btn-confirm.coffee" />
       <jump line="42" column="20" filename="$USER_HOME$/Documents/web/src/common/directives/buttons/btn-confirm/btn-confirm.coffee" />
@@ -2882,55 +2887,57 @@
       <jump line="39" column="31" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" />
       <jump line="40" column="31" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" />
       <jump line="3" column="6" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" />
+      <jump line="37" column="10" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" />
+      <jump line="16" column="8" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFdFTENPTUUtRVpVVi1IQ0hPLVhIREUtQjRaRwo=</text>
+      <register name="&quot;" type="4">
+        <text>min</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN0cmljdFw+</text>
+        <text encoding="base64">XDxyZWRyYXdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5ndWxhci50b0pzb24g</text>
+        <text>min</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YW5ndWxhci50b0pzb24g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxsIGlmIG1pbiBpcyAkYXR0cnMubWluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICMgVG8gYXZvaWQgdHJpZ2dlciByZXN0cmljdCBhdCBmaXJzdCB0aW1lCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFdFTENPTUUtRVpVVi1IQ0hPLVhIREUtQjRaRwo=</text>
+      <register name="1" type="4">
+        <text>min</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgIF8uaW5kZXhPZiBvcmRlcnMsIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3RyaWN0ICdtYXgnLCB2YWwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5vcmRlciA9IChpdGVtKS0+IF8uaW5kZXhPZihvcmRlcnMsIGl0ZW0pICsgMSBvciBOdW1iZXIuUE9TSVRJVkVfSU5GSU5JVFkK</text>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHNjb3BlLm9yZGVyIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc3RyaWN0KCkK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>max</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">YW5ndWxhci5mcm9tSnNvbiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgVG8gYXZvaWQgdHJpZ2dlciByZXN0cmljdCBhdCBmaXJzdCB0aW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>keys</text>
+        <text>.max</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>max</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN0cmljdFw+</last-search>
+      <last-search encoding="base64">XDxyZWRyYXdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN0cmljdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZWRyYXdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2938,7 +2945,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXJnZUFnZVw+</entry>
         <entry encoding="base64">XDxleHBlbnNlXD4=</entry>
         <entry encoding="base64">XDxpbXByb3ZlXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZF9leGNlc3NfYXNzZXRcPg==</entry>
@@ -2958,6 +2964,7 @@
         <entry encoding="base64">XDxsb2Rhc2hcPg==</entry>
         <entry encoding="base64">XDxvcmRlcnNcPg==</entry>
         <entry encoding="base64">XDxyZXN0cmljdFw+</entry>
+        <entry encoding="base64">XDxyZWRyYXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

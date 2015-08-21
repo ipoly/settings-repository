@@ -223,11 +223,11 @@
         <mark key="." line="38" column="61" />
         <mark key="[" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440132934335">
-        <mark key="]" line="35" column="70" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440133632074">
+        <mark key="]" line="35" column="54" />
         <mark key="^" line="35" column="70" />
-        <mark key="." line="35" column="70" />
-        <mark key="[" line="35" column="70" />
+        <mark key="." line="35" column="54" />
+        <mark key="[" line="35" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number-horizontal.jade" timestamp="1425549987391">
         <mark key="]" line="3" column="34" />
@@ -1193,12 +1193,12 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1440132742848">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1440133740483">
         <mark key="'" line="67" column="4" />
-        <mark key="]" line="76" column="32" />
-        <mark key="^" line="76" column="32" />
-        <mark key="." line="76" column="32" />
-        <mark key="[" line="76" column="26" />
+        <mark key="]" line="77" column="20" />
+        <mark key="^" line="77" column="20" />
+        <mark key="." line="77" column="20" />
+        <mark key="[" line="77" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -2894,47 +2894,47 @@
       <jump line="67" column="4" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlcnNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">YW5ndWxhci50b0pzb24g</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">YW5ndWxhci5mcm9tSnNvbiA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5vcmRlciA9IChpdGVtKS0+IF8uaW5kZXhPZiBvcmRlcnMsIGl0ZW0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">YW5ndWxhci50b0pzb24g</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAgICAgIF8uaW5kZXhPZiBvcmRlcnMsIG5hbWUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgICAkc2NvcGUuc2NlbmFyaW9OYW1lcyA9IF8uc29ydEJ5IHNjZW5hcmlvTmFtZXMsIChuYW1lKS0+CiMgICAgICBjb25zb2xlLmxvZyBuYW1lCiMgICAgICBfLmluZGV4T2Ygb3JkZXJzLCBuYW1lCiAgICAkc2NvcGUuc2NlbmFyaW9OYW1lcyA9IG9yZGVyQnlGaWx0ZXIgc2NlbmFyaW9OYW1lcywgKGl0ZW0pLT4KICAgICAgXy5pbmRleE9mIG9yZGVycywgbmFtZQogICAgY29uc29sZS5sb2cgJHNjb3BlLnNjZW5hcmlvTmFtZXMK</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICRzY29wZS5vcmRlciA9IChpdGVtKS0+IF8uaW5kZXhPZihvcmRlcnMsIGl0ZW0pICsgMSBvciBOdW1iZXIuUE9TSVRJVkVfSU5GSU5JVFkK</text>
       </register>
       <register name="5" type="4">
-        <text>$scope.scenarioNames['']</text>
+        <text encoding="base64">JHNjb3BlLm9yZGVyIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">d2luZG93LmIg</text>
+        <text encoding="base64">IHw=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>keys</text>
       </register>
     </registers>
     <search>

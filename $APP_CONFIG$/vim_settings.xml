@@ -223,11 +223,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440729148077">
-        <mark key="]" line="35" column="54" />
-        <mark key="^" line="35" column="70" />
-        <mark key="." line="35" column="54" />
-        <mark key="[" line="35" column="54" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440735253619">
+        <mark key="]" line="19" column="104" />
+        <mark key="^" line="17" column="152" />
+        <mark key="." line="19" column="104" />
+        <mark key="[" line="19" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/main.less" timestamp="1432096907972">
         <mark key="]" line="3" column="13" />
@@ -1319,11 +1319,10 @@
         <mark key="." line="14" column="23" />
         <mark key="[" line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/high-probability.coffee" timestamp="1440729788325">
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="[" line="15" column="27" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/high-probability.coffee" timestamp="1440735068234">
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/controllers/InsuranceLifeCtrl.coffee" timestamp="1439276401060">
         <mark key="]" line="7" column="14" />
@@ -2894,47 +2893,47 @@
       <jump line="16" column="8" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/range/range.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, color='#5286F4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRyYXdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>, color='#5286F4</text>
       </register>
       <register name="3" type="4">
-        <text>min</text>
+        <text>, color='#17daa9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjM0RERUM2OwogICAgY29sb3I6ICM1Mjk2RUE7CiAgICBjb2xvcjogI0VBRURGMTsK</text>
+      <register name="2" type="4">
+        <text>,#17daa9'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Cg==</text>
+      <register name="1" type="4">
+        <text>, color='#5286F4</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjM0RERUM2Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTEK</text>
       </register>
-      <register name="7" type="4">
-        <text>max</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTEK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVG8gYXZvaWQgdHJpZ2dlciByZXN0cmljdCBhdCBmaXJzdCB0aW1lCg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxsIGlmIG1pbiBpcyAkYXR0cnMubWluCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVG8gYXZvaWQgdHJpZ2dlciByZXN0cmljdCBhdCBmaXJzdCB0aW1lCg==</text>
+      <register name="4" type="4">
+        <text>,#5286F4'</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>111</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3RyaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIK</text>
       </register>
     </registers>
     <search>

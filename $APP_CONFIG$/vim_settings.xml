@@ -700,11 +700,11 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" timestamp="1440992773752">
-        <mark key="]" line="30" column="26" />
-        <mark key="^" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="[" line="29" column="26" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" timestamp="1440993988718">
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/bootstrap.less" timestamp="1420361019204">
         <mark key="]" line="0" column="21" />
@@ -2910,47 +2910,47 @@
       <jump line="65" column="26" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>only when blur</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBrZXlDb2RlCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>only when blur</text>
+        <text>or e.shiftKey</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNob3cgZXJyb3IgbWVzc2FnZSBvbmx5IHdoZW4gYmx1cgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBlCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlLnR5cGUgaXMgJ2JsdXInCg==</text>
+      <register name="2" type="4">
+        <text>or e.shiftKey</text>
       </register>
-      <register name="1" type="4">
-        <text>only when blur</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBrZXlDb2RlCg==</text>
       </register>
       <register name="0" type="4">
         <text>$field.$dirty and $field.$invalid</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLiRpbnZhbGlkID0gJ2hhcy1lcnJvcicgaWYgaW52YWxpZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBlLnR5cGUgaXMgJ2JsdXInCg==</text>
       </register>
       <register name="6" type="4">
-        <text>$field.$dirty and $field.$invalid</text>
+        <text>only when blur</text>
       </register>
-      <register name="5" type="4">
-        <text>invalid</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIDE5MCwgMTEwICMgLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52YWxpZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDEwOSwgMTg5LCAjIC0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>then else ''</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW52YWxpZCA9IAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>$field.$dirty and $field.$invalid</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIFNob3cgZXJyb3IgbWVzc2FnZSBvbmx5IHdoZW4gYmx1cgo=</text>
       </register>
     </registers>
     <search>

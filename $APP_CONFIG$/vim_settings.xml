@@ -569,7 +569,8 @@
         <mark key="." line="32" column="10" />
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" timestamp="1441012346893">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" timestamp="1441013696374">
+        <mark key="'" line="1" column="15" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -1735,7 +1736,7 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1441011917191">
+      <file name="/a.dummy" timestamp="1441013687349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
@@ -2808,8 +2809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="18" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
-      <jump line="79" column="23" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
       <jump line="83" column="18" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
       <jump line="87" column="18" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
       <jump line="92" column="23" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
@@ -2908,13 +2907,15 @@
       <jump line="4" column="26" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/panels/expenses.jade" />
       <jump line="23" column="5" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
       <jump line="26" column="35" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
+      <jump line="50" column="22" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
+      <jump line="1" column="15" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIC5wcjIwLXRkID4gdGQgewogICAgICBwYWRkaW5nLXJpZ2h0OiAyMHB4OwogICAgfQogICAgLnByMjAtdGQgPiB0ZDpudGgtb2YtdHlwZSgxKSwgLnByMjAtdGQgPiB0ZDpudGgtb2YtdHlwZSgyKSB7CiAgICAgIHBhZGRpbmctcmlnaHQ6IDhweDsKICAgIH0K</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcjIwXD4=</text>
+        <text encoding="base64">XDw1Mjg2ZjRcPg==</text>
       </register>
       <register name="-" type="4">
         <text>.pr20-td</text>
@@ -2954,9 +2955,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcjIwXD4=</last-search>
+      <last-search encoding="base64">XDw1Mjg2ZjRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcjIwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDw1Mjg2ZjRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2964,7 +2965,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJ0eXBlXD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0U2NlbmFyaW9cPg==</entry>
         <entry encoding="base64">XDxyZXZlcnNlXD4=</entry>
         <entry encoding="base64">XDxsaWZlc1w+</entry>
@@ -2984,6 +2984,7 @@
         <entry encoding="base64">XDxpbnB1dFw+</entry>
         <entry encoding="base64">XDxmaWVsZFw+</entry>
         <entry encoding="base64">XDxwcjIwXD4=</entry>
+        <entry encoding="base64">XDw1Mjg2ZjRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

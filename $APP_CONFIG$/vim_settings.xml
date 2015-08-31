@@ -700,6 +700,12 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" timestamp="1440992773752">
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="[" line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/bootstrap.less" timestamp="1420361019204">
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -1196,7 +1202,7 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1440144793928">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1440992745663">
         <mark key="'" line="67" column="4" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />

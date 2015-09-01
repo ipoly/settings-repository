@@ -1129,10 +1129,11 @@
         <mark key="." line="34" column="0" />
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category.coffee" timestamp="1441100909297">
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category.coffee" timestamp="1441102760115">
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="[" line="4" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/registration/main.coffee" timestamp="1428649026957">
         <mark key="]" line="21" column="18" />
@@ -2863,7 +2864,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVHJhbnNhY3Rpb25jYXRlZ29yeS50ZWVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZmVmZWVcPg==</text>
@@ -2871,38 +2872,38 @@
       <register name="-" type="4">
         <text>.$promise</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcGxhY2U6IHRydWUK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.$promise</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgVHJhbnNhY3Rpb25jYXRlZ29yeS50ZWVuCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3RyYW5zYWN0aW9ucyc6IFsKICAgICAgICAnUmVzb3VyY2UnCiAgICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCd0cmFuc2FjdGlvbnMnKS5xdWVyeShhc19vZjonMjAxNC0xMi0zMScpLiRwcm9taXNlCiAgICAgIF0K</text>
       </register>
       <register name="7" type="4">
-        <text>group</text>
-      </register>
-      <register name="6" type="4">
         <text>value</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>label</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PjwvdHJhbnNhY3Rpb24tY2F0ZWdvcnk+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcGxhY2U6IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>array</text>
       </register>
       <register name="8" type="4">
-        <text>array</text>
+        <text>group</text>
       </register>
     </registers>
     <search>

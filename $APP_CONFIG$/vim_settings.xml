@@ -256,11 +256,11 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441096705068">
-        <mark key="]" line="35" column="31" />
-        <mark key="^" line="35" column="31" />
-        <mark key="." line="35" column="31" />
-        <mark key="[" line="35" column="21" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441097498550">
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/services/navigation.coffee" timestamp="1420095950477">
         <mark key="]" line="25" column="42" />
@@ -2917,8 +2917,8 @@
       <jump line="60" column="22" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Amount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhlYWQKICAgICAgICAgICAgICB0cgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZmVmZWVcPg==</text>
@@ -2926,38 +2926,38 @@
       <register name="-" type="4">
         <text>Amount</text>
       </register>
-      <register name="3" type="4">
-        <text>Account</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0cgogICAgICAgICAgICAgICAgdGgKICAgICAgICAgICAgICAgIHRoKGNvbHNwYW49JzInKSBEZXNjcmlwdGlvbgogICAgICAgICAgICAgICAgdGggQ2F0ZWdvcnkKICAgICAgICAgICAgICAgIHRoCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Category</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRkIERhdGUKICAgICAgICAgICAgICAgIHRkIERlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICB0ZCBBY2NvdW50CiAgICAgICAgICAgICAgICB0ZCBDYXRlZ29yeQogICAgICAgICAgICAgICAgdGQgQW1vdW50Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Amount</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhlYWQKICAgICAgICAgICAgICB0cgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3RyYW5zYWN0aW9ucyc6IFsKICAgICAgICAnUmVzb3VyY2UnCiAgICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCd0cmFuc2FjdGlvbnMnKS5xdWVyeShhc19vZjonMjAxNC0xMi0zMScpLiRwcm9taXNlCiAgICAgIF0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0cgogICAgICAgICAgICAgICAgdGggRGF0ZQogICAgICAgICAgICAgICAgdGQgRGVzY3JpcHRpb24KICAgICAgICAgICAgICAgIHRkIEFjY291bnQKICAgICAgICAgICAgICAgIHRkIENhdGVnb3J5CiAgICAgICAgICAgICAgICB0ZCBBbW91bnQK</text>
+      <register name="7" type="4">
+        <text>Description</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0cgogICAgICAgICAgICAgICAgdGggRGF0ZQogICAgICAgICAgICAgICAgdGQgRGVzY3JpcHRpb24KICAgICAgICAgICAgICAgIHRkIEFjY291bnQKICAgICAgICAgICAgICAgIHRkIENhdGVnb3J5CiAgICAgICAgICAgICAgICB0ZCBBbW91bnQKICAgICAgICAgICAgICB0cgogICAgICAgICAgICAgICAgdGggRGF0ZQogICAgICAgICAgICAgICAgdGQgRGVzY3JpcHRpb24KICAgICAgICAgICAgICAgIHRkIEFjY291bnQKICAgICAgICAgICAgICAgIHRkIENhdGVnb3J5CiAgICAgICAgICAgICAgICB0ZCBBbW91bnQK</text>
+      <register name="6" type="4">
+        <text>Account</text>
       </register>
       <register name="5" type="4">
-        <text>Date</text>
+        <text>Category</text>
       </register>
       <register name="4" type="4">
-        <text>Description</text>
+        <text>Amount</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0cgogICAgICAgICAgICAgICAgdGggRGF0ZQogICAgICAgICAgICAgICAgdGQgRGVzY3JpcHRpb24KICAgICAgICAgICAgICAgIHRkIEFjY291bnQKICAgICAgICAgICAgICAgIHRkIENhdGVnb3J5CiAgICAgICAgICAgICAgICB0ZCBBbW91bnQKICAgICAgICAgICAgICB0cgogICAgICAgICAgICAgICAgdGggRGF0ZQogICAgICAgICAgICAgICAgdGQgRGVzY3JpcHRpb24KICAgICAgICAgICAgICAgIHRkIEFjY291bnQKICAgICAgICAgICAgICAgIHRkIENhdGVnb3J5CiAgICAgICAgICAgICAgICB0ZCBBbW91bnQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ3RyYW5zYWN0aW9ucyc6IFsKICAgICAgICAnUmVzb3VyY2UnCiAgICAgICAgKFJlc291cmNlKS0+IFJlc291cmNlKCd0cmFuc2FjdGlvbnMnKS5xdWVyeShhc19vZjonMjAxNC0xMi0zMScpLiRwcm9taXNlCiAgICAgIF0K</text>
+      <register name="8" type="4">
+        <text>Date</text>
       </register>
     </registers>
     <search>

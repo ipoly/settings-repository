@@ -223,11 +223,10 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.jade" timestamp="1441184708905">
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="[" line="12" column="15" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.jade" timestamp="1441186218193">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/main.less" timestamp="1432096907972">
         <mark key="]" line="3" column="13" />
@@ -692,6 +691,10 @@
         <mark key="." line="28" column="10" />
         <mark key="[" line="28" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/models/portfolios/info/main.coffee" timestamp="1441187164974">
+        <mark key="]" line="67" column="75" />
+        <mark key="[" line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/position.jade" timestamp="1428401110319">
         <mark key="]" line="3" column="53" />
         <mark key="^" line="3" column="53" />
@@ -999,11 +1002,11 @@
         <mark key="." line="8" column="10" />
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441184600600">
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="28" column="30" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441187672026">
+        <mark key="]" line="56" column="65" />
+        <mark key="^" line="56" column="65" />
+        <mark key="." line="56" column="65" />
+        <mark key="[" line="56" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" timestamp="1432115191162">
         <mark key="]" line="4" column="39" />
@@ -1401,6 +1404,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highconfig.coffee" timestamp="1441186886595">
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="[" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/education/main.jade" timestamp="1424861323413">
         <mark key="]" line="22" column="12" />
@@ -2950,47 +2959,47 @@
       <jump line="3" column="3" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAnUmVzb3VyY2UnCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGJyLz4=</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>{series.name}:</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>, ng-if='type==0'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRGb3JtYXQ6ICc8c3Bhbj57cG9pbnQubmFtZX08L3NwYW4+PGJyLz4gPGI+e3BvaW50Lnl9JTwvYj4nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnaGlnaC1jaXJjbGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0ZXA6IDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnZm9ybScK</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXI6ICcnCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBmaWx0ZXJzCiAgJ2hhc2hXaXRoJwo=</text>
+      <register name="5" type="4">
+        <text>point</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAnQWRqdXN0bWVudHMnCg==</text>
+      <register name="4" type="4">
+        <text>span</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>xAxis.labels =</text>
       </register>
-      <register name="8" type="4">
-        <text>stacked-column</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0YXguYW10X2NoYXJ0LnhBeGlzLmxhYmVscyA9Cg==</text>
       </register>
     </registers>
     <search>

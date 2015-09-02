@@ -16,9 +16,9 @@
       <mask>*.coffee,*.jade</mask>
       <mask>*.coffee, *.jade</mask>
       <mask>*.cade</mask>
-      <mask>*.jade</mask>
       <mask>*.less</mask>
       <mask>*. coffee</mask>
+      <mask>*.jade</mask>
       <mask>*.coffee</mask>
     </recentFileMasks>
   </component>

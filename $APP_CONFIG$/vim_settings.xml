@@ -223,11 +223,11 @@
         <mark key="." line="38" column="61" />
         <mark key="[" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.jade" timestamp="1441169466168">
-        <mark key="]" line="11" column="34" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="11" column="34" />
-        <mark key="[" line="11" column="33" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.jade" timestamp="1441176352337">
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="10" column="10" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440744950671">
         <mark key="[" line="19" column="122" />
@@ -1002,11 +1002,11 @@
         <mark key="." line="8" column="10" />
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441169234018">
-        <mark key="]" line="34" column="18" />
-        <mark key="^" line="34" column="18" />
-        <mark key="." line="34" column="18" />
-        <mark key="[" line="33" column="17" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441177060284">
+        <mark key="]" line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="[" line="44" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" timestamp="1432115191162">
         <mark key="]" line="4" column="39" />
@@ -2945,47 +2945,47 @@
       <jump line="25" column="35" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoaWdoLWFyZWEoY29uZmlnPSdjaGFydHNbMV0nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmFuc2FjdGlvbmNhdGVnb3J5XD4=</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>{</text>
       </register>
       <register name="3" type="4">
-        <text>tax_rate_chart</text>
+        <text>series.reverse()</text>
       </register>
-      <register name="2" type="4">
-        <text>tax_rate_chart</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>type</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoaWdoLWFyZWEoY29uZmlnPSdjaGFydHNbMV0nKQo=</text>
+        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC5zZXJpZXMucmV2ZXJzZSgpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXMg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC5zZXJpZXMucmV2ZXJzZSgpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>$parent.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC5zZXJpZXMucmV2ZXJzZSgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSB7e3R5cGV9fQo=</text>
+      <register name="5" type="4">
+        <text>j</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>colors = [</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JGluZGV4IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

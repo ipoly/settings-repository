@@ -1001,11 +1001,10 @@
         <mark key="." line="8" column="10" />
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441180139453">
-        <mark key="]" line="34" column="20" />
-        <mark key="^" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-        <mark key="[" line="34" column="20" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441181481171">
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="[" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" timestamp="1432115191162">
         <mark key="]" line="4" column="39" />
@@ -1528,6 +1527,13 @@
         <mark key="." line="5" column="14" />
         <mark key="[" line="4" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/insurance/life-insurance/main.coffee" timestamp="1441181357460">
+        <mark key="'" line="72" column="13" />
+        <mark key="]" line="78" column="20" />
+        <mark key="^" line="78" column="20" />
+        <mark key="." line="78" column="20" />
+        <mark key="[" line="77" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/web/build/cdn_config.json" timestamp="1432896614159">
         <mark key="]" line="5" column="23" />
         <mark key="^" line="5" column="23" />
@@ -1756,7 +1762,7 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1441180264616">
+      <file name="/a.dummy" timestamp="1441180894393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
@@ -2842,8 +2848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="23" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
-      <jump line="85" column="6" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.coffee" />
       <jump line="82" column="8" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.coffee" />
       <jump line="78" column="8" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.coffee" />
       <jump line="60" column="4" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.coffee" />
@@ -2942,55 +2946,57 @@
       <jump line="60" column="22" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
       <jump line="20" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" />
       <jump line="25" column="35" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" />
+      <jump line="58" column="21" filename="$USER_HOME$/Documents/web/src/application/client/insurance/life-insurance/main.coffee" />
+      <jump line="72" column="13" filename="$USER_HOME$/Documents/web/src/application/client/insurance/life-insurance/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSB7e3R5cGV9fQo=</text>
+        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC54QXhpcyA9IGxhYmVsczogc3RlcDogNQo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcmFuc2FjdGlvbmNhdGVnb3J5XD4=</text>
+        <text encoding="base64">XDxjaGFydFw+</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>plotOptions</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxsT3BhY2l0eTogMQo=</text>
+        <text encoding="base64">ICAgICAgeEF4aXM6Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ3JlZCcK</text>
+      <register name="2" type="4">
+        <text>plotOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSB7e3R5cGV9fQo=</text>
+        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC54QXhpcyA9IGxhYmVsczogc3RlcDogNQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGF4LmFtdF9jaGFydAo=</text>
+        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC5wbG90T3B0aW9ucyA9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>series.reverse()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJ3JlZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHByZSB7e3R5cGV9fQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsYWJlbHM6IHN0ZXA6IDUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICB0YXgudGF4X3JhdGVfY2hhcnQuc2VyaWVzLnJldmVyc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgeEF4aXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>j</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyAgICB0YXgudGF4X3JhdGVfY2hhcnQuc2VyaWVzLnJldmVyc2UoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>colors = [</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxsT3BhY2l0eTogMQo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUcmFuc2FjdGlvbmNhdGVnb3J5XD4=</last-search>
+      <last-search encoding="base64">XDxjaGFydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcmFuc2FjdGlvbmNhdGVnb3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFydFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2998,7 +3004,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaWZlc1w+</entry>
         <entry encoding="base64">XDxzY2VuYXJpb3NcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50TG93ZXJIYXNoXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRfY2F0ZWdvcnlfbWl4X2FsbG9jYXRpb25zXD4=</entry>
@@ -3018,6 +3023,7 @@
         <entry encoding="base64">XDw1Mjg2ZjRcPg==</entry>
         <entry encoding="base64">XDxlZmVmZWVcPg==</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvbmNhdGVnb3J5XD4=</entry>
+        <entry encoding="base64">XDxjaGFydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

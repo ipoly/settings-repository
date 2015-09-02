@@ -223,11 +223,10 @@
         <mark key="." line="38" column="61" />
         <mark key="[" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.jade" timestamp="1441176352337">
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="10" column="10" />
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.jade" timestamp="1441180154167">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440744950671">
         <mark key="[" line="19" column="122" />
@@ -1002,11 +1001,11 @@
         <mark key="." line="8" column="10" />
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441177060284">
-        <mark key="]" line="44" column="24" />
-        <mark key="^" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-        <mark key="[" line="44" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441180139453">
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="[" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" timestamp="1432115191162">
         <mark key="]" line="4" column="39" />
@@ -1757,7 +1756,7 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1441165060351">
+      <file name="/a.dummy" timestamp="1441180264616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
@@ -2945,8 +2944,8 @@
       <jump line="25" column="35" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByZSB7e3R5cGV9fQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmFuc2FjdGlvbmNhdGVnb3J5XD4=</text>
@@ -2954,38 +2953,38 @@
       <register name="-" type="4">
         <text>{</text>
       </register>
-      <register name="3" type="4">
-        <text>series.reverse()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxsT3BhY2l0eTogMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgJ3JlZCcK</text>
       </register>
-      <register name="1" type="4">
-        <text>{</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByZSB7e3R5cGV9fQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC5zZXJpZXMucmV2ZXJzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgdGF4LmFtdF9jaGFydAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC5zZXJpZXMucmV2ZXJzZSgpCg==</text>
+      <register name="7" type="4">
+        <text>series.reverse()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRheC50YXhfcmF0ZV9jaGFydC5zZXJpZXMucmV2ZXJzZSgpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="4">
-        <text>j</text>
+        <text>{</text>
       </register>
-      <register name="4" type="4">
-        <text>colors = [</text>
+      <register name="4" type="2">
+        <text encoding="base64">IyAgICB0YXgudGF4X3JhdGVfY2hhcnQuc2VyaWVzLnJldmVyc2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>j</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>colors = [</text>
       </register>
     </registers>
     <search>

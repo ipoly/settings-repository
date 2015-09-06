@@ -264,7 +264,7 @@
         <mark key="." line="25" column="42" />
         <mark key="[" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441109959056">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441514369133">
         <mark key="]" line="19" column="55" />
         <mark key="^" line="19" column="55" />
         <mark key="." line="19" column="55" />
@@ -1387,11 +1387,11 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441110102949">
-        <mark key="]" line="32" column="7" />
-        <mark key="^" line="32" column="7" />
-        <mark key="." line="32" column="58" />
-        <mark key="[" line="32" column="58" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441514471788">
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="21" />
+        <mark key="[" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -2669,11 +2669,11 @@
         <mark key="." line="38" column="20" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" timestamp="1441109170980">
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="[" line="22" column="11" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" timestamp="1441514464552">
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="[" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/view/index.jade" timestamp="1428986020754">
         <mark key="]" line="3" column="42" />
@@ -2960,46 +2960,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>type: '0'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>type: '0'</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGJyLz4=</text>
+        <text>0</text>
       </register>
-      <register name="2" type="4">
-        <text>{series.name}:</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgPG9wPjwvb3A+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>type: '0'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcG9pbnRGb3JtYXQ6ICc8c3Bhbj57cG9pbnQubmFtZX08L3NwYW4+PGJyLz4gPGI+e3BvaW50Lnl9JTwvYj4nCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0ZXA6IDUK</text>
+      <register name="7" type="4">
+        <text>span</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXI6ICcnCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PGJyLz4=</text>
       </register>
       <register name="5" type="4">
-        <text>point</text>
+        <text>{series.name}:</text>
       </register>
       <register name="4" type="4">
-        <text>span</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>xAxis.labels =</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXI6ICcnCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YXguYW10X2NoYXJ0LnhBeGlzLmxhYmVscyA9Cg==</text>
+      <register name="8" type="4">
+        <text>point</text>
       </register>
     </registers>
     <search>

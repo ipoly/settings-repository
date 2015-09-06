@@ -218,6 +218,9 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440744950671">
+        <mark key="[" line="19" column="122" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/main.less" timestamp="1432096907972">
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
@@ -254,11 +257,12 @@
         <mark key="." line="25" column="42" />
         <mark key="[" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441525705867">
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="62" />
-        <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441532055344">
+        <mark key="'" line="16" column="41" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="13" column="43" />
+        <mark key="[" line="13" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/modal/main.coffee" timestamp="1437123492226">
         <mark key="]" line="38" column="38" />
@@ -1358,11 +1362,11 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441529056129">
-        <mark key="]" line="30" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441532086764">
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="6" column="13" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="30" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -1738,6 +1742,9 @@
         <mark key="^" line="45" column="19" />
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
+      </file>
+      <file name="/a.dummy" timestamp="1441531909913">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
@@ -2810,9 +2817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="29" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" />
-      <jump line="57" column="22" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" />
-      <jump line="61" column="20" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" />
       <jump line="125" column="62" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" />
       <jump line="64" column="25" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" />
       <jump line="85" column="20" filename="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" />
@@ -2910,55 +2914,58 @@
       <jump line="3" column="3" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" />
       <jump line="1" column="8" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" />
+      <jump line="7" column="56" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
+      <jump line="11" column="55" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
+      <jump line="14" column="41" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmUge3t0b3RhbH19ICwge3twYWdlfX0K</text>
+        <text encoding="base64">ICAgICRzY29wZS5hY3RpdmUgPSAzCg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0XD4=</text>
+        <text encoding="base64">XDxhY3RpdmVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>.pagination-sm</text>
+        <text>active</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAgIHBhZ2UgKiBwYWdlU2l6ZSwgcGFnZVNpemUK</text>
+      <register name="3" type="4">
+        <text>active</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICBkaXYgMjIyMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmUge3t0b3RhbH19ICwge3twYWdlfX0K</text>
+        <text encoding="base64">ICAgICRzY29wZS5hY3RpdmUgPSAzCg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHBhZ2UgKiAkYXR0cnMucGFnZVNpemUsICRhdHRycy5wYWdlU2l6ZQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAuY29udGFpbmVyLWZsdWlkKG5nLWlmPSdhY3RpdmUgPT0gMycpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>, active='active == 2'</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>, active='active == 1'</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>, active='active == 2'</text>
       </register>
       <register name="4" type="4">
-        <text>.pagination-sm</text>
+        <text>, active='active == 3'</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>P</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgJ1RyYW5zYWN0aW9uQ2F0ZWdvcnknOiBbCiAgICAgICAgJ1RyYW5zYWN0aW9uQ2F0ZWdvcnknCiAgICAgICAgKFRyYW5zYWN0aW9uQ2F0ZWdvcnkpLT4KICAgICAgICAgIFRyYW5zYWN0aW9uQ2F0ZWdvcnkuJHByb21pc2UudGhlbiAocmVzKS0+IGNvbnNvbGUubG9nIHJlcwogICAgICBdCg==</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>, active='active == 1'</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxhY3RpdmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2966,7 +2973,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXJnZXRDYXRlZ29yeU1peGVzXD4=</entry>
         <entry encoding="base64">XDxsb2Rhc2hcPg==</entry>
         <entry encoding="base64">XDxvcmRlcnNcPg==</entry>
         <entry encoding="base64">XDxyZXN0cmljdFw+</entry>
@@ -2986,6 +2992,7 @@
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxhY3RpdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

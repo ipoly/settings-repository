@@ -490,11 +490,11 @@
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1441529052724">
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="20" column="12" />
-        <mark key="[" line="20" column="12" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1441530764737">
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="1" column="10" />
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
         <mark key="]" line="5" column="0" />
@@ -2913,7 +2913,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyByZXN1bHQK</text>
+        <text encoding="base64">ICBwcmUge3t0b3RhbH19ICwge3twYWdlfX0K</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
@@ -2921,38 +2921,38 @@
       <register name="-" type="4">
         <text>.pagination-sm</text>
       </register>
-      <register name="3" type="4">
-        <text>.pagination-sm</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAgIHBhZ2UgKiBwYWdlU2l6ZSwgcGFnZVNpemUK</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyByZXN1bHQK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcmUge3t0b3RhbH19ICwge3twYWdlfX0K</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHBhZ2UgKiAkYXR0cnMucGFnZVNpemUsICRhdHRycy5wYWdlU2l6ZQ==</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>g</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
         <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>.pagination-sm</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>$attrs.</text>
+        <text>P</text>
       </register>
       <register name="8" type="4">
-        <text>P</text>
+        <text>a</text>
       </register>
     </registers>
     <search>

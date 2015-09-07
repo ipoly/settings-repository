@@ -232,9 +232,6 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1440744950671">
-        <mark key="[" line="19" column="122" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/main.less" timestamp="1432096907972">
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
@@ -1407,10 +1404,11 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441609802278">
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441611292480">
+        <mark key="]" line="39" column="4" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="39" column="4" />
+        <mark key="[" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -1791,9 +1789,6 @@
         <mark key="^" line="45" column="19" />
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
-      </file>
-      <file name="/a.dummy" timestamp="1441599101971">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
@@ -2997,47 +2992,47 @@
       <jump line="14" column="41" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>angular</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>, TransactionCategory</text>
+        <text>angular</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIyLCAkc2NvcGUK</text>
+      <register name="3" type="4">
+        <text>Calculate</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIyLCAkc2NvcGUK</text>
+      <register name="2" type="4">
+        <text>Calculate('basic_analysis/budget').get(as_of: '2014-12-31').$promise</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>angular</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnQ2FsY3VsYXRlJwogICAgICAgIChDYWxjdWxhdGUpLT4gQ2FsY3VsYXRlKCdiYXNpY19hbmFseXNpcy9idWRnZXQnKS5nZXQoYXNfb2Y6ICcyMDE0LTEyLTMxJykuJHByb21pc2UK</text>
+        <text encoding="base64">ICAgICAgICAgIHRyYW5zYWN0aW9uX2NhdGVnb3J5X3R5cGU6IGNhdGVncm95Lm5hbWUK</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRyYW5zYWN0aW9uQ2F0ZWdvcnkucXVlcnkgY2F0ZWdvcnkK</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ1RyYW5zYWN0aW9uQ2F0ZWdvcnknCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHt9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>, TransactionCategory</text>
+        <text>Calculate</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbms6ICgkc2NvcGUpLT4KICAgICAgJHNjb3BlLnRlc3QgPSAxMTExMQogICAgICAkc2NvcGUuc2VsZWN0ID0gKGNhdGVnb3J5KS0+CiAgICAgICAgY29uc29sZS5sb2cgY2F0ZWdvcnkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>o</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBAcHJvbWlzZS50aGVuCg==</text>
       </register>
     </registers>
     <search>

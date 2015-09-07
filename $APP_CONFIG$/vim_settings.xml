@@ -1141,6 +1141,12 @@
         <mark key="." line="0" column="27" />
         <mark key="[" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/service/budget-api.coffee" timestamp="1441618766807">
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="[" line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1438927818288">
         <mark key="]" line="8" column="0" />
         <mark key="^" line="4" column="22" />
@@ -1369,11 +1375,11 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441616253230">
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="20" />
-        <mark key="[" line="47" column="26" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441618782033">
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -2195,11 +2201,11 @@
         <mark key="." line="9" column="17" />
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441617284415">
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441618817206">
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="[" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
         <mark key="]" line="55" column="46" />
@@ -2286,11 +2292,12 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1441617193323">
-        <mark key="'" line="14" column="33" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1441618931776">
+        <mark key="'" line="15" column="33" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="[" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/less/bootstrap.less" timestamp="1430038874987">
         <mark key="]" line="0" column="0" />
@@ -2606,11 +2613,11 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/category/transaction-category.coffee" timestamp="1441617697635">
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="37" />
-        <mark key="[" line="35" column="27" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/category/transaction-category.coffee" timestamp="1441618908584">
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="[" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
@@ -2934,46 +2941,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>category</text>
+        <text>'Resource'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvbnNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>'Resource'</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">LmZhY3RvcnkgJ0J1ZGdldCcsIFsKICAnQ2FsY3VsYXRlJwogIChDYWxjdWxhdGUpLT4KICAgIGNsYXNzIEJ1ZGdldAogICAgICBjb25zdHJ1Y3RvcjogLT4gQGdldCgpCiAgICAgIGdldDogKGNhdGVnb3J5KS0+CiAgICAgICAgaWYgY2F0ZWdvcnk/CiAgICAgICAgICBpZCA9IGNhdGVnb3J5LmlkCiAgICAgICAgICBuYW1lID0gY2F0ZWdvcnkubmFtZSB1bmxlc3MgaWQKCiAgICAgICAgcGFyYW1zID0KICAgICAgICAgIHRyYW5zYWN0aW9uX2NhdGVnb3J5X2lkOiBpZAogICAgICAgICAgdHJhbnNhY3Rpb25fY2F0ZWdvcnlfdHlwZTogbmFtZQogICAgICAgICAgIyBUb2RvOiByZW1vdmUKICAgICAgICAgIGFzX29mOiAnMjAxNC0xMi0zMScKCiAgICAgICAgc2VsZiA9IHRoaXMKICAgICAgICBzZWxmLiRwcm9taXNlID0gQ2FsY3VsYXRlKCdiYXNpY19hbmFseXNpcy9idWRnZXQnKS5nZXQocGFyYW1zKQogICAgICAgIC4kcHJvbWlzZS50aGVuIChyZXMpLT4KICAgICAgICAjIFRvZG86IHVzZSBhbmd1bGFyLm1lcmdlCiAgICAgICAgICBfLm1lcmdlIHNlbGYsIF8ub21pdCByZXMsICckcHJvbWlzZScKICAgIG5ldyBCdWRnZXQKXQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAnUmVzb3VyY2UnCg==</text>
       </register>
       <register name="1" type="4">
-        <text>category</text>
+        <text>'Resource'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlkID0gY2F0ZWdvcnkuaWQK</text>
       </register>
-      <register name="7" type="4">
-        <text>(category)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAnYnVkZ2V0Jwo=</text>
       </register>
       <register name="6" type="4">
-        <text>category</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>'Resource'</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAnYnVkZ2V0Jwo=</text>
+      <register name="4" type="4">
+        <text>category</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>category</text>
       </register>
       <register name="8" type="4">
-        <text>{}</text>
+        <text>'Resource'</text>
       </register>
     </registers>
     <search>

@@ -494,11 +494,11 @@
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1441530764737">
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="1" column="10" />
-        <mark key="[" line="1" column="9" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1441595177302">
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="[" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
         <mark key="]" line="5" column="0" />
@@ -2288,11 +2288,11 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1441529780174">
-        <mark key="]" line="22" column="7" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="[" line="21" column="71" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1441595592996">
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="[" line="13" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/less/bootstrap.less" timestamp="1430038874987">
         <mark key="]" line="0" column="0" />
@@ -2608,11 +2608,11 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/category/transaction-category.coffee" timestamp="1441526146032">
-        <mark key="]" line="24" column="152" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/category/transaction-category.coffee" timestamp="1441595156110">
+        <mark key="]" line="24" column="88" />
         <mark key="^" line="24" column="152" />
-        <mark key="." line="24" column="152" />
-        <mark key="[" line="24" column="149" />
+        <mark key="." line="24" column="88" />
+        <mark key="[" line="24" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/less/buttons/btn-add.less" timestamp="1422415174018">
         <mark key="]" line="2" column="13" />
@@ -2932,48 +2932,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//
-   Created by zengli on 15/9/6.</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>type</text>
       </register>
       <register name="3" type="4">
-        <text>u</text>
+        <text>type</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>type</text>
       </register>
       <register name="1" type="4">
-        <text>//
-   Created by zengli on 15/9/6.</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuY29udGFpbmVyLWZsdWlkKG5nLWlmPSdhY3RpdmUgPT0gMycpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpdiAxMTExCg==</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>//
+   Created by zengli on 15/9/6.</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>, type: key</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>.name</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYgMjIyMgo=</text>
+      <register name="9" type="4">
+        <text>g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5hY3RpdmUgPSAzCg==</text>
+      <register name="8" type="4">
+        <text>u</text>
       </register>
     </registers>
     <search>

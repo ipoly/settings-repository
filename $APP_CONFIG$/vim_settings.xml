@@ -1407,11 +1407,10 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441601401735">
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="0" />
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441609802278">
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -2251,10 +2250,11 @@
         <mark key="." line="9" column="17" />
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441601372916">
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="[" line="12" column="13" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441609720692">
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="[" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
         <mark key="]" line="55" column="46" />
@@ -2997,8 +2997,8 @@
       <jump line="14" column="41" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, TransactionCategory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVcPg==</text>
@@ -3007,37 +3007,37 @@
         <text>, TransactionCategory</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRyYW5zYWN0aW9uQ2F0ZWdvcnkucXVlcnkgY2F0ZWdvcnkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIyLCAkc2NvcGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ1RyYW5zYWN0aW9uQ2F0ZWdvcnknCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIyLCAkc2NvcGUK</text>
       </register>
-      <register name="1" type="4">
-        <text>, TransactionCategory</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGNhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAnQ2FsY3VsYXRlJwogICAgICAgIChDYWxjdWxhdGUpLT4gQ2FsY3VsYXRlKCdiYXNpY19hbmFseXNpcy9idWRnZXQnKS5nZXQoYXNfb2Y6ICcyMDE0LTEyLTMxJykuJHByb21pc2UK</text>
       </register>
       <register name="7" type="4">
-        <text>, $elm</text>
+        <text>n</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbms6ICgkc2NvcGUpLT4KICAgICAgJHNjb3BlLnRlc3QgPSAxMTExMQogICAgICAkc2NvcGUuc2VsZWN0ID0gKGNhdGVnb3J5KS0+CiAgICAgICAgY29uc29sZS5sb2cgY2F0ZWdvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYW5zYWN0aW9uQ2F0ZWdvcnkucXVlcnkgY2F0ZWdvcnkK</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgJ1RyYW5zYWN0aW9uQ2F0ZWdvcnknCg==</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>, TransactionCategory</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>naiwe</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxpbms6ICgkc2NvcGUpLT4KICAgICAgJHNjb3BlLnRlc3QgPSAxMTExMQogICAgICAkc2NvcGUuc2VsZWN0ID0gKGNhdGVnb3J5KS0+CiAgICAgICAgY29uc29sZS5sb2cgY2F0ZWdvcnkK</text>
       </register>
       <register name="8" type="4">
-        <text>, $attrs</text>
+        <text>o</text>
       </register>
     </registers>
     <search>

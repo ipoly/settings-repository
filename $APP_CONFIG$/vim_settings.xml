@@ -690,7 +690,7 @@
         <mark key="]" line="67" column="75" />
         <mark key="[" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/budget-category.coffee" timestamp="1441631213912">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/budget-category.coffee" timestamp="1441681824250">
         <mark key="]" line="21" column="40" />
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
@@ -1114,7 +1114,7 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.jade" timestamp="1441631149846">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.jade" timestamp="1441681882538">
         <mark key="'" line="16" column="0" />
         <mark key="]" line="8" column="83" />
         <mark key="^" line="8" column="81" />
@@ -2234,11 +2234,11 @@
         <mark key="." line="9" column="17" />
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441621938966">
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="[" line="1" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441682979782">
+        <mark key="]" line="45" column="12" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="45" column="12" />
+        <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
         <mark key="]" line="55" column="46" />
@@ -2974,46 +2974,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filter.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filter.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgY2hhcnQuc2VyaWVzLmxlbmd0aCAsIG5ld1Nlcmllcy5sZW5ndGgK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc29sZS5sb2cg</text>
       </register>
       <register name="2" type="4">
-        <text>j</text>
+        <text>$scope.</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filter.</text>
       </register>
       <register name="0" type="4">
-        <text>self.$promise</text>
+        <text>$scope.filter.category.type</text>
       </register>
       <register name="7" type="4">
-        <text>res</text>
+        <text>[]</text>
       </register>
-      <register name="6" type="4">
-        <text>res</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>category.type</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgY2hhcnQuc2VyaWVzLmxlbmd0aCAsIG5ld1Nlcmllcy5sZW5ndGgKICAgICAgICAgICAgaWYgY2hhcnQuc2VyaWVzLmxlbmd0aCA+IG5ld1Nlcmllcy5sZW5ndGgKICAgICAgICAgICAgICBfLmNoYWluIGNoYXJ0LnNlcmllcwogICAgICAgICAgICAgIC5zbGljZSBuZXdTZXJpZXMubGVuZ3RoCiAgICAgICAgICAgICAgLmZvckVhY2ggKHNlcmllcyktPgogICAgICAgICAgICAgICAgc2VyaWVzLnJlbW92ZSBmYWxzZQo=</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIHNlbGYucHJvdG90eXBlCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICNfLm1lcmdlIHNlbGYsIF8ub21pdCByZXMsICckcHJvbWlzZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>

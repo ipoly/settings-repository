@@ -692,11 +692,11 @@
         <mark key="]" line="67" column="75" />
         <mark key="[" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/budget-category.coffee" timestamp="1441681824250">
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="21" column="40" />
-        <mark key="." line="21" column="40" />
-        <mark key="[" line="21" column="40" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/budget-category.coffee" timestamp="1441703953058">
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="[" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/position.jade" timestamp="1428401110319">
         <mark key="]" line="3" column="53" />
@@ -2978,46 +2978,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(ng-if='budget.transactions.length')</text>
+        <text>transactionCategory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="-" type="4">
+        <text>transactionCategory</text>
+      </register>
+      <register name="3" type="4">
         <text>(ng-if='budget.transactions.length')</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>(ng-if='budget.transactions.length')</text>
-      </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>transactionCategory</text>
       </register>
       <register name="0" type="4">
         <text>(ng-if='budget.transactions.length')</text>
       </register>
-      <register name="7" type="4">
-        <text>b</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB7e2ZpbHRlci5jYXRlZ29yeS50eXBlIHx8ICdOZXQgSW5jb21lJ319Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgdGFiKGhlYWRpbmc9J0J1ZGdldCcsIHNlbGVjdD0nYWN0aXZlPTInKQogICAgICAgIC5jb250YWluZXItZmx1aWQobmctaWY9J2FjdGl2ZSA9PSAyJykKICAgICAgICAgIGRpdiAyMjIyCgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>2222</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>]</text>
+        <text>div</text>
       </register>
       <register name="8" type="4">
-        <text>div</text>
+        <text>b</text>
       </register>
     </registers>
     <search>

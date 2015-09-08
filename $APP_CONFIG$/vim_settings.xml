@@ -1023,12 +1023,12 @@
         <mark key="." line="4" column="39" />
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441630720289">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441684001629">
         <mark key="'" line="26" column="6" />
-        <mark key="]" line="99" column="33" />
-        <mark key="^" line="99" column="33" />
-        <mark key="." line="99" column="33" />
-        <mark key="[" line="99" column="27" />
+        <mark key="]" line="98" column="23" />
+        <mark key="^" line="98" column="23" />
+        <mark key="." line="98" column="23" />
+        <mark key="[" line="98" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
         <mark key="]" line="3" column="29" />
@@ -2974,46 +2974,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filter.</text>
+        <text>chart</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>filter.</text>
+        <text>chart</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cg</text>
+        <text>o</text>
       </register>
       <register name="2" type="4">
-        <text>$scope.</text>
+        <text>g</text>
       </register>
       <register name="1" type="4">
-        <text>filter.</text>
+        <text>chart</text>
       </register>
-      <register name="0" type="4">
-        <text>$scope.filter.category.type</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgd2F0Y2ggdGl0bGUKICAgICAgICAgICRzY29wZS4kd2F0Y2ggJ3RpdGxlJywgKG5ld1RpdGxlLCBvbGQpLT4KICAgICAgICAgICAgY2hhcnQuc2V0VGl0bGUgdGV4dDogbmV3VGl0bGUK</text>
       </register>
       <register name="7" type="4">
-        <text>[]</text>
+        <text>console</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>assembled</text>
       </register>
       <register name="5" type="4">
-        <text>category.type</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Title</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>newColors</text>
       </register>
     </registers>
     <search>

@@ -256,12 +256,12 @@
         <mark key="." line="25" column="42" />
         <mark key="[" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441710990852">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1441712894378">
         <mark key="'" line="10" column="41" />
-        <mark key="]" line="26" column="32" />
-        <mark key="^" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="[" line="26" column="17" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="[" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/modal/main.coffee" timestamp="1437123492226">
         <mark key="]" line="38" column="38" />
@@ -2825,11 +2825,11 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.less" timestamp="1441005351257">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.less" timestamp="1441713449928">
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="[" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/services/API.coffee" timestamp="1432892818449">
         <mark key="]" line="14" column="0" />
@@ -2983,47 +2983,47 @@
       <jump line="26" column="6" filename="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
-      <register name="1" type="4">
-        <text>r</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbj0ne3tsb3dlcmJvdW5kfX0nCiAgICAgICAgICAgICAgICBtYXg9J3t7dXBwZXJib3VuZH19Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heD0ne3thdmVyYWdlKjIgfHwgMTAwMDB9fScK</text>
       </register>
-      <register name="7" type="4">
-        <text>category</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxpIHsKICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICB3aWR0aDogNTAlOwogICAgICA+ICogewogICAgICAgIAogICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>group</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>group</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>group</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmbG93eAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>category</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text>category</text>
+        <text>block</text>
       </register>
     </registers>
     <search>

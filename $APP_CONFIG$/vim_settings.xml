@@ -1009,11 +1009,12 @@
         <mark key="." line="4" column="39" />
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441686999945">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441784202363">
         <mark key="'" line="26" column="6" />
-        <mark key="]" line="99" column="51" />
-        <mark key="." line="99" column="51" />
-        <mark key="[" line="99" column="51" />
+        <mark key="]" line="107" column="28" />
+        <mark key="^" line="100" column="13" />
+        <mark key="." line="107" column="14" />
+        <mark key="[" line="107" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
         <mark key="]" line="3" column="29" />
@@ -1369,10 +1370,10 @@
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" timestamp="1441780195260">
         <mark key="'" line="10" column="10" />
-        <mark key="]" line="64" column="29" />
-        <mark key="^" line="64" column="29" />
-        <mark key="." line="64" column="29" />
-        <mark key="[" line="64" column="29" />
+        <mark key="]" line="52" column="29" />
+        <mark key="^" line="52" column="29" />
+        <mark key="." line="52" column="29" />
+        <mark key="[" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/yodlee/search/search.coffee" timestamp="1428671964868">
         <mark key="]" line="41" column="37" />
@@ -2128,6 +2129,12 @@
         <mark key="." line="9" column="17" />
         <mark key="[" line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441783700100">
+        <mark key="]" line="77" column="26" />
+        <mark key="^" line="77" column="26" />
+        <mark key="." line="77" column="26" />
+        <mark key="[" line="77" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
         <mark key="]" line="55" column="46" />
         <mark key="^" line="55" column="55" />
@@ -2778,46 +2785,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.id</text>
+        <text>yAxis</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="-" type="4">
-        <text>.id</text>
+        <text>yAxis</text>
       </register>
-      <register name="3" type="4">
-        <text>=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnQucmVkcmF3KCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>.id</text>
+        <text>yAxis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkID0gJHNjb3BlLmNhdGVnb3J5LmlkCg==</text>
+      <register name="0" type="4">
+        <text>chart.yAxis[0]</text>
       </register>
       <register name="7" type="4">
-        <text>budgetCategory</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>item.id</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcGxvdExpbmVzCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>plotLines</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>, $scope.item</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JHNjb3BlLmFjdGlvbkl0ZW1zLCA=</text>
+        <text>v</text>
       </register>
     </registers>
     <search>

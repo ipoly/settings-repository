@@ -217,6 +217,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.jade" timestamp="1441186218193">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1441719049582">
         <mark key="[" line="19" column="122" />
       </file>
@@ -1009,12 +1014,12 @@
         <mark key="." line="4" column="39" />
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441784202363">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441787804422">
         <mark key="'" line="26" column="6" />
-        <mark key="]" line="107" column="28" />
-        <mark key="^" line="100" column="13" />
-        <mark key="." line="107" column="14" />
-        <mark key="[" line="107" column="14" />
+        <mark key="]" line="105" column="32" />
+        <mark key="^" line="105" column="37" />
+        <mark key="." line="105" column="32" />
+        <mark key="[" line="105" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
         <mark key="]" line="3" column="29" />
@@ -2123,17 +2128,17 @@
         <mark key="." line="10" column="14" />
         <mark key="[" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/filters/formaters/currency.coffee" timestamp="1441786117506" />
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/investment/main.less" timestamp="1430278643598">
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441783700100">
-        <mark key="]" line="77" column="26" />
-        <mark key="^" line="77" column="26" />
-        <mark key="." line="77" column="26" />
-        <mark key="[" line="77" column="26" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441787302273">
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="[" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
         <mark key="]" line="55" column="46" />
@@ -2785,46 +2790,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yAxis</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="-" type="4">
-        <text>yAxis</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcnQucmVkcmF3KCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
       <register name="1" type="4">
-        <text>yAxis</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>chart.yAxis[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeUF4aXMudXBkYXRlIGNvbmZpZwo=</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>item.id</text>
+        <text>1</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcGxvdExpbmVzCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>plotLines</text>
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>*</text>
       </register>
     </registers>
     <search>

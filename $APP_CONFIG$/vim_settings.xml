@@ -1014,12 +1014,13 @@
         <mark key="." line="4" column="39" />
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441787804422">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1441791166721">
         <mark key="'" line="26" column="6" />
-        <mark key="]" line="105" column="32" />
-        <mark key="^" line="105" column="37" />
-        <mark key="." line="105" column="32" />
-        <mark key="[" line="105" column="32" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="104" column="38" />
+        <mark key="." line="105" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="i" line="104" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
         <mark key="]" line="3" column="29" />
@@ -2789,47 +2790,47 @@
       <jump line="10" column="10" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>null</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeUF4aXMudXBkYXRlIGNvbmZpZwo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgIHlBeGlzLnVwZGF0ZSB7bWF4OiB1bmRlZmluZWQsIG1pbjogdW5kZWZpbmVkfQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UFZhbHVlIGlmIHlBeGlzLm1pbiA+IFBWYWx1ZQ==</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>update</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{max: undefined, min: undefined}</text>
       </register>
       <register name="4" type="4">
-        <text>*</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>1</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgY2hhcnQuc2VyaWVzWzBdLmRhdGEK</text>
       </register>
       <register name="8" type="4">
-        <text>*</text>
+        <text encoding="base64">UFZhbHVlIGlmIHlBeGlzLm1heCA8IFBWYWx1ZQ==</text>
       </register>
     </registers>
     <search>

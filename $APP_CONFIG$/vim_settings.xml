@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1441870664871">
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="[" line="12" column="27" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1441871284107">
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="[" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Resource.coffee" timestamp="1441598969562">
         <mark key="]" line="6" column="70" />
@@ -263,8 +263,8 @@
       <jump line="6" column="16" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/PersonResource.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBjb25maWcK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXNvdXJjZVw+</text>
@@ -272,38 +272,38 @@
       <register name="-" type="4">
         <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICdSZXNvdXJjZScK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">UmVzb3VyY2UsIA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>,</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBjb25maWcK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnbGluaycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdsaW5rJwo=</text>
+        <text encoding="base64">ICAgICckaHR0cCcK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICckaHR0cCcK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICckaHR0cCcK</text>
-      </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JGh0dHBQcm92aWRlciwg</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdSZXNvdXJjZScK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">d2lkdGg6NDAwcHg7IA==</text>
-      </register>
-      <register name="8" type="4">
         <text>[10, 40 ,15, 0]</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdsaW5rJwo=</text>
       </register>
     </registers>
     <search>

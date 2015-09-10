@@ -1090,11 +1090,11 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.jade" timestamp="1441771295119">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.jade" timestamp="1441856137334">
         <mark key="'" line="18" column="0" />
-        <mark key="]" line="7" column="35" />
+        <mark key="]" line="11" column="58" />
         <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
+        <mark key="[" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/less/header.less" timestamp="1429013575939">
         <mark key="]" line="2" column="0" />
@@ -2133,11 +2133,11 @@
         <mark key="." line="9" column="17" />
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441793869384">
-        <mark key="]" line="15" column="49" />
-        <mark key="^" line="15" column="37" />
-        <mark key="." line="15" column="49" />
-        <mark key="[" line="15" column="48" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" timestamp="1441856159328">
+        <mark key="]" line="58" column="22" />
+        <mark key="^" line="58" column="22" />
+        <mark key="." line="58" column="22" />
+        <mark key="[" line="58" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/account/panels/investment/main.jade" timestamp="1428214737131">
         <mark key="]" line="55" column="46" />
@@ -2789,46 +2789,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>chart</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>chart</text>
       </register>
-      <register name="3" type="4">
-        <text>enabled: false</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJ1ZGdldC5ieV90cmFuc2FjdGlvbl9jYXRlZ29yeS5jaGFydAo=</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>budget.by_transaction_category.chart</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>chart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCdWRnZXQuYnlfdHJhbnNhY3Rpb25fY2F0ZWdvcnkuY2hhcnQubGVnZW5kID0gZW5hYmxlZDogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgIF8uc3VtIGNoYXJ0LnNlcmllc1swXS5kYXRhLCAnMScK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgJ3VwZGF0ZScsIGNhdGVnb3J5Cg==</text>
+      <register name="7" type="4">
+        <text>legend</text>
       </register>
       <register name="6" type="4">
-        <text>(category)</text>
+        <text>enabled: false</text>
       </register>
       <register name="5" type="4">
-        <text>by_transaction_category</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>legend</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(category)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgY2F0ZWdvcnkudHJhbnNhY3Rpb25fY2F0ZWdvcnlfaWQgaXMgJHNjb3BlLmZpbHRlci5jYXRlZ29yeS5pZAo=</text>
+      <register name="8" type="4">
+        <text>by_transaction_category</text>
       </register>
     </registers>
     <search>

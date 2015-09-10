@@ -2217,8 +2217,8 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1441621946323">
-        <mark key="'" line="15" column="33" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1441856896468">
+        <mark key="'" line="5" column="3" />
         <mark key="]" line="1" column="8" />
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
@@ -2686,8 +2686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="6" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
-      <jump line="64" column="3" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="73" column="39" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="77" column="43" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
       <jump line="154" column="48" filename="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" />
@@ -2754,7 +2752,6 @@
       <jump line="10" column="6" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="9" column="6" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="14" column="28" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
-      <jump line="15" column="33" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="23" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/transaction-category.coffee" />
       <jump line="24" column="24" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/transaction-category.coffee" />
       <jump line="12" column="13" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.jade" />
@@ -2786,13 +2783,16 @@
       <jump line="71" column="58" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
       <jump line="65" column="18" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
       <jump line="51" column="34" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
+      <jump line="6" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
+      <jump line="15" column="26" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
+      <jump line="5" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>chart</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXRlZ29yeVw+</text>
+        <text encoding="base64">XDxCdWRnZXRcPg==</text>
       </register>
       <register name="-" type="4">
         <text>chart</text>
@@ -2832,9 +2832,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXRlZ29yeVw+</last-search>
+      <last-search encoding="base64">XDxCdWRnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXRlZ29yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxCdWRnZXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2854,7 +2854,6 @@
         <entry encoding="base64">XDxhY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxwYWdlU2l6ZVw+</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxCdWRnZXRcPg==</entry>
         <entry encoding="base64">XDxjaGFydFw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxyY0FkanVzdFw+</entry>
@@ -2862,6 +2861,7 @@
         <entry encoding="base64">XDxCdWRnZXRDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxhY3Rpb25JdGVtc1w+</entry>
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
+        <entry encoding="base64">XDxCdWRnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

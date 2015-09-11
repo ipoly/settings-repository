@@ -2037,6 +2037,7 @@
         <mark key="." line="2" column="19" />
         <mark key="[" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/bower.json" timestamp="1441964548880" />
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -2560,6 +2561,12 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.coffee" timestamp="1441964793276">
+        <mark key="]" line="91" column="33" />
+        <mark key="^" line="91" column="33" />
+        <mark key="." line="91" column="33" />
+        <mark key="[" line="91" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/client/portal/main.jade" timestamp="1435057417172">
         <mark key="]" line="35" column="22" />
         <mark key="^" line="35" column="22" />
@@ -2785,7 +2792,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIHNlbGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0aW9uVHlwZVw+</text>
@@ -2794,37 +2801,37 @@
         <text>.get</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.get</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIHNlbGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="0" type="4">
         <text>({name: 'expense'}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3RydWN0b3I6IC0+IEBnZXQoe25hbWU6ICdleHBlbnNlJ30pCg==</text>
+      <register name="7" type="4">
+        <text>.get</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIHNlbGYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3RydWN0b3I6IC0+IEBnZXQoe25hbWU6ICdleHBlbnNlJ30pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>

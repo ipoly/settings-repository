@@ -1411,7 +1411,6 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/PeopleList.coffee" timestamp="1441867600893" />
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/select.jade" timestamp="1425898464336">
         <mark key="]" line="1" column="7" />
         <mark key="^" line="4" column="31" />
@@ -1569,10 +1568,10 @@
         <mark key="[" line="87" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/web/package.json" timestamp="1439372751995">
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="[" line="23" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="[" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-pie.coffee" timestamp="1423643769580">
         <mark key="]" line="24" column="32" />
@@ -1688,14 +1687,12 @@
         <mark key="." line="17" column="16" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/build/error-handler.coffee" timestamp="1441940993002" />
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-single-series-bar.coffee" timestamp="1421292622770">
         <mark key="]" line="2" column="16" />
         <mark key="^" line="1" column="28" />
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/billing/main.coffee" timestamp="1441620060074" />
       <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/action-items/action-items.jade" timestamp="1438159357044">
         <mark key="]" line="1" column="75" />
         <mark key="^" line="1" column="76" />
@@ -2129,7 +2126,6 @@
         <mark key="." line="10" column="14" />
         <mark key="[" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/filters/formaters/currency.coffee" timestamp="1441786117506" />
       <file name="$USER_HOME$/Documents/web/src/application/client/account/panels/investment/main.less" timestamp="1430278643598">
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />

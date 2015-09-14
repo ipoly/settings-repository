@@ -105,11 +105,11 @@
         <mark key="." line="32" column="16" />
         <mark key="[" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.coffee" timestamp="1442221909373">
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="42" column="8" />
-        <mark key="[" line="42" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.coffee" timestamp="1442224179074">
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="24" />
+        <mark key="[" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/Reports.coffee" timestamp="1420618440616">
         <mark key="]" line="0" column="17" />
@@ -359,6 +359,12 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
         <mark key="[" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/constants/client-pages.coffee" timestamp="1442223821573">
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+        <mark key="[" line="41" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/resources/_services/people.coffee" timestamp="1419499266214">
         <mark key="]" line="8" column="29" />
@@ -1214,6 +1220,12 @@
         <mark key="." line="10" column="19" />
         <mark key="[" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/estates/main.jade" timestamp="1442224943942">
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="[" line="8" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/goals-panels/sortGoals.coffee" timestamp="1421471503226">
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -1504,11 +1516,11 @@
         <mark key="." line="37" column="32" />
         <mark key="[" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1441868214933">
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1442224055764">
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="[" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/overview/main.coffee" timestamp="1429269941460">
         <mark key="]" line="5" column="35" />
@@ -2072,7 +2084,6 @@
         <mark key="." line="2" column="19" />
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/bower.json" timestamp="1441964548880" />
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -2839,47 +2850,47 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/web/src/application/client/estate/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>state</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>.$promise</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICDigJjigJkK</text>
+      <register name="2" type="4">
+        <text>.$promise</text>
       </register>
-      <register name="1" type="4">
-        <text>state</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IG5nLW9wdGlvbnM9Iml0ZW0gYXMgaXRlbS50ZXh0fHxpdGVtLm5hbWUgZ3JvdXAgYnkgaXRlbS50eXBlIGZvciBpdGVtIGluIGJ1ZGdldENhdGVnb3J5</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB7bmFtZTogJ0VkdWNhdGlvbid9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB7bmFtZTogJ0VkdWNhdGlvbid9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>Education</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAnZXN0YXRlJwo=</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>education</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>.query().$promise</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>$</text>
       </register>
     </registers>
     <search>

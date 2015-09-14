@@ -492,11 +492,11 @@
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1442220064402">
-        <mark key="]" line="20" column="27" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1442221236170">
+        <mark key="]" line="18" column="29" />
         <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="[" line="20" column="23" />
+        <mark key="." line="18" column="29" />
+        <mark key="[" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
         <mark key="]" line="5" column="0" />
@@ -2822,43 +2822,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LmZpbmFsbHkgLT4=</text>
+        <text>.text-capitalize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmZpbmFsbHkgLT4=</text>
+        <text>.text-capitalize</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICRzY29wZS5pc0xvYWRpbmcgPSBmYWxzZQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">LmZpbmFsbHkgLT4=</text>
+      </register>
+      <register name="1" type="4">
+        <text>.text-capitalize</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IG5nLW9wdGlvbnM9Iml0ZW0gYXMgaXRlbS50ZXh0fHxpdGVtLm5hbWUgZ3JvdXAgYnkgaXRlbS50eXBlIGZvciBpdGVtIGluIGJ1ZGdldENhdGVnb3J5</text>
       </register>
       <register name="7" type="4">
-        <text>item</text>
-      </register>
-      <register name="6" type="4">
         <text>$scope.</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>$scope</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>scope</text>
+      </register>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LmNvbnRyb2xsZXIgJ1RyYW5zYWN0aW9uQ3RybCcsIFsKICAnJHNjb3BlJwogICdSZXNvdXJjZScKICAoJHNjb3BlLCBSZXNvdXJjZSkgLT4KCl0K</text>
+      <register name="9" type="4">
+        <text>item</text>
       </register>
       <register name="8" type="4">
         <text>item</text>

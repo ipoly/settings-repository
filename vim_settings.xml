@@ -486,11 +486,10 @@
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1442200509279">
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="[" line="17" column="42" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1442201466974">
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
         <mark key="]" line="5" column="0" />
@@ -2810,8 +2809,8 @@
       <jump line="25" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZpZWxkICAK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdW1Ub3RhbFw+</text>
@@ -2820,37 +2819,37 @@
         <text>-</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
-      </register>
-      <register name="2" type="4">
         <text>#</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>-</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZpZWxkICAK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHlBeGlzLnVwZGF0ZSBjb25maWcK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgUmVzZXQgcmFuZ2UgZm9yICBwbG90bGluZXMK</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>e</text>
+      </register>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNvbmZpZy5wbG90TGluZXM/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNvbmZpZy5wbG90TGluZXM/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgUmVzZXQgcmFuZ2UgZm9yICBwbG90bGluZXMK</text>
       </register>
     </registers>
     <search>

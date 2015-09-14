@@ -1220,11 +1220,11 @@
         <mark key="." line="10" column="19" />
         <mark key="[" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/estates/main.jade" timestamp="1442224943942">
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="[" line="8" column="28" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/estates/main.jade" timestamp="1442226288955">
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="[" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/goals-panels/sortGoals.coffee" timestamp="1421471503226">
         <mark key="]" line="0" column="16" />
@@ -1292,6 +1292,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="6" column="31" />
         <mark key="[" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/estates/main.coffee" timestamp="1442226027803">
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="[" line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/account-list.less" timestamp="1439524738054">
         <mark key="]" line="135" column="0" />
@@ -2850,47 +2856,47 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/web/src/application/client/estate/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>.$promise</text>
+        <text>client</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
+      <register name="3" type="4">
+        <text>h1.brand-primary-dark</text>
       </register>
       <register name="2" type="4">
-        <text>.$promise</text>
+        <text>people.get</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7bmFtZTogJ0VkdWNhdGlvbid9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ciB7e2NsaWVudC5uYW1lfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7bmFtZTogJ0VkdWNhdGlvbid9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Education</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAnZXN0YXRlJwo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>education</text>
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>.query().$promise</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="8" type="4">
-        <text>$</text>
+        <text>.$promise</text>
       </register>
     </registers>
     <search>

@@ -129,10 +129,10 @@
         <mark key="." line="22" column="7" />
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1442306066196">
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="[" line="42" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1442309123644">
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="[" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/print/main.jade" timestamp="1439179673717">
         <mark key="]" line="1" column="50" />
@@ -2031,11 +2031,12 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" timestamp="1442306681577">
-        <mark key="]" line="91" column="28" />
-        <mark key="^" line="91" column="28" />
-        <mark key="." line="91" column="28" />
-        <mark key="[" line="91" column="28" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" timestamp="1442309121037">
+        <mark key="'" line="63" column="6" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="93" column="74" />
+        <mark key="." line="91" column="0" />
+        <mark key="[" line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency.jade" timestamp="1435740921583">
         <mark key="]" line="2" column="28" />
@@ -2778,11 +2779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="5" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
-      <jump line="26" column="35" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
-      <jump line="50" column="22" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
-      <jump line="1" column="15" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
-      <jump line="61" column="21" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
       <jump line="60" column="22" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/main.less" />
       <jump line="20" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" />
       <jump line="25" column="35" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction-category/transaction-category.coffee" />
@@ -2878,55 +2874,60 @@
       <jump line="59" column="25" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="60" column="37" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="63" column="52" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
+      <jump line="63" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
+      <jump line="90" column="12" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
+      <jump line="89" column="12" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
+      <jump line="45" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
+      <jump line="62" column="6" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>query</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDQwMSwgcmVqLmNvbmZpZy51cmwK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZFw+</text>
+        <text encoding="base64">XDxjaGFuZ2VDb250YWN0c1w+</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>unless</text>
       </register>
       <register name="3" type="4">
-        <text>!</text>
+        <text>unless</text>
       </register>
-      <register name="2" type="4">
-        <text>In order to determine whether your assets are properly allocated, it is necessary to link all of your investment accounts here. Doing so will allow you to obtain a more accurate showing of how any of your allocations across cash, stocks, fixed income, and / or other financial vehicles relate to one another.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyAxMTExLCBpdGVtCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>query</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDQwMSwgcmVqLmNvbmZpZy51cmwK</text>
       </register>
       <register name="0" type="4">
         <text>ng-if='!havePositions'</text>
       </register>
-      <register name="7" type="4">
-        <text>5</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgMTExMSwgaG91c2Vob2xkc0RhdGEK</text>
       </register>
       <register name="6" type="4">
-        <text>5</text>
+        <text>householdsData</text>
       </register>
-      <register name="5" type="4">
-        <text>tab-pane</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>tab-pane</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGxvZyAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>$scope.</text>
+        <text>'</text>
       </register>
-      <register name="8" type="4">
-        <text>5</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIAo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZFw+</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2VDb250YWN0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2VDb250YWN0c1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2934,7 +2935,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxyY0FkanVzdFw+</entry>
         <entry encoding="base64">XDxidWRnZXRDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxhY3Rpb25JdGVtc1w+</entry>
@@ -2954,6 +2954,7 @@
         <entry encoding="base64">XDxwZW9wbGVzXD4=</entry>
         <entry encoding="base64">XDxub3dyYXBcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDxjaGFuZ2VDb250YWN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

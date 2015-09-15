@@ -505,11 +505,11 @@
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1442221236170">
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="18" column="29" />
-        <mark key="[" line="18" column="29" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1442299632721">
+        <mark key="]" line="13" column="10" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="13" column="10" />
+        <mark key="[" line="13" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
         <mark key="]" line="5" column="0" />
@@ -1070,7 +1070,7 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1442285805487">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1442299405161">
         <mark key="]" line="19" column="10" />
         <mark key="." line="19" column="10" />
         <mark key="[" line="19" column="10" />
@@ -1744,11 +1744,12 @@
         <mark key="." line="1" column="75" />
         <mark key="[" line="1" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/less/table-grid.less" timestamp="1442219608408">
-        <mark key="]" line="48" column="4" />
-        <mark key="^" line="48" column="4" />
-        <mark key="." line="48" column="4" />
-        <mark key="[" line="48" column="4" />
+      <file name="$USER_HOME$/Documents/web/src/application/less/table-grid.less" timestamp="1442299584977">
+        <mark key="'" line="44" column="20" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="[" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/pages/sign-in.jade" timestamp="1421744099919">
         <mark key="]" line="20" column="18" />
@@ -2099,7 +2100,6 @@
         <mark key="." line="2" column="19" />
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/bower.json" timestamp="1441964548880" />
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -2280,7 +2280,12 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1442292333036" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1442299215553">
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="48" />
+        <mark key="[" line="30" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/less/bootstrap.less" timestamp="1430038874987">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="36" />
@@ -2758,7 +2763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="12" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
       <jump line="42" column="51" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
       <jump line="65" column="26" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" />
       <jump line="4" column="26" filename="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/panels/expenses.jade" />
@@ -2858,55 +2862,56 @@
       <jump line="50" column="21" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
       <jump line="52" column="29" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
       <jump line="58" column="15" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
+      <jump line="41" column="20" filename="$USER_HOME$/Documents/web/src/application/less/table-grid.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZW9wbGVzXD4=</text>
+        <text encoding="base64">XDxub3dyYXBcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcjogaW5oZXJpdDsgLy8gMQo=</text>
+      <register name="2" type="4">
+        <text>x</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRleHQ6ICdXaWxsJwogICAgICAgIGtleTogJ3dpbGwnCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgd2hpdGUtc3BhY2UgOiBub3dyYXA7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogQGZvbnQtc2l6ZS1oMjsK</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>nowrap</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>nowrap</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZW9wbGVzXD4=</last-search>
+      <last-search encoding="base64">XDxub3dyYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZW9wbGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub3dyYXBcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2914,7 +2919,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2FjdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxjaGFydFw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxyY0FkanVzdFw+</entry>
@@ -2934,6 +2938,7 @@
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxwZW9wbGVzXD4=</entry>
+        <entry encoding="base64">XDxub3dyYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

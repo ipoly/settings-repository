@@ -703,8 +703,7 @@
         <mark key="." line="3" column="53" />
         <mark key="[" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/budget-category.coffee" timestamp="1442285834745">
-        <mark key="'" line="17" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/budget-category.coffee" timestamp="1442292790710">
         <mark key="]" line="23" column="33" />
         <mark key="." line="23" column="33" />
         <mark key="[" line="23" column="33" />
@@ -2100,6 +2099,7 @@
         <mark key="." line="2" column="19" />
         <mark key="[" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/bower.json" timestamp="1441964548880" />
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency-horizontal.jade" timestamp="1435740931544">
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -2280,13 +2280,7 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1442234250686">
-        <mark key="'" line="22" column="25" />
-        <mark key="]" line="35" column="41" />
-        <mark key="^" line="35" column="41" />
-        <mark key="." line="35" column="41" />
-        <mark key="[" line="35" column="41" />
-      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" timestamp="1442292333036" />
       <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/src/less/bootstrap.less" timestamp="1430038874987">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="36" />
@@ -2866,8 +2860,8 @@
       <jump line="58" column="15" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb2xvcjogaW5oZXJpdDsgLy8gMQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZW9wbGVzXD4=</text>
@@ -2876,13 +2870,13 @@
         <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICBjb2xvcjogaW5oZXJpdDsgLy8gMQo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIHRleHQ6ICdXaWxsJwogICAgICAgIGtleTogJ3dpbGwnCiAgICAgIH0K</text>
@@ -2893,11 +2887,11 @@
       <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZvbnQtc2l6ZTogQGZvbnQtc2l6ZS1oMjsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>#</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

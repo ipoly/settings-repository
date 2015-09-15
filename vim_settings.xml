@@ -129,7 +129,7 @@
         <mark key="." line="22" column="7" />
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1441880101060">
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1442306066196">
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="[" line="42" column="0" />
@@ -2031,6 +2031,12 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" timestamp="1442306681577">
+        <mark key="]" line="91" column="28" />
+        <mark key="^" line="91" column="28" />
+        <mark key="." line="91" column="28" />
+        <mark key="[" line="91" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency.jade" timestamp="1435740921583">
         <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="28" />
@@ -2875,22 +2881,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>In order to determine whether your assets are properly allocated, it is necessary to link all of your investment accounts here. Doing so will allow you to obtain a more accurate showing of how any of your allocations across cash, stocks, fixed income, and / or other financial vehicles relate to one another.</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>In order to determine whether your assets are properly allocated, it is necessary to link all of your investment accounts here. Doing so will allow you to obtain a more accurate showing of how any of your allocations across cash, stocks, fixed income, and / or other financial vehicles relate to one another.</text>
+        <text>query</text>
       </register>
       <register name="3" type="4">
-        <text>tab-pane</text>
-      </register>
-      <register name="2" type="4">
         <text>!</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>In order to determine whether your assets are properly allocated, it is necessary to link all of your investment accounts here. Doing so will allow you to obtain a more accurate showing of how any of your allocations across cash, stocks, fixed income, and / or other financial vehicles relate to one another.</text>
+      </register>
+      <register name="1" type="4">
+        <text>query</text>
       </register>
       <register name="0" type="4">
         <text>ng-if='!havePositions'</text>
@@ -2902,7 +2908,7 @@
         <text>5</text>
       </register>
       <register name="5" type="4">
-        <text>5</text>
+        <text>tab-pane</text>
       </register>
       <register name="4" type="4">
         <text>tab-pane</text>
@@ -2914,7 +2920,7 @@
         <text>$scope.</text>
       </register>
       <register name="8" type="4">
-        <text>$scope.</text>
+        <text>5</text>
       </register>
     </registers>
     <search>

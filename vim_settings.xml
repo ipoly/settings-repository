@@ -1451,6 +1451,12 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/web/vendor/bootstrap/less/normalize.less" timestamp="1442290178931">
+        <mark key="]" line="256" column="0" />
+        <mark key="^" line="256" column="12" />
+        <mark key="." line="256" column="0" />
+        <mark key="[" line="256" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/select.jade" timestamp="1425898464336">
         <mark key="]" line="1" column="7" />
         <mark key="^" line="4" column="31" />
@@ -1601,11 +1607,11 @@
         <mark key="." line="23" column="60" />
         <mark key="[" line="23" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/less/misc.less" timestamp="1436262554019">
-        <mark key="]" line="87" column="16" />
-        <mark key="^" line="87" column="16" />
-        <mark key="." line="87" column="16" />
-        <mark key="[" line="87" column="9" />
+      <file name="$USER_HOME$/Documents/web/src/application/less/misc.less" timestamp="1442290059811">
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="[" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/web/package.json" timestamp="1439372751995">
         <mark key="]" line="24" column="15" />
@@ -2860,8 +2866,8 @@
       <jump line="58" column="15" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb2xvcjogaW5oZXJpdDsgLy8gMQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZW9wbGVzXD4=</text>
@@ -2869,14 +2875,14 @@
       <register name="-" type="4">
         <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogQGZvbnQtc2l6ZS1oMjsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>#</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IHRleHQtY2FwaXRhbGl6ZQ==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb2xvcjogaW5oZXJpdDsgLy8gMQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIHRleHQ6ICdXaWxsJwogICAgICAgIGtleTogJ3dpbGwnCiAgICAgIH0K</text>
@@ -2890,14 +2896,14 @@
       <register name="5" type="4">
         <text>s</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogQGZvbnQtc2l6ZS1oMjsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
         <text>s</text>

@@ -1450,6 +1450,9 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.jade" timestamp="1442304486490">
+        <mark key="[" line="4" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/web/vendor/bootstrap/less/normalize.less" timestamp="1442290178931">
         <mark key="]" line="256" column="0" />
         <mark key="^" line="256" column="12" />
@@ -1908,11 +1911,11 @@
         <mark key="." line="12" column="3" />
         <mark key="[" line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.jade" timestamp="1439287805077">
-        <mark key="]" line="18" column="33" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.jade" timestamp="1442303921421">
+        <mark key="]" line="4" column="27" />
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
-        <mark key="[" line="18" column="22" />
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.jade" timestamp="1435057706838">
         <mark key="]" line="45" column="26" />
@@ -2872,46 +2875,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>In order to determine whether your assets are properly allocated, it is necessary to link all of your investment accounts here. Doing so will allow you to obtain a more accurate showing of how any of your allocations across cash, stocks, fixed income, and / or other financial vehicles relate to one another.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>In order to determine whether your assets are properly allocated, it is necessary to link all of your investment accounts here. Doing so will allow you to obtain a more accurate showing of how any of your allocations across cash, stocks, fixed income, and / or other financial vehicles relate to one another.</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text>tab-pane</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>!</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>In order to determine whether your assets are properly allocated, it is necessary to link all of your investment accounts here. Doing so will allow you to obtain a more accurate showing of how any of your allocations across cash, stocks, fixed income, and / or other financial vehicles relate to one another.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2hpdGUtc3BhY2UgOiBub3dyYXA7Cg==</text>
+      <register name="0" type="4">
+        <text>ng-if='!havePositions'</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>5</text>
       </register>
       <register name="6" type="4">
-        <text>$scope.</text>
+        <text>5</text>
       </register>
       <register name="5" type="4">
-        <text>$scope.</text>
+        <text>5</text>
       </register>
       <register name="4" type="4">
-        <text>$scope.</text>
+        <text>tab-pane</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>$scope.</text>
       </register>
       <register name="8" type="4">
-        <text>x</text>
+        <text>$scope.</text>
       </register>
     </registers>
     <search>

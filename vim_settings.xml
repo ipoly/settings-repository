@@ -2083,11 +2083,12 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442377349727">
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="81" column="9" />
-        <mark key="." line="81" column="0" />
-        <mark key="[" line="81" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442388471016">
+        <mark key="'" line="102" column="0" />
+        <mark key="]" line="96" column="37" />
+        <mark key="^" line="96" column="37" />
+        <mark key="." line="96" column="37" />
+        <mark key="[" line="96" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.less" timestamp="1442234616332">
         <mark key="]" line="2" column="0" />
@@ -2807,7 +2808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="3" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" />
       <jump line="1" column="8" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" />
       <jump line="7" column="56" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
@@ -2871,7 +2871,6 @@
       <jump line="63" column="45" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/validation-category.coffee" />
       <jump line="65" column="61" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/validation-category.coffee" />
       <jump line="10" column="14" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/manual-positions/main.coffee" />
-      <jump line="82" column="8" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" />
       <jump line="11" column="66" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/manual-positions/main.coffee" />
       <jump line="25" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.coffee" />
       <jump line="4" column="10" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/directives/budget-category.coffee" />
@@ -2907,49 +2906,51 @@
       <jump line="37" column="24" filename="$USER_HOME$/Documents/web/src/application/common/services/acls.coffee" />
       <jump line="2" column="26" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/auto-positions/main.jade" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/auto-positions/main.jade" />
+      <jump line="55" column="9" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>Total Balance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVBlcm1pc3Npb25cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Total Balance</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwKG5nLWlmPSdhY2NvdW50LmxpbmsnKQogICAgICAgICAgICBsYWJlbC5jb2wteHMtNC5jb250cm9sLWxhYmVsLnRleHQtbGVmdCBDYXNoCiAgICAgICAgICAgIHAuY29sLXhzLTYuZm9ybS1jb250cm9sLXN0YXRpYyB7e2FjY291bnQuYmFsYW5jZXNbMF0uYW1vdW50IHwgY3VycmVuY3l9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>Total Balance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWFudWFsLXBvc2l0aW9ucyhhY2NvdW50PSdhY2NvdW50JykK</text>
+        <text encoding="base64">ICAgICAgICAgIGZpZWxkKAogICAgICAgICAgZmllbGQtY29scz0nWzQsNl0nCiAgICAgICAgICB0eXBlPSdjdXJyZW5jeScKICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwogICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgIHZhbGlkYXRpb24tdHlwZT0nbGFyZ2VfZG9sbGFyX2Ftb3VudCcKICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScKICAgICAgICAgIG5nLW1vZGVsPSdhY2NvdW50LmJhbGFuY2VzWzBdLmFtb3VudCcpCiAgICAgICAgICAgIGxhYmVsLnRleHQtbGVmdCBUb3RhbCBCYWxhbmNlCgogICAgICAgICAgLmZvcm0tZ3JvdXAobmctaWY9J2FjY291bnQubGluaycpCiAgICAgICAgICAgIGxhYmVsLmNvbC14cy00LmNvbnRyb2wtbGFiZWwudGV4dC1sZWZ0IENhc2gKICAgICAgICAgICAgcC5jb2wteHMtNi5mb3JtLWNvbnRyb2wtc3RhdGljIHt7YWNjb3VudC5iYWxhbmNlc1swXS5hbW91bnQgfCBjdXJyZW5jeX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cgogICAgICAgICAgdGgge3trZXl9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwKG5nLWlmPSdhY2NvdW50LmxpbmsnKQogICAgICAgICAgICBsYWJlbC5jb2wteHMtNC5jb250cm9sLWxhYmVsLnRleHQtbGVmdCBDYXNoCiAgICAgICAgICAgIHAuY29sLXhzLTYuZm9ybS1jb250cm9sLXN0YXRpYyB7e2FjY291bnQuYmFsYW5jZXNbMF0uYW1vdW50IHwgY3VycmVuY3l9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGJvZHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhlYWQK</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>Cash</text>
       </register>
-      <register name="8" type="4">
-        <text>(ng-repeat='(key, value) in types')</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwCiAgICAgICAgICAgIGxhYmVsLmNvbnRyb2wtbGFiZWwuY29sLXhzLTYudGV4dC1sZWZ0IE1hbmFnZWQKICAgICAgICAgICAgZmllbGQuY29sLXhzLTIoCiAgICAgICAgICAgIHR5cGU9J2NoZWNrYm94JwogICAgICAgICAgICBuZy1tb2RlbD0nYWNjb3VudC50bXAnKQo=</text>
       </register>
     </registers>
     <search>

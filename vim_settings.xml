@@ -2083,12 +2083,12 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442388471016">
-        <mark key="'" line="102" column="0" />
-        <mark key="]" line="96" column="37" />
-        <mark key="^" line="96" column="37" />
-        <mark key="." line="96" column="37" />
-        <mark key="[" line="96" column="28" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442389228570">
+        <mark key="'" line="100" column="0" />
+        <mark key="]" line="93" column="28" />
+        <mark key="^" line="93" column="28" />
+        <mark key="." line="93" column="28" />
+        <mark key="[" line="93" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.less" timestamp="1442234616332">
         <mark key="]" line="2" column="0" />
@@ -2911,46 +2911,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Total Balance</text>
+        <text>account.balances[0].amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVBlcm1pc3Npb25cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>Total Balance</text>
+        <text>account.balances[0].amount</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwKG5nLWlmPSdhY2NvdW50LmxpbmsnKQogICAgICAgICAgICBsYWJlbC5jb2wteHMtNC5jb250cm9sLWxhYmVsLnRleHQtbGVmdCBDYXNoCiAgICAgICAgICAgIHAuY29sLXhzLTYuZm9ybS1jb250cm9sLXN0YXRpYyB7e2FjY291bnQuYmFsYW5jZXNbMF0uYW1vdW50IHwgY3VycmVuY3l9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>account.balances[0].amount</text>
       </register>
       <register name="1" type="4">
-        <text>Total Balance</text>
+        <text>account.balances[0].amount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGZpZWxkKAogICAgICAgICAgZmllbGQtY29scz0nWzQsNl0nCiAgICAgICAgICB0eXBlPSdjdXJyZW5jeScKICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwogICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgIHZhbGlkYXRpb24tdHlwZT0nbGFyZ2VfZG9sbGFyX2Ftb3VudCcKICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScKICAgICAgICAgIG5nLW1vZGVsPSdhY2NvdW50LmJhbGFuY2VzWzBdLmFtb3VudCcpCiAgICAgICAgICAgIGxhYmVsLnRleHQtbGVmdCBUb3RhbCBCYWxhbmNlCgogICAgICAgICAgLmZvcm0tZ3JvdXAobmctaWY9J2FjY291bnQubGluaycpCiAgICAgICAgICAgIGxhYmVsLmNvbC14cy00LmNvbnRyb2wtbGFiZWwudGV4dC1sZWZ0IENhc2gKICAgICAgICAgICAgcC5jb2wteHMtNi5mb3JtLWNvbnRyb2wtc3RhdGljIHt7YWNjb3VudC5iYWxhbmNlc1swXS5hbW91bnQgfCBjdXJyZW5jeX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwKG5nLWlmPSdhY2NvdW50LmxpbmsnKQogICAgICAgICAgICBsYWJlbC5jb2wteHMtNC5jb250cm9sLWxhYmVsLnRleHQtbGVmdCBDYXNoCiAgICAgICAgICAgIHAuY29sLXhzLTYuZm9ybS1jb250cm9sLXN0YXRpYyB7e2FjY291bnQuYmFsYW5jZXNbMF0uYW1vdW50IHwgY3VycmVuY3l9fQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwo=</text>
+      <register name="6" type="4">
+        <text>Total Balance</text>
+      </register>
+      <register name="5" type="4">
+        <text>{updateOn:&quot;default blur&quot;, debounce:{default: 4000, blur: 0}}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9JycK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>Cash</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwCiAgICAgICAgICAgIGxhYmVsLmNvbnRyb2wtbGFiZWwuY29sLXhzLTYudGV4dC1sZWZ0IE1hbmFnZWQKICAgICAgICAgICAgZmllbGQuY29sLXhzLTIoCiAgICAgICAgICAgIHR5cGU9J2NoZWNrYm94JwogICAgICAgICAgICBuZy1tb2RlbD0nYWNjb3VudC50bXAnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwKG5nLWlmPSdhY2NvdW50LmxpbmsnKQogICAgICAgICAgICBsYWJlbC5jb2wteHMtNC5jb250cm9sLWxhYmVsLnRleHQtbGVmdCBDYXNoCiAgICAgICAgICAgIHAuY29sLXhzLTYuZm9ybS1jb250cm9sLXN0YXRpYyB7e2FjY291bnQuYmFsYW5jZXNbMF0uYW1vdW50IHwgY3VycmVuY3l9fQo=</text>
       </register>
     </registers>
     <search>

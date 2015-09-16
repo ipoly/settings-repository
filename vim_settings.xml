@@ -553,6 +553,12 @@
         <mark key="." line="36" column="38" />
         <mark key="[" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/auto-positions/main.coffee" timestamp="1442389957947">
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="[" line="29" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage.coffee" timestamp="1428502167098">
         <mark key="]" line="44" column="6" />
         <mark key="^" line="26" column="18" />
@@ -2083,12 +2089,12 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442389228570">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442389931412">
         <mark key="'" line="100" column="0" />
-        <mark key="]" line="93" column="28" />
+        <mark key="]" line="94" column="38" />
         <mark key="^" line="93" column="28" />
         <mark key="." line="93" column="28" />
-        <mark key="[" line="93" column="20" />
+        <mark key="[" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.less" timestamp="1442234616332">
         <mark key="]" line="2" column="0" />
@@ -2910,8 +2916,8 @@
       <jump line="82" column="0" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>account.balances[0].amount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnJvdwogICAgICAgIC5jb2wteHMtNy5mb3JtLWhvcml6b250YWwKICAgICAgICAgIGZpZWxkKAogICAgICAgICAgZmllbGQtY29scz0nWzQsNl0nCiAgICAgICAgICB0eXBlPSdjdXJyZW5jeScKICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICB2YWxpZGF0aW9uLXR5cGU9J2xhcmdlX2RvbGxhcl9hbW91bnQnCiAgICAgICAgICBuZy1tb2RlbD0ndG90YWxCYWxhbmNlJykKICAgICAgICAgICAgbGFiZWwudGV4dC1sZWZ0IFRvdGFsIEJhbGFuY2UKCiAgICAgICAgLmNvbC14cy01LmZvcm0taG9yaXpvbnRhbAogICAgICAgICAgZmllbGQoCiAgICAgICAgICBmaWVsZC1jb2xzPSdbNCw2XScKICAgICAgICAgIHR5cGU9J2N1cnJlbmN5JwogICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgIHZhbGlkYXRpb24tdHlwZT0nbGFyZ2VfZG9sbGFyX2Ftb3VudCcKICAgICAgICAgIG5nLW1vZGVsPSdjb3N0QmFzaXMnKQogICAgICAgICAgICBsYWJlbC50ZXh0LWxlZnQgQ29zdCBiYXNpcwo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVBlcm1pc3Npb25cPg==</text>
@@ -2929,7 +2935,7 @@
         <text>account.balances[0].amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpZWxkKAogICAgICAgICAgZmllbGQtY29scz0nWzQsNl0nCiAgICAgICAgICB0eXBlPSdjdXJyZW5jeScKICAgICAgICAgIG5nLWlmPSchYWNjb3VudC5saW5rJwogICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgIHZhbGlkYXRpb24tdHlwZT0nbGFyZ2VfZG9sbGFyX2Ftb3VudCcKICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScKICAgICAgICAgIG5nLW1vZGVsPSdhY2NvdW50LmJhbGFuY2VzWzBdLmFtb3VudCcpCiAgICAgICAgICAgIGxhYmVsLnRleHQtbGVmdCBUb3RhbCBCYWxhbmNlCgogICAgICAgICAgLmZvcm0tZ3JvdXAobmctaWY9J2FjY291bnQubGluaycpCiAgICAgICAgICAgIGxhYmVsLmNvbC14cy00LmNvbnRyb2wtbGFiZWwudGV4dC1sZWZ0IENhc2gKICAgICAgICAgICAgcC5jb2wteHMtNi5mb3JtLWNvbnRyb2wtc3RhdGljIHt7YWNjb3VudC5iYWxhbmNlc1swXS5hbW91bnQgfCBjdXJyZW5jeX19Cg==</text>
+        <text encoding="base64">ICAgICAgLnJvdwogICAgICAgIC5jb2wteHMtNy5mb3JtLWhvcml6b250YWwKICAgICAgICAgIGZpZWxkKAogICAgICAgICAgZmllbGQtY29scz0nWzQsNl0nCiAgICAgICAgICB0eXBlPSdjdXJyZW5jeScKICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICB2YWxpZGF0aW9uLXR5cGU9J2xhcmdlX2RvbGxhcl9hbW91bnQnCiAgICAgICAgICBuZy1tb2RlbD0ndG90YWxCYWxhbmNlJykKICAgICAgICAgICAgbGFiZWwudGV4dC1sZWZ0IFRvdGFsIEJhbGFuY2UKCiAgICAgICAgLmNvbC14cy01LmZvcm0taG9yaXpvbnRhbAogICAgICAgICAgZmllbGQoCiAgICAgICAgICBmaWVsZC1jb2xzPSdbNCw2XScKICAgICAgICAgIHR5cGU9J2N1cnJlbmN5JwogICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgIHZhbGlkYXRpb24tdHlwZT0nbGFyZ2VfZG9sbGFyX2Ftb3VudCcKICAgICAgICAgIG5nLW1vZGVsPSdjb3N0QmFzaXMnKQogICAgICAgICAgICBsYWJlbC50ZXh0LWxlZnQgQ29zdCBiYXNpcwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>

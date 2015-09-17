@@ -1850,8 +1850,12 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1442392689868">
-        <mark key="'" line="16" column="6" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1442477964132">
+        <mark key="'" line="18" column="6" />
+        <mark key="]" line="70" column="32" />
+        <mark key="^" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="[" line="75" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/gulpfile.coffee" timestamp="1427030419816">
         <mark key="]" line="3" column="11" />
@@ -2850,47 +2854,47 @@
       <jump line="16" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcG9zaXRpb25zCg==</text>
+      <register name="&quot;" type="4">
+        <text>'brokerage'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnZlc3RtZW50XD4=</text>
       </register>
       <register name="-" type="4">
-        <text>) or null</text>
+        <text>'brokerage'</text>
       </register>
-      <register name="3" type="4">
-        <text>) or 10000</text>
-      </register>
-      <register name="2" type="4">
-        <text>) or null</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcG9zaXRpb25zCg==</text>
       </register>
+      <register name="2" type="4">
+        <text>subtype</text>
+      </register>
+      <register name="1" type="4">
+        <text>'brokerage'</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnRvdGFsLmJhbGFuY2UgPSBfLnN1bSBwb3NpdGlvbnMsICdhbW91bnQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFjY291bnRbc3VidHlwZU5hbWVdLnN1YnR5cGUgPSAnYnJva2VyYWdlJwo=</text>
       </register>
       <register name="7" type="4">
-        <text>j</text>
-      </register>
-      <register name="6" type="4">
-        <text>c</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">Lmdyb3VwQnkg</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlKCkK</text>
+      </register>
+      <register name="5" type="4">
+        <text>) or 10000</text>
+      </register>
+      <register name="4" type="4">
+        <text>) or null</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JHNjb3BlLmNhdGVnb3JpZXMg</text>
+        <text>j</text>
       </register>
       <register name="8" type="4">
-        <text>$scope.</text>
+        <text>c</text>
       </register>
     </registers>
     <search>

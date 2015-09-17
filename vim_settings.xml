@@ -536,11 +536,11 @@
         <mark key="." line="36" column="38" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/auto-positions/main.coffee" timestamp="1442458981838">
-        <mark key="]" line="36" column="43" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/auto-positions/main.coffee" timestamp="1442460862056">
+        <mark key="]" line="36" column="28" />
         <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="43" />
-        <mark key="[" line="36" column="43" />
+        <mark key="." line="36" column="28" />
+        <mark key="[" line="36" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage.coffee" timestamp="1428502167098">
         <mark key="]" line="44" column="6" />
@@ -2850,23 +2850,23 @@
       <jump line="16" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5oYXZlUG9zaXRpb25zID0gaGF2ZVBvc2l0aW9ucwo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnZlc3RtZW50XD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cg</text>
+        <text>o</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoQ2FsY3VsYXRlLCBoYXZlUG9zaXRpb25zKSAtPgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgY2FsY3VsYXRpb246IFsKICAgICAgICAnQ2FsY3VsYXRlJwogICAgICAgICdoYXZlUG9zaXRpb25zJwogICAgICAgICAgaWYgaGF2ZVBvc2l0aW9ucwogICAgICAgICAgICBDYWxjdWxhdGUoJ2ludmVzdG1lbnQvZXF1aXR5X3NlY3Rvcl9hbmRfc3R5bGUnKS5nZXQoKS4kcHJvbWlzZQogICAgICBdCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAoQ2FsY3VsYXRlKSAtPgo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>o</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5oYXZlUG9zaXRpb25zID0gaGF2ZVBvc2l0aW9ucwo=</text>
@@ -2875,22 +2875,22 @@
         <text>account.balances[0].amount</text>
       </register>
       <register name="6" type="4">
-        <text>account.balances[0].amount</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">LT4=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Y29uc29sZS5sb2cg</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAoQ2FsY3VsYXRlLCBoYXZlUG9zaXRpb25zKSAtPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9JycK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9J3t1cGRhdGVPbjoiZGVmYXVsdCBibHVyIiwgZGVib3VuY2U6e2RlZmF1bHQ6IDQwMDAsIGJsdXI6IDB9fScK</text>
+      </register>
+      <register name="8" type="4">
+        <text>account.balances[0].amount</text>
       </register>
     </registers>
     <search>

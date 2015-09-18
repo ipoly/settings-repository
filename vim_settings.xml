@@ -1236,12 +1236,12 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442565115197">
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442566062256">
         <mark key="'" line="172" column="42" />
-        <mark key="]" line="41" column="22" />
-        <mark key="^" line="41" column="22" />
-        <mark key="." line="41" column="22" />
-        <mark key="[" line="40" column="56" />
+        <mark key="]" line="149" column="16" />
+        <mark key="^" line="88" column="8" />
+        <mark key="." line="149" column="0" />
+        <mark key="[" line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -2887,7 +2887,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5rID0gQAo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoXD4=</text>
@@ -2905,7 +2905,7 @@
         <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9taXNlLnRoZW4gKHJlcykgLT4KICAgICAgICAgIF8ubWVyZ2UgbGluaywgcmVzLmRhdGEKICAgICAgICAgICMgSWYgZXhpc3Qgc2FtZSBsaW5rLCByZW1vdmUgb2xkIG9uZQogICAgICAgICAgZXhpc3RlZCA9IF8ud2hlcmUobGlzdCwgaWQ6IGxpbmsuaWQpWzFdCiAgICAgICAgICBpZiBleGlzdGVkCiAgICAgICAgICAgIF8ucmVtb3ZlIGxpc3QsIGV4aXN0ZWQKICAgICAgICAgIGxpbmsuJHJlZnJlc2goKSBpZiBsaW5rLiRpc0FjdGl2ZQoKICAgICAgICAudGhlbiAocmVzKSAtPgogICAgICAgICAgbGluay4kc3VjY2Vzc0hhbmRsZXIocmVzKQoKICAgICAgICAsIChyZWopIC0+CiAgICAgICAgICBsaW5rLiRlcnJvckhhbmRsZXIocmVqKQo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5rID0gQAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGxpbmsuJHN1Y2Nlc3NIYW5kbGVyKHJlcykK</text>

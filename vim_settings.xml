@@ -130,11 +130,6 @@
         <mark key="." line="22" column="7" />
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1442309123644">
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="[" line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/print/main.jade" timestamp="1439179673717">
         <mark key="]" line="1" column="50" />
         <mark key="^" line="1" column="50" />
@@ -557,11 +552,6 @@
         <mark key="^" line="36" column="38" />
         <mark key="." line="36" column="38" />
         <mark key="[" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/auto-positions/main.coffee" timestamp="1442486712075">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/percentage.coffee" timestamp="1428502167098">
         <mark key="]" line="44" column="6" />
@@ -1246,12 +1236,12 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442561782531">
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442565115197">
         <mark key="'" line="172" column="42" />
-        <mark key="]" line="95" column="24" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="95" column="24" />
-        <mark key="[" line="158" column="6" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="[" line="40" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -1601,6 +1591,12 @@
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1442565147542">
+        <mark key="]" line="185" column="20" />
+        <mark key="^" line="185" column="20" />
+        <mark key="." line="185" column="20" />
+        <mark key="[" line="184" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -1900,10 +1896,10 @@
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1442480296523">
         <mark key="'" line="18" column="6" />
-        <mark key="]" line="78" column="28" />
-        <mark key="^" line="78" column="28" />
-        <mark key="." line="78" column="28" />
-        <mark key="[" line="78" column="28" />
+        <mark key="]" line="80" column="28" />
+        <mark key="^" line="80" column="28" />
+        <mark key="." line="80" column="28" />
+        <mark key="[" line="80" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/gulpfile.coffee" timestamp="1427030419816">
         <mark key="]" line="3" column="11" />
@@ -2891,46 +2887,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXy5yZW1vdmUgbGlzdCwgZXhpc3RlZAo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text encoding="base64">LnRoZW4gKHJlcykgLT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4aXN0ZWQgPSBfLndoZXJlKGxpc3QsIGlkOiBsaW5rLmlkKVsxXQo=</text>
+        <text encoding="base64">ICAgICAgICBAJHByb21pc2UgPSAkaHR0cC5nZXQgdXJsLnJlcGxhY2UgL1wvJC8sICcnCiAgICAgICAgLnN1Y2Nlc3MgKHJlcykgLT4KICAgICAgICAgIGZvciBpIGluIHJlcwogICAgICAgICAgICBsaW5rID0gXy5maW5kV2hlcmUgbGlzdCwgaWQ6IGkuaWQKICAgICAgICAgICAgaWYgbGluawogICAgICAgICAgICAgIF8ubWVyZ2UgbGluaywgaQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgbGlzdC5wdXNoIG5ldyBMaW5rKGkpCiAgICAgICAgICBsaXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIGV4aXN0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAkcS5hbGwgXy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXy5yZW1vdmUgbGlzdCwgZXhpc3RlZAo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9taXNlLnRoZW4gKHJlcykgLT4KICAgICAgICAgIF8ubWVyZ2UgbGluaywgcmVzLmRhdGEKICAgICAgICAgICMgSWYgZXhpc3Qgc2FtZSBsaW5rLCByZW1vdmUgb2xkIG9uZQogICAgICAgICAgZXhpc3RlZCA9IF8ud2hlcmUobGlzdCwgaWQ6IGxpbmsuaWQpWzFdCiAgICAgICAgICBpZiBleGlzdGVkCiAgICAgICAgICAgIF8ucmVtb3ZlIGxpc3QsIGV4aXN0ZWQKICAgICAgICAgIGxpbmsuJHJlZnJlc2goKSBpZiBsaW5rLiRpc0FjdGl2ZQoKICAgICAgICAudGhlbiAocmVzKSAtPgogICAgICAgICAgbGluay4kc3VjY2Vzc0hhbmRsZXIocmVzKQoKICAgICAgICAsIChyZWopIC0+CiAgICAgICAgICBsaW5rLiRlcnJvckhhbmRsZXIocmVqKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>get</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxpbmsuJHN1Y2Nlc3NIYW5kbGVyKHJlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgSWYgZXhpc3Qgc2FtZSBsaW5rLCByZW1vdmUgb2xkIG9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAsIChyZWopIC0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4aXN0ZWQgPSBfLndoZXJlKGxpc3QsIGlkOiBsaW5rLmlkKVsxXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxpbmsuJGVycm9ySGFuZGxlcihyZWopCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIGV4aXN0ZWQK</text>
+        <text encoding="base64">ICAgICAgICBsaW5rID0gQAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW5SZXBvcnQg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXy5yZW1vdmUgbGlzdCwgZXhpc3RlZAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">fHwg</text>
+        <text encoding="base64">LnRoZW4gKHJlcykgLT4=</text>
       </register>
     </registers>
     <search>

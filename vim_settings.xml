@@ -236,11 +236,11 @@
         <mark key="." line="15" column="7" />
         <mark key="[" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1442551457490">
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="22" column="64" />
-        <mark key="." line="24" column="19" />
-        <mark key="[" line="24" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1442552585951">
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="30" column="19" />
+        <mark key="[" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/number-horizontal.jade" timestamp="1425549987391">
         <mark key="]" line="3" column="34" />
@@ -2890,7 +2890,7 @@
         <text encoding="base64">fHwg</text>
       </register>
       <register name="3" type="4">
-        <text>(ng-if='inReport')</text>
+        <text>, ng-if='!inReport'</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">aW5SZXBvcnQg</text>
@@ -2902,22 +2902,22 @@
         <text encoding="base64">ICAgIGgyKG5nLWlmPSdpblJlcG9ydCcpIEV4cGVuc2VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGgyKG5nLWlmPSdpblJlcG9ydCcpIE90aGVyIEluZmxvd3MK</text>
+        <text encoding="base64">ICAgIGgyKG5nLWlmPSdpblJlcG9ydCcpIFN1bW1hcnkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGgyKG5nLWlmPSdpblJlcG9ydCcpIFNvY2lhbCBTZWN1cml0eQo=</text>
-      </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(ng-if='inReport')</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGgyKG5nLWlmPSdpblJlcG9ydCcpIFN1bW1hcnkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">aW5SZXBvcnQg</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">fHwg</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGgyKG5nLWlmPSdpblJlcG9ydCcpIEludmVzdGVkIEFzc2V0Cg==</text>
+        <text encoding="base64">ICAgIGgyKG5nLWlmPSdpblJlcG9ydCcpIFNvY2lhbCBTZWN1cml0eQo=</text>
       </register>
       <register name="8" type="4">
         <text>(ng-if='inReport')</text>

@@ -1274,12 +1274,12 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442820096410">
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442821130972">
         <mark key="'" line="72" column="12" />
-        <mark key="]" line="108" column="57" />
-        <mark key="^" line="108" column="57" />
-        <mark key="." line="108" column="57" />
-        <mark key="[" line="108" column="36" />
+        <mark key="]" line="106" column="14" />
+        <mark key="^" line="105" column="17" />
+        <mark key="." line="106" column="14" />
+        <mark key="[" line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -2944,47 +2944,47 @@
       <jump line="72" column="12" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>join()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiBAam9pbgogICAgICAgICAgICAgICAgY29uc29sZS5sb2cgJ2ZhaWw6JywgQGpvaW4oKQogICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>join()</text>
+        <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBMaW4K</text>
+      <register name="3" type="4">
+        <text>'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByIHt7bGluay5pZH19Cg==</text>
+      <register name="2" type="4">
+        <text>'</text>
       </register>
-      <register name="1" type="4">
-        <text>join()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiBAam9pbgogICAgICAgICAgICAgICAgY29uc29sZS5sb2cgJ2ZhaWw6JywgQGpvaW4oKQogICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnZmFpbDonLCBAam9pbigpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnZ2V0VW5maW5pc2gnCg==</text>
+      <register name="7" type="4">
+        <text />
       </register>
-      <register name="6" type="4">
-        <text>$scope</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBMaW4K</text>
       </register>
-      <register name="5" type="4">
-        <text>k</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByIHt7bGluay5pZH19Cg==</text>
       </register>
       <register name="4" type="4">
-        <text />
+        <text>join()</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>accounts</text>
+        <text>$scope</text>
       </register>
       <register name="8" type="4">
-        <text>accounts</text>
+        <text>k</text>
       </register>
     </registers>
     <search>

@@ -1268,7 +1268,7 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442806609020">
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442810334452">
         <mark key="'" line="172" column="42" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -1622,12 +1622,12 @@
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1442808193742">
-        <mark key="'" line="64" column="3" />
-        <mark key="]" line="190" column="23" />
-        <mark key="^" line="190" column="23" />
-        <mark key="." line="190" column="23" />
-        <mark key="[" line="190" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1442810595145">
+        <mark key="'" line="174" column="6" />
+        <mark key="]" line="185" column="23" />
+        <mark key="^" line="185" column="23" />
+        <mark key="." line="185" column="23" />
+        <mark key="[" line="184" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
@@ -2830,7 +2830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="7" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="62" column="40" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="10" column="10" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="79" column="31" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
@@ -2926,10 +2925,11 @@
       <jump line="1" column="3" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" />
       <jump line="90" column="16" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" />
       <jump line="75" column="21" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/currency.coffee" />
-      <jump line="174" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
-      <jump line="170" column="11" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
-      <jump line="73" column="29" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
+      <jump line="185" column="8" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="64" column="3" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
+      <jump line="73" column="29" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
+      <jump line="170" column="18" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
+      <jump line="174" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

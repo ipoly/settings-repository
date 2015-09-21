@@ -271,6 +271,12 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442819416634">
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="[" line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1442547237640">
         <mark key="]" line="11" column="68" />
         <mark key="^" line="11" column="68" />
@@ -1268,11 +1274,12 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442810334452">
-        <mark key="'" line="172" column="42" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="[" line="62" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442820096410">
+        <mark key="'" line="72" column="12" />
+        <mark key="]" line="108" column="57" />
+        <mark key="^" line="108" column="57" />
+        <mark key="." line="108" column="57" />
+        <mark key="[" line="108" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -1622,12 +1629,11 @@
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1442810595145">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1442818310996">
         <mark key="'" line="174" column="6" />
-        <mark key="]" line="185" column="23" />
-        <mark key="^" line="185" column="23" />
-        <mark key="." line="185" column="23" />
-        <mark key="[" line="184" column="14" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="[" line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
@@ -1900,6 +1906,12 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.coffee" timestamp="1442818911829">
+        <mark key="]" line="25" column="39" />
+        <mark key="^" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="[" line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-donut.less" timestamp="1423639246582">
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
@@ -2113,12 +2125,12 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442572749760">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1442818727100">
         <mark key="'" line="104" column="0" />
-        <mark key="]" line="1" column="47" />
+        <mark key="]" line="78" column="6" />
         <mark key="^" line="1" column="47" />
-        <mark key="." line="1" column="47" />
-        <mark key="[" line="1" column="42" />
+        <mark key="." line="78" column="6" />
+        <mark key="[" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.less" timestamp="1442234616332">
         <mark key="]" line="2" column="0" />
@@ -2830,12 +2842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="40" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
-      <jump line="10" column="10" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
-      <jump line="79" column="31" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
-      <jump line="71" column="58" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
-      <jump line="65" column="18" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
-      <jump line="51" column="34" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/summary/main.coffee" />
       <jump line="6" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="15" column="26" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="5" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
@@ -2852,7 +2858,6 @@
       <jump line="142" column="31" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="164" column="28" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="195" column="28" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
-      <jump line="241" column="29" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="8" column="4" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="28" column="14" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="40" column="30" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
@@ -2930,55 +2935,62 @@
       <jump line="73" column="29" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="170" column="18" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="174" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
+      <jump line="241" column="17" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="260" column="24" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="50" column="20" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="52" column="27" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="56" column="15" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="72" column="12" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$scope</text>
+        <text>join()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaW5rXD4=</text>
+        <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>$scope</text>
+        <text>join()</text>
       </register>
-      <register name="3" type="4">
-        <text>accounts</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBMaW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnZ2V0VW5maW5pc2gnCg==</text>
+        <text encoding="base64">ICAgIHByIHt7bGluay5pZH19Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>$scope</text>
+        <text>join()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgWydHRVQnLCAnYWNjb3VudHMnLCAnYWNjb3VudHMuanNvbiddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnZmFpbDonLCBAam9pbigpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">J2Zvcm0ucmMtZm9ybS1tYW51YWwnLCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnZ2V0VW5maW5pc2gnCg==</text>
       </register>
       <register name="6" type="4">
-        <text>accounts</text>
+        <text>$scope</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgWydHRVQnLCAnY2F0ZWdvJywgJ2FjY291bnRzLmpzb24nXQo=</text>
+      <register name="5" type="4">
+        <text>k</text>
       </register>
       <register name="4" type="4">
-        <text>accounts</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYTonLCB2YWx1ZQo=</text>
+      <register name="9" type="4">
+        <text>accounts</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYjonLCB2YWx1ZSwgJGF0dHJzLnByZWNpc2lvbgo=</text>
+      <register name="8" type="4">
+        <text>accounts</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaW5rXD4=</last-search>
+      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaW5rXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2986,7 +2998,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdWRnZXRcPg==</entry>
         <entry encoding="base64">XDxCdWRnZXRDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
@@ -3006,6 +3017,7 @@
         <entry encoding="base64">XDxjdXN0b21DdXJyZW5jeVw+</entry>
         <entry encoding="base64">XDxjdXJyZW5jeUZpbHRlclw+</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
+        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

@@ -9,7 +9,6 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -21,6 +20,7 @@
       <mask>*. coffee</mask>
       <mask>*.less</mask>
       <mask>*.jade</mask>
+      <mask>*.js</mask>
       <mask>*.coffee</mask>
     </recentFileMasks>
   </component>

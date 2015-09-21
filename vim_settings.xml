@@ -1274,8 +1274,8 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442823350654">
-        <mark key="'" line="72" column="12" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442824034437">
+        <mark key="'" line="177" column="22" />
         <mark key="]" line="254" column="29" />
         <mark key="^" line="254" column="29" />
         <mark key="." line="254" column="29" />
@@ -2908,7 +2908,6 @@
       <jump line="16" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" />
       <jump line="53" column="10" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/auto-positions/main.coffee" />
       <jump line="223" column="18" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
-      <jump line="177" column="20" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="9" column="4" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="176" column="26" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="196" column="20" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
@@ -2942,13 +2941,14 @@
       <jump line="52" column="27" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="56" column="15" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="72" column="12" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="177" column="22" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBpZiBAam9pbgogICAgICAgICAgICAgICAgY29uc29sZS5sb2cgJ2ZhaWw6JywgQGpvaW4oKQogICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0dXNcPg==</text>
+        <text encoding="base64">XDxnZXRfbWZhXD4=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -2988,9 +2988,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfbWZhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfbWZhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2998,7 +2998,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdWRnZXRDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxwZW9wbGVzXD4=</entry>
@@ -3018,6 +3017,7 @@
         <entry encoding="base64">XDxjdXJyZW5jeUZpbHRlclw+</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxnZXRfbWZhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

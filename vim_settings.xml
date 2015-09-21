@@ -1274,12 +1274,12 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442821130972">
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442823350654">
         <mark key="'" line="72" column="12" />
-        <mark key="]" line="106" column="14" />
-        <mark key="^" line="105" column="17" />
-        <mark key="." line="106" column="14" />
-        <mark key="[" line="106" column="0" />
+        <mark key="]" line="254" column="29" />
+        <mark key="^" line="254" column="29" />
+        <mark key="." line="254" column="29" />
+        <mark key="[" line="254" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />

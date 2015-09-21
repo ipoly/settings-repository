@@ -1622,11 +1622,12 @@
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1442802184951">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1442808193742">
         <mark key="'" line="64" column="3" />
-        <mark key="]" line="126" column="20" />
-        <mark key="^" line="126" column="20" />
-        <mark key="." line="126" column="20" />
+        <mark key="]" line="190" column="23" />
+        <mark key="^" line="190" column="23" />
+        <mark key="." line="190" column="23" />
+        <mark key="[" line="190" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
@@ -1936,12 +1937,12 @@
         <mark key="." line="0" column="51" />
         <mark key="[" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1442480296523">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1442809263234">
         <mark key="'" line="18" column="6" />
-        <mark key="]" line="80" column="28" />
-        <mark key="^" line="80" column="28" />
-        <mark key="." line="80" column="28" />
-        <mark key="[" line="80" column="28" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="[" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/github/my-gulp-bower-init/gulpfile.coffee" timestamp="1427030419816">
         <mark key="]" line="3" column="11" />
@@ -2931,47 +2932,47 @@
       <jump line="64" column="3" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnZ2V0VW5maW5pc2gnCg==</text>
+      <register name="&quot;" type="4">
+        <text>$scope</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaW5rXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>accounts</text>
+        <text>$scope</text>
       </register>
       <register name="3" type="4">
         <text>accounts</text>
       </register>
-      <register name="2" type="4">
-        <text>accounts</text>
-      </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnZ2V0VW5maW5pc2gnCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>$scope</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgWydHRVQnLCAnYWNjb3VudHMnLCAnYWNjb3VudHMuanNvbiddCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYjonLCB2YWx1ZSwgJGF0dHJzLnByZWNpc2lvbgo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">J2Zvcm0ucmMtZm9ybS1tYW51YWwnLCA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>accounts</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgWydHRVQnLCAnY2F0ZWdvJywgJ2FjY291bnRzLmpzb24nXQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>accounts</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>n</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYTonLCB2YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYTonLCB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnYjonLCB2YWx1ZSwgJGF0dHJzLnByZWNpc2lvbgo=</text>
       </register>
     </registers>
     <search>

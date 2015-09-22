@@ -612,11 +612,11 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/account-list.less" timestamp="1442829527327">
-        <mark key="]" line="25" column="8" />
-        <mark key="^" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-        <mark key="[" line="25" column="8" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/account-list.less" timestamp="1442897265327">
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="[" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/main.coffee" timestamp="1420005414655">
         <mark key="]" line="4" column="35" />
@@ -1229,12 +1229,12 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442895564458">
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442896994494">
         <mark key="'" line="206" column="23" />
-        <mark key="]" line="120" column="34" />
-        <mark key="^" line="120" column="34" />
-        <mark key="." line="120" column="34" />
-        <mark key="[" line="120" column="34" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="22" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -2896,46 +2896,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id:</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>id:</text>
+        <text>t</text>
       </register>
-      <register name="3" type="4">
-        <text>We're having a temporary issue to connect to our partner services, please try again later.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgcmVzLgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDUwNAogICAgICAgICAgICAgICAgbWVzc2FnZXMucHVzaCgiIikK</text>
+      <register name="2" type="4">
+        <text>not-allowed</text>
       </register>
       <register name="1" type="4">
-        <text>id:</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHdoZW4gNDAwCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgMjAxNS05LTIyCg==</text>
+      <register name="7" type="4">
+        <text>We're having a temporary issue to connect to our partner services, please try again later.</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDUwNAogICAgICAgICAgICAgICAgbWVzc2FnZXMucHVzaCgiIikK</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>id:</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNob3VsZCByZXR1cm4gdG8gYmVnaW4gd2hlbiB0aGVyZSBpcyBubyBmb3JtIGV4aXN0CiAgICAgICAgdW5sZXNzIEBtZmFfZm9ybSBvciBAbG9naW5fZm9ybQogICAgICAgICAgcmV0dXJuICRxLnJlamVjdCB7CiAgICAgICAgICAgIGRhdGE6CiAgICAgICAgICAgICAgcmVmcmVzaF9zdGF0dXNfY29kZTogMwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBACg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>(res)</text>
+        <text>d</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIFNob3VsZCByZXR1cm4gdG8gYmVnaW4gd2hlbiB0aGVyZSBpcyBubyBmb3JtIGV4aXN0CiAgICAgICAgdW5sZXNzIEBtZmFfZm9ybSBvciBAbG9naW5fZm9ybQogICAgICAgICAgcmV0dXJuICRxLnJlamVjdCB7CiAgICAgICAgICAgIGRhdGE6CiAgICAgICAgICAgICAgcmVmcmVzaF9zdGF0dXNfY29kZTogMwogICAgICAgICAgfQo=</text>
       </register>
     </registers>
     <search>

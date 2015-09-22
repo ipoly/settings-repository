@@ -1231,12 +1231,11 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442840386093">
-        <mark key="'" line="84" column="6" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="8" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442889982139">
+        <mark key="'" line="210" column="23" />
+        <mark key="]" line="152" column="62" />
+        <mark key="." line="152" column="62" />
+        <mark key="[" line="152" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
@@ -2797,13 +2796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="6" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
-      <jump line="44" column="3" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
-      <jump line="50" column="21" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
-      <jump line="52" column="29" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
-      <jump line="58" column="15" filename="$USER_HOME$/Documents/web/src/application/client/education/main.coffee" />
-      <jump line="41" column="20" filename="$USER_HOME$/Documents/web/src/application/less/table-grid.less" />
-      <jump line="47" column="13" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="59" column="25" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="60" column="37" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
       <jump line="63" column="52" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.coffee" />
@@ -2897,55 +2889,62 @@
       <jump line="148" column="7" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="139" column="16" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="84" column="6" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="250" column="16" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="58" column="6" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="63" column="14" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="65" column="12" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="135" column="32" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="138" column="14" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="209" column="23" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgcmVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZyZXNoXD4=</text>
+        <text encoding="base64">XDxyZW1vdmVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>d</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBACg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgMjAxNS05LTIyCg==</text>
       </register>
       <register name="2" type="4">
-        <text>success</text>
+        <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgcmVzCg==</text>
+      <register name="1" type="4">
+        <text>d</text>
       </register>
       <register name="0" type="4">
         <text>@status()</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExMTExMTExMQo=</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBAc3RhdHVzKCkK</text>
+      <register name="5" type="4">
+        <text>(res)</text>
       </register>
       <register name="4" type="4">
-        <text>status()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>refresh</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>''</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZyZXNoXD4=</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZyZXNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2953,8 +2952,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry encoding="base64">XDxjaGFuZ2VDb250YWN0c1w+</entry>
         <entry encoding="base64">XDxyZWFkUGVybWlzc2lvblw+</entry>
         <entry encoding="base64">XDx3cml0ZVBlcm1pc3Npb25cPg==</entry>
         <entry encoding="base64">XDxpbnZlc3RtZW50XD4=</entry>
@@ -2973,6 +2970,8 @@
         <entry encoding="base64">XDxodHRwXD4=</entry>
         <entry encoding="base64">XDxwb3N0UmVmcmVzaFw+</entry>
         <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
+        <entry encoding="base64">XDxlcnJvckhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

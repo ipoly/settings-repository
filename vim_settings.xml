@@ -1227,7 +1227,11 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442996088752" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1443000243986">
+        <mark key="]" line="125" column="44" />
+        <mark key="." line="125" column="43" />
+        <mark key="[" line="125" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
         <mark key="^" line="25" column="20" />
@@ -2889,47 +2893,47 @@
       <jump line="83" column="9" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvYWRpbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAjIHdoZW4gbGluayBmYWlsIHRoZW4gc2hvdyBmb3JtCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAjCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>o</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLm5lZWRSZWxpbmsgPSBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmUge3tuZWVkUmVsaW5rfX0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHByZSB7e3lvZGxlZUZvcm0uJHZhbGlkfX0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Only</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
-      </register>
-      <register name="8" type="4">
         <text>= false</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcmUge3tuZWVkUmVsaW5rfX0K</text>
       </register>
     </registers>
     <search>

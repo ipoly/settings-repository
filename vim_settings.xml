@@ -266,11 +266,10 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442996791847">
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="1" column="23" />
-        <mark key="[" line="1" column="23" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442998436527">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/services/navigation.coffee" timestamp="1420095950477">
         <mark key="]" line="25" column="42" />
@@ -1851,11 +1850,11 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.coffee" timestamp="1442997194745">
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="36" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.coffee" timestamp="1442998727026">
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-donut.less" timestamp="1423639246582">
         <mark key="]" line="3" column="13" />
@@ -2891,46 +2890,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gZmFsc2UgaWYgbGluay5nZXRTdGF0dXMoKSBpcyAnc3VjY2VzcycKICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gdHJ1ZSBpZiBsaW5rLmdldFN0YXR1cygpIGlzICdmYWlsJwo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvYWRpbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>success</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>false</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIHdoZW4gbGluayBmYWlsIHRoZW4gc2hvdyBmb3JtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gZmFsc2UgaWYgbGluay5nZXRTdGF0dXMoKSBpcyAnc3VjY2VzcycKICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gdHJ1ZSBpZiBsaW5rLmdldFN0YXR1cygpIGlzICdmYWlsJwo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAnc3VjY2VzcycKICAgICAgICAgICAgICAkc2NvcGUubmVlZFJsaW5rID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLm5lZWRSZWxpbmsgPSBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmUge3tuZWVkUmVsaW5rfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUubmVlZFJlbGluayA9IC0+CiAgICAgICAgICByZXR1cm4gZmFsc2UgdW5sZXNzICRzY29wZS5saW5rCiAgICAgICAgICAkc2NvcGUubGluay5nZXRTdGF0dXMoKSBpcyAnZmFpbCcKCg==</text>
+        <text encoding="base64">ICAgIHByZSB7e3lvZGxlZUZvcm0uJHZhbGlkfX0K</text>
       </register>
-      <register name="5" type="4">
-        <text>(</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>Only</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>fail</text>
+        <text>false</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gZmFsc2UgaWYgbGluay5nZXRTdGF0dXMoKSBpcyAnc3VjY2VzcycK</text>
+      <register name="8" type="4">
+        <text>= false</text>
       </register>
     </registers>
     <search>

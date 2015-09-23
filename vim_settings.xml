@@ -266,11 +266,11 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442915408213">
-        <mark key="]" line="1" column="24" />
-        <mark key="^" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="[" line="1" column="23" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442993008485">
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="1" column="5" />
+        <mark key="[" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/services/navigation.coffee" timestamp="1420095950477">
         <mark key="]" line="25" column="42" />
@@ -1769,6 +1769,9 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1442993142618">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
@@ -1847,11 +1850,10 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.coffee" timestamp="1442915577655">
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="18" column="62" />
-        <mark key="." line="16" column="0" />
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.coffee" timestamp="1442993568954">
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/high-donut.less" timestamp="1423639246582">
         <mark key="]" line="3" column="13" />
@@ -2887,46 +2889,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvYWRpbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>?</text>
       </register>
       <register name="3" type="4">
-        <text>ej</text>
+        <text>?</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGxpc3QubGVuZ3RoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGxpbmsuaWQsIGxpbmsuaXNMb2FkaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBsaXN0Lmxlbmd0aAo=</text>
+      <register name="5" type="4">
+        <text>(ng-if='needRelink()')</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>?</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGxpc3QubGVuZ3RoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBsaXN0Lmxlbmd0aAo=</text>
+      <register name="8" type="4">
+        <text>ej</text>
       </register>
     </registers>
     <search>

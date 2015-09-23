@@ -266,11 +266,11 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442993008485">
-        <mark key="]" line="1" column="5" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442996791847">
+        <mark key="]" line="1" column="23" />
         <mark key="^" line="2" column="26" />
-        <mark key="." line="1" column="5" />
-        <mark key="[" line="1" column="5" />
+        <mark key="." line="1" column="23" />
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/services/navigation.coffee" timestamp="1420095950477">
         <mark key="]" line="25" column="42" />
@@ -1228,6 +1228,7 @@
         <mark key="." line="0" column="34" />
         <mark key="[" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" timestamp="1442996088752" />
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/card/main.jade" timestamp="1439280358674">
         <mark key="]" line="25" column="20" />
         <mark key="^" line="25" column="20" />
@@ -1769,7 +1770,7 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1442993142618">
+      <file name="/a.dummy" timestamp="1442996063647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
@@ -1850,8 +1851,9 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.coffee" timestamp="1442993568954">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.coffee" timestamp="1442997194745">
         <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="36" />
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
@@ -2889,46 +2891,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gZmFsc2UgaWYgbGluay5nZXRTdGF0dXMoKSBpcyAnc3VjY2VzcycKICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gdHJ1ZSBpZiBsaW5rLmdldFN0YXR1cygpIGlzICdmYWlsJwo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvYWRpbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>?</text>
+        <text>success</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
+      <register name="2" type="4">
+        <text>false</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gZmFsc2UgaWYgbGluay5nZXRTdGF0dXMoKSBpcyAnc3VjY2VzcycKICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gdHJ1ZSBpZiBsaW5rLmdldFN0YXR1cygpIGlzICdmYWlsJwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgJHNjb3BlLmxpbmsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAnc3VjY2VzcycKICAgICAgICAgICAgICAkc2NvcGUubmVlZFJsaW5rID0gZmFsc2UK</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcgo=</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUubmVlZFJlbGluayA9IC0+CiAgICAgICAgICByZXR1cm4gZmFsc2UgdW5sZXNzICRzY29wZS5saW5rCiAgICAgICAgICAkc2NvcGUubGluay5nZXRTdGF0dXMoKSBpcyAnZmFpbCcKCg==</text>
       </register>
       <register name="5" type="4">
-        <text>(ng-if='needRelink()')</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>?</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>fail</text>
       </register>
-      <register name="8" type="4">
-        <text>ej</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS5uZWVkUmVsaW5rID0gZmFsc2UgaWYgbGluay5nZXRTdGF0dXMoKSBpcyAnc3VjY2VzcycK</text>
       </register>
     </registers>
     <search>

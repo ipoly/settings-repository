@@ -277,9 +277,9 @@
         <mark key="." line="25" column="42" />
         <mark key="[" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1443067697872">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1443068767891">
         <mark key="]" line="13" column="70" />
-        <mark key="^" line="13" column="69" />
+        <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
         <mark key="[" line="13" column="69" />
       </file>
@@ -502,11 +502,11 @@
         <mark key="." line="0" column="18" />
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1443067657422">
-        <mark key="]" line="27" column="79" />
-        <mark key="^" line="27" column="72" />
-        <mark key="." line="27" column="71" />
-        <mark key="[" line="27" column="71" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1443069129971">
+        <mark key="]" line="27" column="64" />
+        <mark key="^" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+        <mark key="[" line="27" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/life-insurance/main.less" timestamp="1422328523513">
         <mark key="]" line="5" column="0" />
@@ -2901,46 +2901,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pageSize</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdlU2l6ZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>pageSize</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>total</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="1" type="4">
-        <text>pageSize</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIWFjY291bnRzLiRyZXNvbHZlZCBvciAhTGluay4kcmVzb2x2ZWQK</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>$scope</text>
+        <text>pageSize</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>{{pageSize}}</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>isLoading</text>
+        <text>$scope</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>#</text>
       </register>
     </registers>
     <search>

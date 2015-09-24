@@ -493,11 +493,11 @@
         <mark key="." line="1" column="3" />
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.less" timestamp="1443085720421">
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="[" line="2" column="14" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.less" timestamp="1443089507888">
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="[" line="1" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/EFC/main.jade" timestamp="1434449568283">
         <mark key="]" line="0" column="18" />
@@ -2925,34 +2925,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfbWZhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>#</text>
       </register>
       <register name="3" type="4">
-        <text>bankForm</text>
+        <text>div</text>
       </register>
       <register name="2" type="4">
         <text>div</text>
       </register>
       <register name="1" type="4">
-        <text>div</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzcGFuKG5nLWlmPSdsb2FuRm9ybS5pc0xvYWRpbmcnKQogICAgICAgICAgaS5mYS5mYS1zcGluLmZhLXJlZnJlc2gK</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>cardForm</text>
       </register>
       <register name="6" type="4">
         <text>cardForm</text>
       </register>
       <register name="5" type="4">
-        <text>cardForm</text>
+        <text>bankForm</text>
       </register>
       <register name="4" type="4">
         <text>bankForm</text>
@@ -2961,10 +2961,10 @@
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>, ng-disabled='accountForm.isLoading'</text>
+        <text>accountForm</text>
       </register>
       <register name="8" type="4">
-        <text>accountForm</text>
+        <text>r</text>
       </register>
     </registers>
     <search>

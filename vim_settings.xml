@@ -1065,6 +1065,11 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1443066006560">
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="[" line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
         <mark key="]" line="24" column="62" />
         <mark key="^" line="24" column="62" />
@@ -2895,22 +2900,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$scope</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvYWRpbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>$scope</text>
+        <text>#</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>$scope</text>
+      </register>
+      <register name="1" type="4">
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIWFjY291bnRzLiRyZXNvbHZlZCBvciAhTGluay4kcmVzb2x2ZWQK</text>
@@ -2922,10 +2927,10 @@
         <text>isLoading</text>
       </register>
       <register name="5" type="4">
-        <text>isLoading</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

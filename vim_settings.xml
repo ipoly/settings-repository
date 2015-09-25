@@ -1100,12 +1100,12 @@
         <mark key="." line="167" column="24" />
         <mark key="[" line="167" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443165617330">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443169664249">
         <mark key="'" line="15" column="14" />
-        <mark key="]" line="42" column="14" />
+        <mark key="]" line="22" column="33" />
         <mark key="^" line="21" column="31" />
-        <mark key="." line="42" column="14" />
-        <mark key="[" line="42" column="0" />
+        <mark key="." line="22" column="33" />
+        <mark key="[" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/donut.coffee" timestamp="1421139693589">
         <mark key="]" line="1" column="23" />
@@ -2943,43 +2943,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adjustmentHashFilter</text>
+        <text>: range</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGp1c3RtZW50SGFzaEZpbHRlclw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>: range</text>
       </register>
       <register name="3" type="4">
-        <text>currencyFilteadjustmentsr</text>
-      </register>
-      <register name="2" type="4">
         <text>=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>: range</text>
       </register>
       <register name="0" type="4">
         <text>adjustmentHashFilter</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>, ng-disabled='isLoading'</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAnY3VycmVuY3lGaWx0ZXInCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAnY3VycmVuY3lGaWx0ZXInCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAnY3VycmVuY3lGaWx0ZXInCg==</text>
+      <register name="4" type="4">
+        <text>currencyFilteadjustmentsr</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>(style='width:100%')</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>

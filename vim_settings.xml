@@ -1100,12 +1100,12 @@
         <mark key="." line="167" column="24" />
         <mark key="[" line="167" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443171162726">
-        <mark key="'" line="37" column="40" />
-        <mark key="]" line="20" column="60" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="20" column="60" />
-        <mark key="[" line="20" column="60" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443172347043">
+        <mark key="'" line="59" column="0" />
+        <mark key="]" line="77" column="46" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="77" column="0" />
+        <mark key="[" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/highcharts/donut.coffee" timestamp="1421139693589">
         <mark key="]" line="1" column="23" />
@@ -2073,7 +2073,7 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/adjustments.coffee" timestamp="1443170619303">
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/adjustments.coffee" timestamp="1443171928000">
         <mark key="]" line="115" column="53" />
         <mark key="[" line="115" column="0" />
       </file>
@@ -2728,11 +2728,11 @@
         <mark key="." line="34" column="0" />
         <mark key="[" line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/insurance/life-insurance/main.jade" timestamp="1439974410459">
-        <mark key="]" line="24" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/insurance/life-insurance/main.jade" timestamp="1443172324182">
+        <mark key="]" line="24" column="274" />
         <mark key="^" line="24" column="86" />
         <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
+        <mark key="[" line="24" column="238" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/registration/main.coffee" timestamp="1438074200192">
         <mark key="]" line="23" column="44" />
@@ -2844,11 +2844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="6" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
-      <jump line="177" column="22" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
-      <jump line="183" column="15" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
-      <jump line="185" column="13" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
-      <jump line="114" column="20" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="116" column="20" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="117" column="23" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="118" column="21" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
@@ -2944,55 +2939,60 @@
       <jump line="28" column="40" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
       <jump line="33" column="40" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
       <jump line="37" column="40" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
+      <jump line="41" column="14" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>retirement_education_goal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhZGp1c3QtbG9hZGluZy1zdGF0ZT0naXNMb2FkaW5nJwo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZHVHb2Fsc1JhbmdlXD4=</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>retirement_education_goal</text>
+        <text>life.</text>
       </register>
       <register name="3" type="4">
-        <text>eduGoalsRange</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>eduGoalsRange</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>retirement_education_goal</text>
+        <text>life.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRba2V5XSA9IGhhc2hXaXRoRmlsdGVyIGl0ZW0sICdrZXlfbmFtZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhZGp1c3QtbG9hZGluZy1zdGF0ZT0naXNMb2FkaW5nJwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>eduGoalsRange</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lPSdlZHVHb2Fsc1JhbmdlJwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>eduGoalsRange</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lPSdlZHVHb2Fsc1JhbmdlJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>eduGoalsRange</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lPSdlZHVHb2Fsc1JhbmdlJwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>eduGoalsRange</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lPSdlZHVHb2Fsc1JhbmdlJwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>joint.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>joint.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lPSdlZHVHb2Fsc1JhbmdlJwo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZHVHb2Fsc1JhbmdlXD4=</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZHVHb2Fsc1JhbmdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -3000,7 +3000,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNUZXh0XD4=</entry>
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
@@ -3020,6 +3019,7 @@
         <entry encoding="base64">XDxjdXJyZW5jeUZpbHRlclw+</entry>
         <entry encoding="base64">XDxhZGp1c3RtZW50SGFzaEZpbHRlclw+</entry>
         <entry encoding="base64">XDxlZHVHb2Fsc1JhbmdlXD4=</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

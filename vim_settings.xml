@@ -1577,6 +1577,11 @@
         <mark key="." line="5" column="35" />
         <mark key="[" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/retirement/stress-test.coffee" timestamp="1443176722244">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/reset/input-reset.coffee" timestamp="1433836256424">
         <mark key="]" line="5" column="14" />
         <mark key="^" line="5" column="14" />
@@ -1818,9 +1823,6 @@
         <mark key="." line="11" column="28" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1443173852070">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/education/main.coffee" timestamp="1435212740193">
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
@@ -1935,10 +1937,10 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.coffee" timestamp="1443174277506">
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="[" line="75" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.coffee" timestamp="1443176746809">
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="[" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1443063206042">
         <mark key="'" line="35" column="15" />
@@ -2945,47 +2947,47 @@
       <jump line="12" column="14" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjCg==</text>
+      <register name="&quot;" type="4">
+        <text>, adjustmentHashFilter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0aW9uXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>(style='width:100%')</text>
+        <text>, adjustmentHashFilter</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYWRqdXN0bWVudHM6IGdldEpTT05GaXh0dXJlKCdhZGp1c3RtZW50cy5qc29uJykK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAnYWRqdXN0bWVudEhhc2hGaWx0ZXInCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>, adjustmentHashFilter</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc3RyZXNzVGVzdDogZ2V0SlNPTkZpeHR1cmUoJ2NhbGN1bGF0ZS9yZXRpcmVtZW50L3N0cmVzcy5qc29uJykK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjCg==</text>
       </register>
-      <register name="0" type="4">
-        <text>(style='width:4em')</text>
-      </register>
-      <register name="7" type="4">
-        <text>,</text>
-      </register>
-      <register name="6" type="4">
-        <text>(style='width:4em')</text>
-      </register>
       <register name="5" type="4">
-        <text>(style='width:100%')</text>
+        <text>stressTest</text>
       </register>
       <register name="4" type="4">
-        <text>(style='width:100%')</text>
+        <text>calculate/retirement/stress</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>retirement_education_goal</text>
+        <text>(style='width:100%')</text>
       </register>
-      <register name="8" type="4">
-        <text>retirement_education_goal</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>

@@ -230,11 +230,11 @@
         <mark key="." line="15" column="7" />
         <mark key="[" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1442552585951">
-        <mark key="]" line="30" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.jade" timestamp="1443153822995">
+        <mark key="]" line="82" column="167" />
         <mark key="^" line="24" column="30" />
         <mark key="." line="30" column="19" />
-        <mark key="[" line="30" column="19" />
+        <mark key="[" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/main.less" timestamp="1432096907972">
         <mark key="]" line="3" column="13" />
@@ -1087,6 +1087,13 @@
         <mark key="^" line="24" column="62" />
         <mark key="." line="24" column="62" />
         <mark key="[" line="24" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443154115810">
+        <mark key="'" line="14" column="6" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="38" column="0" />
+        <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/card.less" timestamp="1427181226737">
         <mark key="]" line="167" column="24" />
@@ -2822,7 +2829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="12" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" />
       <jump line="32" column="21" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" />
       <jump line="1" column="10" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" />
       <jump line="14" column="34" filename="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" />
@@ -2922,49 +2928,50 @@
       <jump line="21" column="8" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="121" column="7" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="204" column="22" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAcmF0aW86IDI5LjcvMjE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoKHN0eWxlPSd3aWR0aDoxMDAlJykK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfbWZhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>(style='width:100%')</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>(style='width:100%')</text>
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAcmF0aW86IDI5LjcvMjE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAcmF0aW86IDI5LjcvMjE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoKHN0eWxlPSd3aWR0aDoxMDAlJykK</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>(style='width:100%')</text>
       </register>
       <register name="6" type="4">
-        <text>9</text>
+        <text>(style='width:100%')</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>(style='width:100%')</text>
       </register>
       <register name="4" type="4">
-        <text>7</text>
+        <text>(style='width:100%')</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>div</text>
+        <text>Tax will be higher: range</text>
       </register>
       <register name="8" type="4">
-        <text>#</text>
+        <text>(style='width:100%')</text>
       </register>
     </registers>
     <search>

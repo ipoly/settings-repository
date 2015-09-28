@@ -81,11 +81,10 @@
         <mark key="." line="0" column="4" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/仓库/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443428160078">
-        <mark key="]" line="65" column="14" />
-        <mark key="^" line="65" column="14" />
-        <mark key="." line="65" column="14" />
-        <mark key="[" line="65" column="14" />
+      <file name="$USER_HOME$/仓库/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443428920742">
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="[" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/main.jade" timestamp="1431594911920">
         <mark key="]" line="4" column="0" />
@@ -2957,47 +2956,47 @@
       <jump line="152" column="0" filename="$USER_HOME$/仓库/web/src/application/client/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0aW9uXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>, adjustmentHashFilter</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cGVyY2VudGFnZSA=</text>
+        <text>0</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3RyZXNzVGVzdDogZ2V0SlNPTkZpeHR1cmUoJ2NhbGN1bGF0ZS9yZXRpcmVtZW50L3N0cmVzcy5qc29uJykK</text>
       </register>
       <register name="7" type="4">
-        <text>stressTest</text>
+        <text>.</text>
       </register>
-      <register name="6" type="4">
-        <text>calculate/retirement/stress</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWxpZGF0aW9uLXR5cGU9J3BlcmNlbnRhZ2UxJwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWRqdXN0bWVudHM6IGdldEpTT05GaXh0dXJlKCdhZGp1c3RtZW50cy5qc29uJykK</text>
+      <register name="5" type="4">
+        <text>0</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnYWRqdXN0bWVudEhhc2hGaWx0ZXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWxpZGF0aW9uLXR5cGU9J3BlcmNlbnRhZ2UxJwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, adjustmentHashFilter</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cGVyY2VudGFnZSA=</text>
       </register>
     </registers>
     <search>

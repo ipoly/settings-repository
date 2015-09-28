@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="browserPath" value="./node_modules/.bin/phantomjs" />
     <option name="confirmExit" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>

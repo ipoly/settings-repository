@@ -2148,12 +2148,12 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1443088349086">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1443493576773">
         <mark key="'" line="104" column="0" />
-        <mark key="]" line="1" column="69" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="32" />
-        <mark key="[" line="1" column="32" />
+        <mark key="]" line="76" column="58" />
+        <mark key="^" line="76" column="58" />
+        <mark key="." line="76" column="58" />
+        <mark key="[" line="76" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.less" timestamp="1442234616332">
         <mark key="]" line="2" column="0" />
@@ -2968,47 +2968,47 @@
       <jump line="81" column="15" filename="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGg0IHsKICAgICAgbWFyZ2luIDogMCAwIDAgLThweDsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaWdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmRldGFpbHMg</text>
+        <text>tmp</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgIGg0IHsKICAgICAgbWFyZ2luIDogMCAwIDAgLThweDsKICAgIH0K</text>
+      </register>
+      <register name="1" type="4">
+        <text>tmp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAuYWN0aW9uLWl0ZW1zIHsKICAgIGg0IHsKICAgICAgbWFyZ2luIDogMCAwIDAgLThweDsKICAgIH0KICAgIC5iaWcgewogICAgICBmb250LXNpemUgOiAxNnB4OwogICAgfQogIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>.details</text>
-      </register>
-      <register name="6" type="4">
         <text>.details {</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LmRldGFpbHMg</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>i</text>
-      </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAuYWN0aW9uLWl0ZW1zLmRldGFpbHMgewogICAgJjo6YmVmb3JlIHsKICAgICAgY29udGVudCA6ICdERVRBSUxTJzsKICAgIH0KICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>.details</text>
       </register>
     </registers>
     <search>

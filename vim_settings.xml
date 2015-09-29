@@ -1089,12 +1089,12 @@
         <mark key="." line="24" column="62" />
         <mark key="[" line="24" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443435125806">
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.jade" timestamp="1443512784753">
         <mark key="'" line="81" column="15" />
-        <mark key="]" line="81" column="17" />
-        <mark key="^" line="81" column="17" />
-        <mark key="." line="81" column="17" />
-        <mark key="[" line="81" column="14" />
+        <mark key="]" line="73" column="48" />
+        <mark key="^" line="73" column="48" />
+        <mark key="." line="73" column="48" />
+        <mark key="[" line="73" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/card.less" timestamp="1427181226737">
         <mark key="]" line="167" column="24" />
@@ -2962,46 +2962,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>Health care cost will be higher by</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Health care cost will be higher by</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Tax will be higher</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Live longer</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>Health care cost will be higher by</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHByZSBhY3RpdmU6IHt7YWN0aXZlfX0K</text>
       </register>
       <register name="7" type="4">
-        <text>tab.</text>
+        <text>#</text>
       </register>
       <register name="6" type="4">
-        <text>$parent.</text>
+        <text>Equity market crash</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Social security will be higher</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Inflation will be higher by</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpdiAxMTEK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>tab.</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

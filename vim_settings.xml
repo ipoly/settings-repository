@@ -1060,6 +1060,13 @@
         <mark key="." line="9" column="45" />
         <mark key="[" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/security/main.jade" timestamp="1443525069120">
+        <mark key="'" line="94" column="7" />
+        <mark key="]" line="110" column="18" />
+        <mark key="^" line="93" column="7" />
+        <mark key="." line="110" column="18" />
+        <mark key="[" line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/main.coffee" timestamp="1439276741286">
         <mark key="]" line="73" column="16" />
         <mark key="^" line="73" column="16" />
@@ -2088,10 +2095,6 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/adjustments.coffee" timestamp="1443171928000">
-        <mark key="]" line="115" column="53" />
-        <mark key="[" line="115" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/search/panel.jade" timestamp="1442914205443">
         <mark key="]" line="18" column="42" />
         <mark key="^" line="18" column="40" />
@@ -2859,8 +2862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="7" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
-      <jump line="164" column="42" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="180" column="26" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="200" column="20" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="263" column="24" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
@@ -2959,6 +2960,8 @@
       <jump line="78" column="20" filename="$USER_HOME$/Documents/web/src/application/client/report/main.less" />
       <jump line="1" column="1" filename="$USER_HOME$/Documents/web/src/application/client/report/main.less" />
       <jump line="33" column="24" filename="$USER_HOME$/Documents/web/src/application/client/report/main.less" />
+      <jump line="93" column="25" filename="$USER_HOME$/Documents/web/src/application/advisor/security/main.jade" />
+      <jump line="94" column="7" filename="$USER_HOME$/Documents/web/src/application/advisor/security/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

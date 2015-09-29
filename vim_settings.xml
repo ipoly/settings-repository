@@ -277,12 +277,12 @@
         <mark key="." line="25" column="42" />
         <mark key="[" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1443496113445">
-        <mark key="'" line="18" column="33" />
-        <mark key="]" line="6" column="13" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" timestamp="1443496841001">
+        <mark key="'" line="20" column="33" />
+        <mark key="]" line="11" column="24" />
         <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="[" line="6" column="10" />
+        <mark key="." line="11" column="9" />
+        <mark key="[" line="11" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/modal/main.coffee" timestamp="1437123492226">
         <mark key="]" line="38" column="38" />
@@ -1980,11 +1980,11 @@
         <mark key="." line="12" column="3" />
         <mark key="[" line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.jade" timestamp="1442303921421">
-        <mark key="]" line="4" column="27" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.jade" timestamp="1443496830917">
+        <mark key="]" line="17" column="45" />
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
-        <mark key="[" line="2" column="0" />
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/client/main.jade" timestamp="1435057706838">
         <mark key="]" line="45" column="26" />
@@ -2967,13 +2967,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$parent</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>$parent</text>
+        <text>row</text>
       </register>
       <register name="3" type="4">
         <text>$parent</text>
@@ -2982,19 +2982,19 @@
         <text>$parent</text>
       </register>
       <register name="1" type="4">
-        <text>$parent</text>
+        <text>row</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSB7e2FjdGl2ZX19Cg==</text>
+      <register name="0" type="4">
+        <text>container-fluid</text>
       </register>
       <register name="7" type="4">
-        <text>tab</text>
-      </register>
-      <register name="6" type="4">
         <text>active</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHByZSB7e2FjdGl2ZX19Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>$parent</text>
       </register>
       <register name="4" type="4">
         <text>$parent</text>
@@ -3003,7 +3003,7 @@
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>active</text>
+        <text>tab</text>
       </register>
       <register name="8" type="4">
         <text>tab</text>

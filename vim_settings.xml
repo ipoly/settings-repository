@@ -494,11 +494,11 @@
         <mark key="." line="1" column="3" />
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.less" timestamp="1443090431465">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/report/main.less" timestamp="1443519525420">
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="33" column="49" />
+        <mark key="." line="34" column="0" />
+        <mark key="[" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tools/EFC/main.jade" timestamp="1434449568283">
         <mark key="]" line="0" column="18" />
@@ -2859,10 +2859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="6" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
-      <jump line="140" column="16" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
-      <jump line="151" column="43" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
-      <jump line="154" column="16" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="162" column="7" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="164" column="42" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
       <jump line="180" column="26" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
@@ -2959,55 +2955,59 @@
       <jump line="13" column="36" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
       <jump line="16" column="38" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
       <jump line="18" column="33" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/main.jade" />
+      <jump line="2" column="3" filename="$USER_HOME$/Documents/web/src/application/client/report/main.less" />
+      <jump line="78" column="20" filename="$USER_HOME$/Documents/web/src/application/client/report/main.less" />
+      <jump line="1" column="1" filename="$USER_HOME$/Documents/web/src/application/client/report/main.less" />
+      <jump line="33" column="24" filename="$USER_HOME$/Documents/web/src/application/client/report/main.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Health care cost will be higher by</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogcmVkOwo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3RpdmVcPg==</text>
+        <text encoding="base64">XDxwYWdlU2l6ZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>Health care cost will be higher by</text>
+        <text encoding="base64">IC0=</text>
       </register>
       <register name="3" type="4">
-        <text>Tax will be higher</text>
+        <text encoding="base64">IDIwcHg=</text>
       </register>
       <register name="2" type="4">
-        <text>Live longer</text>
+        <text encoding="base64">IC0=</text>
       </register>
-      <register name="1" type="4">
-        <text>Health care cost will be higher by</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogcmVkOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSBhY3RpdmU6IHt7YWN0aXZlfX0K</text>
+        <text encoding="base64">ICAgICAgLnNpemUoQHBhZ2VTaXplLCBAcGFnZVNpemUqQHBhZ2VSYXRpbyk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>Equity market crash</text>
+        <text>/</text>
       </register>
-      <register name="5" type="4">
-        <text>Social security will be higher</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogLTFjbTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>Inflation will be higher by</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogcmVkOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgQHBhZ2U6IGNvdmVyOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8uc2l6ZSgxMDAlLCAxMDAlKTsK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3RpdmVcPg==</last-search>
+      <last-search encoding="base64">XDxwYWdlU2l6ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3RpdmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYWdlU2l6ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -3015,14 +3015,12 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
         <entry encoding="base64">XDxlcnJvckhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
         <entry encoding="base64">XDxwcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
-        <entry encoding="base64">XDxwYWdlU2l6ZVw+</entry>
         <entry encoding="base64">XDxzdWNjZXNzSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxnZXRfbWZhXD4=</entry>
         <entry encoding="base64">XDxhZGp1c3RtZW50c1w+</entry>
@@ -3035,6 +3033,8 @@
         <entry encoding="base64">XDx2YWxpZGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxiaWdcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVcPg==</entry>
+        <entry encoding="base64">XDxzaXplXD4=</entry>
+        <entry encoding="base64">XDxwYWdlU2l6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

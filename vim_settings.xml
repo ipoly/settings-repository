@@ -555,12 +555,12 @@
         <mark key="." line="6" column="21" />
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.jade" timestamp="1443786248540">
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.jade" timestamp="1443787657674">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="12" column="59" />
+        <mark key="]" line="12" column="71" />
         <mark key="^" line="12" column="67" />
-        <mark key="." line="12" column="59" />
-        <mark key="[" line="12" column="58" />
+        <mark key="." line="12" column="71" />
+        <mark key="[" line="12" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/highcharts/high-donut.coffee" timestamp="1422346350576">
         <mark key="]" line="12" column="43" />
@@ -2507,12 +2507,11 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1443786235189">
-        <mark key="'" line="74" column="31" />
-        <mark key="]" line="75" column="30" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="75" column="30" />
-        <mark key="[" line="75" column="30" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1443787951167">
+        <mark key="'" line="73" column="31" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/insurance/disability/main.coffee" timestamp="1439179989867">
         <mark key="]" line="5" column="7" />
@@ -3010,47 +3009,47 @@
       <jump line="73" column="31" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>net_worth.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJGb3JtYXQ6ICd7cG9pbnQueH08YnIvPicK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50XD4=</text>
       </register>
       <register name="-" type="4">
-        <text>net_worth.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>current</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJGb3JtYXQ6ICd7cG9pbnQueH08YnIvPicK</text>
       </register>
-      <register name="2" type="4">
-        <text>net_worth.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJGb3JtYXQ6ICcnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>net_worth.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJGb3JtYXQ6ICd7cG9pbnQueH08YnIvPicK</text>
       </register>
-      <register name="0" type="4">
-        <text>net_worth.current</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJGb3JtYXQ6ICd7cG9pbnQueH08YnIvPicK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCAoc3VtLCBuKSAtPg==</text>
+        <text>net_worth.</text>
       </register>
       <register name="6" type="4">
-        <text>reduce</text>
+        <text>style='height:300px;width:600px;margin:0 auto',</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LCAoc3VtLCBuKSAtPiBzdW0gKyBu</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCAoc3VtLCBuKSAtPiBzdW0gKyBu</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJGb3JtYXQ6ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3VtICsgbgo=</text>
+      <register name="9" type="4">
+        <text>current</text>
       </register>
       <register name="8" type="4">
-        <text>reduce</text>
+        <text>net_worth.</text>
       </register>
     </registers>
     <search>

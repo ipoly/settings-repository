@@ -225,6 +225,12 @@
         <mark key="." line="15" column="17" />
         <mark key="[" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/Repo/linost-vpn-config/servers.json" timestamp="1443756708445">
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="12" column="31" />
+        <mark key="[" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/range.jade" timestamp="1425898480630">
         <mark key="]" line="1" column="7" />
         <mark key="^" line="1" column="24" />
@@ -2652,6 +2658,9 @@
         <mark key="." line="7" column="20" />
         <mark key="[" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Repo/linost-vpn-config/main.coffee" timestamp="1443757133474">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441187672026">
         <mark key="]" line="56" column="65" />
         <mark key="^" line="56" column="65" />
@@ -2965,47 +2974,47 @@
       <jump line="66" column="8" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3ltYm9sJywgc3ltYm9sCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50U3ltYm9sXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgMjIyMgo=</text>
+      <register name="3" type="4">
+        <text>srv48.vpnchina.net</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3ltYm9sJywgc3ltYm9sCg==</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3RyZXNzVGVzdDogZ2V0SlNPTkZpeHR1cmUoJ2NhbGN1bGF0ZS9yZXRpcmVtZW50L3N0cmVzcy5qc29uJykK</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>新加坡</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>新加坡</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgMjIyMgo=</text>
+      <register name="5" type="4">
+        <text>srv39.vpnchina.net</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgMTExMSB1bmxlc3MgbnVsbAo=</text>
+      <register name="4" type="4">
+        <text>新加坡2</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWxpZGF0aW9uLXR5cGU9J3BlcmNlbnRhZ2UxJwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAnc3ltYm9sJywgc3ltYm9sCg==</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>新加坡：srv39.vpnchina.net</text>
       </register>
     </registers>
     <search>

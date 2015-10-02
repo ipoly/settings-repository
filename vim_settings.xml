@@ -771,6 +771,10 @@
         <mark key="." line="3" column="42" />
         <mark key="[" line="3" column="42" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/directives/highcharts/high-area.coffee" timestamp="1443784354050">
+        <mark key="]" line="30" column="23" />
+        <mark key="[" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/goals-panels/_card-panel-college.jade" timestamp="1421724357818">
         <mark key="]" line="89" column="45" />
         <mark key="^" line="67" column="29" />
@@ -2502,12 +2506,12 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1443778868580">
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1443784550076">
         <mark key="'" line="15" column="1" />
-        <mark key="]" line="80" column="55" />
-        <mark key="^" line="80" column="55" />
-        <mark key="." line="80" column="55" />
-        <mark key="[" line="80" column="46" />
+        <mark key="]" line="65" column="39" />
+        <mark key="^" line="65" column="39" />
+        <mark key="." line="65" column="39" />
+        <mark key="[" line="65" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/insurance/disability/main.coffee" timestamp="1439179989867">
         <mark key="]" line="5" column="7" />
@@ -3005,47 +3009,47 @@
       <jump line="15" column="1" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>category</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>areaspline</text>
+        <text>category</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldF93b3J0aC5oaXN0b3JpY2FsLmNoYXJ0LmNvbG9ycyA9IGNvbG9ycwogICAgJHNjb3BlLmhpc3RvcmljYWxDb25maWcgPSBuZXRfd29ydGguaGlzdG9yaWNhbC5jaGFydAo=</text>
+      <register name="3" type="4">
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>areaspline</text>
+        <text>point</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>category</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5oaXN0b3JpY2FsQ29uZmlnID0gbmV0X3dvcnRoLmhpc3RvcmljYWwuY2hhcnQK</text>
+        <text encoding="base64">ICAgICAgdG9vbHRpcDoKICAgICAgICBoZWFkZXJGb3JtYXQ6ICcnCiAgICAgICAgcG9pbnRGb3JtYXQ6ICc8c3Bhbj57cG9pbnQuY2F0ZWdvcnl9PC9zcGFuPjogPGI+JHtwb2ludC55fTwvYj48YnIvPicK</text>
       </register>
       <register name="7" type="4">
-        <text>column</text>
+        <text>.reverse()</text>
       </register>
-      <register name="6" type="4">
-        <text>stacked-</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc1swXQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHNjb3BlLmhpc3RvcmljYWxDb25maWcg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc1sxXQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">ID0gWw==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>config</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgc1sxXQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>config</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgc1swXQo=</text>
       </register>
     </registers>
     <search>

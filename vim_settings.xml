@@ -2506,12 +2506,12 @@
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1443784550076">
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1443785315377">
         <mark key="'" line="15" column="1" />
-        <mark key="]" line="65" column="39" />
+        <mark key="]" line="84" column="0" />
         <mark key="^" line="65" column="39" />
-        <mark key="." line="65" column="39" />
-        <mark key="[" line="65" column="36" />
+        <mark key="." line="84" column="0" />
+        <mark key="[" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/insurance/disability/main.coffee" timestamp="1439179989867">
         <mark key="]" line="5" column="7" />
@@ -3009,8 +3009,8 @@
       <jump line="15" column="1" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>category</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
@@ -3019,34 +3019,34 @@
         <text>category</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
-      </register>
-      <register name="2" type="4">
-        <text>point</text>
-      </register>
-      <register name="1" type="4">
         <text>category</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHMgPSBuZXRfd29ydGguaGlzdG9yaWNhbC5jaGFydC5zZXJpZXMKICAgIG5ldF93b3J0aC5oaXN0b3JpY2FsLmNoYXJ0LnNlcmllcyA9IFsKICAgICAgc1sxXQogICAgICBzWzJdCiAgICAgIHNbMF0KICAgIF0KICAgIGNvbnNvbGUubG9nIG5ldF93b3J0aC5oaXN0b3JpY2FsLmNoYXJ0LnNlcmllcwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdG9vbHRpcDoKICAgICAgICBoZWFkZXJGb3JtYXQ6ICcnCiAgICAgICAgcG9pbnRGb3JtYXQ6ICc8c3Bhbj57cG9pbnQuY2F0ZWdvcnl9PC9zcGFuPjogPGI+JHtwb2ludC55fTwvYj48YnIvPicK</text>
       </register>
-      <register name="7" type="4">
-        <text>.reverse()</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc1swXQo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgc1sxXQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ID0gWw==</text>
+      </register>
+      <register name="5" type="4">
+        <text>true</text>
+      </register>
+      <register name="4" type="4">
+        <text>point</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc1sxXQo=</text>
+      <register name="9" type="4">
+        <text>.reverse()</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgc1swXQo=</text>

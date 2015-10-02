@@ -555,12 +555,11 @@
         <mark key="." line="6" column="21" />
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.jade" timestamp="1443778126913">
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.jade" timestamp="1443781157813">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="13" />
-        <mark key="[" line="12" column="13" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/highcharts/high-donut.coffee" timestamp="1422346350576">
         <mark key="]" line="12" column="43" />
@@ -3007,43 +3006,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldF93b3J0aC5oaXN0b3JpY2FsLmNoYXJ0LmNvbG9ycyA9IGNvbG9ycwogICAgJHNjb3BlLmhpc3RvcmljYWxDb25maWcgPSBuZXRfd29ydGguaGlzdG9yaWNhbC5jaGFydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>areaspline</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JHNjb3BlLmhpc3RvcmljYWxDb25maWcg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5ldF93b3J0aC5oaXN0b3JpY2FsLmNoYXJ0LmNvbG9ycyA9IGNvbG9ycwogICAgJHNjb3BlLmhpc3RvcmljYWxDb25maWcgPSBuZXRfd29ydGguaGlzdG9yaWNhbC5jaGFydAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>areaspline</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldF93b3J0aC5oaXN0b3JpY2FsLmNoYXJ0LmNvbG9ycyA9IGNvbG9ycwogICAgJHNjb3BlLmhpc3RvcmljYWxDb25maWcgPSBuZXRfd29ydGguaGlzdG9yaWNhbC5jaGFydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5oaXN0b3JpY2FsQ29uZmlnID0gbmV0X3dvcnRoLmhpc3RvcmljYWwuY2hhcnQK</text>
       </register>
       <register name="7" type="4">
-        <text>config</text>
-      </register>
-      <register name="6" type="4">
-        <text>config</text>
-      </register>
-      <register name="5" type="4">
         <text>column</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>stacked-</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">JHNjb3BlLmhpc3RvcmljYWxDb25maWcg</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>Current</text>
+        <text>config</text>
       </register>
       <register name="8" type="4">
         <text>config</text>

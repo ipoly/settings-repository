@@ -1022,12 +1022,7 @@
         <mark key="." line="8" column="10" />
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1441187672026">
-        <mark key="]" line="56" column="65" />
-        <mark key="^" line="56" column="65" />
-        <mark key="." line="56" column="65" />
-        <mark key="[" line="56" column="65" />
-      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/tax/main.coffee" timestamp="1444285181718" />
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/rc-form-manual.coffee" timestamp="1442577550750">
         <mark key="'" line="29" column="46" />
         <mark key="]" line="33" column="35" />
@@ -2966,46 +2961,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pull-right.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>pull-right.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>historicalCategory</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGV4dC1yaWdodAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>pull-right.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmhpc3RvcmljYWxDYXRlZ29yaWVzID0gY2hhcnQuc2VyaWVzCg==</text>
+        <text encoding="base64">ICAgICRzY29wZS50eXBlcyA9IFsKICAgICAgIkVzdGltYXRlZCBBdmVyYWdlIFRheCBSYXRlIgogICAgICAiRXN0aW1hdGVkIEZlZGVyYWwgSW5jb21lIFRheCBCcmFja2V0IgogICAgICAjIkVzdGltYXRlZCBBbHRlcm5hdGl2ZSBNaW5pbXVtIFRheCIKICAgIF0K</text>
       </register>
       <register name="7" type="4">
-        <text>display</text>
+        <text>historicalCategory</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXZlcnNlZDogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAudGV4dC1yaWdodAo=</text>
       </register>
       <register name="5" type="4">
-        <text>st</text>
+        <text>pull-right.</text>
       </register>
       <register name="4" type="4">
-        <text>Hiiworical</text>
+        <text encoding="base64">ICAgICAgIkVzdGltYXRlZCBBdmVyYWdlIFRheCBSYXRlIgogICAgICAiRXN0aW1hdGVkIEZlZGVyYWwgSW5jb21lIFRheCBCcmFja2V0IgojIkVzdGltYXRlZCBBbHRlcm5hdGl2ZSBNaW5pbXVtIFRheCI=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>historicaliwctegory</text>
+        <text>st</text>
       </register>
       <register name="8" type="4">
-        <text>historicalCategory</text>
+        <text>Hiiworical</text>
       </register>
     </registers>
     <search>

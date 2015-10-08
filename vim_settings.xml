@@ -1801,12 +1801,12 @@
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/billing/main.coffee" timestamp="1444296361311">
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/billing/main.coffee" timestamp="1444296999447">
         <mark key="'" line="54" column="11" />
-        <mark key="]" line="44" column="3" />
+        <mark key="]" line="134" column="0" />
         <mark key="^" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="[" line="44" column="3" />
+        <mark key="." line="134" column="0" />
+        <mark key="[" line="134" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/directives/action-items/action-items.jade" timestamp="1438159357044">
         <mark key="]" line="1" column="75" />
@@ -2955,7 +2955,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxvY2FsU3RvcmFnZS5zZXQgJ3VzZXInLCB1c2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgdXNlci5zdHJpcGVfcGxhbgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJzY3JpcHRpb25OYW1lXD4=</text>
@@ -2964,37 +2964,37 @@
         <text encoding="base64">LT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGxvY2FsU3RvcmFnZS5zZXQgJ3VzZXInLCB1c2VyCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgdXNlci5zdHJpcGVfcGxhbgo=</text>
       </register>
       <register name="0" type="4">
         <text>stripe_plan</text>
       </register>
       <register name="7" type="4">
-        <text>?</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">PSAtPg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>update</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LT4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
-      </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHVzZXIgPSAkbG9jYWxTdG9yYWdlLmdldCAndXNlcicK</text>
+      </register>
+      <register name="8" type="4">
+        <text>?</text>
       </register>
     </registers>
     <search>

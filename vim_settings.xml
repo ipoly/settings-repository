@@ -1035,11 +1035,12 @@
         <mark key="." line="33" column="35" />
         <mark key="[" line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1444276456237">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1444277310406">
         <mark key="'" line="20" column="6" />
-        <mark key="]" line="93" column="30" />
-        <mark key="." line="93" column="30" />
-        <mark key="[" line="93" column="30" />
+        <mark key="]" line="92" column="33" />
+        <mark key="^" line="92" column="33" />
+        <mark key="." line="92" column="33" />
+        <mark key="[" line="92" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
         <mark key="]" line="3" column="29" />
@@ -1758,11 +1759,12 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1444276267381">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1444278535790">
         <mark key="'" line="31" column="24" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="[" line="76" column="0" />
+        <mark key="]" line="84" column="34" />
+        <mark key="^" line="84" column="34" />
+        <mark key="." line="84" column="34" />
+        <mark key="[" line="84" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/balance-sheet/main.jade" timestamp="1424156321089">
         <mark key="]" line="1" column="37" />
@@ -2005,11 +2007,11 @@
         <mark key="." line="2" column="17" />
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.jade" timestamp="1444276141252">
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="14" />
-        <mark key="[" line="12" column="14" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.jade" timestamp="1444278678304">
+        <mark key="]" line="19" column="68" />
+        <mark key="^" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+        <mark key="[" line="19" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/less/public-nav.less" timestamp="1425039945008">
         <mark key="]" line="31" column="17" />
@@ -2964,47 +2966,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.chartObject</text>
+        <text>pull-right.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>.chartObject</text>
+        <text>pull-right.</text>
       </register>
       <register name="3" type="4">
-        <text>chart</text>
+        <text>historicalCategory</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgJHNjb3BlLmNoYXJ0T2JqZWN0ID0gNAo=</text>
+        <text encoding="base64">ICAgICAgICAudGV4dC1yaWdodAo=</text>
       </register>
       <register name="1" type="4">
-        <text>.chartObject</text>
+        <text>pull-right.</text>
       </register>
-      <register name="0" type="4">
-        <text>historicalChart</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJHNjb3BlLmhpc3RvcmljYWxDYXRlZ29yaWVzID0gY2hhcnQuc2VyaWVzCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICwgdHJ1ZQo=</text>
+      <register name="7" type="4">
+        <text>display</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ID0gNA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXZlcnNlZDogZmFsc2UK</text>
       </register>
       <register name="5" type="4">
-        <text>{}}
-        high-area(config='historicalConfig', chart-title='Historical', chart-object='h</text>
+        <text>st</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5oaXN0b3JpY2FsQ2hhcnQgPSAzCg==</text>
+      <register name="4" type="4">
+        <text>Hiiworical</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>}</text>
+        <text>historicaliwctegory</text>
       </register>
       <register name="8" type="4">
-        <text>chart</text>
+        <text>historicalCategory</text>
       </register>
     </registers>
     <search>

@@ -380,11 +380,11 @@
         <mark key="." line="54" column="21" />
         <mark key="[" line="54" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1438155982181">
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1444299554508">
+        <mark key="]" line="47" column="16" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="47" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/profile/accounts-goals/controllers/HealthCareFormController.coffee" timestamp="1421661225071">
         <mark key="]" line="7" column="34" />
@@ -1631,7 +1631,7 @@
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1444298074134">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1444299459014">
         <mark key="'" line="75" column="46" />
         <mark key="]" line="81" column="42" />
         <mark key="^" line="81" column="41" />
@@ -1746,12 +1746,12 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1444278535790">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1444299557776">
         <mark key="'" line="31" column="24" />
-        <mark key="]" line="84" column="34" />
-        <mark key="^" line="84" column="34" />
-        <mark key="." line="84" column="34" />
-        <mark key="[" line="84" column="27" />
+        <mark key="]" line="39" column="14" />
+        <mark key="^" line="85" column="34" />
+        <mark key="." line="39" column="7" />
+        <mark key="[" line="39" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/balance-sheet/main.jade" timestamp="1424156321089">
         <mark key="]" line="1" column="37" />
@@ -2955,46 +2955,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-aggregation</text>
+        <text>#4e6cef</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJzY3JpcHRpb25OYW1lXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>-aggregation</text>
+        <text>#4e6cef</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgdXNlci5zdHJpcGVfcGxhbgo=</text>
+      <register name="3" type="4">
+        <text>-aggregation</text>
       </register>
       <register name="2" type="4">
-        <text>account</text>
+        <text>#5286f4</text>
       </register>
       <register name="1" type="4">
-        <text>-aggregation</text>
+        <text>#4e6cef</text>
       </register>
       <register name="0" type="4">
-        <text>stripe_plan</text>
+        <text>#fb8c00</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LT4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGxvY2FsU3RvcmFnZS5zZXQgJ3VzZXInLCB1c2VyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgdXNlci5zdHJpcGVfcGxhbgo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>account</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PSAtPg==</text>
+        <text encoding="base64">LT4=</text>
       </register>
-      <register name="8" type="4">
-        <text>update</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

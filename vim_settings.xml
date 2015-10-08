@@ -1631,12 +1631,12 @@
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1444295902645">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" timestamp="1444298074134">
         <mark key="'" line="75" column="46" />
-        <mark key="]" line="81" column="34" />
-        <mark key="^" line="81" column="22" />
-        <mark key="." line="81" column="23" />
-        <mark key="[" line="81" column="23" />
+        <mark key="]" line="81" column="42" />
+        <mark key="^" line="81" column="41" />
+        <mark key="." line="81" column="42" />
+        <mark key="[" line="81" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
@@ -2954,47 +2954,47 @@
       <jump line="52" column="11" filename="$USER_HOME$/Documents/web/src/application/advisor/billing/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgdXNlci5zdHJpcGVfcGxhbgo=</text>
+      <register name="&quot;" type="4">
+        <text>-aggregation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJzY3JpcHRpb25OYW1lXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT4=</text>
+        <text>-aggregation</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxvY2FsU3RvcmFnZS5zZXQgJ3VzZXInLCB1c2VyCg==</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgdXNlci5zdHJpcGVfcGxhbgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>account</text>
+      </register>
+      <register name="1" type="4">
+        <text>-aggregation</text>
       </register>
       <register name="0" type="4">
         <text>stripe_plan</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PSAtPg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>update</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">LT4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGxvY2FsU3RvcmFnZS5zZXQgJ3VzZXInLCB1c2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSAkbG9jYWxTdG9yYWdlLmdldCAndXNlcicK</text>
+      <register name="9" type="4">
+        <text encoding="base64">PSAtPg==</text>
       </register>
       <register name="8" type="4">
-        <text>?</text>
+        <text>update</text>
       </register>
     </registers>
     <search>

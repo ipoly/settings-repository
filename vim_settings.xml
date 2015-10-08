@@ -1277,6 +1277,12 @@
         <mark key="." line="11" column="20" />
         <mark key="[" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/Repo/web/tests/unit/client/account/main.coffee" timestamp="1444305542920">
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="[" line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/card/card.coffee" timestamp="1421494370651">
         <mark key="]" line="1" column="35" />
         <mark key="^" line="1" column="35" />
@@ -2203,11 +2209,6 @@
         <mark key="." line="5" column="22" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/analysis/main.coffee" timestamp="1443166112049">
-        <mark key="'" line="123" column="18" />
-        <mark key="]" line="62" column="24" />
-        <mark key="[" line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/form/field/select-horizontal.jade" timestamp="1427195618609">
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="22" />
@@ -2506,12 +2507,6 @@
         <mark key="^" line="41" column="31" />
         <mark key="." line="41" column="31" />
         <mark key="[" line="40" column="18" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1443837905762">
-        <mark key="'" line="73" column="31" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/insurance/disability/main.coffee" timestamp="1439179989867">
         <mark key="]" line="5" column="7" />
@@ -3013,7 +3008,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>：</text>
+        <text>getJSONFixture('insurances.json')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50XD4=</text>
@@ -3030,8 +3025,8 @@
       <register name="1" type="4">
         <text>：</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cgc2VydmVycwo=</text>
+      <register name="0" type="4">
+        <text>getJSONFixture('insurances.json')</text>
       </register>
       <register name="7" type="4">
         <text>c</text>

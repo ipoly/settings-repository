@@ -1463,6 +1463,12 @@
         <mark key="." line="11" column="12" />
         <mark key="[" line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1444406427259">
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="125" column="25" />
+        <mark key="." line="126" column="0" />
+        <mark key="[" line="126" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/sessionStorageService.coffee" timestamp="1432611494914">
         <mark key="]" line="7" column="24" />
         <mark key="^" line="9" column="22" />
@@ -1895,9 +1901,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="11" />
         <mark key="[" line="0" column="11" />
-      </file>
-      <file name="/a.dummy" timestamp="1443668363089">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1443066006560">
         <mark key="]" line="19" column="10" />
@@ -3007,47 +3010,47 @@
       <jump line="73" column="31" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getJSONFixture('insurances.json')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvciAnQWNjb3VudCBtaXNzIGJhbGFuY2VzOiAnLCBhY2NvdW50IHVubGVzcyBhY2NvdW50LmJhbGFuY2VzWzBdCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50XD4=</text>
       </register>
       <register name="-" type="4">
-        <text>：</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">J+eUn+aIkCA=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">Jywg</text>
-      </register>
-      <register name="1" type="4">
-        <text>：</text>
-      </register>
-      <register name="0" type="4">
-        <text>getJSONFixture('insurances.json')</text>
-      </register>
-      <register name="7" type="4">
         <text>c</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVycm9yIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;./dict/#{key}.networkConnect&quot;</text>
+      <register name="2" type="4">
+        <text>c</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvciAnQWNjb3VudCBtaXNzIGJhbGFuY2VzOiAnLCBhY2NvdW50IHVubGVzcyBhY2NvdW50LmJhbGFuY2VzWzBdCg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IgJ0FjY291bnQgbWlzcyBiYWxhbmNlczogJywgYWNjb3VudCB1bmxlc3MgYWNjb3VudC5iYWxhbmNlc1swXQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
+        <text>, account</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJhbGFuY2UgPSBhY2NvdW50LmJhbGFuY2VzWzBdLmFtb3VudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyAxLGZpbGVuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgIkFjY291bnQgbWlzcyBiYWxhbmNlczogI3tKU09OLnN0cmluZ2lmeShhY2NvdW50KX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>console.error</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>(</text>
       </register>
     </registers>
     <search>

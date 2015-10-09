@@ -1071,7 +1071,10 @@
         <mark key="." line="1" column="54" />
         <mark key="[" line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1444362929120">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1444364598045">
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="7" />
         <mark key="[" line="42" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/jobs/build/task-jade.coffee" timestamp="1419243674721">
@@ -2420,11 +2423,11 @@
         <mark key="." line="211" column="18" />
         <mark key="[" line="210" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/less/tabs.less" timestamp="1437040630179">
-        <mark key="]" line="36" column="17" />
-        <mark key="^" line="36" column="16" />
-        <mark key="." line="36" column="17" />
-        <mark key="[" line="36" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/application/less/tabs.less" timestamp="1444364693560">
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="[" line="18" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/directives/buttons/btn-confirm/dialogs.less" timestamp="1421494933996">
         <mark key="]" line="43" column="18" />

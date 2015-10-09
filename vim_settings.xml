@@ -1747,12 +1747,12 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1444299557776">
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1444357707324">
         <mark key="'" line="31" column="24" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="85" column="34" />
-        <mark key="." line="39" column="7" />
-        <mark key="[" line="39" column="7" />
+        <mark key="]" line="66" column="8" />
+        <mark key="^" line="65" column="11" />
+        <mark key="." line="66" column="8" />
+        <mark key="[" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ngfplanner/web/src/client/dashboard/balance-sheet/main.jade" timestamp="1424156321089">
         <mark key="]" line="1" column="37" />
@@ -2960,46 +2960,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plan.</text>
+        <text>enabled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQbGFuc1w+</text>
       </register>
       <register name="-" type="4">
-        <text>plan.</text>
+        <text>enabled</text>
       </register>
       <register name="3" type="4">
         <text>!</text>
       </register>
       <register name="2" type="4">
-        <text>!</text>
+        <text>plan.</text>
       </register>
       <register name="1" type="4">
-        <text>plan.</text>
+        <text>enabled</text>
       </register>
       <register name="0" type="4">
         <text>#fb8c00</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>)</text>
+      </register>
+      <register name="4" type="4">
+        <text>!</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>getLinkAccountPermission</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
     <search>

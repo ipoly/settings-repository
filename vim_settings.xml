@@ -256,12 +256,11 @@
         <mark key="." line="3" column="34" />
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1444447055304">
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1444447886494">
         <mark key="'" line="35" column="27" />
-        <mark key="]" line="56" column="52" />
-        <mark key="^" line="56" column="52" />
-        <mark key="." line="56" column="52" />
-        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="[" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/client/insurance/main.coffee" timestamp="1422347494830">
         <mark key="]" line="3" column="12" />
@@ -1590,11 +1589,11 @@
         <mark key="." line="37" column="32" />
         <mark key="[" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1442234578174">
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="[" line="19" column="9" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444447940817">
+        <mark key="]" line="49" column="38" />
+        <mark key="^" line="49" column="38" />
+        <mark key="." line="49" column="38" />
+        <mark key="[" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/adviser/dashboard/overview/main.coffee" timestamp="1429269941460">
         <mark key="]" line="5" column="35" />
@@ -2998,46 +2997,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>404</text>
+        <text>urlRouterProvider</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw0MDRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>404</text>
+        <text>urlRouterProvider</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">UGFyYWdyYXBoOiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlIHtuYW1lOiAnZXhwaXJlZCcsIHVybDogJy9leHBpcmVkJywgdGVtcGxhdGVVcmw6ICcvY29tcG9uZW50L2V4cGlyZWQuaHRtbCcsIGNvbnRyb2xsZXI6IGZhbHNlfQo=</text>
       </register>
       <register name="2" type="4">
-        <text>404</text>
+        <text>/component</text>
       </register>
       <register name="1" type="4">
-        <text>404</text>
+        <text>urlRouterProvider</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlIHtuYW1lOiAnNDA0JywgdXJsOiAnLzQwNCcsIHRlbXBsYXRlVXJsOiAnL2NvbXBvbmVudC80MDQuaHRtbCcsIGNvbnRyb2xsZXI6IGZhbHNlfQo=</text>
+        <text encoding="base64">ICAnJHVybFJvdXRlclByb3ZpZGVyJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoMSBQYWdlIE5vdCBGb3VuZAo=</text>
       </register>
       <register name="6" type="4">
-        <text>The page you requested cannot be found.</text>
+        <text encoding="base64">UGFyYWdyYXBoOiA=</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>404</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBoMSBQYWdlIE5vdCBGb3VuZAo=</text>
+      <register name="4" type="4">
+        <text>404</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>when</text>
+        <text>The page you requested cannot be found.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd2hlbiAnY2xpZW50Jwo=</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
     </registers>
     <search>

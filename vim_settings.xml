@@ -129,12 +129,11 @@
         <mark key="." line="22" column="7" />
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1444447028101">
-        <mark key="'" line="24" column="35" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="51" column="45" />
-        <mark key="." line="52" column="0" />
-        <mark key="[" line="52" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1444449249746">
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="33" />
+        <mark key="[" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/print/main.jade" timestamp="1439179673717">
         <mark key="]" line="1" column="50" />
@@ -1589,7 +1588,7 @@
         <mark key="." line="37" column="32" />
         <mark key="[" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444447940817">
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444449127687">
         <mark key="]" line="49" column="38" />
         <mark key="^" line="49" column="38" />
         <mark key="." line="49" column="38" />
@@ -2997,46 +2996,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urlRouterProvider</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw0MDRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>urlRouterProvider</text>
+        <text>#</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLnN0YXRlIHtuYW1lOiAnZXhwaXJlZCcsIHVybDogJy9leHBpcmVkJywgdGVtcGxhdGVVcmw6ICcvY29tcG9uZW50L2V4cGlyZWQuaHRtbCcsIGNvbnRyb2xsZXI6IGZhbHNlfQo=</text>
+      <register name="3" type="4">
+        <text>=</text>
       </register>
       <register name="2" type="4">
-        <text>/component</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>urlRouterProvider</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAnJHVybFJvdXRlclByb3ZpZGVyJwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBoMSBQYWdlIE5vdCBGb3VuZAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">UGFyYWdyYXBoOiA=</text>
+        <text>/client/</text>
       </register>
       <register name="5" type="4">
-        <text>404</text>
+        <text>state</text>
       </register>
       <register name="4" type="4">
-        <text>404</text>
+        <text>hash</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>The page you requested cannot be found.</text>
+        <text>href</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>=</text>
       </register>
     </registers>
     <search>

@@ -1699,6 +1699,13 @@
         <mark key="." line="2" column="23" />
         <mark key="[" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/acls.coffee" timestamp="1444466567999">
+        <mark key="'" line="41" column="13" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="41" column="16" />
+        <mark key="[" line="41" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/_panel.jade" timestamp="1439276026729">
         <mark key="]" line="8" column="16" />
         <mark key="^" line="8" column="16" />
@@ -2869,10 +2876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="15" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" />
-      <jump line="35" column="15" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" />
-      <jump line="128" column="58" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.coffee" />
-      <jump line="52" column="91" filename="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/main.jade" />
       <jump line="23" column="63" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="21" column="8" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.coffee" />
       <jump line="121" column="7" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.coffee" />
@@ -2969,55 +2972,59 @@
       <jump line="34" column="25" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" />
       <jump line="24" column="35" filename="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" />
       <jump line="35" column="27" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="42" column="13" filename="$USER_HOME$/Documents/web/src/application/common/services/acls.coffee" />
+      <jump line="34" column="18" filename="$USER_HOME$/Documents/web/src/application/common/services/acls.coffee" />
+      <jump line="39" column="13" filename="$USER_HOME$/Documents/web/src/application/common/services/acls.coffee" />
+      <jump line="40" column="13" filename="$USER_HOME$/Documents/web/src/application/common/services/acls.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw0MDRcPg==</text>
+        <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>?</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ciB0ZDpmaXJzdC1jaGlsZCA+IGRpdiB7CiAgICBmb250LXdlaWdodCA6IDUwMDsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGRhdGEK</text>
       </register>
-      <register name="2" type="4">
-        <text>n</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYWRkaW5nICAgICAgICAgOiAyMHB4IDIwcHg7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIDo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0ciB0ZDpmaXJzdC1jaGlsZCA+IGRpdiB7CiAgICBmb250LXdlaWdodCA6IDUwMDsKICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpbnB1dCB7CiAgICB0ZXh0LXRyYW5zZm9ybSA6IHVwcGVyY2FzZTsKICAgIGZvbnQtd2VpZ2h0ICAgIDogNTAwOwogIH0K</text>
+      <register name="6" type="4">
+        <text>n</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID4gZGl2IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGRhdGEK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmcgOiAyMHB4OwogICAgbWFyZ2luICA6IC0yMHB4Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDIwcHg=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgID4gZGl2IAo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw0MDRcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw0MDRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -3025,7 +3032,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxiaWdcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
@@ -3045,6 +3051,7 @@
         <entry encoding="base64">XDxjdXJyZW5jeUZpbHRlclw+</entry>
         <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</entry>
         <entry encoding="base64">XDw0MDRcPg==</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

@@ -625,11 +625,11 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/account-list.less" timestamp="1442897265327">
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="[" line="26" column="21" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/account-list.less" timestamp="1444461792314">
+        <mark key="]" line="95" column="19" />
+        <mark key="^" line="95" column="19" />
+        <mark key="." line="95" column="19" />
+        <mark key="[" line="95" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/investment/main.coffee" timestamp="1420005414655">
         <mark key="]" line="4" column="35" />
@@ -2996,46 +2996,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IDIwcHg=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw0MDRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IDIwcHg=</text>
       </register>
-      <register name="3" type="4">
-        <text>=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nICAgICAgICAgOiAyMHB4IDIwcHg7CiAgICAgICAgcGFkZGluZy1yaWdodCAgIDogMDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmcgOiAyMHB4OwogICAgbWFyZ2luICA6IC0yMHB4Owo=</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text encoding="base64">IDIwcHg=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAnJHVybFJvdXRlclByb3ZpZGVyJwo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nICAgICAgICAgOiAyMHB4IDIwcHg7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
-      <register name="6" type="4">
-        <text>/client/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nCg==</text>
       </register>
       <register name="5" type="4">
-        <text>state</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="4" type="4">
-        <text>hash</text>
+        <text>20px 20px;</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>href</text>
+        <text>=</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

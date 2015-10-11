@@ -2341,12 +2341,12 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444554926694">
+      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444555618896">
         <mark key="'" line="23" column="13" />
-        <mark key="]" line="29" column="27" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="[" line="29" column="27" />
+        <mark key="]" line="46" column="20" />
+        <mark key="^" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="[" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
@@ -3063,22 +3063,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>\~</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
         <text>~</text>
       </register>
       <register name="2" type="4">
-        <text>~</text>
+        <text>3</text>
       </register>
       <register name="1" type="4">
-        <text>~</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5oaXN0b3JpY2FsQ29uZmlnID0gaGlzdG9yaWNhbC5jaGFydAo=</text>
@@ -3099,7 +3099,7 @@
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>^</text>
+        <text>~</text>
       </register>
       <register name="8" type="4">
         <text>~</text>

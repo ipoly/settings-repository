@@ -2165,8 +2165,8 @@
         <mark key="." line="167" column="24" />
         <mark key="[" line="167" column="23" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/less/home-page-icon.less" timestamp="1444554082424">
-        <mark key="[" line="8" column="23" />
+      <file name="$USER_HOME$/Repo/web/src/less/home-page-icon.less" timestamp="1444554885314">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/_yodlee-relink/main.jade" timestamp="1431594385159">
         <mark key="]" line="3" column="29" />
@@ -2341,11 +2341,12 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444554202785">
+      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444554926694">
         <mark key="'" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="[" line="23" column="13" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="[" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />

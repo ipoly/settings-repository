@@ -783,10 +783,6 @@
         <mark key="." line="3" column="42" />
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/common/directives/highcharts/high-area.coffee" timestamp="1443784354050">
-        <mark key="]" line="30" column="23" />
-        <mark key="[" line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/client/profile/accounts-goals/goals-panels/_card-panel-college.jade" timestamp="1421724357818">
         <mark key="]" line="89" column="45" />
         <mark key="^" line="67" column="29" />
@@ -805,19 +801,11 @@
         <mark key="." line="1" column="7" />
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/main.jade" timestamp="1443777539605">
-        <mark key="]" line="9" column="68" />
-        <mark key="[" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/setting/main.less" timestamp="1437040461128">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="88" column="15" />
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/main.coffee" timestamp="1443777639769">
-        <mark key="]" line="41" column="12" />
-        <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/accounts/panels/investment/main.less" timestamp="1434080443645">
         <mark key="]" line="13" column="28" />
@@ -1501,6 +1489,11 @@
         <mark key="." line="5" column="55" />
         <mark key="[" line="2" column="2" />
       </file>
+      <file name="$USER_HOME$/Repo/web/build/task-image.coffee" timestamp="1444560113469">
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1443088349086">
         <mark key="'" line="104" column="0" />
         <mark key="]" line="1" column="69" />
@@ -2125,10 +2118,6 @@
         <mark key="." line="1" column="29" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/adjustments.coffee" timestamp="1443171928000">
-        <mark key="]" line="115" column="53" />
-        <mark key="[" line="115" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/highcharts/donut.coffee" timestamp="1421140838875">
         <mark key="]" line="8" column="0" />
         <mark key="^" line="12" column="25" />
@@ -2341,10 +2330,10 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444557350171">
-        <mark key="]" line="67" column="3" />
-        <mark key="." line="67" column="3" />
-        <mark key="[" line="67" column="3" />
+      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444560118593">
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="[" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
@@ -3061,46 +3050,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>^</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIGNvbmZpZy5JU19TVEFHSU5HIG9yIGNvbmZpZy5JU19QUk9EVUNUSU9OCiAgICAgIGd1bHAuc3JjIGZpbGVzCiAgICAgIC5waXBlIHBsdWdpbnMucGx1bWJlcih7ZXJyb3JIYW5kbGVyOiBlcnJvckhhbmRsZXIoJ0lNQUdFJyl9KQogICAgICAucGlwZSBwbHVnaW5zLmltYWdlbWluKHByb2dyZXNzaXZlOiB0cnVlKQogICAgICAucGlwZSBndWxwLmRlc3QgZGVzdF9wYXRoCiAgICBlbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZW5naW5lcyI6IHsKICAgICJub2RlIjogIn4wLjEwLjI1IgogIH0K</text>
+        <text encoding="base64">ICAgIGlmIGNvbmZpZy5JU19TVEFHSU5HIG9yIGNvbmZpZy5JU19QUk9EVUNUSU9OCiAgICAgIGd1bHAuc3JjIGZpbGVzCiAgICAgIC5waXBlIHBsdWdpbnMucGx1bWJlcih7ZXJyb3JIYW5kbGVyOiBlcnJvckhhbmRsZXIoJ0lNQUdFJyl9KQogICAgICAucGlwZSBwbHVnaW5zLmltYWdlbWluKHByb2dyZXNzaXZlOiB0cnVlKQogICAgICAucGlwZSBndWxwLmRlc3QgZGVzdF9wYXRoCiAgICBlbHNlCg==</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5oaXN0b3JpY2FsQ29uZmlnID0gaGlzdG9yaWNhbC5jaGFydAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>^</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAiZW5naW5lcyI6IHsKICAgICJub2RlIjogIn4wLjEwLjI1IgogIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>^</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJndWxwLWltYWdlbWluIjogIl4yLjIuMSIsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>^</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIGNvbmZpZy5JU19TVEFHSU5HIG9yIGNvbmZpZy5JU19QUk9EVUNUSU9OCiAgICAgIGd1bHAuc3JjIGZpbGVzCiAgICAgIC5waXBlIHBsdWdpbnMucGx1bWJlcih7ZXJyb3JIYW5kbGVyOiBlcnJvckhhbmRsZXIoJ0lNQUdFJyl9KQogICAgICAucGlwZSBwbHVnaW5zLmltYWdlbWluKHByb2dyZXNzaXZlOiB0cnVlKQogICAgICAucGlwZSBndWxwLmRlc3QgZGVzdF9wYXRoCiAgICBlbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZW5naW5lcyI6IHsKICAgICJub2RlIjogIn4wLjEwLjI1IgogIH0K</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>^</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>^</text>
+        <text>,</text>
       </register>
     </registers>
     <search>

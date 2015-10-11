@@ -2341,12 +2341,11 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444555618896">
-        <mark key="'" line="23" column="13" />
-        <mark key="]" line="46" column="20" />
-        <mark key="^" line="46" column="20" />
-        <mark key="." line="46" column="20" />
-        <mark key="[" line="46" column="19" />
+      <file name="$USER_HOME$/Repo/web/package.json" timestamp="1444557350171">
+        <mark key="'" line="51" column="22" />
+        <mark key="]" line="64" column="3" />
+        <mark key="." line="64" column="3" />
+        <mark key="[" line="64" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/assets-and-liabilities/panels/insurances/panels/card-panel-whole-life.jade" timestamp="1439275975713">
         <mark key="]" line="0" column="27" />
@@ -2960,7 +2959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="27" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
       <jump line="29" column="6" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
       <jump line="30" column="13" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
       <jump line="32" column="8" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
@@ -3029,11 +3027,6 @@
       <jump line="40" column="19" filename="$USER_HOME$/Repo/web/package.json" />
       <jump line="42" column="24" filename="$USER_HOME$/Repo/web/package.json" />
       <jump line="45" column="26" filename="$USER_HOME$/Repo/web/package.json" />
-      <jump line="46" column="14" filename="$USER_HOME$/Repo/web/package.json" />
-      <jump line="47" column="30" filename="$USER_HOME$/Repo/web/package.json" />
-      <jump line="49" column="34" filename="$USER_HOME$/Repo/web/package.json" />
-      <jump line="50" column="23" filename="$USER_HOME$/Repo/web/package.json" />
-      <jump line="51" column="22" filename="$USER_HOME$/Repo/web/package.json" />
       <jump line="52" column="29" filename="$USER_HOME$/Repo/web/package.json" />
       <jump line="53" column="33" filename="$USER_HOME$/Repo/web/package.json" />
       <jump line="54" column="17" filename="$USER_HOME$/Repo/web/package.json" />
@@ -3060,55 +3053,61 @@
       <jump line="61" column="10" filename="$USER_HOME$/Repo/web/package.json" />
       <jump line="66" column="13" filename="$USER_HOME$/Repo/web/package.json" />
       <jump line="23" column="13" filename="$USER_HOME$/Repo/web/package.json" />
+      <jump line="46" column="14" filename="$USER_HOME$/Repo/web/package.json" />
+      <jump line="47" column="30" filename="$USER_HOME$/Repo/web/package.json" />
+      <jump line="48" column="18" filename="$USER_HOME$/Repo/web/package.json" />
+      <jump line="49" column="34" filename="$USER_HOME$/Repo/web/package.json" />
+      <jump line="50" column="23" filename="$USER_HOME$/Repo/web/package.json" />
+      <jump line="51" column="22" filename="$USER_HOME$/Repo/web/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>\~</text>
+        <text>\^</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>~</text>
+        <text>,</text>
       </register>
-      <register name="2" type="4">
-        <text>3</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAiZW5naW5lcyI6IHsKICAgICJub2RlIjogIn4wLjEwLjI1IgogIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5oaXN0b3JpY2FsQ29uZmlnID0gaGlzdG9yaWNhbC5jaGFydAo=</text>
       </register>
       <register name="7" type="4">
-        <text>~</text>
+        <text>^</text>
       </register>
       <register name="6" type="4">
-        <text>~</text>
+        <text>^</text>
       </register>
       <register name="5" type="4">
-        <text>~</text>
+        <text>^</text>
       </register>
-      <register name="4" type="4">
-        <text>~</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAiZW5naW5lcyI6IHsKICAgICJub2RlIjogIn4wLjEwLjI1IgogIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>~</text>
+        <text>^</text>
       </register>
       <register name="8" type="4">
-        <text>~</text>
+        <text>^</text>
       </register>
     </registers>
     <search>
-      <last-search>\~</last-search>
+      <last-search>\^</last-search>
       <last-offset />
-      <last-pattern>\~</last-pattern>
+      <last-pattern>\^</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -3133,9 +3132,9 @@
         <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxoaXN0b3JpY2FsQ2hhcnRJbml0XD4=</entry>
         <entry encoding="base64">XDwyXD4=</entry>
-        <entry>\^</entry>
         <entry>~</entry>
         <entry>\~</entry>
+        <entry>\^</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

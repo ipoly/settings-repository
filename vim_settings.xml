@@ -267,6 +267,11 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/_yodlee-relink/main.jade" timestamp="1442998436527">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/common/services/navigation.coffee" timestamp="1420095950477">
         <mark key="]" line="25" column="42" />
         <mark key="^" line="25" column="42" />
@@ -574,7 +579,6 @@
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/restrict.coffee" timestamp="1444472721347">
         <mark key="]" line="32" column="0" />
-        <mark key="^" line="29" column="48" />
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
       </file>
@@ -1263,6 +1267,11 @@
         <mark key="." line="0" column="16" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/retirement/stress-test/main.less" timestamp="1443435033505">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/client/common/services/Resource.coffee" timestamp="1421915412862">
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -1595,6 +1604,11 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
         <mark key="[" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/retirement/stress-test.coffee" timestamp="1443176722244">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/reset/input-reset.coffee" timestamp="1433836256424">
         <mark key="]" line="5" column="14" />
@@ -2039,6 +2053,11 @@
         <mark key="." line="188" column="16" />
         <mark key="[" line="188" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/web/vendor/angular/angular.js" timestamp="1442837161376">
+        <mark key="]" line="1072" column="0" />
+        <mark key="." line="1072" column="0" />
+        <mark key="[" line="1072" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/manual-positions/main.jade" timestamp="1441966970157">
         <mark key="]" line="64" column="64" />
         <mark key="^" line="0" column="0" />
@@ -2160,12 +2179,6 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1444471520452">
-        <mark key="'" line="107" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="[" line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/estate/main.less" timestamp="1442234616332">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="1" />
@@ -2231,6 +2244,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="[" line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/percentage.coffee" timestamp="1442577199839">
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="[" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/filters/date-format.coffee" timestamp="1444378707898">
         <mark key="]" line="5" column="6" />

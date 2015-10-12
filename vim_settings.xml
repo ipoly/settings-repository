@@ -9,11 +9,10 @@
         <mark key="." line="20" column="78" />
         <mark key="[" line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444640106517">
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-        <mark key="[" line="6" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444641356056">
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -27,56 +26,65 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1444641638499">
+        <mark key="]" line="73" column="4" />
+        <mark key="." line="73" column="4" />
+        <mark key="[" line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1444641484230">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444632620123">
         <mark key="]" line="24" column="7" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444640096521">
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="16" />
-        <mark key="[" line="1" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444641363054">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="3" type="4">
-        <text>()</text>
+        <text encoding="base64">bmFtZT0ndXBsb2FkY2FyZScsIA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>append</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzY3JpcHQoc3JjPSdodHRwczovL3VjYXJlY2RuLmNvbS93aWRnZXQvMi41LjUvdXBsb2FkY2FyZS91cGxvYWRjYXJlLm1pbi5qcycpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGF0dHJzLm5hbWUsIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzY3JpcHQoc3JjPSdodHRwczovL3VjYXJlY2RuLmNvbS93aWRnZXQvMi41LjUvdXBsb2FkY2FyZS91cGxvYWRjYXJlLm1pbi5qcycpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>append</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzY3JpcHQoc3JjPSdodHRwczovL3VjYXJlY2RuLmNvbS93aWRnZXQvMi41LjUvdXBsb2FkY2FyZS91cGxvYWRjYXJlLm1pbi5qcycpCg==</text>
       </register>
       <register name="0" type="4">
         <text>https://ucarecdn.com/widget/2.5.5/uploadcare/uploadcare.min.js</text>
       </register>
       <register name="7" type="4">
-        <text>uploadcare</text>
+        <text>append</text>
       </register>
-      <register name="6" type="4">
-        <text>uploadcare</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAjIGRpcmVjdGl2ZXMK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAnc2NyaXB0LWxvYWRlcicK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>-loader</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>()</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">JGF0dHJzLm5hbWUsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>append</text>
+        <text encoding="base64">bmFtZT0ndXBsb2FkY2FyZScsIA==</text>
       </register>
     </registers>
     <search>

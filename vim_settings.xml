@@ -9,11 +9,11 @@
         <mark key="." line="20" column="78" />
         <mark key="[" line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444646325087">
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="[" line="22" column="11" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444648118193">
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -27,11 +27,16 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1444643572829">
-        <mark key="]" line="59" column="33" />
-        <mark key="^" line="59" column="33" />
-        <mark key="." line="59" column="33" />
-        <mark key="[" line="58" column="50" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444649145427">
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="[" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1444648187093">
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="[" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1444641484230">
         <mark key="]" line="8" column="0" />
@@ -44,50 +49,50 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444646321408">
-        <mark key="]" line="8" column="61" />
-        <mark key="^" line="8" column="61" />
-        <mark key="." line="8" column="61" />
-        <mark key="[" line="8" column="60" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444649309798">
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="28" />
+        <mark key="[" line="13" column="28" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="3" type="4">
-        <text>uploadcare</text>
+        <text>.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>uploadcare</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>data-multiple</text>
+        <text>uploadcare</text>
       </register>
       <register name="1" type="4">
-        <text>uploadcare</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
-        <text>ng-click='uploadcare.openDialog'</text>
+        <text>https://ucarecdn.com/widget/2.5.5/uploadcare/uploadcare.min.js</text>
       </register>
-      <register name="7" type="4">
-        <text>button</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdsb2FkJwo=</text>
       </register>
       <register name="6" type="4">
-        <text>button</text>
+        <text>ng-click='uploadcare.openDialog()'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGEgPSB1cGxvYWRjYXJlLlNpbmdsZVdpZGdldCAnW3VwbG9hZGNhcmVdJwo=</text>
+      <register name="5" type="4">
+        <text>ng-click='uploadcare.openDialog()'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGEK</text>
+      <register name="4" type="4">
+        <text>uploadcare</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB8IFVQTE9BRENBUkVfUFVCTElDX0tFWSA9ICdkZW1vcHVibGlja2V5JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmNvbmZpZyAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
       </register>
       <register name="-" type="4">
-        <text>uploadcare</text>
+        <text>.</text>
       </register>
     </registers>
     <search>

@@ -9,10 +9,11 @@
         <mark key="." line="20" column="78" />
         <mark key="[" line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444645547629">
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444646325087">
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="[" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -43,47 +44,47 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444645555965">
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="[" line="8" column="42" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444646321408">
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+        <mark key="[" line="8" column="60" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGEgPSB1cGxvYWRjYXJlLlNpbmdsZVdpZGdldCAnW3VwbG9hZGNhcmVdJwo=</text>
+      <register name="3" type="4">
+        <text>uploadcare</text>
       </register>
       <register name="&quot;" type="4">
         <text>uploadcare</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGEK</text>
+      <register name="2" type="4">
+        <text>data-multiple</text>
       </register>
       <register name="1" type="4">
         <text>uploadcare</text>
       </register>
       <register name="0" type="4">
-        <text>uploadcare</text>
+        <text>ng-click='uploadcare.openDialog'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB8IFVQTE9BRENBUkVfUFVCTElDX0tFWSA9ICdkZW1vcHVibGlja2V5JzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LmNvbmZpZyAK</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>button</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>button</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGEgPSB1cGxvYWRjYXJlLlNpbmdsZVdpZGdldCAnW3VwbG9hZGNhcmVdJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB8IFVQTE9BRENBUkVfUFVCTElDX0tFWSA9ICdkZW1vcHVibGlja2V5JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
+        <text encoding="base64">LmNvbmZpZyAK</text>
       </register>
       <register name="-" type="4">
         <text>uploadcare</text>

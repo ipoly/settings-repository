@@ -9,11 +9,23 @@
         <mark key="." line="20" column="78" />
         <mark key="[" line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444632646520">
-        <mark key="]" line="26" column="14" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="14" />
-        <mark key="[" line="26" column="13" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444640106517">
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="[" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="6" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare-loader.coffee" timestamp="1444640001662">
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="5" column="27" />
+        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444632620123">
         <mark key="]" line="24" column="7" />
@@ -21,50 +33,50 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444633486770">
-        <mark key="]" line="13" column="55" />
-        <mark key="^" line="13" column="55" />
-        <mark key="." line="13" column="55" />
-        <mark key="[" line="13" column="49" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444640096521">
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="16" />
+        <mark key="[" line="1" column="16" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="3" type="4">
-        <text>Histol</text>
+        <text>()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>shared</text>
+        <text>append</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYgc2hhcmVkCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">JGF0dHJzLm5hbWUsIA==</text>
       </register>
       <register name="1" type="4">
-        <text>shared</text>
+        <text>append</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAudGV4dC1yaWdodAogICAgICAgICAgYnV0dG9uLmJ0bi5idG4tYWRkKCkgQWRkIGEgbmV3IGZpbGUgdG8gc2hhcmVkIGZvbGRlcgo=</text>
+      <register name="0" type="4">
+        <text>https://ucarecdn.com/widget/2.5.5/uploadcare/uploadcare.min.js</text>
       </register>
       <register name="7" type="4">
-        <text>success</text>
+        <text>uploadcare</text>
       </register>
       <register name="6" type="4">
-        <text>ri</text>
+        <text>uploadcare</text>
       </register>
       <register name="5" type="4">
-        <text>iwMy private filesc</text>
+        <text encoding="base64">Y29uc29sZS5sb2cg</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>clearfiwx</text>
+        <text>=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wdWxsLXJpZ2h0Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>shared</text>
+        <text>append</text>
       </register>
     </registers>
     <search>

@@ -9,11 +9,10 @@
         <mark key="." line="20" column="78" />
         <mark key="[" line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444644801168">
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="[" line="22" column="44" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444645547629">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -44,50 +43,50 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444643921379">
-        <mark key="]" line="13" column="10" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="[" line="13" column="10" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444645555965">
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="[" line="8" column="42" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">LmNvbmZpZyAK</text>
+        <text encoding="base64">ICAgIGEgPSB1cGxvYWRjYXJlLlNpbmdsZVdpZGdldCAnW3VwbG9hZGNhcmVdJwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>button</text>
+        <text>uploadcare</text>
       </register>
-      <register name="2" type="4">
-        <text>button</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGEK</text>
       </register>
       <register name="1" type="4">
-        <text>button</text>
+        <text>uploadcare</text>
       </register>
       <register name="0" type="4">
         <text>uploadcare</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB8IFVQTE9BRENBUkVfUFVCTElDX0tFWSA9ICdkZW1vcHVibGlja2V5JzsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzY3JpcHQoc3JjPSdodHRwczovL3VjYXJlY2RuLmNvbS93aWRnZXQvMi41LjUvdXBsb2FkY2FyZS91cGxvYWRjYXJlLm1pbi5qcycpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">LmNvbmZpZyAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="4">
+        <text>button</text>
+      </register>
+      <register name="4" type="4">
+        <text>button</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgPC9zY3JpcHQ+Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
+      </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>uploadcare</text>
       </register>
     </registers>
     <search>

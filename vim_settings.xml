@@ -21,50 +21,50 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444632597944">
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444633486770">
+        <mark key="]" line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="[" line="13" column="49" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="3" type="4">
-        <text>BalanceSheet</text>
+        <text>Histol</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Report</text>
+        <text>shared</text>
       </register>
-      <register name="2" type="4">
-        <text>report</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkaXYgc2hhcmVkCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Report</text>
+        <text>shared</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhKGhyZWY9Ii9jbGllbnQvcmVwb3J0IiwgbmctaWY9ImNsaWVudFBvcnRhbCAmJiBpc19hZHZpc29yIikgUmVwb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGV4dC1yaWdodAogICAgICAgICAgYnV0dG9uLmJ0bi5idG4tYWRkKCkgQWRkIGEgbmV3IGZpbGUgdG8gc2hhcmVkIGZvbGRlcgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhY3Rpb24taXRlbXMuZGV0YWlscwogICAgLnJvdyNkYXNoYm9hcmQtc3VtbWFyeQogICAgICAuY29sLXhzLTQKICAgICAgICBoNCBBc3NldAogICAgICAgIHRhYmxlLnRhYmxlCiAgICAgICAgICB0ci5ib3JkZXJlZAogICAgICAgICAgICB0aCBJbnZlc3RlZCBhc3NldAogICAgICAgICAgICB0ZCB7ezo6YXNzZXRzLmludmVzdG1lbnQgfCBjdXJyZW5jeX19CiAgICAgICAgICB0ci5ib3JkZXJlZAogICAgICAgICAgICB0aCBSZWFsIGVzdGF0ZSBhc3NldAogICAgICAgICAgICB0ZCB7ezo6YXNzZXRzLnJlYWxfZXN0YXRlIHwgY3VycmVuY3l9fQogICAgICAgICAgdHIuYm9yZGVyZWQKICAgICAgICAgICAgdGggTGlmZSBpbnN1cmFuY2UgY2FzaCB2YWx1ZQogICAgICAgICAgICB0ZCB7ezo6YXNzZXRzLmxpZmVfaW5zdXJhbmNlIHwgY3VycmVuY3l9fQogICAgICAgICAgdHIuYm9yZGVyZWQKICAgICAgICAgICAgdGggT3RoZXIgYXNzZXQKICAgICAgICAgICAgdGQge3s6OmFzc2V0cy5vdGhlcl9hc3NldCB8IGN1cnJlbmN5fX0KICAgICAgICAgIHRyLmJvcmRlcmVkLmZvbnQtYm9sZAogICAgICAgICAgICB0aChzdHlsZT0nZm9udC13ZWlnaHQ6IDUwMCcpIFRvdGFsIGFzc2V0CiAgICAgICAgICAgIHRkIHt7Ojphc3NldHMudG90YWxfYXNzZXQgfCBjdXJyZW5jeX19CiAgICAgIC5jb2wteHMtNAogICAgICAgIGg0IExpYWJpbGl0eQogICAgICAgIHRhYmxlLnRhYmxlCiAgICAgICAgICB0ci5ib3JkZXJlZAogICAgICAgICAgICB0aCBDcmVkaXQgY2FyZAogICAgICAgICAgICB0ZCB7ezo6bGlhYmlsaXRpZXMuY3JlZGl0X2NhcmQgfCBjdXJyZW5jeX19CiAgICAgICAgICB0ci5ib3JkZXJlZAogICAgICAgICAgICB0aCBNb3J0Z2FnZXMKICAgICAgICAgICAgdGQge3s6OmxpYWJpbGl0aWVzLm1vcnRnYWdlIHwgY3VycmVuY3l9fQogICAgICAgICAgdHIuYm9yZGVyZWQKICAgICAgICAgICAgdGggU3R1ZGVudCBsb2FuCiAgICAgICAgICAgIHRkIHt7OjpsaWFiaWxpdGllcy5zdHVkZW50IHwgY3VycmVuY3l9fQogICAgICAgICAgdHIuYm9yZGVyZWQKICAgICAgICAgICAgdGggT3RoZXIgZGVidAogICAgICAgICAgICB0ZCB7ezo6bGlhYmlsaXRpZXMub3RoZXIgfCBjdXJyZW5jeX19CiAgICAgICAgICB0ci5ib3JkZXJlZC5mb250LWJvbGQKICAgICAgICAgICAgdGgoc3R5bGU9J2ZvbnQtd2VpZ2h0OiA1MDAnKSBUb3RhbCBsaWFiaWxpdHkKICAgICAgICAgICAgdGQge3s6OmxpYWJpbGl0aWVzLnRvdGFsX2xpYWJpbGl0eSB8IGN1cnJlbmN5fX0KICAgICAgLmNvbC14cy0zCiAgICAgICAgaDQgTmV0IFdvcnRoCiAgICAgICAgdGFibGUudGFibGUKICAgICAgICAgIHRyLmJvcmRlcmVkLmZvbnQtYm9sZAogICAgICAgICAgICB0ZCB7ezo6bmV0d29ydGggfCBjdXJyZW5jeX19Cg==</text>
+      <register name="7" type="4">
+        <text>success</text>
       </register>
       <register name="6" type="4">
-        <text>balance-sheet</text>
+        <text>ri</text>
       </register>
       <register name="5" type="4">
-        <text>dashboard.</text>
+        <text>iwMy private filesc</text>
       </register>
       <register name="4" type="4">
-        <text>balance-sheet</text>
+        <text>a</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAudGV4dC1yaWdodChzdHlsZT0nbWFyZ2luLWJvdHRvbTotMzRweDtwb3NpdGlvbjpyZWxhdGl2ZTt6LWluZGV4OjE7JykKICAgICAgICAgIHNlbGVjdC5mb3JtLWNvbnRyb2woCiAgICAgICAgICBzdHlsZT0nZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6YXV0bycKICAgICAgICAgIG5nLW1vZGVsPSdjYXRlZ29yeScKICAgICAgICAgIG5nLW9wdGlvbnM9J2l0ZW0ubmFtZSBmb3IgaXRlbSBpbiBoaXN0b3JpY2FsQ2F0ZWdvcmllcycKICAgICAgICAgIG5nLWNoYW5nZT0nc2VsZWN0KGNhdGVnb3J5KScKICAgICAgICAgICkKICAgICAgICBoaWdoLWFyZWEoY29uZmlnPSdoaXN0b3JpY2FsQ29uZmlnJywgY2hhcnQtdGl0bGU9J0hpc3RvcmljYWwge3tjYXRlZ29yeS5uYW1lfX0nLCBjaGFydC1pbml0PSdoaXN0b3JpY2FsQ2hhcnRJbml0KGNoYXJ0KScsIGxvYWRpbmc9J2xvYWRpbmcnKQo=</text>
+      <register name="9" type="4">
+        <text>clearfiwx</text>
       </register>
-      <register name="8" type="4">
-        <text>(ng-if='inReport || active==2')</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5wdWxsLXJpZ2h0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Report</text>
+        <text>shared</text>
       </register>
     </registers>
     <search>

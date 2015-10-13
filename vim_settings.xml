@@ -3,16 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1444632777466">
-        <mark key="]" line="20" column="78" />
-        <mark key="^" line="20" column="78" />
-        <mark key="." line="20" column="78" />
-        <mark key="[" line="20" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444720319241">
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444732174826">
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="[" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -20,30 +15,38 @@
         <mark key="." line="10" column="6" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare-loader.coffee" timestamp="1444640001662">
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="5" column="27" />
-        <mark key="[" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444730062350">
-        <mark key="'" line="38" column="20" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="[" line="50" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1444720644119">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444733899263">
+        <mark key="'" line="39" column="20" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="55" column="41" />
+        <mark key="." line="56" column="0" />
+        <mark key="[" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1444648187093">
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="[" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1444641484230">
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
+      <file name="/a.dummy" timestamp="1444734645647">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" timestamp="1444734855558">
+        <mark key="]" line="107" column="26" />
+        <mark key="^" line="107" column="26" />
+        <mark key="." line="107" column="26" />
+        <mark key="[" line="107" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1444632777466">
+        <mark key="]" line="20" column="78" />
+        <mark key="^" line="20" column="78" />
+        <mark key="." line="20" column="78" />
+        <mark key="[" line="20" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare-loader.coffee" timestamp="1444640001662">
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="5" column="27" />
+        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444632620123">
         <mark key="]" line="24" column="7" />
@@ -51,12 +54,22 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444727724621">
+      <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1444641484230">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444732191119">
         <mark key="'" line="15" column="58" />
-        <mark key="]" line="9" column="87" />
-        <mark key="^" line="14" column="91" />
-        <mark key="." line="9" column="87" />
-        <mark key="[" line="9" column="87" />
+        <mark key="]" line="15" column="129" />
+        <mark key="^" line="15" column="129" />
+        <mark key="." line="15" column="129" />
+        <mark key="[" line="15" column="120" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444734754051">
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -69,52 +82,54 @@
       <jump line="42" column="33" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
       <jump line="15" column="58" filename="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" />
       <jump line="36" column="20" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
+      <jump line="122" column="24" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
+      <jump line="113" column="26" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>at client page can get</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnZhbGlkXD4=</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>.name, result.files?()</text>
+        <text>at client page can get</text>
       </register>
       <register name="3" type="4">
-        <text>.name, result.files?()</text>
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Lm5hbWUsIHJlc3VsdC5maWxlcz8oKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Cg==</text>
+      <register name="1" type="4">
+        <text>at client page can get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Lm5hbWUsIHJlc3VsdC5maWxlcz8oKQo=</text>
+      <register name="0" type="4">
+        <text>Households.current()</text>
       </register>
       <register name="7" type="4">
-        <text>, data-multiple</text>
+        <text>household</text>
       </register>
-      <register name="6" type="4">
-        <text>data-</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaG91c2Vob2xkID0ge30KICAgICAgaG91c2Vob2xkCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>data-</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgTm90aWNlOgo=</text>
       </register>
       <register name="4" type="4">
-        <text>, data-multiple</text>
+        <text>-</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSB7e3Byb2dyZXNzMX19Cg==</text>
+        <text encoding="base64">ICAgICAgaG91c2Vob2xkLiRwcm9taXNlID0gaG91c2Vob2xkcy4kcHJvbWlzZS50aGVuIC0+CiAgICAgICAgUGxhbnMuJHByb21pc2UudGhlbiAocGxhbnMpIC0+CiAgICAgICAgICBkYXRhID0gXy5maW5kKGhvdXNlaG9sZHMsIGlkOiBwbGFuc1swXS5ob3VzZWhvbGRfaWQpCiAgICAgICAgICBhbmd1bGFyLmZvckVhY2ggZGF0YSwgKHZhbHVlLCBrZXkpIC0+CiAgICAgICAgICAgIGhvdXNlaG9sZFtrZXldID0gdmFsdWUK</text>
       </register>
       <register name="8" type="4">
-        <text>, data-multiple</text>
+        <text>household</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnZhbGlkXD4=</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnZhbGlkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -124,6 +139,7 @@
         <entry encoding="base64">XDx1cGxvYWRQcm9ncmVzc1w+</entry>
         <entry encoding="base64">XDxwcm9ncmVzc1w+</entry>
         <entry encoding="base64">XDxpbnZhbGlkXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

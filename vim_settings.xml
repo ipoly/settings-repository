@@ -26,12 +26,11 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444728068366">
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444730062350">
         <mark key="'" line="38" column="20" />
-        <mark key="]" line="51" column="30" />
-        <mark key="^" line="50" column="50" />
-        <mark key="." line="51" column="30" />
-        <mark key="[" line="51" column="30" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="[" line="50" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1444720644119">
         <mark key="[" line="0" column="0" />
@@ -72,8 +71,8 @@
       <jump line="36" column="20" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.name, result.files?()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnZhbGlkXD4=</text>
@@ -82,34 +81,34 @@
         <text>.name, result.files?()</text>
       </register>
       <register name="3" type="4">
-        <text>data-</text>
-      </register>
-      <register name="2" type="4">
-        <text>, data-multiple</text>
-      </register>
-      <register name="1" type="4">
         <text>.name, result.files?()</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Lm5hbWUsIHJlc3VsdC5maWxlcz8oKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Lm5hbWUsIHJlc3VsdC5maWxlcz8oKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSB7e3Byb2dyZXNzMX19Cg==</text>
+      <register name="7" type="4">
+        <text>, data-multiple</text>
       </register>
       <register name="6" type="4">
-        <text>, data-multiple</text>
-      </register>
-      <register name="5" type="4">
-        <text>, data-multiple</text>
-      </register>
-      <register name="4" type="4">
         <text>data-</text>
       </register>
-      <register name="9" type="4">
-        <text>console</text>
+      <register name="5" type="4">
+        <text>data-</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZSB7e3Byb2dyZXNzfX0K</text>
+      <register name="4" type="4">
+        <text>, data-multiple</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByZSB7e3Byb2dyZXNzMX19Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>, data-multiple</text>
       </register>
     </registers>
     <search>

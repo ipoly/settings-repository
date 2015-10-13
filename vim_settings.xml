@@ -9,12 +9,6 @@
         <mark key="." line="20" column="78" />
         <mark key="[" line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444648118193">
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
         <mark key="^" line="10" column="19" />
@@ -27,11 +21,12 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444704141106">
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="[" line="18" column="50" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444709011548">
+        <mark key="'" line="7" column="12" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="70" />
+        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1444648187093">
         <mark key="]" line="57" column="0" />
@@ -49,58 +44,70 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444649309798">
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="13" column="28" />
-        <mark key="[" line="13" column="28" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444708556407">
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+        <mark key="[" line="8" column="39" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="18" column="19" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
+      <jump line="5" column="4" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
+      <jump line="7" column="12" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
+    </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>uploadcare</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc2V0dGluZwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="0" type="4">
-        <text>https://ucarecdn.com/widget/2.5.5/uploadcare/uploadcare.min.js</text>
-      </register>
-      <register name="7" type="4">
-        <text>ng-click='uploadcare.openDialog()'</text>
-      </register>
-      <register name="6" type="4">
-        <text>ng-click='uploadcare.openDialog()'</text>
-      </register>
-      <register name="5" type="4">
-        <text>uploadcare</text>
-      </register>
-      <register name="4" type="4">
-        <text>.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdsb2FkJwo=</text>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzY29wZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>e</text>
+      </register>
+      <register name="3" type="4">
+        <text>s</text>
+      </register>
+      <register name="2" type="4">
+        <text>e</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc2V0dGluZwo=</text>
+      </register>
+      <register name="0" type="4">
+        <text>$attrs.$attr</text>
+      </register>
+      <register name="7" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">c2V0dGluZywg</text>
+      </register>
+      <register name="5" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>u</text>
+      </register>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxzY29wZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzY29wZVw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxzY29wZVw+</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />

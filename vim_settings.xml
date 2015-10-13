@@ -21,12 +21,12 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444709011548">
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444718682291">
         <mark key="'" line="7" column="12" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="70" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="42" />
+        <mark key="." line="28" column="14" />
+        <mark key="[" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1444648187093">
         <mark key="]" line="57" column="0" />
@@ -58,43 +58,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc2V0dGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAnY2xhc3MnCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY29wZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>[]</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc2V0dGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAnY2xhc3MnCg==</text>
       </register>
       <register name="0" type="4">
         <text>$attrs.$attr</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc2V0dGluZwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c2V0dGluZywg</text>
+        <text>?</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'uploadcare', 'class'</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
     </registers>
     <search>

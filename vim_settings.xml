@@ -26,12 +26,12 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444722865299">
-        <mark key="'" line="42" column="33" />
-        <mark key="]" line="47" column="16" />
-        <mark key="^" line="41" column="26" />
-        <mark key="." line="47" column="16" />
-        <mark key="[" line="47" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444728068366">
+        <mark key="'" line="38" column="20" />
+        <mark key="]" line="51" column="30" />
+        <mark key="^" line="50" column="50" />
+        <mark key="." line="51" column="30" />
+        <mark key="[" line="51" column="30" />
       </file>
       <file name="/a.dummy" timestamp="1444720644119">
         <mark key="[" line="0" column="0" />
@@ -52,10 +52,12 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444722891434">
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444727724621">
+        <mark key="'" line="15" column="58" />
+        <mark key="]" line="9" column="87" />
+        <mark key="^" line="14" column="91" />
+        <mark key="." line="9" column="87" />
+        <mark key="[" line="9" column="87" />
       </file>
     </filemarks>
     <jumps>
@@ -66,52 +68,54 @@
       <jump line="28" column="9" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
       <jump line="41" column="52" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
       <jump line="42" column="33" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
+      <jump line="15" column="58" filename="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" />
+      <jump line="36" column="20" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmUge3twcm9ncmVzc319Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.name, result.files?()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRQcm9ncmVzc1w+</text>
+        <text encoding="base64">XDxpbnZhbGlkXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>.name, result.files?()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGF0dHJzLiRzZXQgJ2Rpc2FibGVkJywgdHJ1ZQo=</text>
+      <register name="3" type="4">
+        <text>data-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkYXR0cnMuJHNldCAnZGlzYWJsZWQnLCBmYWxzZQo=</text>
+      <register name="2" type="4">
+        <text>, data-multiple</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmUge3twcm9ncmVzc319Cg==</text>
+      <register name="1" type="4">
+        <text>.name, result.files?()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUuJGRpZ2VzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgcmVzdWx0Lm5hbWUsIHJlc3VsdC5maWxlcz8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHByZSB7e3Byb2dyZXNzMX19Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLiRkaWdlc3QoKQo=</text>
+      <register name="6" type="4">
+        <text>, data-multiple</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUuJGFwcGx5IC0+Cg==</text>
+      <register name="5" type="4">
+        <text>, data-multiple</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUuJGFwcGx5IC0+Cg==</text>
+      <register name="4" type="4">
+        <text>data-</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
+      <register name="9" type="4">
+        <text>console</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLiRhcHBseSAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByZSB7e3Byb2dyZXNzfX0K</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRQcm9ncmVzc1w+</last-search>
+      <last-search encoding="base64">XDxpbnZhbGlkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRQcm9ncmVzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxpbnZhbGlkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -119,6 +123,8 @@
       <history-search>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry encoding="base64">XDx1cGxvYWRQcm9ncmVzc1w+</entry>
+        <entry encoding="base64">XDxwcm9ncmVzc1w+</entry>
+        <entry encoding="base64">XDxpbnZhbGlkXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

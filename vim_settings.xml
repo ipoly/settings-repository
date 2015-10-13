@@ -27,11 +27,11 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444649145427">
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="[" line="18" column="31" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444704141106">
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="[" line="18" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/_layout.jade" timestamp="1444648187093">
         <mark key="]" line="57" column="0" />
@@ -59,37 +59,37 @@
     <jumps />
     <registers>
       <register name="3" type="4">
-        <text>.</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
-      </register>
-      <register name="2" type="4">
         <text>uploadcare</text>
       </register>
-      <register name="1" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>.</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="4">
         <text>https://ucarecdn.com/widget/2.5.5/uploadcare/uploadcare.min.js</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdsb2FkJwo=</text>
+      <register name="7" type="4">
+        <text>ng-click='uploadcare.openDialog()'</text>
       </register>
       <register name="6" type="4">
         <text>ng-click='uploadcare.openDialog()'</text>
       </register>
       <register name="5" type="4">
-        <text>ng-click='uploadcare.openDialog()'</text>
-      </register>
-      <register name="4" type="4">
         <text>uploadcare</text>
       </register>
+      <register name="4" type="4">
+        <text>.</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdsb2FkJwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>

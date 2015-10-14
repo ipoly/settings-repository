@@ -60,18 +60,18 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444798201435">
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444809120882">
         <mark key="'" line="29" column="58" />
-        <mark key="]" line="23" column="61" />
-        <mark key="^" line="23" column="61" />
-        <mark key="." line="23" column="61" />
-        <mark key="[" line="23" column="61" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="[" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444798316486">
-        <mark key="]" line="28" column="6" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444809064467">
+        <mark key="]" line="22" column="16" />
         <mark key="^" line="27" column="26" />
-        <mark key="." line="28" column="8" />
-        <mark key="[" line="28" column="6" />
+        <mark key="." line="22" column="16" />
+        <mark key="[" line="22" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -89,43 +89,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>document</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
         <text>document</text>
       </register>
-      <register name="2" type="4">
-        <text>document</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudHMudW5zaGlmdCBkb2MK</text>
       </register>
       <register name="1" type="4">
-        <text>document</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5idG4uYnRuLXN1Y2Nlc3MgRWRpdAo=</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>x</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="4" type="4">
         <text>push</text>
       </register>
+      <register name="5" type="4">
+        <text>document</text>
+      </register>
+      <register name="4" type="4">
+        <text>document</text>
+      </register>
       <register name="9" type="4">
-        <text>Edit</text>
+        <text>x</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>x</text>
       </register>
     </registers>
     <search>

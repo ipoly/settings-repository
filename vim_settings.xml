@@ -66,10 +66,10 @@
         <mark key="." line="15" column="129" />
         <mark key="[" line="15" column="120" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444734754051">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444792322593">
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -86,8 +86,8 @@
       <jump line="113" column="26" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>at client page can get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgSG91c2Vob2xkcy5jdXJyZW50Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -96,31 +96,31 @@
         <text>at client page can get</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>at client page can get</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgSG91c2Vob2xkcy5jdXJyZW50Cg==</text>
       </register>
       <register name="0" type="4">
         <text>Households.current()</text>
       </register>
-      <register name="7" type="4">
-        <text>household</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaG91c2Vob2xkID0ge30KICAgICAgaG91c2Vob2xkCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMgTm90aWNlOgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>-</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaG91c2Vob2xkLiRwcm9taXNlID0gaG91c2Vob2xkcy4kcHJvbWlzZS50aGVuIC0+CiAgICAgICAgUGxhbnMuJHByb21pc2UudGhlbiAocGxhbnMpIC0+CiAgICAgICAgICBkYXRhID0gXy5maW5kKGhvdXNlaG9sZHMsIGlkOiBwbGFuc1swXS5ob3VzZWhvbGRfaWQpCiAgICAgICAgICBhbmd1bGFyLmZvckVhY2ggZGF0YSwgKHZhbHVlLCBrZXkpIC0+CiAgICAgICAgICAgIGhvdXNlaG9sZFtrZXldID0gdmFsdWUK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>household</text>
       </register>
       <register name="8" type="4">
         <text>household</text>

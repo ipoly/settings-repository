@@ -59,12 +59,12 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444732191119">
-        <mark key="'" line="15" column="58" />
-        <mark key="]" line="15" column="129" />
-        <mark key="^" line="15" column="129" />
-        <mark key="." line="15" column="129" />
-        <mark key="[" line="15" column="120" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444793751091">
+        <mark key="'" line="24" column="58" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="[" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444792322593">
         <mark key="]" line="14" column="0" />
@@ -86,44 +86,44 @@
       <jump line="113" column="26" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgSG91c2Vob2xkcy5jdXJyZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>at client page can get</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
-        <text>at client page can get</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgSG91c2Vob2xkcy5jdXJyZW50Cg==</text>
-      </register>
-      <register name="0" type="4">
-        <text>Households.current()</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaG91c2Vob2xkID0ge30KICAgICAgaG91c2Vob2xkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgTm90aWNlOgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>-</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="9" type="4">
-        <text>household</text>
+      <register name="2" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>/</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0ZCB7e319Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>at client page can get</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgSG91c2Vob2xkcy5jdXJyZW50Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgTm90aWNlOgo=</text>
       </register>
       <register name="8" type="4">
-        <text>household</text>
+        <text>-</text>
       </register>
     </registers>
     <search>

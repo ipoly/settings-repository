@@ -27,8 +27,9 @@
         <mark key="." line="57" column="0" />
         <mark key="[" line="57" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1444734645647">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1444795779589">
+        <mark key="]" line="129" column="49" />
+        <mark key="[" line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" timestamp="1444734855558">
         <mark key="]" line="107" column="26" />
@@ -59,17 +60,18 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444793751091">
-        <mark key="'" line="24" column="58" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="[" line="18" column="18" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444796142001">
+        <mark key="'" line="25" column="58" />
+        <mark key="]" line="18" column="47" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+        <mark key="[" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444792322593">
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444796179441">
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="[" line="32" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -86,44 +88,44 @@
       <jump line="113" column="26" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuICcnIHVubGVzcyBmaWxlbmFtZQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>name</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwgdW5sZXNzIGZpbGVuYW1lCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>name</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuICcnIHVubGVzcyBmaWxlbmFtZQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0ZCB7e319Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYXZlbj8uY2FwdHVyZUV4Y2VwdGlvbiAnQWNjb3VudCBtaXNzaW5nIGJhbGFuY2VzJywKICAgICAgICAgIGV4Y2VwdGlvbjoKICAgICAgICAgICAgdHlwZTogJ0RhdGEgZXJyb3InCiAgICAgICAgICAgIHZhbHVlOiBKU09OLnN0cmluZ2lmeSBhY2NvdW50LCBudWxsLCAyCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Data error</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>JSON.stringify account, null, 2</text>
       </register>
-      <register name="5" type="4">
-        <text>at client page can get</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGpqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgSG91c2Vob2xkcy5jdXJyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGpqCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgTm90aWNlOgo=</text>
+      <register name="9" type="4">
+        <text>postfix</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>Account missing balances</text>
       </register>
     </registers>
     <search>

@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444732174826">
-        <mark key="]" line="23" column="31" />
-        <mark key="^" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="[" line="22" column="24" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444797705250">
+        <mark key="]" line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="[" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -60,18 +60,18 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444796142001">
-        <mark key="'" line="25" column="58" />
-        <mark key="]" line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-        <mark key="[" line="18" column="40" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444798201435">
+        <mark key="'" line="29" column="58" />
+        <mark key="]" line="23" column="61" />
+        <mark key="^" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+        <mark key="[" line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444796179441">
-        <mark key="]" line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-        <mark key="[" line="32" column="33" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444798316486">
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="28" column="8" />
+        <mark key="[" line="28" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -88,44 +88,44 @@
       <jump line="113" column="26" filename="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICcnIHVubGVzcyBmaWxlbmFtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>document</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>document</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwgdW5sZXNzIGZpbGVuYW1lCg==</text>
+      <register name="3" type="4">
+        <text>document</text>
       </register>
       <register name="2" type="4">
-        <text>name</text>
+        <text>document</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICcnIHVubGVzcyBmaWxlbmFtZQo=</text>
+      <register name="1" type="4">
+        <text>document</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSYXZlbj8uY2FwdHVyZUV4Y2VwdGlvbiAnQWNjb3VudCBtaXNzaW5nIGJhbGFuY2VzJywKICAgICAgICAgIGV4Y2VwdGlvbjoKICAgICAgICAgICAgdHlwZTogJ0RhdGEgZXJyb3InCiAgICAgICAgICAgIHZhbHVlOiBKU09OLnN0cmluZ2lmeSBhY2NvdW50LCBudWxsLCAyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5idG4uYnRuLXN1Y2Nlc3MgRWRpdAo=</text>
       </register>
       <register name="7" type="4">
-        <text>Data error</text>
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>JSON.stringify account, null, 2</text>
+        <text>x</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGpqCg==</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGpqCg==</text>
+      <register name="4" type="4">
+        <text>push</text>
       </register>
       <register name="9" type="4">
-        <text>postfix</text>
+        <text>Edit</text>
       </register>
       <register name="8" type="4">
-        <text>Account missing balances</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>

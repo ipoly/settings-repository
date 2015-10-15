@@ -10,8 +10,16 @@
         <mark key="[" line="39" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1444810773174" />
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1444899642916">
-        <mark key="]" line="129" column="50" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/raven.coffee" timestamp="1444902275102">
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="[" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1444902428055">
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="128" column="62" />
+        <mark key="." line="129" column="0" />
         <mark key="[" line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" timestamp="1444806905438">
@@ -47,11 +55,11 @@
         <mark key="." line="0" column="10" />
         <mark key="[" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444900392170">
-        <mark key="]" line="27" column="16" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="27" column="16" />
-        <mark key="[" line="27" column="14" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444902057590">
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="9" column="38" />
+        <mark key="[" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -65,12 +73,12 @@
         <mark key="." line="43" column="22" />
         <mark key="[" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444900425749">
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444902380885">
         <mark key="'" line="42" column="20" />
-        <mark key="]" line="73" column="16" />
-        <mark key="^" line="65" column="30" />
-        <mark key="." line="73" column="16" />
-        <mark key="[" line="73" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="71" column="52" />
+        <mark key="." line="72" column="0" />
+        <mark key="[" line="72" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1444812826696">
         <mark key="[" line="0" column="0" />
@@ -122,44 +130,44 @@
       <jump line="24" column="19" filename="$USER_HOME$/Documents/web/src/application/client/vault/main.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBSYXZlbj8uY2FwdHVyZUV4Y2VwdGlvbiAsCiAgICAgICAgICBleGNlcHRpb246CiAgICAgICAgICAgIHR5cGU6IAogICAgICAgICAgICB2YWx1ZTogSlNPTi5zdHJpbmdpZnkgYWNjb3VudCwgbnVsbCwgMgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNhYmxlZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>'Data error'</text>
       </register>
       <register name="3" type="4">
-        <text>null</text>
+        <text>'Account missing balances'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS4kYXBwbHkgLT4K</text>
+      <register name="2" type="4">
+        <text>'Data error'</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBSYXZlbj8uY2FwdHVyZUV4Y2VwdGlvbiAsCiAgICAgICAgICBleGNlcHRpb246CiAgICAgICAgICAgIHR5cGU6IAogICAgICAgICAgICB2YWx1ZTogSlNPTi5zdHJpbmdpZnkgYWNjb3VudCwgbnVsbCwgMgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDExMTExMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhdmVuICdGZXRjaCBmcm9tIHVwbG9hZCBjYXJlIGZhaWwnLCAnU2VydmVyIGVycm9yJywgcmVqCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IG9yIGVycm9y</text>
+        <text>'Server error'</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDExMTExMSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJhdmVuPy5jYXB0dXJlRXhjZXB0aW9uICwKICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgIHR5cGU6IAogICAgICAgICAgICAgICAgICAgIHZhbHVlOiBKU09OLnN0cmluZ2lmeSByZWosIG51bGwsIDIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIDExMTExMQo=</text>
+      <register name="5" type="4">
+        <text>'Uploadcare error'</text>
       </register>
-      <register name="4" type="4">
-        <text>111111</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJhdmVuPy5jYXB0dXJlRXhjZXB0aW9uICwKICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgIHR5cGU6IGVycm9yCiAgICAgICAgICAgICAgICAgICAgdmFsdWU6IEpTT04uc3RyaW5naWZ5IGluZm8sIG51bGwsIDIK</text>
       </register>
       <register name="9" type="4">
-        <text>defaultErrors[error] or error</text>
+        <text>$http</text>
       </register>
       <register name="8" type="4">
-        <text>error</text>
+        <text>'Fetch from upload care fail'</text>
       </register>
     </registers>
     <search>

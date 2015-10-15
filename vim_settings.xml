@@ -60,11 +60,11 @@
         <mark key="." line="0" column="10" />
         <mark key="[" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444877751382">
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="[" line="19" column="43" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1444894762263">
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="20" />
+        <mark key="[" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -72,12 +72,12 @@
         <mark key="." line="10" column="6" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444893071455">
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" timestamp="1444894783110">
         <mark key="'" line="42" column="20" />
-        <mark key="]" line="64" column="32" />
-        <mark key="^" line="64" column="32" />
-        <mark key="." line="64" column="32" />
-        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="25" />
+        <mark key="^" line="63" column="25" />
+        <mark key="." line="63" column="25" />
+        <mark key="[" line="63" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1444812826696">
         <mark key="[" line="0" column="0" />
@@ -112,43 +112,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>11111</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNhYmxlZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>11111</text>
       </register>
-      <register name="3" type="4">
-        <text>text</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIC5hbGVydC5hbGVydC1kYW5nZXIge3t1cGxvYWRFcnJvcn19Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>true</text>
+      </register>
+      <register name="1" type="4">
+        <text>11111</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGF0dHJzLiRzZXQgJ2Rpc2FibGVkJywgdHJ1ZQo=</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
-      </register>
-      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>alert</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(ng-if='uploadError')</text>
       </register>
+      <register name="4" type="4">
+        <text>text</text>
+      </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
     </registers>
     <search>

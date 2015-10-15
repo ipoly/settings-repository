@@ -56,23 +56,22 @@
         <mark key="." line="16" column="10" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.less" timestamp="1444879532062">
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.less" timestamp="1444880875851">
         <mark key="'" line="24" column="19" />
-        <mark key="]" line="37" column="30" />
-        <mark key="^" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="[" line="35" column="23" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1444641484230">
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444879404196">
-        <mark key="]" line="49" column="53" />
-        <mark key="^" line="49" column="53" />
-        <mark key="." line="49" column="53" />
-        <mark key="[" line="49" column="53" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444880970587">
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/less/buttons/btn-refresh.less" timestamp="1444816071951">
         <mark key="]" line="0" column="10" />
@@ -111,43 +110,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5mYS5mYS1jaXJjbGUtby1ub3RjaC5mYS1zcGluCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNhYmxlZFw+</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>span</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5IDogaW5saW5lLWJsb2NrOwo=</text>
+      <register name="2" type="4">
+        <text>span</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5mYS5mYS1jaXJjbGUtby1ub3RjaC5mYS1zcGluCg==</text>
       </register>
       <register name="0" type="4">
         <text>circle-o-notch</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogJ1dhdGluZy4uLicKICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICY6YmVmb3JlIHsKICAgICAgICAgICAgY29udGVudDogJ1dhdGluZy4uLicKICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAmLmxvYWRpbmcgewogICAgICAgICAgJjpiZWZvcmUgewogICAgICAgICAgICBjb250ZW50OiAnV2F0aW5nLi4uJwogICAgICAgICAgfQogICAgICAgICAgPiAqIHsKICAgICAgICAgICAgZGlzcGxheSA6IG5vbmUhaW1wb3J0YW50OwogICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>(ng-if='document.loading')</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGQ6bGFzdC1jaGlsZCA+ICogewogICAgICAgIGRpc3BsYXkgOiBpbmxpbmUtYmxvY2s7CiAgICAgIH0K</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJjpiZWZvcmUgewogICAgICAgICAgICAgIGNvbnRlbnQ6ICdXYXRpbmcuLi4nCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>

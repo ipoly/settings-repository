@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1444968182869">
+        <mark key="'" line="9" column="3" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="[" line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444961619421">
         <mark key="]" line="26" column="16" />
         <mark key="^" line="30" column="31" />
@@ -28,6 +35,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="[" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" timestamp="1444967533314">
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="62" column="45" />
+        <mark key="." line="59" column="0" />
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1444902428055">
         <mark key="]" line="129" column="0" />
@@ -82,6 +95,12 @@
         <mark key="." line="10" column="6" />
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.jade" timestamp="1444967850823">
+        <mark key="]" line="12" column="104" />
+        <mark key="^" line="12" column="104" />
+        <mark key="." line="12" column="104" />
+        <mark key="[" line="12" column="104" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/http-errors.coffee" timestamp="1444900484707">
         <mark key="]" line="43" column="22" />
         <mark key="^" line="43" column="22" />
@@ -102,9 +121,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/common/directives/buttons/rc-crossing/rc-crossing.less" timestamp="1444816261768" />
-      <file name="$USER_HOME$/Documents/web/src/application/less/buttons/btn-add.less" timestamp="1444813442989">
-        <mark key="]" line="29" column="35" />
-        <mark key="[" line="29" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1444967805567">
+        <mark key="'" line="20" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1444632777466">
         <mark key="]" line="20" column="78" />
@@ -125,6 +143,7 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/transaction/main.jade" timestamp="1444968175959" />
       <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444632620123">
         <mark key="]" line="24" column="7" />
         <mark key="^" line="24" column="7" />
@@ -165,52 +184,59 @@
       <jump line="33" column="21" filename="$USER_HOME$/Documents/web/build/config.coffee" />
       <jump line="34" column="24" filename="$USER_HOME$/Documents/web/build/config.coffee" />
       <jump line="43" column="22" filename="$USER_HOME$/Documents/web/build/config.coffee" />
+      <jump line="45" column="4" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="64" column="13" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="94" column="18" filename="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" />
+      <jump line="95" column="25" filename="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" />
+      <jump line="3" column="9" filename="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" />
+      <jump line="20" column="6" filename="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" />
+      <jump line="9" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>My private files</text>
+        <text>margin:0 auto</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUWVBFXD4=</text>
+        <text encoding="base64">XDxDYWxjdWxhdGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>My private files</text>
+        <text>margin:0 auto</text>
       </register>
-      <register name="3" type="4">
-        <text>7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc2VyaWVzOiB0YXhBbGxvY2F0aW9uLmNoYXJ0LnNlcmllcwo=</text>
       </register>
       <register name="2" type="4">
-        <text>Files shared with advisor</text>
+        <text>style='height:280px;margin:0 auto',</text>
       </register>
       <register name="1" type="4">
-        <text>My private files</text>
+        <text>margin:0 auto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJsb2NhbCI6ICIvc3RhdGljLyIsCiAgICAiZGV2ZWxvcCI6ICIvc3RhdGljLyIsCiAgICAic3RhZ2luZyI6ICIvL2Nkbi1zdGFnaW5nLnJpZ2h0Y2FwaXRhbC5jb20vIiwKICAgICJwcm9kdWN0aW9uIjogIi8vY2RuLnJpZ2h0Y2FwaXRhbC5jb20vIgo=</text>
       </register>
       <register name="7" type="4">
-        <text>C</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>D</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNoYXJ0VGl0bGUgPSB7CiAgICAgIHZlcnRpY2FsQWxpZ246ICdtaWRkbGUnCiAgICAgIHk6IC0yNQogICAgICB4OiAtMTUKICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>N</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGl0bGU6IGNoYXJ0VGl0bGUK</text>
       </register>
-      <register name="4" type="4">
-        <text />
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJpZXM6IHRheEFsbG9jYXRpb24uY2hhcnQuZHJpbGxkb3duLnNlcmllcwo=</text>
       </register>
       <register name="9" type="4">
-        <text>D</text>
+        <text>width:280px;</text>
       </register>
       <register name="8" type="4">
-        <text>N</text>
+        <text encoding="base64">IDxici8+UG9ydGZvbGlv</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUWVBFXD4=</last-search>
+      <last-search encoding="base64">XDxDYWxjdWxhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUWVBFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDYWxjdWxhdGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,6 +253,9 @@
         <entry encoding="base64">XDxLRVlfUkVHRVhcPg==</entry>
         <entry encoding="base64">XDxDRE5fQ09ORklHXD4=</entry>
         <entry encoding="base64">XDxUWVBFXD4=</entry>
+        <entry encoding="base64">XDxjaGFydFRpdGxlXD4=</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry encoding="base64">XDxDYWxjdWxhdGVcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

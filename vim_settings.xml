@@ -10,11 +10,11 @@
         <mark key="." line="17" column="17" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444961619421">
-        <mark key="]" line="26" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444983926617">
+        <mark key="]" line="30" column="19" />
         <mark key="^" line="30" column="31" />
-        <mark key="." line="26" column="16" />
-        <mark key="[" line="26" column="15" />
+        <mark key="." line="30" column="19" />
+        <mark key="[" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1444810773174" />
       <file name="/a.regexp" timestamp="1444907200874">
@@ -78,10 +78,11 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444982558978">
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="16" column="16" />
-        <mark key="[" line="16" column="16" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444983902466">
+        <mark key="]" line="2" column="234" />
+        <mark key="^" line="2" column="234" />
+        <mark key="." line="2" column="234" />
+        <mark key="[" line="2" column="234" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/less/buttons/btn-refresh.less" timestamp="1444816071951">
         <mark key="]" line="0" column="10" />

@@ -131,11 +131,10 @@
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/highcharts/highcharts.coffee" timestamp="1444967805567">
         <mark key="'" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1444632777466">
-        <mark key="]" line="20" column="78" />
-        <mark key="^" line="20" column="78" />
-        <mark key="." line="20" column="78" />
-        <mark key="[" line="20" column="74" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1444985054029">
+        <mark key="]" line="17" column="65" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/build/config.coffee" timestamp="1444908716176">
         <mark key="'" line="43" column="22" />
@@ -200,44 +199,44 @@
       <jump line="9" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhKGhyZWY9Ii9jbGllbnQvdmF1bHQiLCBuZy1pZj0iY2xpZW50UG9ydGFsIikgVmF1bHQK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYWxjdWxhdGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text encoding="base64">IGlzX2Fkdmlzb3I=</text>
       </register>
       <register name="2" type="4">
-        <text>w</text>
+        <text encoding="base64">ICYm</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhKGhyZWY9Ii9jbGllbnQvdmF1bHQiLCBuZy1pZj0iY2xpZW50UG9ydGFsIikgVmF1bHQK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5yZWZyZXNoaW5nKG5nLWlmPSdkb2N1bWVudC5sb2FkaW5nJykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5yZWZyZXNoaW5nCg==</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>w</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text encoding="base64">LCBuZy1pZj0iY2xpZW50UG9ydGFsICYmIGlzX2Fkdmlzb3Ii</text>
       </register>
       <register name="9" type="4">
-        <text>(ng-if='document.loading')</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodCAgICAgICAgICAgIDogMTsK</text>
+      <register name="8" type="4">
+        <text>n</text>
       </register>
     </registers>
     <search>

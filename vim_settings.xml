@@ -78,10 +78,10 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444979899818">
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="[" line="41" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444982558978">
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="[" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/less/buttons/btn-refresh.less" timestamp="1444816071951">
         <mark key="]" line="0" column="10" />
@@ -199,44 +199,44 @@
       <jump line="9" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5yZWZyZXNoaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYWxjdWxhdGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>(ng-if='document.loading')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>(ng-if='document.loading')</text>
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodCAgICAgICAgICAgIDogMTsK</text>
+      <register name="2" type="4">
+        <text>w</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5yZWZyZXNoaW5nCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5yZWZyZXNoaW5nKG5nLWlmPSdkb2N1bWVudC5sb2FkaW5nJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodCAgICAgIDogMzRweDsKICAgICAgICAgIGxpbmUtaGVpZ2h0IDogMzRweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaS5yZWZyZXNoaW5nCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpbmUtaGVpZ2h0IDogMzRweDsK</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodCAgICAgIDogMzRweDsK</text>
+      <register name="4" type="4">
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>style='height:280px;margin:0 auto',</text>
+        <text>(ng-if='document.loading')</text>
       </register>
-      <register name="8" type="4">
-        <text>margin:0 auto</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsaW5lLWhlaWdodCAgICAgICAgICAgIDogMTsK</text>
       </register>
     </registers>
     <search>

@@ -1,0 +1,8 @@
+<code_scheme name="Default (4)">
+  <CssCodeStyleSettings>
+    <option name="VALUE_ALIGNMENT" value="1" />
+  </CssCodeStyleSettings>
+  <codeStyleSettings language="CoffeeScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+</code_scheme>

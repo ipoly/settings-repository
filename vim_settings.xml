@@ -627,6 +627,12 @@
         <mark key="." line="5" column="14" />
         <mark key="[" line="4" column="41" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/services/http-errors.coffee" timestamp="1445135569362">
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="[" line="26" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/pages/_layout.jade" timestamp="1421323560095">
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
@@ -2045,11 +2051,11 @@
         <mark key="." line="23" column="44" />
         <mark key="[" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/vault/main.jade" timestamp="1445098481398">
-        <mark key="]" line="19" column="37" />
-        <mark key="^" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="[" line="19" column="37" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/vault/main.jade" timestamp="1445134589100">
+        <mark key="]" line="36" column="69" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="[" line="36" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency.jade" timestamp="1435740921583">
         <mark key="]" line="2" column="28" />
@@ -2577,11 +2583,11 @@
         <mark key="." line="17" column="30" />
         <mark key="[" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/vault/documents.coffee" timestamp="1445098507055">
-        <mark key="'" line="29" column="20" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/vault/documents.coffee" timestamp="1445135593650">
+        <mark key="]" line="63" column="50" />
+        <mark key="^" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="[" line="61" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/panels/financial-goals.jade" timestamp="1442548414110">
         <mark key="]" line="2" column="0" />
@@ -3078,47 +3084,47 @@
       <jump line="50" column="35" filename="$USER_HOME$/Repo/web/src/application/client/vault/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9taXNlXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>l</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHkgIDogIkZvbnRBd2Vzb21lIjsK</text>
+      <register name="0" type="4">
+        <text>/api/v1/documents/{{document.id}}/download</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpbWVyUHJvbWlzZSA9IG51bGwK</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>timerPromise</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text>timerPromise</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>every 3 minite</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>interval</text>
+        <text>u</text>
       </register>
     </registers>
     <search>

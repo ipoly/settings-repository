@@ -627,11 +627,11 @@
         <mark key="." line="5" column="14" />
         <mark key="[" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/common/services/http-errors.coffee" timestamp="1445135569362">
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="[" line="26" column="28" />
+      <file name="$USER_HOME$/Repo/web/src/application/common/services/http-errors.coffee" timestamp="1445139890634">
+        <mark key="]" line="58" column="44" />
+        <mark key="^" line="58" column="44" />
+        <mark key="." line="58" column="44" />
+        <mark key="[" line="58" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/pages/_layout.jade" timestamp="1421323560095">
         <mark key="]" line="34" column="0" />
@@ -2051,11 +2051,10 @@
         <mark key="." line="23" column="44" />
         <mark key="[" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/vault/main.jade" timestamp="1445137856233">
-        <mark key="]" line="36" column="69" />
-        <mark key="^" line="36" column="25" />
-        <mark key="." line="36" column="25" />
-        <mark key="[" line="36" column="28" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/vault/main.jade" timestamp="1445140390312">
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="[" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/currency.jade" timestamp="1435740921583">
         <mark key="]" line="2" column="28" />
@@ -2583,11 +2582,10 @@
         <mark key="." line="17" column="30" />
         <mark key="[" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/vault/documents.coffee" timestamp="1445138503099">
-        <mark key="]" line="63" column="15" />
-        <mark key="^" line="64" column="22" />
-        <mark key="." line="63" column="15" />
-        <mark key="[" line="63" column="14" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/vault/documents.coffee" timestamp="1445140224938">
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/retirement/cash-flows/panels/financial-goals.jade" timestamp="1442548414110">
         <mark key="]" line="2" column="0" />
@@ -2982,7 +2980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="8" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
       <jump line="42" column="16" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
       <jump line="46" column="32" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
       <jump line="68" column="54" filename="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" />
@@ -3082,55 +3079,56 @@
       <jump line="24" column="20" filename="$USER_HOME$/Repo/web/src/application/client/vault/documents.coffee" />
       <jump line="47" column="19" filename="$USER_HOME$/Repo/web/src/application/client/vault/main.coffee" />
       <jump line="50" column="35" filename="$USER_HOME$/Repo/web/src/application/client/vault/main.coffee" />
+      <jump line="48" column="4" filename="$USER_HOME$/Repo/web/src/application/client/vault/documents.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWhyZWY9Jy9hcGkvdjEvZG9jdW1lbnRzL3t7ZG9jdW1lbnQuaWR9fS9kb3dubG9hZCcK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9taXNlXD4=</text>
+        <text encoding="base64">XDxlcnJvckhhbmRsZXJcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>own</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmctaHJlZjE9Jy9hcGkvdjEvZG9jdW1lbnRzL3t7ZG9jdW1lbnQuaWR9fS9kb3dubG9hZCcK</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWhyZWY9Jy9hcGkvdjEvZG9jdW1lbnRzL3t7ZG9jdW1lbnQuaWR9fS9kb3dubG9hZCcK</text>
       </register>
-      <register name="0" type="4">
-        <text>_.remove documents, @</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmctY2xpY2s9J2RvY3VtZW50LmRvd25sb2FkKCknCg==</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text>404</text>
       </register>
-      <register name="6" type="4">
-        <text>open</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDQwNAogICAgICAgICAgICAgICAgaWYgL2RvY3VtZW50cy8udGVzdCByZWouY29uZmlnLnVybAogICAgICAgICAgICAgICAgICBtZXNzYWdlcy5wdXNoICdUaGUgZmlsZSBoYXMgYWxyZWFkeSBiZWVuIHJlbW92ZWQuJwogICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICBtZXNzYWdlcy5wdXNoIGh0dHBFcnJvcltyZWouc3RhdHVzXQo=</text>
       </register>
       <register name="5" type="4">
-        <text>=</text>
+        <text>own</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAZGVsZXRlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text encoding="base64">JHEucmVqZWN0KHJlaikg</text>
       </register>
       <register name="8" type="4">
-        <text>document</text>
+        <text>'The file has already been removed.'</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9taXNlXD4=</last-search>
+      <last-search encoding="base64">XDxlcnJvckhhbmRsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9taXNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvckhhbmRsZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvZmZzZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -3138,7 +3136,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxzeW1ib2xzXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
@@ -3158,6 +3155,7 @@
         <entry>\^</entry>
         <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</entry>
         <entry encoding="base64">XDxwcm9taXNlXD4=</entry>
+        <entry encoding="base64">XDxlcnJvckhhbmRsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s///</entry>

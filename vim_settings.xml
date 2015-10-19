@@ -10,11 +10,11 @@
         <mark key="." line="17" column="17" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1444983926617">
-        <mark key="]" line="30" column="19" />
-        <mark key="^" line="30" column="31" />
-        <mark key="." line="30" column="19" />
-        <mark key="[" line="30" column="18" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445224016961">
+        <mark key="]" line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="[" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/less/variables.less" timestamp="1444810773174" />
       <file name="/a.regexp" timestamp="1444907200874">
@@ -89,17 +89,22 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1444983902466">
-        <mark key="]" line="2" column="234" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1445224031208">
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="2" column="234" />
-        <mark key="." line="2" column="234" />
-        <mark key="[" line="2" column="234" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/less/buttons/btn-refresh.less" timestamp="1444816071951">
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="[" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/documents.coffee" timestamp="1445224008875">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/script-loader.coffee" timestamp="1444640596555">
         <mark key="]" line="10" column="6" />
@@ -201,8 +206,8 @@
       <jump line="9" column="3" filename="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://project.rightcapital.com/browse/PROJ-1340</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQoCiAgICAgICAgICBuZy1jbGFzcz0ne3JlZnJlc2hpbmc6IGRvY3VtZW50cy5pc0xvYWRpbmd9JwogICAgICAgICAgbmctZGlzYWJsZWQ9J2RvY3VtZW50cy5pc0xvYWRpbmcnCiAgICAgICAgICBuZy1jbGljaz0nZG9jdW1lbnRzLnJlZnJlc2goKScKICAgICAgICAgICkgUmVmcmVzaAo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYWxjdWxhdGVcPg==</text>
@@ -211,34 +216,34 @@
         <text>https://project.rightcapital.com/browse/PROJ-1340</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICZuYnNwOw==</text>
-      </register>
-      <register name="2" type="4">
-        <text>!</text>
-      </register>
-      <register name="1" type="4">
         <text>https://project.rightcapital.com/browse/PROJ-1340</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50cy5yZWZyZXNoKCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQoCiAgICAgICAgICBuZy1jbGFzcz0ne3JlZnJlc2hpbmc6IGRvY3VtZW50cy5pc0xvYWRpbmd9JwogICAgICAgICAgbmctZGlzYWJsZWQ9J2RvY3VtZW50cy5pc0xvYWRpbmcnCiAgICAgICAgICBuZy1jbGljaz0nZG9jdW1lbnRzLnJlZnJlc2goKScKICAgICAgICAgICkgUmVmcmVzaAo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXh0ZW5zaW9uID0gZmlsZW5hbWU/LnNwbGl0PygnLicpLnBvcCgpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>null</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUmF2ZW4/LmNhcHR1cmVFeGNlcHRpb24gJ05ldyBmaWxlIGV4dGVuc2lvbiB1c2VkIScsIHtleHRlbnNpb259LCAnaW5mbycK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzd2l0Y2ggc3ltYm9sCiAgICAgICAgICB3aGVuICchP0UnLCAnIT9GJwogICAgICAgICAgICAnJwogICAgICAgICAgZWxzZQogICAgICAgICAgICBzeW1ib2wK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICZuYnNwOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text>!</text>
       </register>
       <register name="9" type="4">
         <text>null</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJhdmVuPy5jYXB0dXJlRXhjZXB0aW9uICdOZXcgZmlsZSBleHRlbnNpb24gdXNlZCEnLCB7ZXh0ZW5zaW9ufSwgJ2luZm8nCg==</text>
+        <text encoding="base64">ICAgICAgUmF2ZW4/LmNhcHR1cmVFeGNlcHRpb24gJ05ldyBmaWxlIGV4dGVuc2lvbiB1c2VkIScsIHtleHRlbnNpb259LCAnaW5mbycK</text>
       </register>
     </registers>
     <search>

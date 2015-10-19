@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445246585394">
-        <mark key="'" line="47" column="12" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="[" line="48" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445253782291">
+        <mark key="'" line="49" column="12" />
+        <mark key="]" line="56" column="35" />
+        <mark key="^" line="55" column="40" />
+        <mark key="." line="56" column="35" />
+        <mark key="[" line="56" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445224016961">
         <mark key="]" line="16" column="41" />
@@ -113,12 +114,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445250126705">
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="[" line="21" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.less" timestamp="1445231134073">
         <mark key="]" line="21" column="16" />
@@ -234,43 +229,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3VwZXJGbiBzdGF0ZQo=</text>
+        <text encoding="base64">IyAgICAgICAgJHN0YXRlLmdvIHRvU3RhdGUubmFtZSwgJGxvY2F0aW9uLnNlYXJjaCgpCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDdHJsXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>111</text>
+        <text>$location.search()</text>
       </register>
       <register name="3" type="4">
-        <text>1111</text>
+        <text>fromParams.p</text>
       </register>
       <register name="2" type="4">
-        <text>.url</text>
+        <text>$location.search()</text>
       </register>
-      <register name="1" type="4">
-        <text>111</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyAgICAgICAgJHN0YXRlLmdvIHRvU3RhdGUubmFtZSwgJGxvY2F0aW9uLnNlYXJjaCgpCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3VwZXJGbiBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdGUuZ28gdG9TdGF0ZS5uYW1lLCAkbG9jYXRpb24uc2VhcmNoKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcucmVsb2FkT25TZWFyY2ggPSBmYWxzZQo=</text>
+      <register name="7" type="4">
+        <text>fromParams</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>#</text>
       </register>
       <register name="5" type="4">
-        <text>:</text>
+        <text>.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29ucwo=</text>
+      <register name="4" type="4">
+        <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUuYWZmaXgKICAgICAgc3RhdGUucmVsb2FkT25TZWFyY2ggPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgbwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>, {p: 11111}, {location: false}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICRyb290U2NvcGUuJG9uICckc3RhdGVDaGFuZ2VTdGFydCcsIChldmVudCwgdG9TdGF0ZSwgdG9QYXJhbXMsIGZyb21TdGF0ZSwgZnJvbVBhcmFtcywgZXJyb3IpIC0+CiAgICAgIGlmICF0b1BhcmFtcwogICAgICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCkKICAgICAgICAkc3RhdGUuZ28gdG9TdGF0ZS5uYW1lLCBmcm9tUGFyYW1zCg==</text>
       </register>
     </registers>
     <search>

@@ -114,6 +114,12 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445250126705">
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="[" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.less" timestamp="1445231134073">
         <mark key="]" line="21" column="16" />
         <mark key="^" line="21" column="16" />
@@ -167,7 +173,7 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1444632620123">
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1445247523950">
         <mark key="]" line="24" column="7" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
@@ -220,52 +226,57 @@
       <jump line="37" column="13" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="41" column="10" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="48" column="12" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
+      <jump line="12" column="5" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="62" column="27" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="63" column="43" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="14" column="44" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="18" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgc3VwZXJGbiBzdGF0ZQo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhdGlvblw+</text>
+        <text encoding="base64">XDxnZXRDdHJsXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>111</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIHVzZXIxCg==</text>
+      <register name="3" type="4">
+        <text>1111</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="2" type="4">
+        <text>.url</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="1" type="4">
+        <text>111</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXh0ZW5zaW9uID0gZmlsZW5hbWU/LnNwbGl0PygnLicpLnBvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgc3VwZXJGbiBzdGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcucmVsb2FkT25TZWFyY2ggPSBmYWxzZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVlciAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>:</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgY29ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUuYWZmaXgKICAgICAgc3RhdGUucmVsb2FkT25TZWFyY2ggPSBmYWxzZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZXIK</text>
+      <register name="8" type="4">
+        <text>, {p: 11111}, {location: false}</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxnZXRDdHJsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRDdHJsXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -286,6 +297,9 @@
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry encoding="base64">XDxDYWxjdWxhdGVcPg==</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
+        <entry encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</entry>
+        <entry encoding="base64">XDxhZmZpeFw+</entry>
+        <entry encoding="base64">XDxnZXRDdHJsXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

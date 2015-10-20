@@ -118,12 +118,12 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445330308452">
-        <mark key="'" line="59" column="48" />
-        <mark key="]" line="23" column="50" />
-        <mark key="^" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-        <mark key="[" line="23" column="36" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445331673810">
+        <mark key="'" line="58" column="48" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="12" />
+        <mark key="[" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.less" timestamp="1445231134073">
         <mark key="]" line="21" column="16" />
@@ -254,44 +254,44 @@
       <jump line="53" column="48" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>self.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRvTmFtZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>self.</text>
       </register>
-      <register name="3" type="4">
-        <text>state</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcGFyZW50ID0gc3VwZXJGbiBzdGF0ZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.name</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50LCBzdXBlckZuICdwbGFuJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50Cg==</text>
+      <register name="1" type="4">
+        <text>self.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50Cg==</text>
+        <text encoding="base64">IyAgICAgIHBhcmVudC5zZWxmLnBhcmVudCA/PSAncGxhbicgdW5sZXNzIHN0YXRlLm5hbWUgaXMgJ3BsYW4nCg==</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>self.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICAgICAgc3RhdGUucGFyZW50ID89ICdwbGFuJyB1bmxlc3Mgc3RhdGUubmFtZSBpcyAncGxhbicK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cGFyZW50OiA=</text>
+        <text>parent</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">J3BsYW4nLCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcGFyZW50ID0gc3VwZXJGbiBzdGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgc3VwZXJGbiAncGxhbjEnCg==</text>
+      <register name="8" type="4">
+        <text>parent</text>
       </register>
     </registers>
     <search>

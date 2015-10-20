@@ -35,11 +35,11 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/main.coffee" timestamp="1445324701044">
-        <mark key="]" line="71" column="42" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/main.coffee" timestamp="1445327246390">
+        <mark key="]" line="71" column="28" />
         <mark key="^" line="71" column="42" />
-        <mark key="." line="71" column="42" />
-        <mark key="[" line="71" column="39" />
+        <mark key="." line="71" column="28" />
+        <mark key="[" line="71" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1444990284413">
         <mark key="]" line="128" column="42" />
@@ -118,12 +118,12 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445326001765">
-        <mark key="'" line="58" column="48" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
-        <mark key="[" line="22" column="56" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445330308452">
+        <mark key="'" line="59" column="48" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+        <mark key="[" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.less" timestamp="1445231134073">
         <mark key="]" line="21" column="16" />
@@ -254,44 +254,44 @@
       <jump line="53" column="48" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRvTmFtZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>.name</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgc3RhdGUucGFyZW50Cg==</text>
+      <register name="3" type="4">
+        <text>state</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUK</text>
+      <register name="2" type="4">
+        <text>.name</text>
       </register>
-      <register name="1" type="4">
-        <text>a</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAndmlld3MnLCAoc3RhdGUsIHN1cGVyRm4pIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgcGFyZW50Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>unless</text>
+        <text />
       </register>
-      <register name="6" type="4">
-        <text>root</text>
+      <register name="6" type="2">
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cGFyZW50Oidyb290Jywg</text>
+        <text encoding="base64">cGFyZW50OiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">J3BsYW4nLCA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgc3RhdGUucGFyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgc3RhdGUucGFyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgc3VwZXJGbiAncGxhbjEnCg==</text>
       </register>
     </registers>
     <search>

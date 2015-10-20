@@ -108,12 +108,11 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445310974017">
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445312993624">
         <mark key="'" line="9" column="5" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="[" line="12" column="55" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="[" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.less" timestamp="1445231134073">
         <mark key="]" line="21" column="16" />
@@ -174,6 +173,12 @@
         <mark key="." line="24" column="7" />
         <mark key="[" line="24" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445312631304">
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="[" line="32" column="60" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="19" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
@@ -232,7 +237,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcucGFyYW1zID0ge3A6IHt2YWx1ZTogMTExMX19Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvblByb3ZpZGVyXD4=</text>
@@ -240,35 +245,35 @@
       <register name="-" type="4">
         <text>url</text>
       </register>
-      <register name="3" type="4">
-        <text>url</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAnb3duUGFyYW1zJywgKHN0YXRlLCBzdXBlckZuKSAtPgogICAgICBzdGF0ZS5wYXJhbXMgPSB7cDogMTExMTExfQogICAgICBzdXBlckZuIHN0YXRlCgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcucGFyYW1zID0ge3A6IHt2YWx1ZTogMTExMX19Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAndXJsJywgKHN0YXRlLCBzdXBlckZuKSAtPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIF0K</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgc3RhdGUK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+      <register name="5" type="4">
+        <text>url</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAnb3duUGFyYW1zJywgKHN0YXRlLCBzdXBlckZuKSAtPgogICAgICBzdGF0ZS5wYXJhbXMgPSB7cDogMTExMTExfQogICAgICBzdXBlckZuIHN0YXRlCgo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>[</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ3N0YXRlJwo=</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
     </registers>
     <search>

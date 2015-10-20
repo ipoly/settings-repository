@@ -108,10 +108,12 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445308559976">
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445310149615">
+        <mark key="'" line="9" column="5" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="[" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/services/link.less" timestamp="1445231134073">
         <mark key="]" line="21" column="16" />
@@ -224,52 +226,55 @@
       <jump line="63" column="43" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="14" column="44" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="18" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="8" column="40" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
+      <jump line="9" column="5" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAndXJsJywgKHN0YXRlLCBzdXBlckZuKSAtPgogICAgICBjb25zb2xlLmxvZyBzdGF0ZS51cmwKICAgICAgc3VwZXJGbiBzdGF0ZQoK</text>
+      <register name="&quot;" type="4">
+        <text>url</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDdHJsXD4=</text>
+        <text encoding="base64">XDxsb2NhdGlvblByb3ZpZGVyXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>?= '/' + stateName + (state.affix or '')</text>
+        <text>url</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGVOYW1lID0gc3RhdGUubmFtZS5zcGxpdCgnLicpLnBvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGUK</text>
       </register>
-      <register name="2" type="4">
-        <text>?= '/' + stateName + (state.affix or '')</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAndXJsJywgKHN0YXRlLCBzdXBlckZuKSAtPgogICAgICBjb25zb2xlLmxvZyBzdGF0ZS51cmwKICAgICAgc3VwZXJGbiBzdGF0ZQoK</text>
+      <register name="1" type="4">
+        <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAndXJsJywgKHN0YXRlLCBzdXBlckZuKSAtPgogICAgICBzdGF0ZU5hbWUgPSBzdGF0ZS5uYW1lLnNwbGl0KCcuJykucG9wKCkKICAgICAgc3RhdGUudXJsID89ICcvJyArIHN0YXRlTmFtZSArIChzdGF0ZS5hZmZpeCBvciAnJykKICAgICAgc3VwZXJGbiBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICRzdGF0ZVByb3ZpZGVyLmRlY29yYXRvciAndXJsJywgKHN0YXRlLCBzdXBlckZuKSAtPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>p</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
-      <register name="6" type="4">
-        <text>fromParams.p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgJ3N0YXRlJwo=</text>
       </register>
       <register name="5" type="4">
-        <text>$location.search()</text>
+        <text>[</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgJHN0YXRlLmdvIHRvU3RhdGUubmFtZSwgJGxvY2F0aW9uLnNlYXJjaCgpCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="9" type="4">
-        <text>#</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">JGxvY2F0aW9uLCA=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDdHJsXD4=</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvblByb3ZpZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDdHJsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvblByb3ZpZGVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -293,6 +298,7 @@
         <entry encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxhZmZpeFw+</entry>
         <entry encoding="base64">XDxnZXRDdHJsXD4=</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblByb3ZpZGVyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

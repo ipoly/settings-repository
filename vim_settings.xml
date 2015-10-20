@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445338273652">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="39" column="33" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445340625741">
+        <mark key="'" line="45" column="4" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="[" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445224016961">
         <mark key="]" line="16" column="41" />
@@ -63,11 +65,11 @@
         <mark key="." line="83" column="56" />
         <mark key="[" line="83" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.coffee" timestamp="1445337466059">
-        <mark key="]" line="113" column="22" />
-        <mark key="^" line="113" column="20" />
-        <mark key="." line="113" column="22" />
-        <mark key="[" line="113" column="22" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.coffee" timestamp="1445340535832">
+        <mark key="]" line="111" column="44" />
+        <mark key="^" line="111" column="44" />
+        <mark key="." line="111" column="44" />
+        <mark key="[" line="111" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/Households.coffee" timestamp="1444806905438">
         <mark key="]" line="107" column="26" />
@@ -187,11 +189,9 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1445247523950">
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-        <mark key="[" line="24" column="3" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1445340322969">
+        <mark key="'" line="52" column="45" />
+        <mark key="[" line="60" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445334887921">
         <mark key="]" line="19" column="0" />
@@ -262,58 +262,61 @@
       <jump line="28" column="5" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="13" column="8" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="45" column="4" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
+      <jump line="53" column="4" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
+      <jump line="64" column="32" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
+      <jump line="65" column="33" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
+      <jump line="52" column="45" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3QK</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zOgogICAgICAgIHBsYW5faWQ6IFsKICAgICAgICAgICckc3RhdGUnCiAgICAgICAgICAoJHN0YXRlKSAtPgogICAgICAgICAgICAkc3RhdGUucGFyYW1zLnBsYW5faWQKICAgICAgICBdCg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</text>
+        <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Y29uc29sZS5sb2cg</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGNvbmZpZy51cmwK</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3QK</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zOgogICAgICAgIHBsYW5faWQ6IFsKICAgICAgICAgICckc3RhdGUnCiAgICAgICAgICAoJHN0YXRlKSAtPgogICAgICAgICAgICAkc3RhdGUucGFyYW1zLnBsYW5faWQKICAgICAgICBdCg==</text>
       </register>
       <register name="0" type="4">
         <text>currentParent.name</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3QK</text>
       </register>
       <register name="5" type="4">
-        <text>state</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>rootScope</text>
+        <text encoding="base64">Y29uc29sZS5sb2cg</text>
       </register>
       <register name="9" type="4">
-        <text>.match(</text>
+        <text>rootScope</text>
       </register>
       <register name="8" type="4">
-        <text>[1]</text>
+        <text>'</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxyb290XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnZhbGlkXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxhY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxidXR0b25DbGFzc1w+</entry>
@@ -333,6 +336,7 @@
         <entry encoding="base64">XDxhdXRvTmFtZVw+</entry>
         <entry encoding="base64">XDxzdGF0ZVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

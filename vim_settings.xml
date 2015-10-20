@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445340625741">
-        <mark key="'" line="45" column="4" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445341551450">
+        <mark key="'" line="54" column="4" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="[" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445224016961">
         <mark key="]" line="16" column="41" />
@@ -268,44 +269,44 @@
       <jump line="52" column="45" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zOgogICAgICAgIHBsYW5faWQ6IFsKICAgICAgICAgICckc3RhdGUnCiAgICAgICAgICAoJHN0YXRlKSAtPgogICAgICAgICAgICAkc3RhdGUucGFyYW1zLnBsYW5faWQKICAgICAgICBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cg</text>
+        <text>o</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGNvbmZpZy51cmwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">cGxhbl9pZCA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Pz0g</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zOgogICAgICAgIHBsYW5faWQ6IFsKICAgICAgICAgICckc3RhdGUnCiAgICAgICAgICAoJHN0YXRlKSAtPgogICAgICAgICAgICAkc3RhdGUucGFyYW1zLnBsYW5faWQKICAgICAgICBdCg==</text>
+      <register name="1" type="4">
+        <text>o</text>
       </register>
-      <register name="0" type="4">
-        <text>currentParent.name</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHNlc3Npb25TdG9yYWdlLnNldCAnUCcsIHVzZXIuYWNjZXNzaWJsZV9wbGFuc1swXS5pZAo=</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>Plan</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3QK</text>
+        <text encoding="base64">ICAgICAgaWYgcGxhbl9pZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>/</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgcGxhbl9pZAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcGxhbl9pZAo=</text>
       </register>
       <register name="9" type="4">
-        <text>rootScope</text>
+        <text>$location</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdXNlciA9ICRsb2NhbFN0b3JhZ2UuZ2V0KCd1c2VyJykK</text>
       </register>
     </registers>
     <search>

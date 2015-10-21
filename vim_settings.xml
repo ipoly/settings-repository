@@ -161,10 +161,11 @@
         <mark key="." line="109" column="45" />
         <mark key="[" line="109" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/less/refreshing.less" timestamp="1444979893342">
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="0" />
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/less/refreshing.less" timestamp="1445425727378">
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="[" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/messages/messages.coffee" timestamp="1445417960524">
         <mark key="]" line="9" column="56" />
@@ -307,8 +308,8 @@
       <jump line="84" column="27" filename="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -317,34 +318,34 @@
         <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>percenta</text>
-      </register>
-      <register name="2" type="4">
         <text>currency</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAmW3R5cGU9Y3VycmVuY3ldLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAnIzUyODZmNCcK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>tel</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>password</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="4">
+        <text>percenta</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>colors</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

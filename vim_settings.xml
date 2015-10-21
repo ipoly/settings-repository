@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445412736823">
-        <mark key="'" line="86" column="4" />
-        <mark key="]" line="52" column="22" />
-        <mark key="^" line="52" column="22" />
-        <mark key="." line="52" column="22" />
-        <mark key="[" line="51" column="30" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445414247163">
+        <mark key="'" line="87" column="4" />
+        <mark key="]" line="78" column="21" />
+        <mark key="^" line="78" column="21" />
+        <mark key="." line="78" column="21" />
+        <mark key="[" line="78" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445224016961">
         <mark key="]" line="16" column="41" />
@@ -255,44 +255,44 @@
       <jump line="34" column="40" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>22222</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>22222</text>
       </register>
-      <register name="3" type="4">
-        <text>$</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyAxMTExLCBzdGF0ZS5uYW1lCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICR1cmxSb3V0ZXJQcm92aWRlci53aGVuICcvOnBsYW5faWQnLCByb290CiAgICBjb25zb2xlLmxvZyAyMjIyMgo=</text>
+      <register name="1" type="4">
+        <text>22222</text>
       </register>
-      <register name="7" type="2">
+      <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nIDIyMjIyCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>, root</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>, $urlRouterProvider.when '/:plan_id'</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="4" type="4">
+        <text>$</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICR1cmxSb3V0ZXJQcm92aWRlci53aGVuICcvOnBsYW5faWQnLCByb290Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR1cmxSb3V0ZXJQcm92aWRlci53aGVuICcvOnBsYW5faWQnLCByb290Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIDIyMjIyCg==</text>
       </register>
     </registers>
     <search>

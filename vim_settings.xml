@@ -131,12 +131,12 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445400598584">
-        <mark key="'" line="35" column="40" />
-        <mark key="]" line="36" column="49" />
-        <mark key="^" line="28" column="48" />
-        <mark key="." line="36" column="49" />
-        <mark key="[" line="36" column="49" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" timestamp="1445403241500">
+        <mark key="'" line="36" column="40" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+        <mark key="[" line="29" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1445397884530">
         <mark key="]" line="15" column="0" />
@@ -288,44 +288,44 @@
       <jump line="34" column="40" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>P</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text encoding="base64">KyA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIF0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">Jy4nIA==</text>
       </register>
       <register name="2" type="4">
-        <text>[</text>
+        <text encoding="base64">KyA=</text>
       </register>
-      <register name="1" type="4">
-        <text>P</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="0" type="4">
         <text>primaryChild.name</text>
       </register>
       <register name="7" type="4">
-        <text>$state.params</text>
+        <text>P</text>
       </register>
-      <register name="6" type="4">
-        <text>$state.params.plan_id</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LiRzdGF0ZSA9ICRzdGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICdQJwogICAgICAgICAgKFApIC0+CiAgICAgICAgICAgIGNvbnNvbGUubG9nIDExMSwgUCgpCiAgICAgICAgICAgIFAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgc3RhdGUubmFtZSwgJHN0YXRlLnBhcmFtcwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;/:plan_id/#{state.name}&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>$state</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIF0K</text>
       </register>
       <register name="8" type="4">
-        <text>$state</text>
+        <text>[</text>
       </register>
     </registers>
     <search>

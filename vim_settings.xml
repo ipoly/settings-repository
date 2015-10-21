@@ -57,6 +57,12 @@
         <mark key="." line="103" column="62" />
         <mark key="[" line="103" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445424795330">
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="[" line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/index.jade" timestamp="1445314167991">
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
@@ -160,7 +166,6 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/vendor/bootstrap/less/variables.less" timestamp="1445229514470" />
       <file name="$USER_HOME$/Documents/web/src/application/common/services/messages/messages.coffee" timestamp="1445417960524">
         <mark key="]" line="9" column="56" />
         <mark key="^" line="9" column="56" />
@@ -196,7 +201,6 @@
         <mark key="." line="10" column="6" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/vendor/bootstrap/less/forms.less" timestamp="1445229414130" />
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/forms.less" timestamp="1445422215844">
         <mark key="]" line="198" column="16" />
         <mark key="^" line="198" column="16" />
@@ -304,43 +308,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>currency</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>currency</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>password</text>
-      </register>
-      <register name="2" type="4">
         <text>percenta</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>currency</text>
+      </register>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAmW3R5cGU9Y3VycmVuY3ldLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>colors</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAnIzUyODZmNCcK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>tel</text>
       </register>
+      <register name="4" type="4">
+        <text>password</text>
+      </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>colors</text>
       </register>
     </registers>
     <search>

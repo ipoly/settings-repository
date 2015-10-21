@@ -209,11 +209,11 @@
         <mark key="." line="54" column="0" />
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445334887921">
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="19" column="0" />
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445420544473">
+        <mark key="]" line="70" column="17" />
+        <mark key="^" line="38" column="14" />
+        <mark key="." line="70" column="0" />
+        <mark key="[" line="70" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -300,44 +300,44 @@
       <jump line="84" column="27" filename="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnIzUyODZmNCcK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>colors</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>colors</text>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnIzUyODZmNCcK</text>
       </register>
-      <register name="0" type="4">
-        <text>$location.url() + rootState.name</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJyMxREU5QjYnCiAgICAgICcjRTUxRDIzJwogICAgICAnIzUyODZmNCcKICAgICAgJyNmYjhjMDAnCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">dHJ1ZSA=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYg</text>
-      </register>
-      <register name="4" type="4">
         <text>unlesws</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0cnVlIHVubGVzcyAK</text>
+      <register name="6" type="4">
+        <text>i</text>
+      </register>
+      <register name="5" type="4">
+        <text>t</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">dHJ1ZSA=</text>
       </register>
       <register name="8" type="4">
-        <text>return true if</text>
+        <text encoding="base64">aWYg</text>
       </register>
     </registers>
     <search>

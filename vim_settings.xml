@@ -267,11 +267,11 @@
         <mark key="." line="43" column="8" />
         <mark key="[" line="43" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445488273801">
-        <mark key="]" line="23" column="24" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="[" line="23" column="21" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445489214737">
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="[" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445420544473">
         <mark key="]" line="70" column="17" />
@@ -370,44 +370,44 @@
       <jump line="18" column="20" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Households.current.id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2N1bWVudHNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>Households.current.id</text>
       </register>
       <register name="3" type="4">
-        <text>item</text>
+        <text>Households</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5vYmplY3QgPSBbCiAgICAgIHsKICAgICAgICB0ZXh0OiAnV2lsbCcKICAgICAgICBrZXk6ICd3aWxsJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnUG93ZXIgb2YgQXR0b3JuZXknCiAgICAgICAga2V5OiAncG93ZXJfb2ZfYXR0b3JuZXknCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdCZW5lZmljaWFyeSBEZXNpZ25hdGlvbnMnCiAgICAgICAga2V5OiAnYmVuZWZpY2lhcnlfZGVzaWduYXRpb25zJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnTGl2aW5nIFdpbGwnCiAgICAgICAga2V5OiAnbGl2aW5nX3dpbGwnCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdIZWFsdGggQ2FyZSBQcm94eScKICAgICAgICBrZXk6ICdoZWFsdGhfY2FyZV9wcm94eScKICAgICAgfQogICAgXQoKICAgICRzY29wZS5nZXROYW1lID0gKGVzdGF0ZSkgLT4KICAgICAgcGVvcGxlLmdldEJ5SWQoZXN0YXRlLmlkKS5maXJzdF9uYW1lCgogICAgJHNjb3BlLnVwZGF0ZSA9IChlc3RhdGUpIC0+CiAgICAgIGVzdGF0ZS5pc0xvYWRpbmcgPSB0cnVlCiAgICAgIGVzdGF0ZS4kdXBkYXRlKCkK</text>
+      <register name="2" type="4">
+        <text>household_id</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Households.current.id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXIgPSAkbG9jYWxTdG9yYWdlLmdldCAndXNlcicK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dGQg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRzY29wZS5vYmplY3QgPSBbCiAgICAgIHsKICAgICAgICB0ZXh0OiAnV2lsbCcKICAgICAgICBrZXk6ICd3aWxsJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnUG93ZXIgb2YgQXR0b3JuZXknCiAgICAgICAga2V5OiAncG93ZXJfb2ZfYXR0b3JuZXknCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdCZW5lZmljaWFyeSBEZXNpZ25hdGlvbnMnCiAgICAgICAga2V5OiAnYmVuZWZpY2lhcnlfZGVzaWduYXRpb25zJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnTGl2aW5nIFdpbGwnCiAgICAgICAga2V5OiAnbGl2aW5nX3dpbGwnCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdIZWFsdGggQ2FyZSBQcm94eScKICAgICAgICBrZXk6ICdoZWFsdGhfY2FyZV9wcm94eScKICAgICAgfQogICAgXQoKICAgICRzY29wZS5nZXROYW1lID0gKGVzdGF0ZSkgLT4KICAgICAgcGVvcGxlLmdldEJ5SWQoZXN0YXRlLmlkKS5maXJzdF9uYW1lCgogICAgJHNjb3BlLnVwZGF0ZSA9IChlc3RhdGUpIC0+CiAgICAgIGVzdGF0ZS5pc0xvYWRpbmcgPSB0cnVlCiAgICAgIGVzdGF0ZS4kdXBkYXRlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>item</text>
+        <text>Households</text>
       </register>
       <register name="4" type="4">
-        <text>item</text>
+        <text>Households</text>
       </register>
       <register name="9" type="4">
-        <text>('tasks')</text>
+        <text>item</text>
       </register>
       <register name="8" type="4">
-        <text>text</text>
+        <text>item</text>
       </register>
     </registers>
     <search>

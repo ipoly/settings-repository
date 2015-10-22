@@ -98,11 +98,11 @@
         <mark key="." line="43" column="22" />
         <mark key="[" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/input-year.coffee" timestamp="1445481667542">
-        <mark key="]" line="27" column="48" />
-        <mark key="^" line="27" column="48" />
-        <mark key="." line="27" column="48" />
-        <mark key="[" line="27" column="43" />
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/input-year.coffee" timestamp="1445481738088">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="26" column="48" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/component/header/header.jade" timestamp="1444985054029">
         <mark key="]" line="17" column="65" />
@@ -314,8 +314,8 @@
       <jump line="84" column="27" filename="$USER_HOME$/Documents/web/src/application/client/report/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJlPnt7c2VsZWN0WWVhcnMuaW5wdXR9fTwvcHJlPgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -323,35 +323,35 @@
       <register name="-" type="4">
         <text>}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>}</text>
       </register>
       <register name="2" type="4">
         <text>}</text>
       </register>
-      <register name="1" type="4">
-        <text>}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJlPnt7c2VsZWN0WWVhcnMuaW5wdXR9fTwvcHJlPgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAmW3R5cGU9Y3VycmVuY3ldLAo=</text>
       </register>
       <register name="7" type="4">
-        <text>password</text>
-      </register>
-      <register name="6" type="4">
         <text>percenta</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>currency</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnIzUyODZmNCcK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>tel</text>
       </register>
       <register name="8" type="4">
-        <text>tel</text>
+        <text>password</text>
       </register>
     </registers>
     <search>

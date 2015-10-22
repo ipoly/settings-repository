@@ -21,8 +21,8 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445488532172">
-        <mark key="]" line="23" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445499810834">
+        <mark key="]" line="32" column="5" />
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -75,11 +75,11 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445488362126">
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="[" line="16" column="35" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445500089064">
+        <mark key="]" line="11" column="75" />
+        <mark key="^" line="11" column="75" />
+        <mark key="." line="11" column="75" />
+        <mark key="[" line="11" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445424795330">
         <mark key="]" line="4" column="38" />
@@ -93,11 +93,11 @@
         <mark key="." line="4" column="27" />
         <mark key="[" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1445224031208">
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1445499732561">
+        <mark key="]" line="5" column="76" />
         <mark key="^" line="2" column="234" />
         <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1445397884530">
         <mark key="]" line="15" column="0" />
@@ -147,11 +147,11 @@
         <mark key="." line="25" column="6" />
         <mark key="[" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445224016961">
-        <mark key="]" line="16" column="41" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445499805316">
+        <mark key="]" line="33" column="4" />
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
-        <mark key="[" line="16" column="32" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445419535621">
         <mark key="'" line="89" column="4" />
@@ -370,44 +370,44 @@
       <jump line="18" column="20" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Households.current.id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRzY29wZS5wZXJtaXNzaW9ucyA9IFsKICAgICAgewogICAgICAgIHR5cGU6ICdzaGFyZWQnCiAgICAgICAgdGV4dDogJ015IFNoYXJlZCBGb2xkZXInCiAgICAgIH0KICAgICAgewogICAgICAgIHR5cGU6ICdwcml2YXRlJwogICAgICAgIHRleHQ6ICdNeSBQcml2YXRlIEZvbGRlcicKICAgICAgfQogICAgXQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2N1bWVudHNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>Households.current.id</text>
+        <text>permission</text>
       </register>
       <register name="3" type="4">
-        <text>Households</text>
-      </register>
-      <register name="2" type="4">
-        <text>household_id</text>
-      </register>
-      <register name="1" type="4">
         <text>Households.current.id</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAuY29udGVudC1wYW5lbAo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>permission</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSAkbG9jYWxTdG9yYWdlLmdldCAndXNlcicK</text>
+        <text encoding="base64">ICAgICRzY29wZS5wZXJtaXNzaW9ucyA9IFsKICAgICAgewogICAgICAgIHR5cGU6ICdzaGFyZWQnCiAgICAgICAgdGV4dDogJ015IFNoYXJlZCBGb2xkZXInCiAgICAgIH0KICAgICAgewogICAgICAgIHR5cGU6ICdwcml2YXRlJwogICAgICAgIHRleHQ6ICdNeSBQcml2YXRlIEZvbGRlcicKICAgICAgfQogICAgXQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5vYmplY3QgPSBbCiAgICAgIHsKICAgICAgICB0ZXh0OiAnV2lsbCcKICAgICAgICBrZXk6ICd3aWxsJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnUG93ZXIgb2YgQXR0b3JuZXknCiAgICAgICAga2V5OiAncG93ZXJfb2ZfYXR0b3JuZXknCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdCZW5lZmljaWFyeSBEZXNpZ25hdGlvbnMnCiAgICAgICAga2V5OiAnYmVuZWZpY2lhcnlfZGVzaWduYXRpb25zJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnTGl2aW5nIFdpbGwnCiAgICAgICAga2V5OiAnbGl2aW5nX3dpbGwnCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdIZWFsdGggQ2FyZSBQcm94eScKICAgICAgICBrZXk6ICdoZWFsdGhfY2FyZV9wcm94eScKICAgICAgfQogICAgXQoKICAgICRzY29wZS5nZXROYW1lID0gKGVzdGF0ZSkgLT4KICAgICAgcGVvcGxlLmdldEJ5SWQoZXN0YXRlLmlkKS5maXJzdF9uYW1lCgogICAgJHNjb3BlLnVwZGF0ZSA9IChlc3RhdGUpIC0+CiAgICAgIGVzdGF0ZS5pc0xvYWRpbmcgPSB0cnVlCiAgICAgIGVzdGF0ZS4kdXBkYXRlKCkK</text>
+      <register name="7" type="4">
+        <text>Households</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Households</text>
       </register>
       <register name="5" type="4">
         <text>Households</text>
       </register>
       <register name="4" type="4">
-        <text>Households</text>
+        <text>household_id</text>
       </register>
-      <register name="9" type="4">
-        <text>item</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICRzY29wZS5vYmplY3QgPSBbCiAgICAgIHsKICAgICAgICB0ZXh0OiAnV2lsbCcKICAgICAgICBrZXk6ICd3aWxsJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnUG93ZXIgb2YgQXR0b3JuZXknCiAgICAgICAga2V5OiAncG93ZXJfb2ZfYXR0b3JuZXknCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdCZW5lZmljaWFyeSBEZXNpZ25hdGlvbnMnCiAgICAgICAga2V5OiAnYmVuZWZpY2lhcnlfZGVzaWduYXRpb25zJwogICAgICB9CiAgICAgIHsKICAgICAgICB0ZXh0OiAnTGl2aW5nIFdpbGwnCiAgICAgICAga2V5OiAnbGl2aW5nX3dpbGwnCiAgICAgIH0KICAgICAgewogICAgICAgIHRleHQ6ICdIZWFsdGggQ2FyZSBQcm94eScKICAgICAgICBrZXk6ICdoZWFsdGhfY2FyZV9wcm94eScKICAgICAgfQogICAgXQoKICAgICRzY29wZS5nZXROYW1lID0gKGVzdGF0ZSkgLT4KICAgICAgcGVvcGxlLmdldEJ5SWQoZXN0YXRlLmlkKS5maXJzdF9uYW1lCgogICAgJHNjb3BlLnVwZGF0ZSA9IChlc3RhdGUpIC0+CiAgICAgIGVzdGF0ZS5pc0xvYWRpbmcgPSB0cnVlCiAgICAgIGVzdGF0ZS4kdXBkYXRlKCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>item</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/textarea-horizontal.jade" timestamp="1445575702552">
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="26" />
+        <mark key="[" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/budget/services/budget-api.coffee" timestamp="1444968182869">
         <mark key="'" line="9" column="3" />
         <mark key="]" line="17" column="17" />
@@ -26,12 +32,12 @@
         <mark key="." line="38" column="0" />
         <mark key="[" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445510368084">
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445575591874">
         <mark key="'" line="109" column="6" />
-        <mark key="]" line="110" column="47" />
-        <mark key="^" line="110" column="47" />
-        <mark key="." line="110" column="47" />
-        <mark key="[" line="110" column="33" />
+        <mark key="]" line="34" column="80" />
+        <mark key="^" line="34" column="80" />
+        <mark key="." line="34" column="80" />
+        <mark key="[" line="34" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" timestamp="1444967533314">
         <mark key="]" line="59" column="0" />
@@ -92,12 +98,12 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445573395635">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445577115836">
         <mark key="'" line="8" column="6" />
-        <mark key="]" line="20" column="65" />
-        <mark key="^" line="20" column="65" />
-        <mark key="." line="20" column="65" />
-        <mark key="[" line="20" column="37" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="22" column="35" />
+        <mark key="[" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445424795330">
         <mark key="]" line="4" column="38" />
@@ -116,6 +122,12 @@
         <mark key="^" line="2" column="234" />
         <mark key="." line="17" column="0" />
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/textarea.jade" timestamp="1445575644807">
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="[" line="2" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/navigation-config.coffee" timestamp="1445397884530">
         <mark key="]" line="15" column="0" />
@@ -420,44 +432,44 @@
       <jump line="1" column="2" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/form/choice/main.jade" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaG9pY2VcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>t</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>_</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkuZmEoCiAgICAgICAgICAgICAgICBuZy1jbGFzcz0nZ2V0Q2xhc3MoZXN0YXRlLCB0YXNrLmtleSknCiAgICAgICAgICAgICAgICBuZy1jbGljaz0ndG9nZ2xlKGVzdGF0ZSwgdGFzay5rZXkpJwogICAgICAgICAgICAgICAgKQ==</text>
+        <text>a</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAndGFzaycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdihuZy1zd2l0Y2gtd2hlbj0nZWRpdCcpCiAgICAgICAgICAgICAgICAgIGZpZWxkKAogICAgICAgICAgICAgICAgICB0eXBlPSd0ZXh0JwogICAgICAgICAgICAgICAgICByZXF1aXJlZD0ndHJ1ZScKICAgICAgICAgICAgICAgICAgbmctbW9kZWw9J3Rhc2sudGl0bGUnCiAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSdUaXRsZScKICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="6" type="4">
-        <text>: 'both'</text>
+        <text>task.update({completed_at: new Date()})</text>
       </register>
       <register name="5" type="4">
-        <text>type</text>
+        <text>task.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0ZAogICAgICAgICAgICAgICAgaS5mYSgKICAgICAgICAgICAgICAgIG5nLWNsYXNzPSdnZXRDbGFzcyhlc3RhdGUsIHRhc2sua2V5KScKICAgICAgICAgICAgICAgIG5nLWNsaWNrPSd0b2dnbGUoZXN0YXRlLCB0YXNrLmtleSknCiAgICAgICAgICAgICAgICApCg==</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAndGFzaycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAndGFzaycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmllbGQoCiAgICAgICAgICAgICAgICAgIHR5cGU9J3RleHQnCiAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPSd0cnVlJwogICAgICAgICAgICAgICAgICBuZy1tb2RlbD0ndGFzay50aXRsZScKICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9J1RpdGxlJwogICAgICAgICAgICAgICAgICApCg==</text>
       </register>
     </registers>
     <search>

@@ -27,10 +27,8 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445572867418">
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445583445320">
+        <mark key="[" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445575591874">
         <mark key="'" line="109" column="6" />
@@ -98,12 +96,12 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445577115836">
-        <mark key="'" line="8" column="6" />
-        <mark key="]" line="22" column="35" />
-        <mark key="^" line="23" column="49" />
-        <mark key="." line="22" column="35" />
-        <mark key="[" line="22" column="35" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445584235463">
+        <mark key="'" line="7" column="6" />
+        <mark key="]" line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+        <mark key="[" line="28" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445424795330">
         <mark key="]" line="4" column="38" />
@@ -117,11 +115,11 @@
         <mark key="." line="4" column="27" />
         <mark key="[" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1445501206148">
-        <mark key="]" line="6" column="29" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.jade" timestamp="1445583897190">
+        <mark key="]" line="66" column="16" />
         <mark key="^" line="2" column="234" />
         <mark key="." line="17" column="0" />
-        <mark key="[" line="6" column="0" />
+        <mark key="[" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/textarea.jade" timestamp="1445575644807">
         <mark key="]" line="2" column="9" />
@@ -183,11 +181,11 @@
         <mark key="." line="25" column="6" />
         <mark key="[" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445499805316">
-        <mark key="]" line="33" column="4" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445583411617">
+        <mark key="]" line="39" column="17" />
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
-        <mark key="[" line="24" column="0" />
+        <mark key="[" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445419535621">
         <mark key="'" line="89" column="4" />
@@ -302,11 +300,11 @@
         <mark key="." line="198" column="16" />
         <mark key="[" line="198" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445485882062">
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445583706175">
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="[" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/_message-body.jade" timestamp="1445417941378">
         <mark key="]" line="8" column="42" />
@@ -433,43 +431,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>document</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaG9pY2VcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>document</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBoMi5tYjIwIEltcG9ydGFudCB0YXNrcwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>a</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>document</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdihuZy1zd2l0Y2gtd2hlbj0nZWRpdCcpCiAgICAgICAgICAgICAgICAgIGZpZWxkKAogICAgICAgICAgICAgICAgICB0eXBlPSd0ZXh0JwogICAgICAgICAgICAgICAgICByZXF1aXJlZD0ndHJ1ZScKICAgICAgICAgICAgICAgICAgbmctbW9kZWw9J3Rhc2sudGl0bGUnCiAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSdUaXRsZScKICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yYy1jcm9zc2luZy5jcm9zc2luZy1kYW5nZXIuYnRuLWNvbmZpcm0oCiAgICAgICAgICAgICAgICBhY3Rpb249J2RvY3VtZW50LmRlbGV0ZSgpJwogICAgICAgICAgICAgICAgYnV0dG9uLXRleHQ9J2RlbGV0ZScKICAgICAgICAgICAgICAgIGJ1dHRvbi1jbGFzcz0nYnRuLWRhbmdlcicKICAgICAgICAgICAgICAgIG5nLWlmPSdkb2N1bWVudC5pc093bmVkKCknCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>u</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAuY29udGVudC1wYW5lbCB7CiAgICAuZmEgewogICAgICBjb2xvcjogI0I4QjhCODsKICAgICAgJi5mYS1jaGVjay1zcXVhcmUgewogICAgICAgIGNvbG9yOiAjM0I5OUZDOwogICAgICB9CiAgICAgICYuZGlzYWJsZWQgewogICAgICAgIGNvbG9yOiAjZGRkOwogICAgICAgIGN1cnNvcjogbm90LWFsbG93ZWQ7CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>task.update({completed_at: new Date()})</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHwgS2VlcCB0cmFjayBvZiB5b3VyIHByb2dyZXNzIG9uIGNyZWF0aW5nIGltcG9ydGFudCBlc3RhdGUgcGxhbm5pbmcgZG9jdW1lbnRzLgo=</text>
       </register>
       <register name="5" type="4">
-        <text>task.</text>
+        <text>Planning</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>To protect and control the financial future of your family and loved ones, you'll want to ensure that you have a sound estate plan.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdgo=</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmllbGQoCiAgICAgICAgICAgICAgICAgIHR5cGU9J3RleHQnCiAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPSd0cnVlJwogICAgICAgICAgICAgICAgICBuZy1tb2RlbD0ndGFzay50aXRsZScKICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9J1RpdGxlJwogICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>

@@ -27,12 +27,12 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445592605781">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445597014506">
         <mark key="'" line="23" column="12" />
-        <mark key="]" line="57" column="24" />
-        <mark key="^" line="57" column="24" />
-        <mark key="." line="57" column="24" />
-        <mark key="[" line="56" column="18" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="[" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445575591874">
         <mark key="'" line="109" column="6" />
@@ -100,12 +100,12 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445594697942">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445597376168">
         <mark key="'" line="7" column="6" />
-        <mark key="]" line="17" column="16" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="16" />
-        <mark key="[" line="17" column="16" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="7" column="68" />
+        <mark key="." line="8" column="29" />
+        <mark key="[" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445424795330">
         <mark key="]" line="4" column="38" />
@@ -316,11 +316,11 @@
         <mark key="." line="198" column="16" />
         <mark key="[" line="198" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445594754951">
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-        <mark key="[" line="18" column="22" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445597516334">
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="[" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/_message-body.jade" timestamp="1445417941378">
         <mark key="]" line="8" column="42" />
@@ -451,44 +451,44 @@
       <jump line="63" column="54" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgY29tcGxldGVkCg==</text>
+      <register name="&quot;" type="4">
+        <text>pointer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGxvYWRQcm9ncmVzc1w+</text>
       </register>
       <register name="-" type="4">
-        <text>(ng-init1='completed = !!task.completed_at')</text>
+        <text>pointer</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNoZWNrZWQ9J3Rhc2suY29tcGxldGVkX2F0Jwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>(ng-init1='completed = !!task.completed_at')</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgY29tcGxldGVkCg==</text>
-      </register>
-      <register name="0" type="4">
-        <text>completed = !!task.completed_at</text>
-      </register>
-      <register name="7" type="4">
-        <text>=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>!</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>pointer</text>
+      </register>
+      <register name="0" type="4">
+        <text>task.completed_at</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNoZWNrZWQ9J3Rhc2suY29tcGxldGVkX2F0Jwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>ng-click='tasks.add(tab.filter.permission)'</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5nLWlmPSdpc0Fkdmlzb3InCg==</text>
       </register>
       <register name="4" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIEBjb21wbGV0ZWRfYXQgPSBudWxsCg==</text>
+      <register name="9" type="4">
+        <text>change</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y29tcGxldGVkIA==</text>
+        <text>click</text>
       </register>
     </registers>
     <search>

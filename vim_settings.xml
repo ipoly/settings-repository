@@ -27,8 +27,12 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445583445320">
-        <mark key="[" line="47" column="18" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445588300788">
+        <mark key="'" line="23" column="12" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="57" column="0" />
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445575591874">
         <mark key="'" line="109" column="6" />
@@ -96,12 +100,12 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445584235463">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445588842185">
         <mark key="'" line="7" column="6" />
-        <mark key="]" line="28" column="52" />
-        <mark key="^" line="28" column="52" />
-        <mark key="." line="28" column="52" />
-        <mark key="[" line="28" column="51" />
+        <mark key="]" line="53" column="48" />
+        <mark key="^" line="53" column="48" />
+        <mark key="." line="53" column="48" />
+        <mark key="[" line="53" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445424795330">
         <mark key="]" line="4" column="38" />
@@ -155,6 +159,9 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="43" column="22" />
         <mark key="[" line="43" column="22" />
+      </file>
+      <file name="/a.dummy" timestamp="1445586644027">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/input-year.coffee" timestamp="1445483420652">
         <mark key="'" line="44" column="6" />
@@ -245,6 +252,11 @@
         <mark key="." line="3" column="68" />
         <mark key="[" line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/info/main.jade" timestamp="1445589738799">
+        <mark key="]" line="22" column="76" />
+        <mark key="." line="22" column="76" />
+        <mark key="[" line="22" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/form/choice/main.jade" timestamp="1445515498582">
         <mark key="'" line="1" column="2" />
         <mark key="]" line="0" column="23" />
@@ -294,17 +306,24 @@
         <mark key="." line="71" column="54" />
         <mark key="[" line="71" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" timestamp="1445589730261">
+        <mark key="'" line="21" column="30" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="57" />
+        <mark key="[" line="4" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/forms.less" timestamp="1445422215844">
         <mark key="]" line="198" column="16" />
         <mark key="^" line="198" column="16" />
         <mark key="." line="198" column="16" />
         <mark key="[" line="198" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445583706175">
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="[" line="0" column="7" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445588065091">
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="21" />
+        <mark key="[" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/_message-body.jade" timestamp="1445417941378">
         <mark key="]" line="8" column="42" />
@@ -319,11 +338,10 @@
         <mark key="." line="43" column="8" />
         <mark key="[" line="43" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445573132256">
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="23" column="18" />
-        <mark key="[" line="23" column="18" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445588779786">
+        <mark key="]" line="39" column="8" />
+        <mark key="." line="39" column="8" />
+        <mark key="[" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445420544473">
         <mark key="]" line="70" column="17" />
@@ -428,59 +446,60 @@
       <jump line="6" column="14" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/form/choice/main.jade" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/form/choice/main.jade" />
       <jump line="1" column="2" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/form/choice/main.jade" />
+      <jump line="21" column="4" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
+      <jump line="23" column="12" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
+      <jump line="21" column="30" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>document</text>
+        <text>background:#fafafa;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaG9pY2VcPg==</text>
+        <text encoding="base64">XDxyZWZyZXNoXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>background:#fafafa;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoMi5tYjIwIEltcG9ydGFudCB0YXNrcwo=</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>, style='line-height:247px;background:#fafafa;'</text>
       </register>
       <register name="1" type="4">
-        <text>document</text>
+        <text>background:#fafafa;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yYy1jcm9zc2luZy5jcm9zc2luZy1kYW5nZXIuYnRuLWNvbmZpcm0oCiAgICAgICAgICAgICAgICBhY3Rpb249J2RvY3VtZW50LmRlbGV0ZSgpJwogICAgICAgICAgICAgICAgYnV0dG9uLXRleHQ9J2RlbGV0ZScKICAgICAgICAgICAgICAgIGJ1dHRvbi1jbGFzcz0nYnRuLWRhbmdlcicKICAgICAgICAgICAgICAgIG5nLWlmPSdkb2N1bWVudC5pc093bmVkKCknCiAgICAgICAgICAgICAgICApCg==</text>
+      <register name="0" type="4">
+        <text>, style='line-height:247px;background:#fafafa;'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAuY29udGVudC1wYW5lbCB7CiAgICAuZmEgewogICAgICBjb2xvcjogI0I4QjhCODsKICAgICAgJi5mYS1jaGVjay1zcXVhcmUgewogICAgICAgIGNvbG9yOiAjM0I5OUZDOwogICAgICB9CiAgICAgICYuZGlzYWJsZWQgewogICAgICAgIGNvbG9yOiAjZGRkOwogICAgICAgIGN1cnNvcjogbm90LWFsbG93ZWQ7CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+      <register name="7" type="4">
+        <text>$</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHwgS2VlcCB0cmFjayBvZiB5b3VyIHByb2dyZXNzIG9uIGNyZWF0aW5nIGltcG9ydGFudCBlc3RhdGUgcGxhbm5pbmcgZG9jdW1lbnRzLgo=</text>
+        <text encoding="base64">ICAgICAgQGxvYWRpbmcgPSB0cnVlCg==</text>
       </register>
       <register name="5" type="4">
-        <text>Planning</text>
+        <text>, style='line-height:247px;background:#fafafa;'</text>
       </register>
       <register name="4" type="4">
-        <text>To protect and control the financial future of your family and loved ones, you'll want to ensure that you have a sound estate plan.</text>
+        <text>1</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgICAgQHNhdmluZyA9IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBAdXBkYXRpbmcgPSB0cnVlCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaG9pY2VcPg==</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaG9pY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZyZXNoXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDYWxjdWxhdGVcPg==</entry>
-        <entry encoding="base64">XDxhZmZpeFw+</entry>
         <entry encoding="base64">XDxnZXRDdHJsXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGlvblByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxzdGF0ZXNcPg==</entry>
@@ -499,6 +518,8 @@
         <entry encoding="base64">XDxwcmlvcml0eUF0dHJcPg==</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
         <entry encoding="base64">XDxjaG9pY2VcPg==</entry>
+        <entry encoding="base64">XDxsb2NhbHN0b3JhZ2VcPg==</entry>
+        <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

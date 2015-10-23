@@ -100,12 +100,12 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445593635607">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445594697942">
         <mark key="'" line="7" column="6" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="35" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="16" />
+        <mark key="[" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445424795330">
         <mark key="]" line="4" column="38" />
@@ -316,11 +316,11 @@
         <mark key="." line="198" column="16" />
         <mark key="[" line="198" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445588065091">
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="21" />
-        <mark key="[" line="16" column="20" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.less" timestamp="1445594754951">
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="[" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/marketplace/marketplace/_message-body.jade" timestamp="1445417941378">
         <mark key="]" line="8" column="42" />
@@ -335,7 +335,7 @@
         <mark key="." line="43" column="8" />
         <mark key="[" line="43" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445593650770">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445594774099">
         <mark key="]" line="60" column="0" />
         <mark key="^" line="60" column="32" />
         <mark key="." line="60" column="0" />
@@ -452,43 +452,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIEBjb21wbGV0ZWRfYXQgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgY29tcGxldGVkCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGxvYWRQcm9ncmVzc1w+</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>(ng-init1='completed = !!task.completed_at')</text>
       </register>
-      <register name="3" type="4">
-        <text>true</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNoZWNrZWQ9J3Rhc2suY29tcGxldGVkX2F0Jwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgY29tcGxldGVkCg==</text>
+      <register name="2" type="4">
+        <text>(ng-init1='completed = !!task.completed_at')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIEBjb21wbGV0ZWRfYXQgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgY29tcGxldGVkCg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAY29tcGxldGVkX2F0ID0gbmV3IERhdGUK</text>
+      <register name="0" type="4">
+        <text>completed = !!task.completed_at</text>
       </register>
       <register name="7" type="4">
-        <text>new Date</text>
+        <text>=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>(new Date()).valueOf()</text>
+        <text>!</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLXRydWUtdmFsdWU9J3RydWUnCg==</text>
+      <register name="4" type="4">
+        <text>!</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIEBjb21wbGV0ZWRfYXQgPSBudWxsCg==</text>
       </register>
       <register name="8" type="4">
-        <text>@</text>
+        <text encoding="base64">Y29tcGxldGVkIA==</text>
       </register>
     </registers>
     <search>

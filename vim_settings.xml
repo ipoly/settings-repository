@@ -94,10 +94,11 @@
         <mark key="." line="16" column="10" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1445222217430">
-        <mark key="]" line="103" column="62" />
-        <mark key="." line="103" column="62" />
-        <mark key="[" line="103" column="62" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1445826166682">
+        <mark key="]" line="114" column="40" />
+        <mark key="^" line="114" column="40" />
+        <mark key="." line="114" column="40" />
+        <mark key="[" line="114" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.less" timestamp="1444987401051">
         <mark key="'" line="25" column="19" />
@@ -247,7 +248,7 @@
         <mark key="." line="57" column="0" />
         <mark key="[" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.coffee" timestamp="1445222446432">
+      <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.coffee" timestamp="1445826004964">
         <mark key="]" line="83" column="56" />
         <mark key="^" line="83" column="56" />
         <mark key="." line="83" column="56" />
@@ -501,7 +502,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAnJHN0YXRlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW4obmctaWY9J2FjY291bnQubGluaycpIHt7cG9zaXRpb24uYW1vdW50LnRvRml4ZWQoMikgfCBudW1iZXJ9fQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGFuX2lkXD4=</text>
@@ -510,34 +511,34 @@
         <text>o</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
-      </register>
-      <register name="2" type="4">
         <text>o</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAnJHN0YXRlJwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW4obmctaWY9J2FjY291bnQubGluaycpIHt7cG9zaXRpb24uYW1vdW50LnRvRml4ZWQoMikgfCBudW1iZXJ9fQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRyb290U2NvcGUuJG9uICckc3RhdGVDaGFuZ2VFcnJvcicsIChldmVudCwgdG9TdGF0ZSwgdG9QYXJhbXMsIGZyb21TdGF0ZSwgZnJvbVBhcmFtcywgZXJyb3IpIC0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgMTExMQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgMTExMQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Error</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>, from</text>
       </register>
+      <register name="4" type="4">
+        <text>t</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgMTExMQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgMTExMQo=</text>
       </register>
     </registers>
     <search>

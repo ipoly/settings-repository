@@ -42,11 +42,12 @@
         <mark key="." line="34" column="80" />
         <mark key="[" line="34" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" timestamp="1444967533314">
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="62" column="45" />
-        <mark key="." line="59" column="0" />
-        <mark key="[" line="59" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" timestamp="1445830437844">
+        <mark key="'" line="65" column="21" />
+        <mark key="]" line="31" column="36" />
+        <mark key="^" line="63" column="45" />
+        <mark key="." line="31" column="0" />
+        <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/main.coffee" timestamp="1445327246390">
         <mark key="]" line="71" column="28" />
@@ -173,9 +174,6 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="43" column="22" />
         <mark key="[" line="43" column="22" />
-      </file>
-      <file name="/a.dummy" timestamp="1445827079997">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/input-year.coffee" timestamp="1445483420652">
         <mark key="'" line="44" column="6" />
@@ -315,6 +313,10 @@
         <mark key="." line="44" column="26" />
         <mark key="[" line="44" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/investment/asset-allocation/main.coffee" timestamp="1445830431757">
+        <mark key="]" line="84" column="36" />
+        <mark key="[" line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/services/People.coffee" timestamp="1445607783961">
         <mark key="]" line="4" column="13" />
         <mark key="^" line="1" column="41" />
@@ -402,13 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="27" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="63" column="43" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="14" column="44" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="18" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="7" column="4" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="8" column="40" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="9" column="5" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="44" column="28" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.coffee" />
       <jump line="50" column="42" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="49" column="8" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
@@ -502,13 +497,20 @@
       <jump line="35" column="10" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="40" column="21" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="43" column="33" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
+      <jump line="60" column="23" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="45" column="4" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="17" column="6" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="28" column="3" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="29" column="26" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="62" column="27" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="64" column="21" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW4obmctaWY9J2FjY291bnQubGluaycpIHt7cG9zaXRpb24uYW1vdW50LnRvRml4ZWQoMikgfCBudW1iZXJ9fQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsIHVubGVzcyBoYXZlUG9zaXRpb25zCg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGFuX2lkXD4=</text>
+        <text encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -523,7 +525,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW4obmctaWY9J2FjY291bnQubGluaycpIHt7cG9zaXRpb24uYW1vdW50LnRvRml4ZWQoMikgfCBudW1iZXJ9fQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRyb290U2NvcGUuJG9uICckc3RhdGVDaGFuZ2VFcnJvcicsIChldmVudCwgdG9TdGF0ZSwgdG9QYXJhbXMsIGZyb21TdGF0ZSwgZnJvbVBhcmFtcywgZXJyb3IpIC0+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsIHVubGVzcyBoYXZlUG9zaXRpb25zCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgMTExMQo=</text>
@@ -545,17 +547,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGFuX2lkXD4=</last-search>
+      <last-search encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGFuX2lkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWdlRW5kXD4=</entry>
         <entry encoding="base64">XDxlc3RhdGVzXD4=</entry>
         <entry encoding="base64">XDxEb2N1bWVudHNcPg==</entry>
@@ -573,6 +572,9 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwbGFuSWRcPg==</entry>
         <entry encoding="base64">XDxwbGFuX2lkXD4=</entry>
+        <entry encoding="base64">XDxjaGFydFw+</entry>
+        <entry encoding="base64">XDxkcmlsbFVwQnV0dG9uXD4=</entry>
+        <entry encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

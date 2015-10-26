@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/action-items.coffee" timestamp="1445849906427">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/action-items.coffee" timestamp="1445853068559">
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="66" />
+        <mark key="[" line="2" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/textarea-horizontal.jade" timestamp="1445575702552">
         <mark key="]" line="3" column="26" />
@@ -90,10 +90,17 @@
         <mark key="." line="13" column="8" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/tests/unit/mock/mockAPI.coffee" timestamp="1445607480070">
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/Documents/web/tests/unit/client/account/main.coffee" timestamp="1445852879640">
+        <mark key="]" line="3" column="96" />
+        <mark key="^" line="1" column="55" />
+        <mark key="." line="3" column="96" />
+        <mark key="[" line="3" column="96" />
+      </file>
+      <file name="$USER_HOME$/Documents/web/tests/unit/mock/mockAPI.coffee" timestamp="1445853999288">
+        <mark key="]" line="53" column="43" />
+        <mark key="^" line="53" column="43" />
+        <mark key="." line="53" column="43" />
+        <mark key="[" line="53" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1445826166682">
         <mark key="]" line="114" column="40" />
@@ -193,7 +200,10 @@
         <mark key="." line="43" column="22" />
         <mark key="[" line="43" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1445847714379">
+      <file name="/a.txt" timestamp="1445850749315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1445853931749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/input-year.coffee" timestamp="1445483420652">
@@ -227,14 +237,18 @@
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1445486026912">
+      <file name="$USER_HOME$/Documents/web/src/application/client/main.coffee" timestamp="1445853946086">
         <mark key="]" line="25" column="6" />
         <mark key="^" line="25" column="6" />
         <mark key="." line="25" column="6" />
         <mark key="[" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445848533844">
+      <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445853847392">
         <mark key="'" line="42" column="33" />
+        <mark key="]" line="99" column="21" />
+        <mark key="^" line="99" column="18" />
+        <mark key="." line="99" column="21" />
+        <mark key="[" line="99" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/public/sign-up/main.coffee" timestamp="1445605407125">
         <mark key="'" line="67" column="0" />
@@ -242,6 +256,9 @@
         <mark key="^" line="67" column="49" />
         <mark key="." line="11" column="70" />
         <mark key="[" line="11" column="70" />
+      </file>
+      <file name="/a.regexp" timestamp="1445850747735">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/PersonResource.coffee" timestamp="1445609184939">
         <mark key="'" line="7" column="8" />
@@ -517,44 +534,44 @@
       <jump line="64" column="21" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGdldEpTT05GaXh0dXJlICd1c2Vycy9pZC5qc29uJwo=</text>
+      <register name="&quot;" type="4">
+        <text>transaction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5ndWxhci50b0pzb24g</text>
+        <text>transaction</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGdldEpTT05GaXh0dXJlICd1c2Vycy9pZC5qc29uJwo=</text>
+      <register name="3" type="4">
+        <text>to</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIDMzMzMzLCBnZXRKU09ORml4dHVyZSgnY2F0ZWdvcmllcy5qc29uJykK</text>
+      <register name="2" type="4">
+        <text>J</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGdldEpTT05GaXh0dXJlICd1c2Vycy9pZC5qc29uJwo=</text>
+      <register name="1" type="4">
+        <text>transaction</text>
       </register>
-      <register name="0" type="4">
-        <text>getJSONFixture('categories.json')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICRwcm92aWRlLmRlY29yYXRvciAnJGxvY2F0aW9uJywgKCRkZWxlZ2F0ZSkgLT4KICAgICAgJGRlbGVnYXRlLnVybCA9ICh1cmwpIC0+ICJKdW1wIHRvICN7dXJsfSIKICAgICAgJGRlbGVnYXRlCg==</text>
       </register>
       <register name="7" type="4">
-        <text>X</text>
+        <text>url</text>
       </register>
       <register name="6" type="4">
-        <text>DiJeb7IQHo8FOFkiwulieyA</text>
+        <text>url</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXIK</text>
+      <register name="5" type="4">
+        <text>url</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YW5ndWxhci50b0pzb24g</text>
+        <text>Jump</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIHBsYW5faWQsIFAK</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dHJ5IA==</text>
+        <text>location</text>
       </register>
     </registers>
     <search>

@@ -33,11 +33,10 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445916355753">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445919124848">
         <mark key="'" line="63" column="46" />
-        <mark key="]" line="53" column="70" />
-        <mark key="^" line="53" column="68" />
-        <mark key="." line="53" column="68" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
         <mark key="[" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445575591874">
@@ -243,11 +242,10 @@
         <mark key="." line="25" column="6" />
         <mark key="[" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445916377816">
-        <mark key="]" line="36" column="43" />
-        <mark key="^" line="36" column="42" />
-        <mark key="." line="36" column="43" />
-        <mark key="[" line="36" column="43" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445919123301">
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445853847392">
         <mark key="'" line="42" column="33" />
@@ -537,44 +535,44 @@
       <jump line="63" column="46" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2N1bWVudHNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new Date(</text>
       </register>
       <register name="3" type="4">
-        <text>documents</text>
+        <text>new Date(</text>
       </register>
-      <register name="2" type="4">
-        <text>vault</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdGFzaywgbWF5IGJlIHNob3VsZCBhYnN0cmFjdAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0IAo=</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>vault</text>
       </register>
       <register name="6" type="4">
-        <text>documents</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>documents</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRpbWVyMSgpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>documents</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>transaction</text>
+        <text>documents</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>documents</text>
       </register>
     </registers>
     <search>

@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/integrations/main.coffee" timestamp="1445940498269">
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/integrations/main.coffee" timestamp="1445941748987">
         <mark key="'" line="31" column="27" />
+        <mark key="]" line="52" column="6" />
+        <mark key="." line="52" column="6" />
+        <mark key="[" line="52" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/action-items.coffee" timestamp="1445853068559">
         <mark key="]" line="2" column="66" />
@@ -266,9 +269,6 @@
       </file>
       <file name="/a.regexp" timestamp="1445850747735">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/PersonResource.coffee" timestamp="1445609184939">
-        <mark key="'" line="7" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/form/form.coffee" timestamp="1445514980681">
         <mark key="]" line="18" column="0" />
@@ -541,37 +541,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>then</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXNvdXJjZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>then</text>
-      </register>
-      <register name="3" type="4">
         <text>#</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50cy5fbG9hZGluZyA9IGZhbHNlCg==</text>
+      <register name="3" type="4">
+        <text>then</text>
+      </register>
+      <register name="2" type="4">
+        <text>#</text>
       </register>
       <register name="1" type="4">
-        <text>then</text>
+        <text>#</text>
       </register>
       <register name="0" type="4">
         <text>ng-if='!task._editing'</text>
       </register>
-      <register name="7" type="4">
-        <text>isLoading</text>
-      </register>
-      <register name="6" type="4">
-        <text>isLoading</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrcy5fbG9hZGluZyA9IGZhbHNlCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>then</text>
+      </register>
+      <register name="5" type="4">
+        <text>#</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50cy5fbG9hZGluZyA9IGZhbHNlCg==</text>
       </register>
       <register name="9" type="4">
         <text>isLoading</text>

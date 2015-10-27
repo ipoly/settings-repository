@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/integrations/main.coffee" timestamp="1445940498269">
+        <mark key="'" line="31" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/web/tests/unit/client/common/directives/action-items.coffee" timestamp="1445853068559">
         <mark key="]" line="2" column="66" />
         <mark key="." line="2" column="66" />
@@ -51,10 +54,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="[" line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" timestamp="1445830437844">
-        <mark key="'" line="64" column="21" />
-        <mark key="^" line="62" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/main.coffee" timestamp="1445327246390">
         <mark key="]" line="71" column="28" />
@@ -268,6 +267,9 @@
       <file name="/a.regexp" timestamp="1445850747735">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/PersonResource.coffee" timestamp="1445609184939">
+        <mark key="'" line="7" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/form/form.coffee" timestamp="1445514980681">
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -436,8 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="50" filename="$USER_HOME$/Documents/web/src/public/log-in/main.coffee" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/web/src/public/log-in/main.coffee" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/web/src/public/log-in/main.coffee" />
       <jump line="12" column="71" filename="$USER_HOME$/Documents/web/src/public/sign-up/main.coffee" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/web/src/public/sign-up/main.coffee" />
@@ -536,13 +536,15 @@
       <jump line="3" column="8" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
       <jump line="23" column="14" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
       <jump line="20" column="19" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
+      <jump line="29" column="3" filename="$USER_HOME$/Documents/web/src/application/advisor/integrations/main.coffee" />
+      <jump line="31" column="27" filename="$USER_HOME$/Documents/web/src/application/advisor/integrations/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>then</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0xvYWRpbmdcPg==</text>
+        <text encoding="base64">XDxSZXNvdXJjZVw+</text>
       </register>
       <register name="-" type="4">
         <text>then</text>
@@ -579,15 +581,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0xvYWRpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxSZXNvdXJjZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0xvYWRpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNvdXJjZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYXZpZ2F0aW9uQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwbGFuSWRcPg==</entry>
         <entry encoding="base64">XDxwbGFuX2lkXD4=</entry>
@@ -607,6 +608,7 @@
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVcPg==</entry>
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
+        <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

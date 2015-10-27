@@ -33,11 +33,12 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445920659428">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445931873901">
         <mark key="'" line="63" column="46" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="[" line="53" column="0" />
+        <mark key="]" line="64" column="39" />
+        <mark key="^" line="64" column="39" />
+        <mark key="." line="64" column="39" />
+        <mark key="[" line="64" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445575591874">
         <mark key="'" line="109" column="6" />
@@ -419,12 +420,12 @@
         <mark key="." line="43" column="8" />
         <mark key="[" line="43" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445930108386">
-        <mark key="'" line="19" column="8" />
-        <mark key="]" line="24" column="30" />
-        <mark key="^" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="[" line="23" column="31" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445931448600">
+        <mark key="'" line="18" column="8" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+        <mark key="[" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445420544473">
         <mark key="]" line="70" column="17" />
@@ -536,44 +537,44 @@
       <jump line="20" column="8" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyB0YXNrcywgcmVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>'_state'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrc1w+</text>
       </register>
       <register name="-" type="4">
-        <text>res.length</text>
+        <text>'_state'</text>
       </register>
       <register name="3" type="4">
-        <text>res.length</text>
+        <text>rejewct</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgdW5TYXZlZAo=</text>
+      <register name="2" type="4">
+        <text>find</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyB0YXNrcywgcmVzCg==</text>
+      <register name="1" type="4">
+        <text>'_state'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0IAo=</text>
       </register>
       <register name="7" type="4">
-        <text>index</text>
+        <text>_state: 'edit'</text>
       </register>
       <register name="6" type="4">
-        <text>value</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>tasks, res</text>
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGluZGV4Cg==</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmd1bGFyLmNvcHkgcmVzLCB0YXNrcwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNhdmUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSwgIGluIHJlcwo=</text>
+      <register name="8" type="4">
+        <text>where</text>
       </register>
     </registers>
     <search>

@@ -33,7 +33,7 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445919124848">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445920659428">
         <mark key="'" line="63" column="46" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -242,7 +242,7 @@
         <mark key="." line="25" column="6" />
         <mark key="[" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445919123301">
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445920659015">
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="[" line="36" column="0" />
@@ -419,11 +419,12 @@
         <mark key="." line="43" column="8" />
         <mark key="[" line="43" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445594774099">
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="32" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="60" column="0" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" timestamp="1445921963657">
+        <mark key="'" line="20" column="8" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="[" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/dashboard/balance-sheet/main.coffee" timestamp="1445420544473">
         <mark key="]" line="70" column="17" />
@@ -433,11 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="42" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="49" column="8" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
-      <jump line="36" column="5" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
-      <jump line="28" column="5" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
-      <jump line="45" column="4" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="53" column="4" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
       <jump line="64" column="32" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
       <jump line="65" column="33" filename="$USER_HOME$/Documents/web/src/application/client/main.coffee" />
@@ -533,58 +529,62 @@
       <jump line="64" column="21" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
       <jump line="23" column="40" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
       <jump line="63" column="46" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
+      <jump line="28" column="4" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
+      <jump line="26" column="10" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
+      <jump line="23" column="20" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
+      <jump line="22" column="8" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
+      <jump line="20" column="8" filename="$USER_HOME$/Documents/web/src/application/client/task/tasks.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2N1bWVudHNcPg==</text>
+        <text encoding="base64">XDx0YXNrc1w+</text>
       </register>
       <register name="-" type="4">
-        <text>new Date(</text>
+        <text>value</text>
       </register>
-      <register name="3" type="4">
-        <text>new Date(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSwgIGluIHJlcwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdGFzaywgbWF5IGJlIHNob3VsZCBhYnN0cmFjdAo=</text>
+      <register name="2" type="4">
+        <text>index</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0Cg==</text>
+      <register name="1" type="4">
+        <text>value</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0IAo=</text>
       </register>
       <register name="7" type="4">
-        <text>vault</text>
+        <text>find</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cache</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpbWVyMSgpCg==</text>
+      <register name="5" type="4">
+        <text>cache</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmd1bGFyLmNvcHkgcmVzLCB0YXNrcwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>documents</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>documents</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2N1bWVudHNcPg==</last-search>
+      <last-search encoding="base64">XDx0YXNrc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2N1bWVudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0YXNrc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlc3RhdGVzXD4=</entry>
         <entry encoding="base64">XDxEb2N1bWVudHNcPg==</entry>
         <entry encoding="base64">XDxwcmlvcml0eUF0dHJcPg==</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
@@ -604,6 +604,7 @@
         <entry encoding="base64">XDxkcmlsbFVwQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxkb2N1bWVudHNcPg==</entry>
+        <entry encoding="base64">XDx0YXNrc1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

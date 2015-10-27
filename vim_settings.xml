@@ -33,12 +33,12 @@
         <mark key="." line="43" column="64" />
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445597014506">
-        <mark key="'" line="23" column="12" />
-        <mark key="]" line="40" column="29" />
-        <mark key="^" line="40" column="29" />
-        <mark key="." line="40" column="29" />
-        <mark key="[" line="40" column="25" />
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" timestamp="1445916355753">
+        <mark key="'" line="63" column="46" />
+        <mark key="]" line="53" column="70" />
+        <mark key="^" line="53" column="68" />
+        <mark key="." line="53" column="68" />
+        <mark key="[" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/common/directives/form/field/field.coffee" timestamp="1445575591874">
         <mark key="'" line="109" column="6" />
@@ -122,12 +122,12 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445597376168">
+      <file name="$USER_HOME$/Documents/web/src/application/client/task/main.jade" timestamp="1445916108444">
         <mark key="'" line="7" column="6" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="7" column="68" />
-        <mark key="." line="8" column="29" />
-        <mark key="[" line="8" column="29" />
+        <mark key="]" line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="[" line="19" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/main.jade" timestamp="1445603262225">
         <mark key="]" line="14" column="80" />
@@ -243,6 +243,12 @@
         <mark key="." line="25" column="6" />
         <mark key="[" line="25" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/web/src/application/client/vault/main.coffee" timestamp="1445916377816">
+        <mark key="]" line="36" column="43" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="43" />
+        <mark key="[" line="36" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" timestamp="1445853847392">
         <mark key="'" line="42" column="33" />
         <mark key="]" line="99" column="21" />
@@ -259,9 +265,6 @@
       </file>
       <file name="/a.regexp" timestamp="1445850747735">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/web/src/application/common/services/APIs/PersonResource.coffee" timestamp="1445609184939">
-        <mark key="'" line="7" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/client/yodlee/form/form.coffee" timestamp="1445514980681">
         <mark key="]" line="18" column="0" />
@@ -432,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="28" filename="$USER_HOME$/Documents/web/src/application/marketplace/advisor/main.coffee" />
       <jump line="50" column="42" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="49" column="8" filename="$USER_HOME$/Documents/web/src/application/common/services/navigation.coffee" />
       <jump line="36" column="5" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
@@ -474,7 +476,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/form/choice/main.jade" />
       <jump line="1" column="2" filename="$USER_HOME$/Documents/web/src/application/client/yodlee/form/choice/main.jade" />
       <jump line="21" column="4" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
-      <jump line="23" column="12" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
       <jump line="21" column="30" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.jade" />
       <jump line="77" column="23" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
       <jump line="16" column="6" filename="$USER_HOME$/Documents/web/src/application/client/vault/uploadcare.coffee" />
@@ -532,58 +533,59 @@
       <jump line="29" column="26" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
       <jump line="62" column="27" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
       <jump line="64" column="21" filename="$USER_HOME$/Documents/web/src/application/client/investment/tax-allocation/main.coffee" />
+      <jump line="23" column="40" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
+      <jump line="63" column="46" filename="$USER_HOME$/Documents/web/src/application/client/task/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transaction</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</text>
+        <text encoding="base64">XDxkb2N1bWVudHNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>transaction</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>to</text>
+        <text>documents</text>
       </register>
       <register name="2" type="4">
-        <text>J</text>
+        <text>vault</text>
       </register>
       <register name="1" type="4">
-        <text>transaction</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRwcm92aWRlLmRlY29yYXRvciAnJGxvY2F0aW9uJywgKCRkZWxlZ2F0ZSkgLT4KICAgICAgJGRlbGVnYXRlLnVybCA9ICh1cmwpIC0+ICJKdW1wIHRvICN7dXJsfSIKICAgICAgJGRlbGVnYXRlCg==</text>
+        <text encoding="base64">ICAgICMgdG9kbzogdGhlc2UgZnVuY3Rpb24gYXJlIHNhbWUgYXMgdmF1bHQgLCBtYXkgYmUgc2hvdWxkIGFic3RyYWN0IAo=</text>
       </register>
       <register name="7" type="4">
-        <text>url</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>url</text>
+        <text>documents</text>
       </register>
       <register name="5" type="4">
-        <text>url</text>
+        <text>documents</text>
       </register>
       <register name="4" type="4">
-        <text>Jump</text>
+        <text>documents</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>transaction</text>
       </register>
       <register name="8" type="4">
-        <text>location</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxkb2N1bWVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkb2N1bWVudHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2xsZWdlRW5kXD4=</entry>
         <entry encoding="base64">XDxlc3RhdGVzXD4=</entry>
         <entry encoding="base64">XDxEb2N1bWVudHNcPg==</entry>
         <entry encoding="base64">XDxwcmlvcml0eUF0dHJcPg==</entry>
@@ -603,6 +605,7 @@
         <entry encoding="base64">XDxjaGFydFw+</entry>
         <entry encoding="base64">XDxkcmlsbFVwQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDx0YXhBbGxvY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxkb2N1bWVudHNcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

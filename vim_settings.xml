@@ -40,11 +40,11 @@
         <mark key="." line="12" column="49" />
         <mark key="[" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/invitations.coffee" timestamp="1446010070244">
-        <mark key="]" line="4" column="11" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/invitations.coffee" timestamp="1446010988676">
+        <mark key="]" line="16" column="6" />
         <mark key="^" line="11" column="6" />
-        <mark key="." line="4" column="11" />
-        <mark key="[" line="4" column="10" />
+        <mark key="." line="16" column="6" />
+        <mark key="[" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/modal/main.coffee" timestamp="1445418864409">
         <mark key="]" line="43" column="64" />
@@ -561,43 +561,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmVzb3VyY2UsIA==</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xDYWNoZVw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVzb3VyY2UsIA==</text>
+        <text>@</text>
       </register>
       <register name="3" type="4">
-        <text>, ACLS</text>
+        <text encoding="base64">UmVzb3VyY2UsIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAnUmVzb3VyY2UnCg==</text>
+      <register name="2" type="4">
+        <text>@</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">UmVzb3VyY2UsIA==</text>
+        <text>@</text>
       </register>
       <register name="0" type="4">
         <text>ng-if='!task._editing'</text>
       </register>
-      <register name="7" type="4">
-        <text>:</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAnQUNMUycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAnQUNMUycK</text>
+      </register>
+      <register name="5" type="4">
+        <text>, ACLS</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnQUNMUycK</text>
+        <text encoding="base64">ICAnUmVzb3VyY2UnCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>:</text>
       </register>
-      <register name="8" type="4">
-        <text>invitations = {</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>

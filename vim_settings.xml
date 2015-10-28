@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" timestamp="1446010226818">
-        <mark key="'" line="16" column="19" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="[" line="12" column="29" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" timestamp="1446016657253">
+        <mark key="'" line="15" column="19" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/integrations/main.coffee" timestamp="1445941748987">
         <mark key="'" line="31" column="27" />
@@ -560,8 +559,8 @@
       <jump line="27" column="19" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBJbnZpdGF0aW9ucwo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xDYWNoZVw+</text>
@@ -570,34 +569,34 @@
         <text>h</text>
       </register>
       <register name="3" type="4">
-        <text>acl</text>
-      </register>
-      <register name="2" type="4">
         <text>for households</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>h</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBJbnZpdGF0aW9ucwo=</text>
       </register>
       <register name="0" type="4">
         <text>ng-if='!task._editing'</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">UmVzb3VyY2UsIA==</text>
+        <text>@</text>
       </register>
       <register name="6" type="4">
         <text>@</text>
       </register>
-      <register name="5" type="4">
-        <text>@</text>
-      </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICMgTWFpbnRhaW4gYWNsIGxpc3QgZm9yIGhvdXNlaG9sZHMK</text>
       </register>
-      <register name="9" type="4">
-        <text>, ACLS</text>
+      <register name="4" type="4">
+        <text>acl</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAnUmVzb3VyY2UnCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">UmVzb3VyY2UsIA==</text>
       </register>
     </registers>
     <search>

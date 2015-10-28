@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" timestamp="1446006959606" />
       <file name="$USER_HOME$/Documents/web/src/application/advisor/integrations/main.coffee" timestamp="1445941748987">
         <mark key="'" line="31" column="27" />
         <mark key="]" line="51" column="6" />

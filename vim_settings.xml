@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" timestamp="1446016657253">
-        <mark key="'" line="15" column="19" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" timestamp="1446017464556">
+        <mark key="'" line="12" column="8" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
@@ -457,9 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="24" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
-      <jump line="16" column="8" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
-      <jump line="17" column="28" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="18" column="15" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="27" column="13" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
       <jump line="35" column="10" filename="$USER_HOME$/Documents/web/src/application/client/common/services/P.coffee" />
@@ -557,13 +554,16 @@
       <jump line="24" column="20" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
       <jump line="15" column="25" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
       <jump line="27" column="19" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
+      <jump line="18" column="30" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
+      <jump line="28" column="32" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
+      <jump line="12" column="8" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBJbnZpdGF0aW9ucwo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2xDYWNoZVw+</text>
+        <text encoding="base64">XDxBY2xcPg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -600,9 +600,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2xDYWNoZVw+</last-search>
+      <last-search encoding="base64">XDxBY2xcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2xDYWNoZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxBY2xcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -624,10 +624,10 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxJbnZcPg==</entry>
         <entry encoding="base64">XDxBQ0xTXD4=</entry>
-        <entry encoding="base64">XDxBY2xcPg==</entry>
         <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxuZXdBY2xcPg==</entry>
         <entry encoding="base64">XDxhY2xDYWNoZVw+</entry>
+        <entry encoding="base64">XDxBY2xcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

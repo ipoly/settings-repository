@@ -40,12 +40,6 @@
         <mark key="." line="12" column="49" />
         <mark key="[" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/invitations.coffee" timestamp="1446022195213">
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="[" line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/modal/main.coffee" timestamp="1445418864409">
         <mark key="]" line="43" column="64" />
         <mark key="^" line="43" column="32" />
@@ -560,32 +554,32 @@
       <jump line="12" column="8" filename="$USER_HOME$/Documents/web/src/application/advisor/clients/portal/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludnMgPSAtPgogICAgICBJbnYucXVlcnkoe2hvdXNlaG9sZF9pZH0pCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY2xcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">aW52czog</text>
       </register>
       <register name="3" type="4">
         <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text encoding="base64">aW52czog</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGludnMgPSAtPgogICAgICBJbnYucXVlcnkoe2hvdXNlaG9sZF9pZH0pCg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ng-if='!task._editing'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGludnM6IEludi5xdWVyeSh7aG91c2Vob2xkX2lkfSkK</text>
       </register>
       <register name="7" type="4">
-        <text>h</text>
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBJbnZpdGF0aW9ucwo=</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="5" type="4">
         <text>s</text>
@@ -593,11 +587,11 @@
       <register name="4" type="4">
         <text>s</text>
       </register>
-      <register name="9" type="4">
-        <text>acl</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBJbnZpdGF0aW9ucwo=</text>
       </register>
       <register name="8" type="4">
-        <text>for households</text>
+        <text>s</text>
       </register>
     </registers>
     <search>

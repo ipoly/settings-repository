@@ -40,11 +40,11 @@
         <mark key="." line="12" column="49" />
         <mark key="[" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/invitations.coffee" timestamp="1446010988676">
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="[" line="16" column="6" />
+      <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/invitations.coffee" timestamp="1446016001556">
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="41" />
+        <mark key="[" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/web/src/application/advisor/clients/modal/main.coffee" timestamp="1445418864409">
         <mark key="]" line="43" column="64" />
@@ -561,43 +561,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2xDYWNoZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>h</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">UmVzb3VyY2UsIA==</text>
+        <text>acl</text>
       </register>
       <register name="2" type="4">
-        <text>@</text>
+        <text>for households</text>
       </register>
       <register name="1" type="4">
-        <text>@</text>
+        <text>h</text>
       </register>
       <register name="0" type="4">
         <text>ng-if='!task._editing'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAnQUNMUycK</text>
+      <register name="7" type="4">
+        <text encoding="base64">UmVzb3VyY2UsIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAnQUNMUycK</text>
+      <register name="6" type="4">
+        <text>@</text>
       </register>
       <register name="5" type="4">
-        <text>, ACLS</text>
+        <text>@</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnUmVzb3VyY2UnCg==</text>
+        <text encoding="base64">ICAgICMgTWFpbnRhaW4gYWNsIGxpc3QgZm9yIGhvdXNlaG9sZHMK</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>, ACLS</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAnUmVzb3VyY2UnCg==</text>
       </register>
     </registers>
     <search>

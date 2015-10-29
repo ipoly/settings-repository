@@ -3,56 +3,72 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Repo/web/src/public/landing-page/main.coffee" timestamp="1446128283088">
+        <mark key="'" line="45" column="11" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/investment/main.coffee" timestamp="1446125977117">
         <mark key="]" line="86" column="13" />
         <mark key="^" line="86" column="13" />
         <mark key="." line="86" column="13" />
         <mark key="[" line="85" column="27" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1446126186721">
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/investment/main.jade" timestamp="1446127265024">
         <mark key="'" line="115" column="28" />
-        <mark key="]" line="113" column="82" />
-        <mark key="^" line="113" column="43" />
-        <mark key="." line="113" column="44" />
-        <mark key="[" line="113" column="44" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="[" line="105" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1446127807366">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="115" column="28" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/investment/main.jade" />
+      <jump line="45" column="11" filename="$USER_HOME$/Repo/web/src/public/landing-page/main.coffee" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICcnCg==</text>
+      <register name="3" type="4">
+        <text>symbolFilter(</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>symbolFilter(position.security.symbol)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNtYWxsIHt7cG9zaXRpb24uc2VjdXJpdHkuc3ltYm9sfX0K</text>
       </register>
       <register name="2" type="4">
         <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNtYWxsIHt7cG9zaXRpb24uc2VjdXJpdHkuc3ltYm9sfX0K</text>
       </register>
       <register name="0" type="4">
         <text>symbolFilter(position.security.symbol)</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICcnCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeW1ib2xGaWx0ZXJcPg==</text>
+        <text encoding="base64">XDxpc0xvZ2luXD4=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeW1ib2xGaWx0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxpc0xvZ2luXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeW1ib2xGaWx0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc0xvZ2luXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxzeW1ib2xGaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxpc0xvZ2luXD4=</entry>
       </history-search>
     </history>
     <shortcut-conflicts />

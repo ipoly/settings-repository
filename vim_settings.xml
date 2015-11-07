@@ -3,10 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/integrations.coffee" timestamp="1446860552031">
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="[" line="71" column="0" />
+      <file name="$USER_HOME$/Repo/web/src/application/common/directives/form/rc-position/rc-position.coffee" timestamp="1446861369768">
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1446861208984">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" timestamp="1446307176217">
         <mark key="]" line="20" column="18" />
@@ -17,41 +20,37 @@
     <jumps />
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">IH0=</text>
+        <text>b</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIyBUZXN0IGFjY291bnQuCiAgICAgIHVubGVzcyAvd3d3fHN0YWdpbmcvLnRlc3QgbG9jYXRpb24uaG9zdAogICAgICAgIGFuZ3VsYXIubWVyZ2UgY29uZmlnLCB7CiAgICAgICAgICB1c2VybmFtZTogJ3N1eWFuMDgzMCsxJwogICAgICAgICAgcGFzc3dvcmQ6ICcxMjM0cXdlcicKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">eyA=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBUZXN0IGFjY291bnQuCiAgICAgIHVubGVzcyAvd3d3fHN0YWdpbmcvLnRlc3QgbG9jYXRpb24uaG9zdAogICAgICAgIGFuZ3VsYXIubWVyZ2UgY29uZmlnLCB7CiAgICAgICAgICB1c2VybmFtZTogJ3N1eWFuMDgzMCsxJwogICAgICAgICAgcGFzc3dvcmQ6ICcxMjM0cXdlcicKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>href</text>
-      </register>
-      <register name="6" type="4">
-        <text>config</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogJ3N1eWFuMDgzMCsxJwogICAgICAgIHBhc3N3b3JkOiAnMTIzNHF3ZXInCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        type: type
-        username: 'suyan0830+1'
-        password: '1234qwer'
-      }</text>
+      <register name="2" type="4">
+        <text>-</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>b</text>
+      </register>
+      <register name="6" type="4">
+        <text>-</text>
+      </register>
+      <register name="5" type="4">
+        <text>u</text>
+      </register>
+      <register name="4" type="4">
+        <text>i</text>
+      </register>
+      <register name="9" type="4">
+        <text>u</text>
+      </register>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyA=</text>
+        <text>-</text>
       </register>
     </registers>
     <search>

@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/integrations.coffee" timestamp="1446860552031">
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="[" line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" timestamp="1446307176217">
         <mark key="]" line="20" column="18" />
         <mark key="." line="20" column="18" />
@@ -11,21 +16,54 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="3" type="4">
+        <text encoding="base64">IH0=</text>
       </register>
-      <register name="1" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIyBUZXN0IGFjY291bnQuCiAgICAgIHVubGVzcyAvd3d3fHN0YWdpbmcvLnRlc3QgbG9jYXRpb24uaG9zdAogICAgICAgIGFuZ3VsYXIubWVyZ2UgY29uZmlnLCB7CiAgICAgICAgICB1c2VybmFtZTogJ3N1eWFuMDgzMCsxJwogICAgICAgICAgcGFzc3dvcmQ6ICcxMjM0cXdlcicKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">eyA=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIyBUZXN0IGFjY291bnQuCiAgICAgIHVubGVzcyAvd3d3fHN0YWdpbmcvLnRlc3QgbG9jYXRpb24uaG9zdAogICAgICAgIGFuZ3VsYXIubWVyZ2UgY29uZmlnLCB7CiAgICAgICAgICB1c2VybmFtZTogJ3N1eWFuMDgzMCsxJwogICAgICAgICAgcGFzc3dvcmQ6ICcxMjM0cXdlcicKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>href</text>
+      </register>
+      <register name="6" type="4">
+        <text>config</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogJ3N1eWFuMDgzMCsxJwogICAgICAgIHBhc3N3b3JkOiAnMTIzNHF3ZXInCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>{
+        type: type
+        username: 'suyan0830+1'
+        password: '1234qwer'
+      }</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">eyA=</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>

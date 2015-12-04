@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.coffee" timestamp="1449240026376">
-        <mark key="'" line="26" column="31" />
+        <mark key="'" line="25" column="31" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -15,11 +15,29 @@
         <mark key="]" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/common/directives/form/restrict.coffee" timestamp="1449242956149">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="50" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" timestamp="1449243737227">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" timestamp="1449240351740">
         <mark key="'" line="40" column="10" />
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="19" />
         <mark key="." line="54" column="18" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/main.coffee" timestamp="1449242405901">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="^" line="57" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -30,37 +48,54 @@
       <jump line="10" column="55" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.jade" />
       <jump line="62" column="32" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" />
       <jump line="40" column="10" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" />
+      <jump line="20" column="102" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
+      <jump line="0" column="23" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>l</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGNhY2hlCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>, aclForm</text>
-      </register>
-      <register name="4" type="4">
-        <text>, formCtrl</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybUN0cmw/LiRzZXRQcmlzdGluZSgpCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgICRzY29wZS5maWx0ZXIucGVyaW9kLCAkc2NvcGUuJGV2YWwoJGF0dHJzLm5nTW9kZWwpLCAkc2NvcGUuJGV2YWwoJ2ZpbHRlci5wZXJpb2QnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>ngModel.$modelValue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2xzXD4=</text>
+        <text encoding="base64">XDxwZXJpb2RcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>$scope.$eval($attrs.ngModel)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgICRzY29wZS5maWx0ZXIucGVyaW9kLCAkc2NvcGUuJGV2YWwoJGF0dHJzLm5nTW9kZWwpLCAkc2NvcGUuJGV2YWwoJ2ZpbHRlci5wZXJpb2QnKQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>ngModel.$modelValue</text>
+      </register>
+      <register name="3" type="4">
+        <text>c</text>
+      </register>
+      <register name="4" type="4">
+        <text>n</text>
+      </register>
+      <register name="5" type="4">
+        <text>y</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="4">
+        <text>A</text>
+      </register>
+      <register name="8" type="4">
+        <text>$scope.</text>
+      </register>
+      <register name="9" type="4">
+        <text>c</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2xzXD4=</last-search>
+      <last-search encoding="base64">XDxwZXJpb2RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2xzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwZXJpb2RcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -69,6 +104,7 @@
         <entry encoding="base64">XDxmb3JtQ3RybFw+</entry>
         <entry encoding="base64">XDxhY2xGb3JtXD4=</entry>
         <entry encoding="base64">XDxhY2xzXD4=</entry>
+        <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
       </history-search>
     </history>
     <shortcut-conflicts />

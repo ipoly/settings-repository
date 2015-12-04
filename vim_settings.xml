@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.coffee" timestamp="1449238519516">
-        <mark key="'" line="25" column="31" />
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.coffee" timestamp="1449240026376">
+        <mark key="'" line="26" column="31" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.jade" timestamp="1449238568477">
         <mark key="'" line="10" column="55" />
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="31" />
         <mark key="." line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" timestamp="1449240351740">
+        <mark key="'" line="40" column="10" />
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="54" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -22,31 +28,39 @@
       <jump line="25" column="31" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.coffee" />
       <jump line="21" column="23" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.jade" />
       <jump line="10" column="55" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.jade" />
+      <jump line="62" column="32" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" />
+      <jump line="40" column="10" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>, aclForm</text>
+        <text>l</text>
       </register>
       <register name="&quot;" type="4">
+        <text>l</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nIGNhY2hlCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>, aclForm</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>, formCtrl</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9ybUN0cmw/LiRzZXRQcmlzdGluZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, aclForm</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2xGb3JtXD4=</text>
+        <text encoding="base64">XDxhY2xzXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2xGb3JtXD4=</last-search>
+      <last-search encoding="base64">XDxhY2xzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2xGb3JtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhY2xzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -54,6 +68,7 @@
       <history-search>
         <entry encoding="base64">XDxmb3JtQ3RybFw+</entry>
         <entry encoding="base64">XDxhY2xGb3JtXD4=</entry>
+        <entry encoding="base64">XDxhY2xzXD4=</entry>
       </history-search>
     </history>
     <shortcut-conflicts />

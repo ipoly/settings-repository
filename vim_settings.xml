@@ -3,13 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" timestamp="1449852483438">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.coffee" timestamp="1449240026376">
         <mark key="'" line="25" column="31" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.jade" timestamp="1449238568477">
+      <file name="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" timestamp="1449852199909">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.jade" timestamp="1449851474278">
         <mark key="'" line="10" column="55" />
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="31" />
@@ -50,52 +60,55 @@
       <jump line="40" column="10" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" />
       <jump line="20" column="102" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
       <jump line="0" column="23" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
+      <jump line="31" column="14" filename="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" />
+      <jump line="25" column="12" filename="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" />
+      <jump line="16" column="24" filename="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgICRzY29wZS5maWx0ZXIucGVyaW9kLCAkc2NvcGUuJGV2YWwoJGF0dHJzLm5nTW9kZWwpLCAkc2NvcGUuJGV2YWwoJ2ZpbHRlci5wZXJpb2QnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>accessible_plans</text>
       </register>
       <register name="-" type="4">
-        <text>ngModel.$modelValue</text>
+        <text>11111</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJpb2RcPg==</text>
+        <text encoding="base64">XDxsb2NhdGlvblVybFw+</text>
       </register>
       <register name="0" type="4">
-        <text>$scope.$eval($attrs.ngModel)</text>
+        <text>accessible_plans</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgICRzY29wZS5maWx0ZXIucGVyaW9kLCAkc2NvcGUuJGV2YWwoJGF0dHJzLm5nTW9kZWwpLCAkc2NvcGUuJGV2YWwoJ2ZpbHRlci5wZXJpb2QnKQo=</text>
+      <register name="1" type="4">
+        <text>11111</text>
       </register>
-      <register name="2" type="4">
-        <text>ngModel.$modelValue</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cgMTExMQo=</text>
       </register>
       <register name="3" type="4">
-        <text>c</text>
+        <text>11111</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>.accessible_plans</text>
       </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text encoding="base64">WzBdIA==</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgICRzY29wZS5maWx0ZXIucGVyaW9kLCAkc2NvcGUuJGV2YWwoJGF0dHJzLm5nTW9kZWwpLCAkc2NvcGUuJGV2YWwoJ2ZpbHRlci5wZXJpb2QnKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>A</text>
+        <text>ngModel.$modelValue</text>
       </register>
       <register name="8" type="4">
-        <text>$scope.</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJpb2RcPg==</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvblVybFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJpb2RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvblVybFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -105,6 +118,7 @@
         <entry encoding="base64">XDxhY2xGb3JtXD4=</entry>
         <entry encoding="base64">XDxhY2xzXD4=</entry>
         <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblVybFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

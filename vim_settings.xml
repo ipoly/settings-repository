@@ -15,8 +15,11 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451725709376">
+      <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451726872630">
         <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" timestamp="1449243737227">
         <mark key="'" line="0" column="23" />
@@ -24,7 +27,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1451725545289">
+      <file name="/a.dummy" timestamp="1451727372022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/main.coffee" timestamp="1449242405901">

@@ -15,6 +15,12 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="50" />
       </file>
+      <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="6" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" timestamp="1449243737227">
         <mark key="'" line="0" column="23" />
         <mark key="[" line="20" column="0" />
@@ -44,43 +50,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accessible_plans</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>11111</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvblVybFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>accessible_plans</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyAxMTEK</text>
       </register>
       <register name="1" type="4">
-        <text>11111</text>
+        <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cgMTExMQo=</text>
+      <register name="2" type="4">
+        <text>111</text>
       </register>
-      <register name="3" type="4">
-        <text>11111</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGZpbGVzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.accessible_plans</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb24K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">WzBdIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbG9jYWxzOgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgZGV2ZWxvcDogY29uZmlnLklTX0xPQ0FMCiAgICAgIHByZXR0eTogY29uZmlnLklTX0xPQ0FMCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgICRzY29wZS5maWx0ZXIucGVyaW9kLCAkc2NvcGUuJGV2YWwoJGF0dHJzLm5nTW9kZWwpLCAkc2NvcGUuJGV2YWwoJ2ZpbHRlci5wZXJpb2QnKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cgcGF0aF9zcmMK</text>
       </register>
       <register name="7" type="4">
-        <text>ngModel.$modelValue</text>
+        <text>dest_patiwp</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>h</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>11111</text>
       </register>
     </registers>
     <search>

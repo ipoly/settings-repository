@@ -15,11 +15,8 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="6" />
+      <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451725709376">
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" timestamp="1449243737227">
         <mark key="'" line="0" column="23" />
@@ -27,12 +24,26 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1451725545289">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/main.coffee" timestamp="1449242405901">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="57" column="30" />
         <mark key="." line="57" column="30" />
         <mark key="^" line="57" column="30" />
       </file>
+      <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/_layout.jade" timestamp="1451725322670">
+        <mark key="'" line="20" column="39" />
+        <mark key="[" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/build/replace_config.json" timestamp="1451725150940" />
     </filemarks>
     <jumps>
       <jump line="20" column="33" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.jade" />
@@ -47,52 +58,55 @@
       <jump line="31" column="14" filename="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" />
       <jump line="25" column="12" filename="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" />
       <jump line="16" column="24" filename="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" />
+      <jump line="25" column="37" filename="$USER_HOME$/Repo/web/src/application/_layout.jade" />
+      <jump line="16" column="41" filename="$USER_HOME$/Repo/web/src/application/_layout.jade" />
+      <jump line="20" column="39" filename="$USER_HOME$/Repo/web/src/application/_layout.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>error.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>error.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhdGlvblVybFw+</text>
+        <text encoding="base64">XDxyYXZlbmpzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyAxMTEK</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>error.</text>
       </register>
       <register name="2" type="4">
+        <text>,</text>
+      </register>
+      <register name="3" type="4">
         <text>111</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGZpbGVzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb24K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgbG9jYWxzOgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgZGV2ZWxvcDogY29uZmlnLklTX0xPQ0FMCiAgICAgIHByZXR0eTogY29uZmlnLklTX0xPQ0FMCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc29sZS5sb2cgcGF0aF9zcmMK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>dest_patiwp</text>
       </register>
-      <register name="8" type="4">
-        <text>h</text>
-      </register>
       <register name="9" type="4">
-        <text>11111</text>
+        <text>h</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhdGlvblVybFw+</last-search>
+      <last-search encoding="base64">XDxyYXZlbmpzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhdGlvblVybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyYXZlbmpzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -103,6 +117,7 @@
         <entry encoding="base64">XDxhY2xzXD4=</entry>
         <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxsb2NhdGlvblVybFw+</entry>
+        <entry encoding="base64">XDxyYXZlbmpzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

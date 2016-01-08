@@ -21,11 +21,20 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1452221621382">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="23" />
+        <mark key="." line="88" column="23" />
+        <mark key="^" line="88" column="23" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" timestamp="1449243737227">
         <mark key="'" line="0" column="23" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1452221482179">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/main.coffee" timestamp="1449242405901">
         <mark key="[" line="56" column="22" />
@@ -64,10 +73,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error.</text>
+        <text>amount</text>
       </register>
       <register name="-" type="4">
-        <text>error.</text>
+        <text>amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYXZlbmpzXD4=</text>
@@ -76,31 +85,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyAxMTEK</text>
       </register>
       <register name="1" type="4">
-        <text>error.</text>
+        <text>amount</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>error.</text>
       </register>
       <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="4">
         <text>111</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGZpbGVzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb24K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgbG9jYWxzOgogICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgZGV2ZWxvcDogY29uZmlnLklTX0xPQ0FMCiAgICAgIHByZXR0eTogY29uZmlnLklTX0xPQ0FMCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uc29sZS5sb2cgcGF0aF9zcmMK</text>
       </register>
-      <register name="8" type="4">
-        <text>dest_patiwp</text>
-      </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text>dest_patiwp</text>
       </register>
     </registers>
     <search>

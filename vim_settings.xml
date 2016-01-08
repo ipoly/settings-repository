@@ -40,10 +40,11 @@
         <mark key="." line="57" column="30" />
         <mark key="^" line="57" column="30" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" timestamp="1452237686272">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" timestamp="1452239363425">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
         <mark key="[" line="16" column="7" />
@@ -55,11 +56,11 @@
         <mark key="'" line="20" column="39" />
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.jade" timestamp="1452237551366">
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="65" />
-        <mark key="." line="7" column="65" />
-        <mark key="^" line="7" column="65" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.jade" timestamp="1452240013981">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="21" column="37" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" timestamp="1452236643144">
         <mark key="'" line="55" column="6" />
@@ -91,8 +92,6 @@
       <jump line="14" column="43" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" />
       <jump line="83" column="10" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" />
       <jump line="19" column="26" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
-      <jump line="7" column="3" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
-      <jump line="9" column="29" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
       <jump line="48" column="16" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="82" column="58" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="84" column="6" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
@@ -101,52 +100,56 @@
       <jump line="41" column="3" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="47" column="3" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="55" column="6" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
+      <jump line="9" column="11" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
+      <jump line="7" column="3" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
+      <jump line="16" column="11" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
+      <jump line="23" column="13" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TD Ameritrade</text>
       </register>
       <register name="-" type="4">
-        <text>tdAmeritrade</text>
+        <text>TD Ameritrade</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRSZWxhdGl2ZU9ialw+</text>
+        <text encoding="base64">XDxzd2l0Y2hQYW5lbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyAxMTEK</text>
+        <text encoding="base64">ICAgICRzY29wZS5zd2l0Y2hQYW5lbCA9IChwYW5lbE5hbWUpIC0+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>TD Ameritrade</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgJyRzY29wZScKICAnbmV0V29ydGhJbnRlZ3JhdGlvbicKICAnJHN0YXRlJwogICgkc2NvcGUsIG5ldFdvcnRoSW50ZWdyYXRpb24sICRzdGF0ZSkgLT4KICAgICRzY29wZS5pc05ldFdvcnRoID0gJHN0YXRlLmlzICdwcm9maWxlLm5ldC13b3J0aCcKCiAgICAkc2NvcGUubW9kYWxDb25maWcgPSB7CiAgICAgIHBhbmVsTmFtZTogJ3NlYXJjaCcKICAgIH0KCiAgICAkc2NvcGUuc3dpdGNoUGFuZWwgPSAocGFuZWxOYW1lKSAtPgogICAgICAkc2NvcGUubW9kYWxDb25maWcucGFuZWxOYW1lID0gcGFuZWxOYW1lCgo=</text>
+        <text>tdAmeritrade</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLmludGVncmF0aW9uVHlwZSA9IHR5cGUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5uZXRXb3J0aEludGVncmF0aW9uID0gbmV0V29ydGhJbnRlZ3JhdGlvbgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PSAocGFuZWxOYW1lKSAtPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAnbmV0V29ydGhJbnRlZ3JhdGlvbicK</text>
+        <text encoding="base64">ICAkc2NvcGUuc3dpdGNoUGFuZWwgPSAocGFuZWxOYW1lKSAtPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>tdAmeritrade</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>tdAmeritrade</text>
+        <text>TD Ameritrade</text>
       </register>
       <register name="8" type="4">
-        <text>tdAmeritrade</text>
+        <text>integration</text>
       </register>
       <register name="9" type="4">
-        <text>tdAmeritrade</text>
+        <text>switchPanel</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRSZWxhdGl2ZU9ialw+</last-search>
+      <last-search encoding="base64">XDxzd2l0Y2hQYW5lbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRSZWxhdGl2ZU9ialw+</last-pattern>
+      <last-pattern encoding="base64">XDxzd2l0Y2hQYW5lbFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -160,8 +163,9 @@
         <entry encoding="base64">XDxyYXZlbmpzXD4=</entry>
         <entry encoding="base64">XDxDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDx0ZEFtZXJpdHJhZGVcPg==</entry>
-        <entry encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRSZWxhdGl2ZU9ialw+</entry>
+        <entry encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzd2l0Y2hQYW5lbFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

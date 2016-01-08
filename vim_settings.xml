@@ -65,12 +65,11 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" timestamp="1452242467666">
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" timestamp="1452243668754">
         <mark key="'" line="7" column="10" />
-        <mark key="[" line="89" column="40" />
-        <mark key="]" line="89" column="50" />
-        <mark key="." line="89" column="50" />
-        <mark key="^" line="89" column="50" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/build/replace_config.json" timestamp="1451725150940" />
     </filemarks>
@@ -122,44 +121,44 @@
       <jump line="7" column="10" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>integrationnetWorthIntegration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdXJsID0gQVBJLnJvb3QgKyAiaW50ZWdyYXRpb25zP3R5cGU9I3t0eXBlfSIK</text>
       </register>
       <register name="-" type="4">
-        <text>integrationnetWorthIntegration</text>
+        <text>#{type}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5zd2l0Y2hQYW5lbCA9IChwYW5lbE5hbWUpIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgdXJsID0gQVBJLnJvb3QgKyAiaW50ZWdyYXRpb25zP3R5cGU9I3t0eXBlfSIK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>#{type}</text>
+      </register>
+      <register name="5" type="4">
         <text>integrationnetWorthIntegration</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>netWorthIntegration</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Y29uc29sZS5sb2cg</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgJHNjb3BlLiR3YXRjaCAndHlwZScsICh0eXBlKSAtPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLnN3aXRjaFBhbmVsID0gJHNjb3BlLiRwYXJlbnQuc3dpdGNoUGFuZWwKICAgICAgJHNjb3BlLiR3YXRjaCAndHlwZScsICh0eXBlKSAtPgogICAgICAgIGNvbnNvbGUubG9nIGludGVncmF0aW9uVHlwZSA9IHR5cGUucmVwbGFjZSgvXHMvLCAnXycpLnRvTG93ZXJDYXNlKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLiR3YXRjaCAndHlwZScsICh0eXBlKSAtPgogICAgICAgIGNvbnNvbGUubG9nIGludGVncmF0aW9uVHlwZSA9IHR5cGUucmVwbGFjZSgvXHMvLCAnXycpLnRvTG93ZXJDYXNlKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW50ZWdyYXRpb24gPSAK</text>
-      </register>
-      <register name="8" type="4">
-        <text>td_ameritrade</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29sbGVjdGlvbiA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLnN3aXRjaFBhbmVsID0gJHNjb3BlLiRwYXJlbnQuc3dpdGNoUGFuZWwKICAgICAgJHNjb3BlLiR3YXRjaCAndHlwZScsICh0eXBlKSAtPgogICAgICAgIGNvbnNvbGUubG9nIGludGVncmF0aW9uVHlwZSA9IHR5cGUucmVwbGFjZSgvXHMvLCAnXycpLnRvTG93ZXJDYXNlKCkK</text>
       </register>
     </registers>
     <search>

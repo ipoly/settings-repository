@@ -3,17 +3,66 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" timestamp="1449852199909">
-        <mark key="'" line="16" column="24" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.jade" timestamp="1452250139623">
+        <mark key="[" line="23" column="106" />
+        <mark key="]" line="23" column="106" />
+        <mark key="." line="23" column="106" />
+        <mark key="^" line="22" column="85" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/common/directives/form/restrict.coffee" timestamp="1449242956149">
         <mark key="[" line="10" column="50" />
         <mark key="]" line="10" column="50" />
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="50" />
+      </file>
+      <file name="/fragment.js" timestamp="1452241407745">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" timestamp="1452247891817">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/integrations.coffee" timestamp="1452248888859">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration-category.coffee" timestamp="1452247834926">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.jade" timestamp="1452249339680">
+        <mark key="[" line="82" column="55" />
+        <mark key="]" line="82" column="56" />
+        <mark key="^" line="82" column="56" />
+        <mark key="." line="82" column="56" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/_layout.jade" timestamp="1451725322670">
+        <mark key="'" line="20" column="39" />
+        <mark key="[" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" timestamp="1452248070291">
+        <mark key="'" line="11" column="25" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/td_ameritrade/main.coffee" timestamp="1452249244899">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451726872630">
         <mark key="[" line="14" column="0" />
@@ -28,42 +77,28 @@
         <mark key="." line="89" column="23" />
         <mark key="^" line="89" column="23" />
       </file>
-      <file name="/fragment.js" timestamp="1452241407745">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" timestamp="1449243737227">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/main.coffee" timestamp="1449242405901">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="57" column="30" />
         <mark key="." line="57" column="30" />
         <mark key="^" line="57" column="30" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" timestamp="1452247891817">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.coffee" timestamp="1452250125735">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration-category.coffee" timestamp="1452247834926">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="0" column="45" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.coffee" timestamp="1452249586507">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="6" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/_layout.jade" timestamp="1451725322670">
-        <mark key="'" line="20" column="39" />
-        <mark key="[" line="68" column="0" />
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.jade" timestamp="1452250386620">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="108" />
+        <mark key="." line="2" column="63" />
+        <mark key="^" line="1" column="79" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration.coffee" timestamp="1452247822848">
         <mark key="[" line="10" column="3" />
@@ -76,13 +111,6 @@
         <mark key="]" line="5" column="88" />
         <mark key="." line="5" column="88" />
         <mark key="^" line="5" column="88" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" timestamp="1452248070291">
-        <mark key="'" line="11" column="25" />
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Repo/web/build/replace_config.json" timestamp="1451725150940" />
     </filemarks>
@@ -139,44 +167,44 @@
       <jump line="11" column="25" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAnQVBJJwogICduZ1Jlc291cmNlJwogICdQJwo=</text>
+      <register name="&quot;" type="4">
+        <text>{{type}}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zcGFuPg==</text>
+        <text>{{type}}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>net-worth-integration</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9J3RleHQtY2FwaXRhbGl6ZSc+e3t0eXBlfX08L3NwYW4+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAnQVBJJwogICduZ1Jlc291cmNlJwogICdQJwo=</text>
+      <register name="1" type="4">
+        <text>{{type}}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmUge3tzb3VyY2V9fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAnbmV0LXdvcnRoLWludGVncmF0aW9uLWNhdGVnb3J5Jwo=</text>
+      <register name="3" type="4">
+        <text>TD Ameritrade</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LmZhY3RvcnkgJ25ldFdvcnRoSW50ZWdyYXRpb24nLCBbCiAgJ0FQSScKICAnJHJlc291cmNlJwogICckcScKICAnbmV0V29ydGhJbnRlZ3JhdGlvbkNhdGVnb3J5JwogIChBUEksICRyZXNvdXJjZSwgJHEsIG5ldFdvcnRoSW50ZWdyYXRpb25DYXRlZ29yeSkgLT4KICAgIGNhY2hlID0ge30KICAgICh0eXBlKSAtPgogICAgICByZXR1cm4gY2FjaGVbdHlwZV0gaWYgY2FjaGVbdHlwZV0KICAgICAgY2FjaGVbdHlwZV0gPSBjb2xsZWN0aW9uID0gW10KCiAgICAgIGNvbGxlY3Rpb24uJHByb21pc2UgPSBuZXRXb3J0aEludGVncmF0aW9uQ2F0ZWdvcnkuJHByb21pc2UudGhlbiAocmVzKSAtPgogICAgICAgIGNhdGVnb3J5ID0gXy53aGVyZSByZXMsIHt0eXBlfQogICAgICAgIHByb21pc2VzID0gXy5tYXAgY2F0ZWdvcnksIChpdGVtKSAtPgogICAgICAgICAgICBSZXNvdXJjZSA9ICRyZXNvdXJjZSAiI3tBUEkucm9vdH1pbnRlZ3JhdGlvbnMvI3tpdGVtLmlkfS9jb25maWcvOnJlZmVyZW5jZSIsCiAgICAgICAgICAgICAge3JlZmVyZW5jZTogJ0ByZWZlcmVuY2UnfSwKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB1cGRhdGU6CiAgICAgICAgICAgICAgICAgIG1ldGhvZDogJ1BVVCcKICAgICAgICAgICAgICAgICAgdHJhbnNmb3JtUmVxdWVzdDogKGRhdGEpIC0+CiAgICAgICAgICAgICAgICAgICAgZGVsZXRlIGRhdGEuYWNjb3VudAogICAgICAgICAgICAgICAgICAgIGFuZ3VsYXIudG9Kc29uIGRhdGEKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIFJlc291cmNlLnF1ZXJ5KCkuJHByb21pc2UKCiAgICAgICAgJHEuYWxsKHByb21pc2VzKS50aGVuIChyZXMpIC0+CiAgICAgICAgICAgIGFuZ3VsYXIuY29weSBfLmZsYXR0ZW4ocmVzKSwgY29sbGVjdGlvbgoKICAgICAgY29sbGVjdGlvbgpdCg==</text>
+      <register name="4" type="4">
+        <text>TD Ameritrade</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAnd2ViU3RvcmFnZScK</text>
+      <register name="5" type="4">
+        <text>}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAnQWNjb3VudHMnCg==</text>
+      <register name="6" type="4">
+        <text>}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAnUCcK</text>
+      <register name="7" type="4">
+        <text>{</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAnbmdSZXNvdXJjZScK</text>
+      <register name="8" type="4">
+        <text>{</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LmZhY3RvcnkgJ25ldFdvcnRoSW50ZWdyYXRpb25DYXRlZ29yeScsIFsKICAnQVBJJwogICckaHR0cCcKICAnJGxvY2FsU3RvcmFnZScKICAoQVBJLCAkaHR0cCwgJGxvY2FsU3RvcmFnZSkgLT4KICAgIGNvbGxlY3Rpb24gPSBbXQogICAgdXNlciA9ICRsb2NhbFN0b3JhZ2UuZ2V0ICd1c2VyJwogICAgaWYgdXNlci50eXBlIGlzbnQgJ2NsaWVudCcKICAgICAgdHlwZXMgPSBbCiAgICAgICAgJ3RkX2FtZXJpdHJhZGUnCiAgICAgICAgJ3NjaHdhYicKICAgICAgXQogICAgICBjb2xsZWN0aW9uLiRwcm9taXNlID0gJGh0dHAuZ2V0IEFQSS5yb290ICsgImludGVncmF0aW9ucz90eXBlPSN7dHlwZXMuam9pbigpfSIKICAgICAgLnRoZW4gKHJlcykgLT4KICAgICAgICBhbmd1bGFyLmNvcHkgcmVzLmRhdGEsIGNvbGxlY3Rpb24KICAgIGNvbGxlY3Rpb24KXQo=</text>
+      <register name="9" type="4">
+        <text>, type='{{humanize(current)}}'</text>
       </register>
     </registers>
     <search>

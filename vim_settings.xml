@@ -18,55 +18,6 @@
       <file name="/fragment.js" timestamp="1452241407745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" timestamp="1452247891817">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/integrations.coffee" timestamp="1452248888859">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration-category.coffee" timestamp="1452247834926">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="0" column="45" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.jade" timestamp="1452249339680">
-        <mark key="[" line="82" column="55" />
-        <mark key="]" line="82" column="56" />
-        <mark key="^" line="82" column="56" />
-        <mark key="." line="82" column="56" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="6" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/_layout.jade" timestamp="1451725322670">
-        <mark key="'" line="20" column="39" />
-        <mark key="[" line="68" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1452516587009">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" timestamp="1452248070291">
-        <mark key="'" line="11" column="25" />
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="39" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/td_ameritrade/main.coffee" timestamp="1452249244899">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="1" column="30" />
-      </file>
       <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451726872630">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
@@ -92,10 +43,38 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" timestamp="1453037618521">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.coffee" timestamp="1452249586507">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/integrations.coffee" timestamp="1452248888859">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration-category.coffee" timestamp="1453037380914">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="6" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="21" column="6" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.jade" timestamp="1452249339680">
+        <mark key="[" line="82" column="55" />
+        <mark key="]" line="82" column="56" />
+        <mark key="^" line="82" column="56" />
+        <mark key="." line="82" column="56" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/build/task-jade.coffee" timestamp="1451723293481">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.jade" timestamp="1452250386620">
         <mark key="[" line="2" column="63" />
@@ -103,17 +82,37 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="1" column="79" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/_layout.jade" timestamp="1451725322670">
+        <mark key="'" line="20" column="39" />
+        <mark key="[" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration.coffee" timestamp="1452247822848">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="4" />
         <mark key="^" line="6" column="29" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="/JavaScript Console" timestamp="1452516587009">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.jade" timestamp="1452247442549">
         <mark key="[" line="5" column="88" />
         <mark key="]" line="5" column="88" />
         <mark key="." line="5" column="88" />
         <mark key="^" line="5" column="88" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" timestamp="1452248070291">
+        <mark key="'" line="11" column="25" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/td_ameritrade/main.coffee" timestamp="1452249244899">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="1" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -167,52 +166,53 @@
       <jump line="5" column="3" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="21" column="20" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="11" column="25" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
+      <jump line="20" column="11" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{{type}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgcmVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{{type}}</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQXD4=</text>
+        <text encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uQ2F0ZWdvcnlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9J3RleHQtY2FwaXRhbGl6ZSc+e3t0eXBlfX08L3NwYW4+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJHByb21pc2UgPSAkcS53aGVuIGNvbGxlY3Rpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>{{type}}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgcmVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmUge3tzb3VyY2V9fQo=</text>
+        <text encoding="base64">ICAgICMkc2NvcGUubmV0V29ydGhJbnRlZ3JhdGlvbkNhdGVnb3J5ID0gTmV0V29ydGhJbnRlZ3JhdGlvbkNhdGVnb3J5Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>TD Ameritrade</text>
+        <text>$</text>
       </register>
       <register name="4" type="4">
-        <text>TD Ameritrade</text>
+        <text>$</text>
       </register>
       <register name="5" type="4">
-        <text>}</text>
+        <text>$q.when collection</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text>collection.</text>
       </register>
       <register name="8" type="4">
-        <text>{</text>
+        <text>collection.</text>
       </register>
       <register name="9" type="4">
-        <text>, type='{{humanize(current)}}'</text>
+        <text>c</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQXD4=</last-search>
+      <last-search encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uQ2F0ZWdvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uQ2F0ZWdvcnlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -234,6 +234,7 @@
         <entry encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uc1w+</entry>
         <entry encoding="base64">XDxQXD4=</entry>
+        <entry encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uQ2F0ZWdvcnlcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

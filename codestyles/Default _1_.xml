@@ -2,7 +2,4 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="CoffeeScript">
-    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
-  </codeStyleSettings>
 </code_scheme>

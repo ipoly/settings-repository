@@ -18,6 +18,10 @@
       <file name="/fragment.js" timestamp="1452241407745">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1455810403705">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1455804698632">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -260,6 +264,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

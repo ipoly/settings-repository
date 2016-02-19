@@ -9,10 +9,11 @@
         <mark key="." line="23" column="106" />
         <mark key="^" line="22" column="85" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/yodlee/services/links.coffee" timestamp="1455896619936">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/yodlee/services/links.coffee" timestamp="1455897841452">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="178" column="20" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/billing/main.coffee" timestamp="1454991785534">
         <mark key="'" line="173" column="16" />
@@ -198,7 +199,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIHJlcy5zdGF0dXMgaXMgMjAwCiAgICAgICAgICAgICAgc2VsZi5pc0xpbmtlZCA9IHRydWUKICAgICAgICAgICAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>switch</text>
@@ -207,34 +208,34 @@
         <text encoding="base64">XDxzdG9wXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN3aXRjaCByZXMuc3RhdHVzCiAgICAgICAgICAgIHdoZW4gMjAwCiAgICAgICAgICAgICAgc2VsZi5pc0xpbmtlZCA9IHRydWUKICAgICAgICAgICAgICByZXMKICAgICAgICAgICAgd2hlbiAyMDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLmlzTGlua2VkID0gdHJ1ZQogICAgICAgICAgICAgIHJlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIHJlcy5zdGF0dXMgaXMgMjAwCiAgICAgICAgICAgICAgc2VsZi5pc0xpbmtlZCA9IHRydWUKICAgICAgICAgICAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAyMDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAyMDIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2hlbiAyMDAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>switch</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICMgU3V5YW4gc2FpZCBub3QgdXBkYXRlIGxpbmsgb2JqZWN0Lgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>@</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{@</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>includes</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHlvZGxlZS1yZWxpbmsobGluay1pZD0nYWNjb3VudC5saW5rX2lkJykK</text>
       </register>
     </registers>
     <search>

@@ -61,6 +61,12 @@
         <mark key="." line="57" column="30" />
         <mark key="^" line="57" column="30" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" timestamp="1455964552772">
+        <mark key="[" line="142" column="66" />
+        <mark key="]" line="142" column="67" />
+        <mark key="." line="142" column="67" />
+        <mark key="^" line="142" column="17" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.coffee" timestamp="1452250125735">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -88,7 +94,7 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="21" column="6" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.jade" timestamp="1452249339680">
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.jade" timestamp="1455964525006">
         <mark key="[" line="82" column="55" />
         <mark key="]" line="82" column="56" />
         <mark key="^" line="82" column="56" />
@@ -199,7 +205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIHJlcy5zdGF0dXMgaXMgMjAwCiAgICAgICAgICAgICAgc2VsZi5pc0xpbmtlZCA9IHRydWUKICAgICAgICAgICAgICByZXR1cm4gcmVzCg==</text>
+        <text encoding="base64">ICAgICAgYWNjb3VudHMuc3VtKCkgKyBob21lcy5zdW0oKSArIGluc3VyYW5jZXMuc3VtKCkgKyBhc3NldHMuc3VtKCkK</text>
       </register>
       <register name="-" type="4">
         <text>switch</text>
@@ -208,7 +214,7 @@
         <text encoding="base64">XDxzdG9wXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLmlzTGlua2VkID0gdHJ1ZQogICAgICAgICAgICAgIHJlcwo=</text>
+        <text encoding="base64">ICAgICAgYWNjb3VudHMuc3VtKCkgKyBob21lcy5zdW0oKSArIGluc3VyYW5jZXMuc3VtKCkgKyBhc3NldHMuc3VtKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIHJlcy5zdGF0dXMgaXMgMjAwCiAgICAgICAgICAgICAgc2VsZi5pc0xpbmtlZCA9IHRydWUKICAgICAgICAgICAgICByZXR1cm4gcmVzCg==</text>

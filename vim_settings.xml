@@ -134,7 +134,7 @@
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/info/main.coffee" timestamp="1456302485731">
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/info/main.coffee" timestamp="1456303309250">
         <mark key="'" line="32" column="21" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.jade" timestamp="1452250386620">
@@ -143,6 +143,7 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="1" column="79" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/services/APIs/PeopleList.coffee" timestamp="1456303191253" />
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration.coffee" timestamp="1452247822848">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="4" />

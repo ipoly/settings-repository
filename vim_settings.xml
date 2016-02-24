@@ -132,11 +132,10 @@
         <mark key="." line="142" column="59" />
         <mark key="^" line="142" column="75" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" timestamp="1456307349053">
-        <mark key="[" line="62" column="6" />
-        <mark key="]" line="62" column="7" />
-        <mark key="." line="62" column="7" />
-        <mark key="^" line="62" column="10" />
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" timestamp="1456307978388">
+        <mark key="[" line="42" column="66" />
+        <mark key="]" line="42" column="66" />
+        <mark key="." line="42" column="66" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.coffee" timestamp="1452250125735">
         <mark key="[" line="7" column="13" />
@@ -253,11 +252,11 @@
       <jump line="77" column="15" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUudW5SZWFkeSA9IGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>, $timeout</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, $timeout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1blJlYWR5XD4=</text>
@@ -265,26 +264,26 @@
       <register name="0" type="4">
         <text>!households</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>, $timeout</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAnJHRpbWVvdXQnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICwgMjAwMDAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICR0aW1lb3V0IC0+Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkc2NvcGUudW5SZWFkeSA9IGZhbHNlCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="6" type="4">
-        <text>(ng-if=&quot;!households&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50ZXh0LWNlbnRlcgogICAgICAgICAgICAuaWNvbi1yZWZyZXNoaW5nKG5nLWlmPSIhaG91c2Vob2xkcyIpCiAgICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>

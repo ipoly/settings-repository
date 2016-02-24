@@ -46,6 +46,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/main.jade" timestamp="1456305539648">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="40" />
+        <mark key="^" line="40" column="40" />
+        <mark key="." line="40" column="40" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/integrations.coffee" timestamp="1452248888859">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="27" />
@@ -122,6 +128,13 @@
         <mark key="]" line="142" column="59" />
         <mark key="." line="142" column="59" />
         <mark key="^" line="142" column="75" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" timestamp="1456305477785">
+        <mark key="'" line="44" column="31" />
+        <mark key="[" line="62" column="10" />
+        <mark key="]" line="62" column="10" />
+        <mark key="." line="62" column="10" />
+        <mark key="^" line="62" column="10" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.coffee" timestamp="1452250125735">
         <mark key="[" line="7" column="13" />
@@ -228,58 +241,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="16" column="3" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="32" column="21" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/info/main.coffee" />
+      <jump line="56" column="26" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
+      <jump line="63" column="20" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
+      <jump line="96" column="31" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
+      <jump line="97" column="13" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
+      <jump line="99" column="40" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
+      <jump line="28" column="6" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
+      <jump line="47" column="31" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaG91c2Vob2xkczogWwogICAgICAgICdIb3VzZWhvbGRzJwogICAgICAgIChIb3VzZWhvbGRzKSAtPiBIb3VzZWhvbGRzLiRwcm9taXNlCiAgICAgIF0K</text>
       </register>
       <register name="-" type="4">
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZW9wbGVDYWNoZVw+</text>
+        <text encoding="base64">XDxob3VzZWhvbGRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYWNjb3VudHMuc3VtKCkgKyBob21lcy5zdW0oKSArIGluc3VyYW5jZXMuc3VtKCkgKyBhc3NldHMuc3VtKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgaG91c2Vob2xkczogWwogICAgICAgICdIb3VzZWhvbGRzJwogICAgICAgIChIb3VzZWhvbGRzKSAtPiBIb3VzZWhvbGRzLiRwcm9taXNlCiAgICAgIF0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgYWNjb3VudHMuc3VtKCkgLCBob21lcy5zdW0oKSAsIGluc3VyYW5jZXMuc3VtKCkgLCBhc3NldHMuc3VtKCkK</text>
+        <text encoding="base64">ICAgIEhvdXNlaG9sZHMuJHByb21pc2UudGhlbiAoaG91c2Vob2xkcykgLT4KICAgICAgJHNjb3BlLmhvdXNlaG9sZHMgPSBob3VzZWhvbGRzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>+</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgYXNzZXRzCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">KGFzc2V0KSAtPiBhc3NldC52YWx1ZQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIHJlcy5zdGF0dXMgaXMgMjAwCiAgICAgICAgICAgICAgc2VsZi5pc0xpbmtlZCA9IHRydWUKICAgICAgICAgICAgICByZXR1cm4gcmVzCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgYWNjb3VudHMuc3VtKCkgLCBob21lcy5zdW0oKSAsIGluc3VyYW5jZXMuc3VtKCkgLCBhc3NldHMuc3VtKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZW9wbGVDYWNoZVw+</last-search>
+      <last-search encoding="base64">XDxob3VzZWhvbGRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZW9wbGVDYWNoZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxob3VzZWhvbGRzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhdGlvblVybFw+</entry>
         <entry encoding="base64">XDxyYXZlbmpzXD4=</entry>
         <entry encoding="base64">XDxDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDx0ZEFtZXJpdHJhZGVcPg==</entry>
@@ -299,6 +318,7 @@
         <entry encoding="base64">XDxhY2NvdW50c1w+</entry>
         <entry encoding="base64">XDxob21lc1w+</entry>
         <entry encoding="base64">XDxwZW9wbGVDYWNoZVw+</entry>
+        <entry encoding="base64">XDxob3VzZWhvbGRzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

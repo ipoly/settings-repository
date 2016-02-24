@@ -134,6 +134,9 @@
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/info/main.coffee" timestamp="1456302485731">
+        <mark key="'" line="32" column="21" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.jade" timestamp="1452250386620">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="108" />
@@ -223,6 +226,7 @@
       <jump line="215" column="11" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" />
       <jump line="16" column="3" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" />
+      <jump line="32" column="21" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/info/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -232,7 +236,7 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob21lc1w+</text>
+        <text encoding="base64">XDxwZW9wbGVDYWNoZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYWNjb3VudHMuc3VtKCkgKyBob21lcy5zdW0oKSArIGluc3VyYW5jZXMuc3VtKCkgKyBhc3NldHMuc3VtKCkK</text>
@@ -266,15 +270,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxob21lc1w+</last-search>
+      <last-search encoding="base64">XDxwZW9wbGVDYWNoZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob21lc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwZW9wbGVDYWNoZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxsb2NhdGlvblVybFw+</entry>
         <entry encoding="base64">XDxyYXZlbmpzXD4=</entry>
         <entry encoding="base64">XDxDYXRlZ29yaWVzXD4=</entry>
@@ -294,6 +297,7 @@
         <entry encoding="base64">XDxpbnN1cmFuY2VzXD4=</entry>
         <entry encoding="base64">XDxhY2NvdW50c1w+</entry>
         <entry encoding="base64">XDxob21lc1w+</entry>
+        <entry encoding="base64">XDxwZW9wbGVDYWNoZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

@@ -49,6 +49,15 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/tasks/main.jade" timestamp="1456569032764">
+        <mark key="'" line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/tasks/tasks.coffee" timestamp="1456569257162">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/main.jade" timestamp="1456568345770">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="17" column="46" />
@@ -258,58 +267,61 @@
       <jump line="28" column="6" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
       <jump line="47" column="31" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
       <jump line="77" column="15" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
+      <jump line="15" column="14" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/tasks/main.jade" />
+      <jump line="14" column="30" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/tasks/main.jade" />
+      <jump line="13" column="23" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/tasks/main.jade" />
+      <jump line="12" column="17" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/tasks/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ng-repeat=&quot;household in households | filter: {name: keyword} | orderBy:'name'&quot;, ng-click='select(household)', ng-class='isActive(household)'</text>
+        <text>task</text>
       </register>
       <register name="-" type="4">
-        <text>ng-repeat=&quot;household in households | filter: {name: keyword} | orderBy:'name'&quot;, ng-click='select(household)', ng-class='isActive(household)'</text>
+        <text>task</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1blJlYWR5XD4=</text>
+        <text encoding="base64">XDx0YWJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>!households</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuICd0YXNrJwogICAgICAgICAgb3B0LmFzc2lnbmVlID0gJ2NsaWVudCcK</text>
       </register>
       <register name="1" type="4">
+        <text>task</text>
+      </register>
+      <register name="2" type="4">
         <text>ng-repeat=&quot;household in households | filter: {name: keyword} | orderBy:'name'&quot;, ng-click='select(household)', ng-class='isActive(household)'</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgJHNjb3BlLnNlbGVjdCBob3VzZWhvbGRzWzBdCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAnSG91c2Vob2xkcycK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEhvdXNlaG9sZHMuJHByb21pc2UudGhlbiAoaG91c2Vob2xkcykgLT4KICAgICAgJHNjb3BlLmhvdXNlaG9sZHMgPSBob3VzZWhvbGRzCiAgICAgICRzY29wZS5zZWxlY3QgaG91c2Vob2xkc1swXQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">SG91c2Vob2xkcywg</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAnSG91c2Vob2xkcycK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>, $timeout</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAnJHRpbWVvdXQnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICwgMjAwMDAK</text>
+        <text encoding="base64">ICAnJHRpbWVvdXQnCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1blJlYWR5XD4=</last-search>
+      <last-search encoding="base64">XDx0YWJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1blJlYWR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDx0ZEFtZXJpdHJhZGVcPg==</entry>
         <entry encoding="base64">XDxnZXRSZWxhdGl2ZU9ialw+</entry>
         <entry encoding="base64">XDxzd2l0Y2hQYW5lbFw+</entry>
@@ -329,6 +341,7 @@
         <entry encoding="base64">XDxwZW9wbGVDYWNoZVw+</entry>
         <entry encoding="base64">XDxob3VzZWhvbGRzXD4=</entry>
         <entry encoding="base64">XDx1blJlYWR5XD4=</entry>
+        <entry encoding="base64">XDx0YWJcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

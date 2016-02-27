@@ -30,7 +30,7 @@
       <file name="/fragment.js" timestamp="1452241407745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1456545000469">
+      <file name="/a.dummy" timestamp="1456546880922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1455804698632">
@@ -138,10 +138,10 @@
         <mark key="." line="142" column="59" />
         <mark key="^" line="142" column="75" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" timestamp="1456307978388">
-        <mark key="[" line="42" column="66" />
-        <mark key="]" line="42" column="66" />
-        <mark key="." line="42" column="66" />
+      <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" timestamp="1456546937327">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.coffee" timestamp="1452250125735">
         <mark key="[" line="7" column="13" />
@@ -168,6 +168,9 @@
         <mark key="]" line="10" column="4" />
         <mark key="^" line="6" column="29" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="/a.txt" timestamp="1456546866506">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.jade" timestamp="1452247442549">
         <mark key="[" line="5" column="88" />
@@ -257,11 +260,11 @@
       <jump line="77" column="15" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, $timeout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAnSG91c2Vob2xkcycK</text>
       </register>
       <register name="-" type="4">
-        <text>, $timeout</text>
+        <text encoding="base64">SG91c2Vob2xkcywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1blJlYWR5XD4=</text>
@@ -269,32 +272,32 @@
       <register name="0" type="4">
         <text>!households</text>
       </register>
-      <register name="1" type="4">
-        <text>, $timeout</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAnSG91c2Vob2xkcycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnJHRpbWVvdXQnCg==</text>
+        <text encoding="base64">ICAgIEhvdXNlaG9sZHMuJHByb21pc2UudGhlbiAoaG91c2Vob2xkcykgLT4KICAgICAgJHNjb3BlLmhvdXNlaG9sZHMgPSBob3VzZWhvbGRzCiAgICAgICRzY29wZS5zZWxlY3QgaG91c2Vob2xkc1swXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICwgMjAwMDAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">SG91c2Vob2xkcywg</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAnSG91c2Vob2xkcycK</text>
+      </register>
+      <register name="5" type="4">
+        <text>, $timeout</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAnJHRpbWVvdXQnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICwgMjAwMDAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICR0aW1lb3V0IC0+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkc2NvcGUudW5SZWFkeSA9IGZhbHNlCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

@@ -30,14 +30,13 @@
       <file name="/fragment.js" timestamp="1452241407745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1457244218237">
+      <file name="/a.dummy" timestamp="1457246982992">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1457243856463">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1457247841426">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/assets.coffee" timestamp="1455965895457">
         <mark key="[" line="40" column="0" />
@@ -117,11 +116,15 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1457244939200">
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1457246901541">
         <mark key="'" line="54" column="6" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+        <mark key="[" line="172" column="7" />
+        <mark key="]" line="172" column="49" />
+        <mark key="." line="172" column="49" />
+        <mark key="^" line="172" column="49" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/filters/generators/get-card-name.coffee" timestamp="1457247087094">
+        <mark key="'" line="51" column="17" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/common/filters/formaters/hashWith.coffee" timestamp="1456545220966">
         <mark key="[" line="2" column="22" />
@@ -277,58 +280,59 @@
       <jump line="52" column="23" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" />
       <jump line="53" column="13" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" />
       <jump line="54" column="6" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" />
+      <jump line="53" column="31" filename="$USER_HOME$/Repo/web/src/application/common/filters/generators/get-card-name.coffee" />
+      <jump line="51" column="17" filename="$USER_HOME$/Repo/web/src/application/common/filters/generators/get-card-name.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaG9tZV9sb2FucyA9IF8uY2hhaW4gYWNjb3VudHMuZ3JvdXBzLmxvYW4KICAgICAgLmZpbHRlciAnbG9hbl9hY2NvdW50LmxvYW5zJwogICAgICAudmFsdWUoKQogICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcj0ie3tsb2FuLnR5cGV9fSBMb2FuIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>accounts</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZyZXNoXD4=</text>
+        <text encoding="base64">XDxjYXJkTmFtZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>accounts.groups.loan</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcj0ie3thY2NvdW50IHwgZ2V0Q2FyZE5hbWU6J3BsYWNlaG9sZGVyJ319IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaG9tZV9sb2FucyA9IF8uY2hhaW4gYWNjb3VudHMuZ3JvdXBzLmxvYW4KICAgICAgLmZpbHRlciAnbG9hbl9hY2NvdW50LmxvYW5zJwogICAgICAudmFsdWUoKQogICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcj0ie3tsb2FuLnR5cGV9fSBMb2FuIiwK</text>
       </register>
-      <register name="2" type="4">
-        <text>accounts</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBuZy1zdHlsZT0neyJ0ZXh0LXRyYW5zZm9ybSI6IGxvYW4ubmFtZSA/ICJub3JtYWwiIDogImNhcGl0YWxpemUifScK</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>balance</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>[</text>
+        <text>h</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZyZXNoXD4=</last-search>
+      <last-search encoding="base64">XDxjYXJkTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZyZXNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYXJkTmFtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzd2l0Y2hQYW5lbFw+</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxBY2NvdW50c1w+</entry>
@@ -348,6 +352,7 @@
         <entry encoding="base64">XDx0YWJcPg==</entry>
         <entry encoding="base64">XDxob21lSWRcPg==</entry>
         <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
+        <entry encoding="base64">XDxjYXJkTmFtZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

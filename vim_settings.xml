@@ -30,10 +30,10 @@
       <file name="/fragment.js" timestamp="1452241407745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1456546880922">
+      <file name="/a.dummy" timestamp="1457241524339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1455804698632">
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1457241872015">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
@@ -116,12 +116,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1452222686862">
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/accounts.coffee" timestamp="1457241655688">
         <mark key="'" line="84" column="10" />
-        <mark key="[" line="81" column="33" />
-        <mark key="]" line="89" column="23" />
-        <mark key="." line="89" column="23" />
-        <mark key="^" line="89" column="23" />
+        <mark key="[" line="148" column="59" />
+        <mark key="]" line="148" column="66" />
+        <mark key="." line="148" column="59" />
+        <mark key="^" line="148" column="59" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/common/filters/formaters/hashWith.coffee" timestamp="1456545220966">
         <mark key="[" line="2" column="22" />
@@ -140,7 +140,7 @@
         <mark key="." line="57" column="30" />
         <mark key="^" line="57" column="30" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" timestamp="1455966301268">
+      <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/main.coffee" timestamp="1457241876311">
         <mark key="'" line="16" column="3" />
         <mark key="[" line="142" column="59" />
         <mark key="]" line="142" column="59" />
@@ -274,10 +274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>task</text>
+        <text>balance</text>
       </register>
       <register name="-" type="4">
-        <text>task</text>
+        <text>balance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJcPg==</text>
@@ -286,31 +286,31 @@
         <text encoding="base64">ICAgICAgICB3aGVuICd0YXNrJwogICAgICAgICAgb3B0LmFzc2lnbmVlID0gJ2NsaWVudCcK</text>
       </register>
       <register name="1" type="4">
-        <text>task</text>
+        <text>balance</text>
       </register>
       <register name="2" type="4">
-        <text>ng-repeat=&quot;household in households | filter: {name: keyword} | orderBy:'name'&quot;, ng-click='select(household)', ng-class='isActive(household)'</text>
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLnNlbGVjdCBob3VzZWhvbGRzWzBdCg==</text>
+      <register name="3" type="4">
+        <text>]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAnSG91c2Vob2xkcycK</text>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEhvdXNlaG9sZHMuJHByb21pc2UudGhlbiAoaG91c2Vob2xkcykgLT4KICAgICAgJHNjb3BlLmhvdXNlaG9sZHMgPSBob3VzZWhvbGRzCiAgICAgICRzY29wZS5zZWxlY3QgaG91c2Vob2xkc1swXQo=</text>
+      <register name="5" type="4">
+        <text>[</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">SG91c2Vob2xkcywg</text>
+        <text>[0]?</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAnSG91c2Vob2xkcycK</text>
+      <register name="7" type="4">
+        <text>task</text>
       </register>
       <register name="8" type="4">
-        <text>, $timeout</text>
+        <text>ng-repeat=&quot;household in households | filter: {name: keyword} | orderBy:'name'&quot;, ng-click='select(household)', ng-class='isActive(household)'</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnJHRpbWVvdXQnCg==</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLnNlbGVjdCBob3VzZWhvbGRzWzBdCg==</text>
       </register>
     </registers>
     <search>

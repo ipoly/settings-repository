@@ -30,7 +30,7 @@
       <file name="/fragment.js" timestamp="1452241407745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1457248513009">
+      <file name="/a.dummy" timestamp="1457797452823">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="67" />
       </file>
@@ -67,6 +67,12 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/security/permissions/main.coffee" timestamp="1457797570441">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/integrations.coffee" timestamp="1452248888859">
         <mark key="[" line="18" column="0" />
@@ -164,9 +170,6 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="/a.regexp" timestamp="1457249115754">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.coffee" timestamp="1452249586507">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="3" />
@@ -175,12 +178,7 @@
       <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/info/main.coffee" timestamp="1456303309250">
         <mark key="'" line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/common/notifications/main.jade" timestamp="1457250206309">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="52" />
-        <mark key="." line="39" column="52" />
-        <mark key="^" line="39" column="52" />
-      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/notifications/main.jade" timestamp="1457797452298" />
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.jade" timestamp="1452250386620">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="108" />
@@ -193,7 +191,7 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="/a.txt" timestamp="1456546866506">
+      <file name="/a.txt" timestamp="1457797434814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/main.jade" timestamp="1452247442549">
@@ -305,8 +303,8 @@
       <jump line="9" column="28" filename="$USER_HOME$/Repo/web/src/application/common/notifications/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>activiwity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>activiwity</text>
@@ -317,32 +315,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcj0ie3thY2NvdW50IHwgZ2V0Q2FyZE5hbWU6J3BsYWNlaG9sZGVyJ319IiwK</text>
       </register>
-      <register name="1" type="4">
-        <text>activiwity</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>activiwity</text>
       </register>
       <register name="3" type="4">
-        <text>Client completes a task</text>
+        <text />
       </register>
       <register name="4" type="4">
         <text>Client completes a task</text>
       </register>
       <register name="5" type="4">
-        <text>Send summary notification to me to include the following activites</text>
+        <text>Client completes a task</text>
       </register>
       <register name="6" type="4">
-        <text>Send notification to me when my client completes information collection</text>
+        <text>Send summary notification to me to include the following activites</text>
       </register>
       <register name="7" type="4">
-        <text>Send notification to me when clients creates account</text>
+        <text>Send notification to me when my client completes information collection</text>
       </register>
       <register name="8" type="4">
-        <text>Email notification settings {{user.type}}</text>
+        <text>Send notification to me when clients creates account</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhKG5nLWNsaWNrPScnLCB1aS1zcmVmPSJub3RpZmljYXRpb24iLCBuZy1pZj0iKGFkdmlzb3JQb3J0YWwgJiYgaXNfYWR2aXNvcikgfHwgKGNsaWVudFBvcnRhbCAmJiBpc19jbGllbnQpIikgTm90aWZpY2F0aW9uCg==</text>
+      <register name="9" type="4">
+        <text>Email notification settings {{user.type}}</text>
       </register>
     </registers>
     <search>

@@ -30,10 +30,6 @@
       <file name="/fragment.js" timestamp="1452241407745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1457797452823">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="67" />
-      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/main.coffee" timestamp="1457249124532">
         <mark key="[" line="24" column="15" />
       </file>
@@ -140,6 +136,12 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/common/directives/logo/logo.coffee" timestamp="1458839945706">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/Insurance.coffee" timestamp="1455966047941">
         <mark key="[" line="104" column="0" />
@@ -302,8 +304,8 @@
       <jump line="9" column="28" filename="$USER_HOME$/Repo/web/src/application/common/notifications/main.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>$state.includes 'registration' and localUser.type is 'client'</text>
       </register>
       <register name="-" type="4">
         <text>activiwity</text>
@@ -311,8 +313,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcj0ie3thY2NvdW50IHwgZ2V0Q2FyZE5hbWU6J3BsYWNlaG9sZGVyJ319IiwK</text>
+      <register name="0" type="4">
+        <text>$state.includes 'registration' and localUser.type is 'client'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>

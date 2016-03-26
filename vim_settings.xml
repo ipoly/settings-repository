@@ -115,6 +115,11 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/public/landing-page/main.jade" timestamp="1459011350729">
+        <mark key="[" line="69" column="92" />
+        <mark key="]" line="69" column="92" />
+        <mark key="." line="69" column="92" />
+      </file>
       <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451726872630">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
@@ -305,10 +310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$state.includes 'registration' and localUser.type is 'client'</text>
+        <text encoding="base64">dG9vbHRpcC1pcy1vcGVuPSd0cnVlJywg</text>
       </register>
       <register name="-" type="4">
-        <text>activiwity</text>
+        <text encoding="base64">dG9vbHRpcC1pcy1vcGVuPSd0cnVlJywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
@@ -316,32 +321,32 @@
       <register name="0" type="4">
         <text>$state.includes 'registration' and localUser.type is 'client'</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">dG9vbHRpcC1pcy1vcGVuPSd0cnVlJywg</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>activiwity</text>
       </register>
-      <register name="3" type="4">
-        <text />
-      </register>
       <register name="4" type="4">
-        <text>Client completes a task</text>
+        <text />
       </register>
       <register name="5" type="4">
         <text>Client completes a task</text>
       </register>
       <register name="6" type="4">
-        <text>Send summary notification to me to include the following activites</text>
+        <text>Client completes a task</text>
       </register>
       <register name="7" type="4">
-        <text>Send notification to me when my client completes information collection</text>
+        <text>Send summary notification to me to include the following activites</text>
       </register>
       <register name="8" type="4">
-        <text>Send notification to me when clients creates account</text>
+        <text>Send notification to me when my client completes information collection</text>
       </register>
       <register name="9" type="4">
-        <text>Email notification settings {{user.type}}</text>
+        <text>Send notification to me when clients creates account</text>
       </register>
     </registers>
     <search>

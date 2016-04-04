@@ -15,13 +15,6 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="178" column="20" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" timestamp="1459355012198">
-        <mark key="'" line="17" column="15" />
-        <mark key="[" line="91" column="37" />
-        <mark key="]" line="92" column="23" />
-        <mark key="." line="92" column="23" />
-        <mark key="^" line="92" column="23" />
-      </file>
       <file name="$USER_HOME$/Repo/web/src/common/directives/form/restrict.coffee" timestamp="1449242956149">
         <mark key="[" line="10" column="50" />
         <mark key="]" line="10" column="50" />
@@ -40,7 +33,7 @@
       <file name="$USER_HOME$/Repo/web/src/application/advisor/main.coffee" timestamp="1457249124532">
         <mark key="[" line="24" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1459354416822">
+      <file name="/a.dummy" timestamp="1459779924495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1457247841426">
@@ -200,10 +193,19 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="/a.regexp" timestamp="1459779943472">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.coffee" timestamp="1452249586507">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/retirement/stress-test/main.coffee" timestamp="1459779954305">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/clients/info/main.coffee" timestamp="1456303309250">
         <mark key="'" line="32" column="21" />
@@ -235,6 +237,7 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/retirement/stress-test/main.jade" timestamp="1459779839598" />
     </filemarks>
     <jumps>
       <jump line="29" column="12" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/main.coffee" />
@@ -339,11 +342,11 @@
       <jump line="17" column="15" filename="$USER_HOME$/Repo/web/src/application/client/common/services/P.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJGNvb2tpZXMucmVtb3ZlICdEJwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>localUser.type</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGFuX2lkXD4=</text>
@@ -351,32 +354,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGNvb2tpZXMucmVtb3ZlICdEJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJGNvb2tpZXMuZ2V0ICdMJykK</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>localUser.type</text>
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICRjb29raWVzLnJlbW92ZSAnTCcKICAgICRjb29raWVzLnJlbW92ZSAnRCcK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc29sZS5sb2cg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJGNvb2tpZXMucmVtb3ZlICdMJwogICAgICAkY29va2llcy5yZW1vdmUgJ0QnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2luZG8K</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoJGNvb2tpZXMuZ2V0ICdMJykK</text>
       </register>
       <register name="6" type="4">
-        <text>1111</text>
+        <text>localUser.type</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYW5faWQgPSAK</text>
+        <text encoding="base64">ICAgICRjb29raWVzLnJlbW92ZSAnTCcKICAgICRjb29raWVzLnJlbW92ZSAnRCcK</text>
       </register>
-      <register name="8" type="4">
-        <text>plan_id</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJGNvb2tpZXMucmVtb3ZlICdMJwogICAgICAkY29va2llcy5yZW1vdmUgJ0QnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>P()</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgd2luZG8K</text>
       </register>
     </registers>
     <search>

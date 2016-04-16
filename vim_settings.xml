@@ -81,6 +81,13 @@
         <mark key="]" line="18" column="27" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/yodlee/main.coffee" timestamp="1460777067122">
+        <mark key="'" line="31" column="50" />
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="27" column="29" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration-category.coffee" timestamp="1453037380914">
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="6" />
@@ -218,6 +225,13 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="1" column="79" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/yodlee/main.jade" timestamp="1460777001418">
+        <mark key="'" line="11" column="138" />
+        <mark key="[" line="11" column="136" />
+        <mark key="]" line="11" column="136" />
+        <mark key="^" line="11" column="136" />
+        <mark key="." line="11" column="136" />
+      </file>
       <file name="/a.txt" timestamp="1457797434814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,8 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="32" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" />
-      <jump line="40" column="10" filename="$USER_HOME$/Repo/web/src/application/advisor/clients/portal/invitation-manager.coffee" />
       <jump line="20" column="102" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
       <jump line="0" column="23" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
       <jump line="31" column="14" filename="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" />
@@ -341,6 +353,8 @@
       <jump line="22" column="9" filename="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.coffee" />
       <jump line="23" column="25" filename="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.coffee" />
       <jump line="1" column="3" filename="$USER_HOME$/Repo/web/src/application/advisor/integrations/integration.coffee" />
+      <jump line="29" column="50" filename="$USER_HOME$/Repo/web/src/application/client/yodlee/main.coffee" />
+      <jump line="11" column="138" filename="$USER_HOME$/Repo/web/src/application/client/yodlee/main.jade" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -350,7 +364,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXNvdXJjZVw+</text>
+        <text encoding="base64">XDx5b2RsZWVGb3JtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGNvb2tpZXMucmVtb3ZlICdEJwo=</text>
@@ -384,16 +398,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXNvdXJjZVw+</last-search>
+      <last-search encoding="base64">XDx5b2RsZWVGb3JtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXNvdXJjZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx5b2RsZWVGb3JtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQXD4=</entry>
-        <entry encoding="base64">XDxuZXRXb3J0aEludGVncmF0aW9uQ2F0ZWdvcnlcPg==</entry>
         <entry encoding="base64">XDxleHBpcnlcPg==</entry>
         <entry encoding="base64">XDxTdHJpcGVcPg==</entry>
         <entry encoding="base64">XDxzdG9wXD4=</entry>
@@ -412,6 +424,8 @@
         <entry encoding="base64">XDxwbGFuX2lkXD4=</entry>
         <entry encoding="base64">XDxJbnRlZ3JhdGlvblw+</entry>
         <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxmb3JtQ3RybFw+</entry>
+        <entry encoding="base64">XDx5b2RsZWVGb3JtXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

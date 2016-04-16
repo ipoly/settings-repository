@@ -21,6 +21,12 @@
         <mark key="." line="46" column="23" />
         <mark key="^" line="46" column="23" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/common/directives/page-note/page-note.less" timestamp="1460784989049">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/dashboard/balance-sheet/main.jade" timestamp="1460780094515">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="21" column="51" />
@@ -149,12 +155,6 @@
         <mark key="]" line="142" column="59" />
         <mark key="." line="142" column="59" />
         <mark key="^" line="142" column="75" />
-      </file>
-      <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/main.coffee" timestamp="1459950620221">
-        <mark key="'" line="23" column="25" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/advisor/integrations/net-worth-integration/main.jade" timestamp="1452250386620">
         <mark key="[" line="2" column="63" />
@@ -296,12 +296,6 @@
         <mark key="." line="28" column="45" />
         <mark key="^" line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/Repo/web/src/application/client/yodlee/main.jade" timestamp="1460778844859">
-        <mark key="'" line="11" column="138" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/services/net-worth-integration.coffee" timestamp="1452247822848">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="4" />
@@ -429,11 +423,11 @@
       <jump line="21" column="6" filename="$USER_HOME$/Repo/web/src/application/client/common/directives/page-note/page-note.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>all</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ji5ob3ZlciA=</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdlUmVmZXJlbmNlXD4=</text>
@@ -441,32 +435,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHlvZGxlZS1mb3JtKGxpbms9J2FjdGl2ZUxpbmsnLCBvbi1zdWNjZXNzPSdzd2l0Y2hQYW5lbCgiYWNjb21wbGlzaGVkIiknLCBuZy1mb3JtPSd5b2RsZWVGb3JtJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>all</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnNvciA6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA+IHNwYW4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnNvciA6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA+IHNwYW4gewo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjdXJzb3IgIDogZGVmYXVsdDsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ji5ob3ZlciA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LCA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgJjpob3Zlci5hY3RpdmUsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJi5hY3RpdmUsCiAgICAgICY6aG92ZXIuYWN0aXZlLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpob3ZlciAuYWN0aXZlIHsKICAgICAgYmFja2dyb3VuZC1jb2xvciA6IHRyYW5zcGFyZW50OwogICAgICA+IC5zdWItbmF2IHsKICAgICAgICBkaXNwbGF5IDogbm9uZTsKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgJi5hY3RpdmUsCiAgICAgICY6aG92ZXIuYWN0aXZlLAo=</text>
       </register>
     </registers>
     <search>

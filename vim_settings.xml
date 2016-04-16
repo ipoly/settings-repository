@@ -86,6 +86,13 @@
         <mark key="^" line="34" column="15" />
         <mark key="." line="34" column="15" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/common/directives/page-note/page-note.coffee" timestamp="1460782008023">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="32" column="92" />
+        <mark key="]" line="32" column="92" />
+        <mark key="^" line="32" column="92" />
+        <mark key="." line="32" column="92" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/yodlee/form/form.coffee" timestamp="1460779389616">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -310,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="102" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
-      <jump line="0" column="23" filename="$USER_HOME$/Repo/web/src/application/client/dashboard/budget/directives/budget-period.coffee" />
       <jump line="31" column="14" filename="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" />
       <jump line="25" column="12" filename="$USER_HOME$/Repo/web/src/public/common/directives/go-dashboard.coffee" />
       <jump line="25" column="37" filename="$USER_HOME$/Repo/web/src/application/_layout.jade" />
@@ -410,58 +415,59 @@
       <jump line="1" column="3" filename="$USER_HOME$/Repo/web/src/application/advisor/integrations/integration.coffee" />
       <jump line="29" column="50" filename="$USER_HOME$/Repo/web/src/application/client/yodlee/main.coffee" />
       <jump line="11" column="138" filename="$USER_HOME$/Repo/web/src/application/client/yodlee/main.jade" />
+      <jump line="31" column="64" filename="$USER_HOME$/Repo/web/src/application/client/common/directives/page-note/page-note.coffee" />
+      <jump line="21" column="6" filename="$USER_HOME$/Repo/web/src/application/client/common/directives/page-note/page-note.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAnYnVkZ2V0JzogMTIK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5b2RsZWVGb3JtXD4=</text>
+        <text encoding="base64">XDxwYWdlUmVmZXJlbmNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHlvZGxlZS1mb3JtKGxpbms9J2FjdGl2ZUxpbmsnLCBvbi1zdWNjZXNzPSdzd2l0Y2hQYW5lbCgiYWNjb21wbGlzaGVkIiknLCBuZy1mb3JtPSd5b2RsZWVGb3JtJykK</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAnYnVkZ2V0JzogMTIK</text>
       </register>
-      <register name="2" type="4">
-        <text>2</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAnbGlmZS1pbnN1cmFuY2UnOiA0CiAgJ2Rpc2FiaWxpdHknOiA1CiAgJ2Fzc2V0LWFsbG9jYXRpb24nOiA2CiAgJ3NlY3Rvci1hbmQtc3R5bGUnOiA3CiAgJ2NvbmNlbnRyYXRpb24nOiA4CiAgJ3RheC1hbGxvY2F0aW9uJzogOQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAnY29uY2VudHJhdGlvbic6IDgK</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAnbGlmZS1pbnN1cmFuY2UnOiA0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAnZWR1Y2F0aW9uJzogMwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAnc29jaWFsLXNlY3VyaXR5JzogMgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAnYmFsYW5jZS1zaGVldCc6IDEwCiAgJ2J1ZGdldCc6IDEyCiAgJ2xpcXVpZGl0eSc6IDExCiAgJ2VkdWNhdGlvbic6IDMKICAnZGlzYWJpbGl0eSc6IDUKICAnbGlmZS1pbnN1cmFuY2UnOiA0CiAgJ2Fzc2V0LWFsbG9jYXRpb24nOiA2CiAgJ2NvbmNlbnRyYXRpb24nOiA4CiAgJ3NlY3Rvci1hbmQtc3R5bGUnOiA3CiAgJ3RheC1hbGxvY2F0aW9uJzogOQo=</text>
       </register>
       <register name="8" type="4">
-        <text>7</text>
+        <text>9</text>
       </register>
       <register name="9" type="4">
-        <text>7</text>
+        <text>:</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5b2RsZWVGb3JtXD4=</last-search>
+      <last-search encoding="base64">XDxwYWdlUmVmZXJlbmNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5b2RsZWVGb3JtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYWdlUmVmZXJlbmNlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBpcnlcPg==</entry>
         <entry encoding="base64">XDxTdHJpcGVcPg==</entry>
         <entry encoding="base64">XDxzdG9wXD4=</entry>
         <entry encoding="base64">XDxpbnN1cmFuY2VzXD4=</entry>
@@ -481,6 +487,7 @@
         <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxmb3JtQ3RybFw+</entry>
         <entry encoding="base64">XDx5b2RsZWVGb3JtXD4=</entry>
+        <entry encoding="base64">XDxwYWdlUmVmZXJlbmNlXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

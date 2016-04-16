@@ -98,11 +98,21 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/component/header/header.less" timestamp="1460784346085">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/insurance/life-insurance/main.jade" timestamp="1460780180114">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="44" />
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/common/component/header/header.coffee" timestamp="1460784250615">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451726872630">
         <mark key="[" line="14" column="0" />
@@ -420,10 +430,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAnYnVkZ2V0JzogMTIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text encoding="base64">Ji5ob3ZlciA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdlUmVmZXJlbmNlXD4=</text>
@@ -432,31 +442,31 @@
         <text encoding="base64">ICAgIHlvZGxlZS1mb3JtKGxpbms9J2FjdGl2ZUxpbmsnLCBvbi1zdWNjZXNzPSdzd2l0Y2hQYW5lbCgiYWNjb21wbGlzaGVkIiknLCBuZy1mb3JtPSd5b2RsZWVGb3JtJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnYnVkZ2V0JzogMTIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnbGlmZS1pbnN1cmFuY2UnOiA0CiAgJ2Rpc2FiaWxpdHknOiA1CiAgJ2Fzc2V0LWFsbG9jYXRpb24nOiA2CiAgJ3NlY3Rvci1hbmQtc3R5bGUnOiA3CiAgJ2NvbmNlbnRyYXRpb24nOiA4CiAgJ3RheC1hbGxvY2F0aW9uJzogOQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnNvciA6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnY29uY2VudHJhdGlvbic6IDgK</text>
+        <text encoding="base64">ICAgICAgICA+IHNwYW4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnbGlmZS1pbnN1cmFuY2UnOiA0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IgIDogZGVmYXVsdDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAnZWR1Y2F0aW9uJzogMwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ji5ob3ZlciA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAnc29jaWFsLXNlY3VyaXR5JzogMgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnYmFsYW5jZS1zaGVldCc6IDEwCiAgJ2J1ZGdldCc6IDEyCiAgJ2xpcXVpZGl0eSc6IDExCiAgJ2VkdWNhdGlvbic6IDMKICAnZGlzYWJpbGl0eSc6IDUKICAnbGlmZS1pbnN1cmFuY2UnOiA0CiAgJ2Fzc2V0LWFsbG9jYXRpb24nOiA2CiAgJ2NvbmNlbnRyYXRpb24nOiA4CiAgJ3NlY3Rvci1hbmQtc3R5bGUnOiA3CiAgJ3RheC1hbGxvY2F0aW9uJzogOQo=</text>
+        <text encoding="base64">ICAgICAgJjpob3Zlci5hY3RpdmUsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJi5hY3RpdmUsCiAgICAgICY6aG92ZXIuYWN0aXZlLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>:</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDpob3ZlciAuYWN0aXZlIHsKICAgICAgYmFja2dyb3VuZC1jb2xvciA6IHRyYW5zcGFyZW50OwogICAgICA+IC5zdWItbmF2IHsKICAgICAgICBkaXNwbGF5IDogbm9uZTsKICAgICAgfQogICAgfQo=</text>
       </register>
     </registers>
     <search>

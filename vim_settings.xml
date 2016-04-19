@@ -264,6 +264,12 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/public/sign-up/main.coffee" timestamp="1461076208690">
+        <mark key="[" line="54" column="58" />
+        <mark key="]" line="54" column="59" />
+        <mark key="^" line="54" column="59" />
+        <mark key="." line="54" column="59" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/public/landing-page/main.jade" timestamp="1459011350729">
         <mark key="[" line="69" column="92" />
         <mark key="]" line="69" column="92" />

@@ -169,6 +169,12 @@
         <mark key="]" line="13" column="82" />
         <mark key="." line="13" column="82" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/plan/dashboard/debt/main.jade" timestamp="1462535966325">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/common/directives/logo/logo.coffee" timestamp="1458839945706">
         <mark key="[" line="21" column="43" />
         <mark key="]" line="21" column="43" />
@@ -287,6 +293,13 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/plan/dashboard/debt/main.coffee" timestamp="1462537159479">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="69" column="68" />
+        <mark key="]" line="69" column="68" />
+        <mark key="." line="69" column="68" />
+        <mark key="^" line="69" column="68" />
+      </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/investment/tax-allocation/main.jade" timestamp="1460780249325">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="44" />
@@ -404,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="22" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="62" column="20" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="66" column="38" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
       <jump line="19" column="27" filename="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/modal/net-worth-integration/main.coffee" />
@@ -504,58 +516,58 @@
       <jump line="44" column="51" filename="$USER_HOME$/Repo/web/src/public/log-in/main.coffee" />
       <jump line="27" column="20" filename="$USER_HOME$/Repo/web/src/application/common/gearbox/security/panels/twofa/Set2FACtrl.coffee" />
       <jump line="13" column="11" filename="$USER_HOME$/Repo/web/src/application/common/gearbox/security/panels/twofa/Set2FACtrl.coffee" />
+      <jump line="57" column="18" filename="$USER_HOME$/Repo/web/src/application/client/plan/dashboard/debt/main.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXQyZmFcPg==</text>
+        <text encoding="base64">XDxjaGFydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAkc2NvcGUub3RwCg==</text>
+        <text encoding="base64">ICAgIGRlYnQuc3RyYXRlZ3kuY2hhcnQuY29sb3JzID0gWwo=</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>?</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIyRzY29wZS51c2VyTG9naW5Jbi5vdHAuJGZvY3VzKCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwgdW5sZXNzIGRlYnQucGF5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgIGlmICRhdHRycy5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgJHNjb3BlWyRhdHRycy5uYW1lXSA9IG1vZGVsQ3RybAo=</text>
+      <register name="4" type="4">
+        <text>.colors = [</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIyLCAkc2NvcGUub3RwCg==</text>
+      <register name="5" type="4">
+        <text>#</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAxMTExLCAkc2NvcGUuVHdvRmEub3RwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIyRzY29wZS51c2VyTG9naW5Jbi5vdHAuJGZvY3VzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAkc2NvcGUub3RwCg==</text>
+        <text encoding="base64">IyAgICAgIGlmICRhdHRycy5uYW1lCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cg</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgICAgICAgJHNjb3BlWyRhdHRycy5uYW1lXSA9IG1vZGVsQ3RybAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAyMjIyLCAkc2NvcGUub3RwCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXQyZmFcPg==</last-search>
+      <last-search encoding="base64">XDxjaGFydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXQyZmFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFydFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJcPg==</entry>
         <entry encoding="base64">XDxob21lSWRcPg==</entry>
         <entry encoding="base64">XDxyZWZyZXNoXD4=</entry>
         <entry encoding="base64">XDxjYXJkTmFtZVw+</entry>
@@ -575,6 +587,7 @@
         <entry encoding="base64">XDxvdHBcPg==</entry>
         <entry encoding="base64">XDxmb2N1c1w+</entry>
         <entry encoding="base64">XDxzZXQyZmFcPg==</entry>
+        <entry encoding="base64">XDxjaGFydFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

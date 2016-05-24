@@ -151,6 +151,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/plan/investment/asset-allocation/main.jade" timestamp="1464064217506">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="44" column="19" />
+      </file>
       <file name="$USER_HOME$/Repo/web/gulpfile.coffee" timestamp="1451726872630">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
@@ -237,6 +243,12 @@
         <mark key="]" line="70" column="48" />
         <mark key="." line="70" column="48" />
         <mark key="^" line="70" column="48" />
+      </file>
+      <file name="$USER_HOME$/Repo/web/src/application/client/plan/investment/asset-allocation/main.less" timestamp="1464063669268">
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="69" column="24" />
       </file>
       <file name="$USER_HOME$/Repo/web/src/application/client/profile/net-worth/panels/loan/main.jade" timestamp="1457247841426">
         <mark key="[" line="36" column="0" />
@@ -518,43 +530,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT0naGVpZ2h0OiAyODBweDsnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFydFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ng-if='debt.strategy.chart'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT0naGVpZ2h0OiAyNDBweDsgbWFyZ2luOjIwcHg7Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT0naGVpZ2h0OiAyODBweDsnCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAucGVyY2VudGFnZSAgQW5udWFsIHJldHVybjoge3thbGxvY2F0aW9uLnN1bW1hcnkuY3VycmVudC5hdmVyYWdlX3JldHVybn19CiAgICAgICAgICAgICAgLnBlcmNlbnRhZ2UgIFN0YW5kYXJkIGRldmlhdGlvbjp7e2FsbG9jYXRpb24uc3VtbWFyeS5jdXJyZW50LnN0YW5kYXJkX2RldmlhdGlvbn19Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bmctaWY9J2RlYnQuc3RyYXRlZ3kuY2hhcnQnLCA=</text>
+        <text>.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsIHVubGVzcyBkZWJ0LnN0cmF0ZWd5LmNoYXJ0Pwo=</text>
+      <register name="4" type="4">
+        <text>mb20</text>
       </register>
       <register name="5" type="4">
-        <text>if</text>
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGRlYnQuc3RyYXRlZ3kuY2hhcnQ/Cg==</text>
+      <register name="6" type="4">
+        <text>mb20</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5naWY9J2RlYnQucGF5bWVudFtwYXltZW50LnR5cGVdLmxlbmd0aCcK</text>
+      <register name="7" type="4">
+        <text encoding="base64">MjBweCA=</text>
       </register>
       <register name="8" type="4">
-        <text>?</text>
+        <text encoding="base64">IHN0cm9uZy4=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwgdW5sZXNzIGRlYnQucGF5Cg==</text>
+      <register name="9" type="4">
+        <text>div</text>
       </register>
     </registers>
     <search>
